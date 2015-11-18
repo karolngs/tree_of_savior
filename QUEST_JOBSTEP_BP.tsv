@@ -1,53 +1,53 @@
-﻿QUEST_JOBSTEP_20150317_000001
-QUEST_JOBSTEP_20150317_000002
-QUEST_JOBSTEP_20150317_000003
-QUEST_JOBSTEP_20150317_000004
-QUEST_JOBSTEP_20150317_000005
-QUEST_JOBSTEP_20150317_000006
-QUEST_JOBSTEP_20150317_000007
-QUEST_JOBSTEP_20150317_000008
-QUEST_JOBSTEP_20150317_000009
-QUEST_JOBSTEP_20150317_000010
-QUEST_JOBSTEP_20150317_000011
-QUEST_JOBSTEP_20150317_000012
-QUEST_JOBSTEP_20150317_000013
-QUEST_JOBSTEP_20150317_000014
-QUEST_JOBSTEP_20150317_000015
-QUEST_JOBSTEP_20150317_000016
-QUEST_JOBSTEP_20150317_000017
-QUEST_JOBSTEP_20150317_000018
-QUEST_JOBSTEP_20150317_000019
-QUEST_JOBSTEP_20150317_000020
-QUEST_JOBSTEP_20150317_000021
-QUEST_JOBSTEP_20150317_000022
+﻿QUEST_JOBSTEP_20150317_000001	$[#pending Bokor]. Você escolheu um caminho difícil. {nl}Consulte as instruções em seu [#pending Adventure Journal] e faça sua própria boneca.
+QUEST_JOBSTEP_20150317_000002	$Você deve fazer uma boneca por sí mesmo. {nl}Verifique seu[#pending Adventure Journal] para ver como você pode fazer a boneca.
+QUEST_JOBSTEP_20150317_000003	{memo X}Parabéns, um novo [#pending Bokor] nasce. {nl}Quando eu escolhi me tornar um [#pending Bokor], eu comecei criando uma boneca de mim mesmo.
+QUEST_JOBSTEP_20150317_000004	$Mestre Peltasta
+QUEST_JOBSTEP_20150317_000005	{memo X}$Se você quer receber meus ensinamentos, terá de provar que vale a pena primeiro.{nl}Aqui está o desafio: Mate alguns Vubbes no [#pending 1st Floor of the Crystal Mine].
+QUEST_JOBSTEP_20150317_000006	$Como você pode ostentar o título de Peltasta se você não pode sequer lidar com isto?
+QUEST_JOBSTEP_20150317_000007	$Bom. {nl}Espero que o seu crescimento leve você a salvar o mundo.
+QUEST_JOBSTEP_20150317_000008	$Mestre Highlander
+QUEST_JOBSTEP_20150317_000009	{memo X}Estou tão agradecido que você queira ser o sucesso do meu espadachim, mas eu suspeito que você não irá seguir meus ensinamentos bem.{nl}Eu testarei você pedindo que derrote os Vubbes que estão ocupando o [#pending 1st floor of the Crystal Mine].
+QUEST_JOBSTEP_20150317_000010	$Apresse-se. {nl} Embora este seja seu desafio de iniciação, os Vubbes são uma ameaça ao [#pending Miners' Village].
+QUEST_JOBSTEP_20150317_000011	$Bom trabalho, você completou sua iniciação para se tornar um Highlander. {nl} Mantenha o trabalho duro e dedicação.
+QUEST_JOBSTEP_20150317_000012	$Mestre [#pending Pyromancer]
+QUEST_JOBSTEP_20150317_000013	{memo X}Eu posso ver que você quer aprender magia comigo, mas eu não posso ensinar qualquer um. {nl}Eu vou ver o quão bem você irá ajudar em minha pesquisa e em seguida decidir.
+QUEST_JOBSTEP_20150317_000014	{memo X}Bom trabalho. Graças a você posso iniciar a próxima etapa da minha pesquisa. {nl}Eu irei lhe ensinar a magia do [#pending Pyromancer] conforme prometi.
+QUEST_JOBSTEP_20150317_000015	{memo X}Bom, você está aqui. Eu preciso que você derrote os espíritos ruins que irei invocar. {nl}Eu irei gravar a única onda de luz que será emitida no processo.
+QUEST_JOBSTEP_20150317_000016	{memo X}$Estou fazendo uma pesquisa no 4º estado da matéria. {nl}Isso é impossível sem a cooperação da Mestra [#pending Bokor] que lida com espíritos.
+QUEST_JOBSTEP_20150317_000017	$Sim, esplendido. {nl}Diga ao Mestre [#pending Pyromancer] que nós temos todo o material que precisamos.
+QUEST_JOBSTEP_20150317_000018	{memo X}Ótimo. {nl}Este estudo está sendo feito com a Mestra [#pending Bokor]. Então vá visitá-la e ela vai lhe dizer o que fazer.
+QUEST_JOBSTEP_20150317_000019	$Mestre [#Pending Cryomancer]
+QUEST_JOBSTEP_20150317_000020	{memo X}$Você quer aprender a magia do [#Pending Cryomancer] comigo? {nl}Claro, eu ensinarei você, mas somente se você cuidar de algo primeiro!
+QUEST_JOBSTEP_20150317_000021	$O Mestre [#pending Pyromancer] não deve estar por perto. {nl}Então será uma tarefa fácil
+QUEST_JOBSTEP_20150317_000022	$Não se sinta culpado em relação a isso. Você fez um bom trabalho. {nl}Eu ti darei cobertura agora, então não precisa se preocupar.
 QUEST_JOBSTEP_20150317_000023
-QUEST_JOBSTEP_20150317_000024
-QUEST_JOBSTEP_20150317_000025
-QUEST_JOBSTEP_20150317_000026
-QUEST_JOBSTEP_20150317_000027
-QUEST_JOBSTEP_20150317_000028
-QUEST_JOBSTEP_20150317_000029
-QUEST_JOBSTEP_20150317_000030
-QUEST_JOBSTEP_20150317_000031
-QUEST_JOBSTEP_20150317_000032
-QUEST_JOBSTEP_20150317_000033
-QUEST_JOBSTEP_20150317_000034
-QUEST_JOBSTEP_20150317_000035
-QUEST_JOBSTEP_20150317_000036
-QUEST_JOBSTEP_20150317_000037
-QUEST_JOBSTEP_20150317_000038
-QUEST_JOBSTEP_20150317_000039
-QUEST_JOBSTEP_20150317_000040
-QUEST_JOBSTEP_20150317_000041
-QUEST_JOBSTEP_20150317_000042
-QUEST_JOBSTEP_20150317_000043
-QUEST_JOBSTEP_20150317_000044
-QUEST_JOBSTEP_20150317_000045
-QUEST_JOBSTEP_20150317_000046
-QUEST_JOBSTEP_20150317_000047
+QUEST_JOBSTEP_20150317_000024	{memo X}Isto será suficiente. {nl}Minha mágica não é fácil então você precisará trabalhar duro para continuar.
+QUEST_JOBSTEP_20150317_000025	$Sua vontade de aprender comigo é ótima, mas primeiro terei que lhe pedir um favor. {nl}Podemos continuar nossa conversa se você estiver de acordo com isso. {nl}
+QUEST_JOBSTEP_20150317_000026	$Os acessórios de Lydia Schaffen são como materiais divinos para nós arqueiros. {nl}Eu poderia desistir de toda minha fortuna para tê-los.
+QUEST_JOBSTEP_20150317_000027	$Eu nunca imaginei que eu mesmo veria isso. {nl}Obrigado. Eu irei ensiná-lo minuciosamente de agora em diante, então é melhor estar preparado.
+QUEST_JOBSTEP_20150317_000028	$Eu ouvi que as lentes perdidas do telescópio da [#pending Star Tower] estão na [#pending Crystal Mine 1F]. {nl}Traga-me estas lentes antes que outros mestres encontrem e eu lhe ensinarei minhas técnicas.
+QUEST_JOBSTEP_20150317_000029	{memo X}Então você quer aprender o caminho da flecha comigo...Então eu tenho uma missão para você. {nl}Eu basearei minha decisão em quão bem você completa ela.
+QUEST_JOBSTEP_20150317_000030	$Evoniphon...Eu nunca esquecerei ele.
+QUEST_JOBSTEP_20150317_000031	$Mestre [#pending Hunter]
+QUEST_JOBSTEP_20150317_000032	{memo X}Você coletou todos os livros. Bom trabalho. {nl}Eu ti ensinarei o caminho do [#pending Hunter] como prometi.
+QUEST_JOBSTEP_20150317_000033	{memo X}Você obteve alguns bons resultados. Eu irei te ensinar de agora em diante. {nl}Eu espero que você atenda minhas espectativas.
+QUEST_JOBSTEP_20150317_000034	$Eu ouvi que os morcegos na [#pending Crystal Mine 1F] tem um tipo especial de veneno. {nl}Eu tenho certeza que é o mesmo tipo de veneno utilizado pelo assassino Evoniphon. Traga-me este veneno.
+QUEST_JOBSTEP_20150317_000035	$Mestre [#pending Barbarian]
+QUEST_JOBSTEP_20150317_000036	{memo X}Você pode entender a habilidade de um oponente encarando de espada a espada. {nl}Prove-me que você é um verdadeiro guerreiro, e eu guiarei você para se tornar um verdadeiro [#pending Barbarian].
+QUEST_JOBSTEP_20150317_000037	{memo X}Você de fato se qualifica como um verdadeiro guerreiro. {nl}Eu farei você se tornar um verdeiro [#pending Barbarian].
+QUEST_JOBSTEP_20150317_000038	{memo X}Eu entendo que você quer se tornar forte com uma lança. {nl}Complete a missão que eu designei a você, e eu ensinarei a você minha habilidade com a lança.
+QUEST_JOBSTEP_20150317_000039	{memo X}Traga-me a [#pending Groll Leather] de [#pending Spineheart Dale], [#pending Chafperor Poison Darts] da [#pending Fallen Worry Forest], e [#pending Jukopus Black Powder] do [#pending Miners' Village].
+QUEST_JOBSTEP_20150317_000040	$Eu entendo sua vontade de ficar forte. {nl}Vejo também que você pode ter o que é preciso para se tornar bom com lanças.
+QUEST_JOBSTEP_20150317_000041	$Mestre [#pending Psychokino]
+QUEST_JOBSTEP_20150317_000042	{memo X}Se você quer entender o [#pending Psychokino], então o que você acha de trabalhar como meu assistente?{nl}Eu garanto-lhe que é um trabalho atraente.
+QUEST_JOBSTEP_20150317_000043	{memo X}Por favor, primeiro derrote Matsums do [#pending Spine Heart Dale] e colete o seu álcool de flores.{nl}Eles quebram com facilidade, por isso é difícil obtê-los.
+QUEST_JOBSTEP_20150317_000044	{memo X}Ótimo. O álcool de flores dos Matsums está ok.{nl}Você verá algo interessante em breve.
+QUEST_JOBSTEP_20150317_000045	{memo X}Agora vá para [#pending Gintara Highway] na [#pending Spine Heart Dale].{nl}Regue este remédio líquido na boneca Matsum que eu instalei e me conte o resultado.
+QUEST_JOBSTEP_20150317_000046	{memo X}Os Matsums atacaram você? {nl}Desde que os Matsums aceitem as bonecas Matsum como suas amigas, considero que foi bem sucedido. 
+QUEST_JOBSTEP_20150317_000047	{memo X}Bom trabalho. {nl}Você fez um ótimo trabalho como meu assistente, então eu ensinarei o que ser um [#pending Psychokino] realmente significa. 
 QUEST_JOBSTEP_20150317_000048
-QUEST_JOBSTEP_20150317_000049
-QUEST_JOBSTEP_20150317_000050
+QUEST_JOBSTEP_20150317_000049	$Mestre [#pending Linker]
+QUEST_JOBSTEP_20150317_000050	$Temperamento é muito importante para [#pending Linker]. {nl}Embora seja fácil fechar o coração, abrí-lo requer um tipo especial de temperamento. {nl}
 QUEST_JOBSTEP_20150317_000051
 QUEST_JOBSTEP_20150317_000052
 QUEST_JOBSTEP_20150317_000053
