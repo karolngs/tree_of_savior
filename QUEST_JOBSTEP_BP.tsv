@@ -115,7 +115,7 @@ QUEST_JOBSTEP_20150317_000114 {memo X}$Estou procurando alguns livros. Eles são
 QUEST_JOBSTEP_20150317_000115 $O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
 QUEST_JOBSTEP_20150317_000116 $Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
 QUEST_JOBSTEP_20150317_000117 {memo X}O problema é a Caçadora Mestre. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
-QUEST_JOBSTEP_20150317_000118 $Você se refere a esse livro? {nl}Bem, certo. Dou ele para você por 5000 Moedas de prata.
+QUEST_JOBSTEP_20150317_000118 $Você se refere a esse livro? {nl}Bem... certo! Dou ele para você por 5000 moedas de prata.
 QUEST_JOBSTEP_20150317_000119 {memo X}Acho que 5000 moedas de prata será o suficiente. {nl}Você tem isso?
 QUEST_JOBSTEP_20150317_000120 {memo X}Você veio na hora certa.{nl}O Besteiro Mestre disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
 QUEST_JOBSTEP_20150317_000121 {memo X}A [#pending Ranger Master] não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
