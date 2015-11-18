@@ -97,37 +97,37 @@ QUEST_JOBSTEP_20150317_000096
 QUEST_JOBSTEP_20150317_000097
 QUEST_JOBSTEP_20150317_000098
 QUEST_JOBSTEP_20150317_000099
-QUEST_JOBSTEP_20150317_000100
-QUEST_JOBSTEP_20150317_000101
-QUEST_JOBSTEP_20150317_000102
-QUEST_JOBSTEP_20150317_000103
-QUEST_JOBSTEP_20150317_000104
-QUEST_JOBSTEP_20150317_000105
-QUEST_JOBSTEP_20150317_000106
-QUEST_JOBSTEP_20150317_000107
-QUEST_JOBSTEP_20150317_000108
-QUEST_JOBSTEP_20150317_000109
-QUEST_JOBSTEP_20150317_000110
-QUEST_JOBSTEP_20150317_000111
-QUEST_JOBSTEP_20150317_000112
-QUEST_JOBSTEP_20150317_000113
-QUEST_JOBSTEP_20150317_000114
-QUEST_JOBSTEP_20150317_000115
-QUEST_JOBSTEP_20150317_000116
-QUEST_JOBSTEP_20150317_000117
-QUEST_JOBSTEP_20150317_000118
-QUEST_JOBSTEP_20150317_000119
-QUEST_JOBSTEP_20150317_000120
-QUEST_JOBSTEP_20150317_000121
-QUEST_JOBSTEP_20150317_000122
-QUEST_JOBSTEP_20150317_000123
-QUEST_JOBSTEP_20150317_000124
-QUEST_JOBSTEP_20150317_000125
-QUEST_JOBSTEP_20150317_000126
-QUEST_JOBSTEP_20150317_000127
-QUEST_JOBSTEP_20150317_000128
-QUEST_JOBSTEP_20150317_000129
-QUEST_JOBSTEP_20150317_000130
+QUEST_JOBSTEP_20150317_000100 {memo X}Se você quiser que eu lhe ensine novas habilidades, há uma condição. {nl}Eu preciso que você encontre quatro livros escritos por Lydia Schaffen.
+QUEST_JOBSTEP_20150317_000101 $Ouvi rumores de que o primeiro livro estava com um morador da Vila Mineradora antes dos Vubbes atacarem. {nl}Então suponho que o livro poderia estar no posto avançado dos Vubbes. 
+QUEST_JOBSTEP_20150317_000102 $Estou surpreso que você conseguiu encontrar o primeiro livro tao rápido! {nl}Além de estar em boas condições. {nl}
+QUEST_JOBSTEP_20150317_000103 $Acredito que você possa comprar o próximo livro do [#pending Hunter Master]...{nl}Estou quebrado depois de ter que pagar para consertar a muralha, haha...
+QUEST_JOBSTEP_20150317_000104 $Você procura o segundo livro de Lydia Schaffen? {nl}Eu vendo para você por 5000 [#pending Silver].
+QUEST_JOBSTEP_20150317_000105 $Acho que 5000 [#pending Silver] é um bom valor. {nl}Ouvi dizer que esse é o valor do livro.
+QUEST_JOBSTEP_20150317_000106 {memo X}Ah, você veio na hora certa!{nl}Se você puder levar [#pending Merog leather] ao [#pending Quarrel Shooter Master], ele fará uma cópia do próximo volume à você.
+QUEST_JOBSTEP_20150317_000107 {memo X}Este [#pending Merog leather] veio do [#pending Archer Master]?
+QUEST_JOBSTEP_20150317_000108 {memo X}você encontrará Merogs na [#pending Fallen Worry Forest].{nl}Eu levarei esses para o  [#pending Quarrel Shooter Master] em Klaipeda.
+QUEST_JOBSTEP_20150317_000109 $A qualidade é boa o bastante. O [#pending Archer Master] ficará satisfeito. {nl}Aqui, preparei uma cópia do livro, pode ficar. 
+QUEST_JOBSTEP_20150317_000110 $Agora só falta um livro.. {nl}Dê essa bolsa do [#pending Ranger Master] e pegue o livro. {nl}
+QUEST_JOBSTEP_20150317_000111 $O [#pending Archer Master] mandou você? {nl}Bem, bom trabalho. Lhe darei o livro como prometido.
+QUEST_JOBSTEP_20150317_000112 $O livro não está pronto ainda? {nl}Eu quero ver todos os livros da Lydia Schaffen o mais breve possível...
+QUEST_JOBSTEP_20150317_000113 {memo X}$Finalmente, todos os livros estão aqui. {nl}Lhe ensinarei novas habilidades como prometido.
+QUEST_JOBSTEP_20150317_000114 {memo X}$Estou procurando alguns livros. Eles são livros de Lydia Schaffen's. {nl}Eu lhe ensinarei novas habilidades se você pegar os livros para mim, o que acha?
+QUEST_JOBSTEP_20150317_000115 $O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
+QUEST_JOBSTEP_20150317_000116 $Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
+QUEST_JOBSTEP_20150317_000117 {memo X}O problema é a [#pending Hunter Master]. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
+QUEST_JOBSTEP_20150317_000118 $Você se refere a esse livro? {nl}Bem, certo. Dou ele para você por 5000 [#pending Silver]
+QUEST_JOBSTEP_20150317_000119 {memo X}Acho que 5000 [#pending Silver] será o suficiente. {nl}Você tem isso?
+QUEST_JOBSTEP_20150317_000120 {memo X}Você veio na hora certa.{nl}O [#pending The Quarrel Shooter Master] disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
+QUEST_JOBSTEP_20150317_000121 {memo X}A [#pending Ranger Master] não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
+QUEST_JOBSTEP_20150317_000122 {memo X}$Merogs se encontram na [#pending Fallen Worry Forest] e o [#pending Quarrel Shooter Master] está em Klaipeda. {nl}Alguém poderia ir até lá e pegar o livro antes de você, então vá depressa.
+QUEST_JOBSTEP_20150317_000123 $O livro está em boas condições.{nl}Agora leve-o ao [#pending Archer Master]. {nl}
+QUEST_JOBSTEP_20150317_000124 $O [#pending Archer Master] em Klaipeda tem o último livro. {nl}Ouvi dizer que ele está consertado a muralha, então talvez essa informaçãp possa lhe ajudar.
+QUEST_JOBSTEP_20150317_000125 $Soube de uma rocha que pode ser útil para consertar a muralha na Vila Mineiradora. {nl}Traga a rocha ao [#pending Archer Master] como presente.
+QUEST_JOBSTEP_20150317_000126 $A [#pending Hunter Master] disse para você trazer isso? {nl}Se você está aqui pelo livro da Lydia Schaffen, era só ter pedido. Mas obrigado mesmo assim. 
+QUEST_JOBSTEP_20150317_000127 {memo X}$Você finalmente conseguiu todos os livros, Bom trabalho. {nl}Vou lhe ensinar novas habilidades como prometido, mas é seu trabalho manter o rítmo e seguir minhas instruções.
+QUEST_JOBSTEP_20150317_000128 $Você conseguiu couro de boa qualidade. {nl}Leve ao  [#pending Quarrel Shooter Master]. 
+QUEST_JOBSTEP_20150317_000129 $Porque você trouxe isso para mim? Leve a  [#pending Archer Master] rápido.
+QUEST_JOBSTEP_20150317_000130 $Escultor Tesla
 QUEST_JOBSTEP_20150317_000131
 QUEST_JOBSTEP_20150317_000132
 QUEST_JOBSTEP_20150317_000133
