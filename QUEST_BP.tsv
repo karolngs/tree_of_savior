@@ -6,7 +6,7 @@ QUEST_20150317_000005	Por favor selecione um item.
 QUEST_20150317_000006	Selecione Grupo. 
 QUEST_20150317_000007	Por favor, selecione um grupo de início.
 QUEST_20150317_000008	Selecione Zona.
-QUEST_20150317_000009	Por favor, selecione uma zona de início. 
+QUEST_20150317_000009 Por favor, selecione uma zona de início. 
 QUEST_20150317_000010	Selecione Progresso.
 QUEST_20150317_000011	Por favor, selecione uma classe.
 QUEST_20150317_000012	Mestre Bokor
@@ -25,9 +25,9 @@ QUEST_20150317_000024	Eu passei a próxima Revelação para o primeiro Paladino.
 QUEST_20150317_000025	{memo X}A aura escura é realmente desagradável... {nl}Mas se esta mensagem é verdadeiramente da Deusa Laima, então eu vou apenas reverenciá-la.
 QUEST_20150317_000026	{memo X}Bem, você deve se apressar e ir encontrar Sir Uska. {nl}Ele irá lhe dizer aonde ir em seguida. {nl}Que a Deusa abençoe seu destino...
 QUEST_20150317_000027	
-QUEST_20150317_000028  William
-QUEST_20150317_000029  {memo X}A taxa é de 100 pratas. {nl}É mais barato do que cortar caminho através dos monstros.
-QUEST_20150317_000030  Cyneburg
+QUEST_20150317_000028 William
+QUEST_20150317_000029 {memo X}A taxa é de 100 pratas. {nl}É mais barato do que cortar caminho através dos monstros.
+QUEST_20150317_000030 Cyneburg
 QUEST_20150317_000031	{memo X}Isto custará 100 moedas de prata. {nl}Isto irá cobrir as operações, trabalho, e outros gastos
 QUEST_20150317_000032	{memo X}Hey, espere um minuto. {nl}Você sabe que precisa mais do que isto...
 QUEST_20150317_000033	{memo X}Isso não é bom! {nl}Eu não posso trabalhar por nada, mesmo para um Redentor.
