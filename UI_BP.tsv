@@ -17,14 +17,14 @@ UI_20150317_000016	{@st43}Casa de Leilões{/}
 UI_20150317_000017	{@st59}Fechar Casa de Leilões{/}
 UI_20150317_000018	{memo X}{@st41b}Itens vendidos : ×%s, Itens Mantidos : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Leilão de Itens{/}
-UI_20150317_000020	{@st59}Fechar informação da Quest{/}
+UI_20150317_000020	{@st59}Fechar informação da Missão{/}
 UI_20150317_000021	Availest
 UI_20150317_000022	{@st41b}Tempo Restante
 UI_20150317_000023	3 horas 16 minutos
 UI_20150317_000024	{@st41b}Preço Inicial
 UI_20150317_000025	{@st41b}Ofertas
 UI_20150317_000026	{@st41b}Preço Atual
-UI_20150317_000027	{@st41b}Bidding Price
+UI_20150317_000027	{@st41b}Lance
 UI_20150317_000028	{@st41b}Oferta mínima de {@st57}%s{@st41b}prata{/}
 UI_20150317_000029	{@st41b}Oferta{/}
 UI_20150317_000030	{@st43b}Compre Agora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
@@ -42,7 +42,7 @@ UI_20150317_000041	{@st44}Cancelar{/}
 UI_20150317_000042	{@st43}{s22}Cabeleireiro{/}
 UI_20150317_000043	{@st59}Penteado Ant.{/}
 UI_20150317_000044	{@st59}Próx. Penteado{/}
-UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
+UI_20150317_000045	{@st41b} Trocar {s18} (100 iCoins required) {/}
 UI_20150317_000046	{@st59}Usar penteado selecionado.{/}
 UI_20150317_000047	{@st41}Cancelar
 UI_20150317_000048	{@st43}Mercado Negro{/}
