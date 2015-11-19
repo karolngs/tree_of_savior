@@ -498,56 +498,56 @@ QUEST_20150317_000497
 QUEST_20150317_000498
 QUEST_20150317_000499
 QUEST_20150317_000500
-QUEST_20150317_000501
-QUEST_20150317_000502
-QUEST_20150317_000503
-QUEST_20150317_000504
-QUEST_20150317_000505
-QUEST_20150317_000506
-QUEST_20150317_000507
-QUEST_20150317_000508
-QUEST_20150317_000509
-QUEST_20150317_000510
-QUEST_20150317_000511
-QUEST_20150317_000512
-QUEST_20150317_000513
-QUEST_20150317_000514
-QUEST_20150317_000515
-QUEST_20150317_000516
-QUEST_20150317_000517
-QUEST_20150317_000518
-QUEST_20150317_000519
-QUEST_20150317_000520
-QUEST_20150317_000521
-QUEST_20150317_000522
-QUEST_20150317_000523
-QUEST_20150317_000524
-QUEST_20150317_000525
-QUEST_20150317_000526
-QUEST_20150317_000527
-QUEST_20150317_000528
-QUEST_20150317_000529
-QUEST_20150317_000530
-QUEST_20150317_000531
-QUEST_20150317_000532
-QUEST_20150317_000533
-QUEST_20150317_000534
-QUEST_20150317_000535
-QUEST_20150317_000536
-QUEST_20150317_000537
-QUEST_20150317_000538
-QUEST_20150317_000539
-QUEST_20150317_000540
-QUEST_20150317_000541
-QUEST_20150317_000542
-QUEST_20150317_000543
-QUEST_20150317_000544
-QUEST_20150317_000545
-QUEST_20150317_000546
-QUEST_20150317_000547
-QUEST_20150317_000548
-QUEST_20150317_000549
-QUEST_20150317_000550
+QUEST_20150317_000501 $Se não é você. A pessoa que me fez libertar a Deusa Saule. {nl}Por que está botando sua vida em risco?
+QUEST_20150317_000502 $Não há necessidade para todos estes problemas. {nl}Você deveria seguir o exemplo dos outros e mergulhar na paz, {nl}e orar para que a Deusa conceda-lhe seus desejos.
+QUEST_20150317_000503 $Eu lhe alertei, mas você simplesmente não quis ouvir.
+QUEST_20150317_000504 $Você deve pagar o preço de sua escolha.
+QUEST_20150317_000505 $Eu te subestimei.
+QUEST_20150317_000506 {memo X}Ainda não acabou! {nl}Eu estarei observando da [#pending Fallen Worry Forest].
+QUEST_20150317_000507 $Aviso
+QUEST_20150317_000508 $Estragado. Não usar!
+QUEST_20150317_000509 $Esta é a primeira Revelação que eu fiz. {nl}Para você, esta deve ser a terceira.
+QUEST_20150317_000510 $Minha força irá enfraquecer toda vez que eu colocar uma parte de mim em uma Revelação. {nl}Mais de mil anos terão se passado no momento em que a revelação chegar até você. {nl}E mesmo minha consciência terá deixado de existir. 
+QUEST_20150317_000511 $É por isso que eu precisei encontrar um guardião para proteger a Revelação. {nl}Infelizmente, minhas irmãs e eu não chegamos em um acordo sobre minha Revelação. {nl}e eu não fui capaz de deixar a Revelação com a maioria delas.
+QUEST_20150317_000512 $Somente Saule apoiou minha Revelação, então eu a deixei com esta. {nl}E por um tempo muito longo, eu saí em uma jornada em busca de um guardião.
+QUEST_20150317_000513 $Quando pensei em humanos como você, uma idéia promissora me surgiu. {nl}Os demônios desprezam os humanos, então eles não poderiam nem imaginar que eu deixaria a Revelação com você.
+QUEST_20150317_000514 $Mas acima de tudo, eu confiei nos humanos. {nl}Você deve ter visto isto por si mesmo até agora. {nl}Apesar de passar por desastres como a Árvore do Desespero, {nl}humanos não perdem a esperença facilmente.
+QUEST_20150317_000515 $O guardião da próxima Revelação será aquele que une o Reino. {nl}Você poderá encontrar a próxima Revelação na parte mais profunda do Mausoléu Real aonde ele descansa.
+QUEST_20150317_000516 {memo X}O mausoléu fica na área do vale. {nl}Irei abrir um portal para você.
+QUEST_20150317_000517 $Alma Presa do Soldado
+QUEST_20150317_000518 $Por favor, me ajude.
+QUEST_20150317_000519 $Leve-me até a Deusa.
+QUEST_20150317_000520 $É tão doloroso
+QUEST_20150317_000521 $Parece estar dormindo.
+QUEST_20150317_000522 $Estátua da Coruja Enfurecida
+QUEST_20150317_000523 $Sem respostas.
+QUEST_20150317_000524 $Alma do Mercador Pesaroso
+QUEST_20150317_000525 $Se você não tiver dinheiro, você não é diferente de um homem morto.
+QUEST_20150317_000526 $Eu deveria ter ouvido minha esposa. {nl}Ela disse que é má sorte ser amigo de estudiosos... {nl}Eu estou realmente caindo fora dos negócios!
+QUEST_20150317_000527 $Eu poderia compensar a perda se recuperasse os itens...
+QUEST_20150317_000528 $Estátua da Coruja Adormecida
+QUEST_20150317_000529 $Ela parece estar em um sono muito profundo.
+QUEST_20150317_000530 $Não há absolutamente nenhum resposta.
+QUEST_20150317_000531 $Não há absolutamente nenhum movimento.
+QUEST_20150317_000532 $A escrita não é mais visível.
+QUEST_20150317_000533 $Têm o direito de receber a mensagem real secreta.
+QUEST_20150317_000534 $As letras não estão mais visíveis.
+QUEST_20150317_000535 {memo X}Parece que a função deixou de funcionar.
+QUEST_20150317_000536 {memo X}Sim...este é o melhor tempo para beber um rum.
+QUEST_20150317_000537 {memo X}Eu sou o pirata que perdeu seu derradeiro navio! {nl}Hmm..eu gosto de como isto soa.
+QUEST_20150317_000538 {memo X}Me prove sua competência.
+QUEST_20150317_000539 {memo X}Mesmo que as Deusas não estejam por perto, {nl} o Oráculo continua podendo enviar as mensagens delas para as pessoas.
+QUEST_20150317_000540 {memo X}Haha, obrigado. {nl}Lembre-se, deve ser a árvore na praça central.
+QUEST_20150317_000541 $Blaster Luina
+QUEST_20150317_000542 $Os Hogmas estão invadindo através de uma entrada que encontraram. {nl}Nos pediram para destruir a entrada para bloquear a sua invasão.
+QUEST_20150317_000543 $Mas depois de ser atacado, não tenho mais bombas.
+QUEST_20150317_000544 $Têm bombas boas para uso único dentro da caixa. {nl}Use-as para destruir a barricada que eles fizeram.
+QUEST_20150317_000545 $E pegue algo com eles que possa ser usado como explosivos.
+QUEST_20150317_000546 $Gerente do Mercado
+QUEST_20150317_000547 $Bem vindo! {nl}Você pode comprar ótimos itens por um preço barato se você procurar com cuidado. {nl}É claro, também é possível gastar uma grande quantia em algo que supostamente deve ser barato...
+QUEST_20150317_000548 $Cartão de Proposta
+QUEST_20150317_000549 $Rosas que ainda têm fragância. {nl}Embora elas parecem ter murchado com o tempo.
+QUEST_20150317_000550 $Idoso Benevolente
 QUEST_20150317_000551
 QUEST_20150317_000552
 QUEST_20150317_000553
