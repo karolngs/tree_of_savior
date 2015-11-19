@@ -7,7 +7,7 @@ SKILL_20150317_000006	[Raffly] Físico, Impacto, Propriedade Veneno, Pula e atac
 SKILL_20150317_000007	[Puragi] Físico, Impacto, Propriedade Veneno, 1 Ataque normal
 SKILL_20150317_000008	[Puragi] Físico, Impacto, Propriedade Veneno, Ataca uma vez
 SKILL_20150317_000009	[Puragi] Físico, Impacto, Propriedade Veneno, Pisoteia uma vez
-SKILL_20150317_000010	[Zigri] Ataque Normal, AoE Conicô
+SKILL_20150317_000010	[Zigri] Ataque Normal, AoE Cônico
 SKILL_20150317_000011	[Zigri] Impacto Giratório
 SKILL_20150317_000012	[Zigri] Pula e Pisoteia
 SKILL_20150317_000013	[Pescador] Físico, Impacto, Propriedade Gelo, Bate com uma vara de pescar
@@ -16,7 +16,7 @@ SKILL_20150317_000015	[Pokuborn Verde] Físico, Perfurante, Propriedade Elétric
 SKILL_20150317_000016	[Aranha Arbusto] Físico, Impacto, Propriedade Terra, Ataca uma vez
 SKILL_20150317_000017	[Fragaras] Mordida Rápida
 SKILL_20150317_000018	[Fragaras] Grande Mordida
-SKILL_20150317_000019	[Fragaras] Ataque Normal, AoE Conicô
+SKILL_20150317_000019	[Fragaras] Ataque Normal, AoE Cônico
 SKILL_20150317_000020	Ataque Normal Básico
 SKILL_20150317_000021	[Meduja] Mágico, Mágico, Ataca com Propriedade Elétrica uma vez
 SKILL_20150317_000022	[Gribaru] Físico, Cortante, Ataca com Propriedade Elétrica uma vez
@@ -72,8 +72,8 @@ SKILL_20150317_000071	[Geppetto] Impacto Físico, Ataca com Propriedade Terra um
 SKILL_20150317_000072	[Geppetto] Impacto Físico, Ataca com Propriedade Terra uma vez
 SKILL_20150317_000073	[Boowook] Físico, Impacto, Ataca com Propriedade Terra uma vez
 SKILL_20150317_000074	[Boowook] Físico, Impacto, Ataca com Propriedade Terra Usando o Pé uma vez
-SKILL_20150317_000075	[Desmodus] Físico, Perfurante, Golpe de Cauda com Propriedade Sobria
-SKILL_20150317_000076	[Desmodus] Físico, Perfurante, Golpe de Corpo com Propriedade Sobria
+SKILL_20150317_000075	[Desmodus] Físico, Perfurante, Golpe de Cauda com Propriedade Sombria
+SKILL_20150317_000076	[Desmodus] Físico, Perfurante, Golpe de Corpo com Propriedade Sombria
 SKILL_20150317_000077	[Pino] Golpe Físico, Ataca com Propriedade Terra uma vez
 SKILL_20150317_000078	[Cauliflor] Físico, Perfurante, Propriedade Veneno, Esmaga com Tentaclo
 SKILL_20150317_000079	[Cauliflor] Físico, Perfurante, Propriedade Veneno, Corta com tentaclo
@@ -90,7 +90,7 @@ SKILL_20150317_000089	[Zinute] Tapa de Duas Mãos
 SKILL_20150317_000090	[Zinute] Esmaga o Chão
 SKILL_20150317_000091	[Lauzinute] Físico, Perfurante, Ataca com Propriedade Fogo uma vez
 SKILL_20150317_000092	[Lauzinute] Físico, Perfurante, Ataque Rotativo de Propriedade Fogo
-SKILL_20150317_000093	[Dandel] Ataca Perfurante de Propriedade Elétrica uma vez
+SKILL_20150317_000093	[Dandel] Ataque Perfurante de Propriedade Elétrica uma vez
 SKILL_20150317_000094	[Rusrat] Físico, Cortante, Ataca com Propriedade Elétrica duas vezes
 SKILL_20150317_000095	[Rusrat] Físico, Cortante, Ataca com Propriedade Elétrica uma vez
 SKILL_20150317_000096	[Medakia] Físico, Cortante, Ataca com Propriedade Sombria uma vez
