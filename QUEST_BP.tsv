@@ -1,103 +1,103 @@
-QUEST_20150317_000001	Por favor, selecione o usuário solicitando a atualização da busca. 
-QUEST_20150317_000002	Estátua da Deusa Vakarine
-QUEST_20150317_000003	Por favor selecione um mapa. 
-QUEST_20150317_000004	Selecione
-QUEST_20150317_000005	Por favor selecione um item.
-QUEST_20150317_000006	Selecione Grupo 
-QUEST_20150317_000007	Por favor, selecione um grupo de início.
-QUEST_20150317_000008	Selecione Zona
-QUEST_20150317_000009 Por favor, selecione uma zona de início. 
-QUEST_20150317_000010	Selecione Progresso.
-QUEST_20150317_000011	Por favor, selecione uma classe.
-QUEST_20150317_000012	Mestre Bokor
-QUEST_20150317_000013	Então, você gostaria de aprender mais sobre esta pedra de ardósia. {nl}Se desejar, lhe mostrarei a vontade de seu criador.
-QUEST_20150317_000014	Deusa Laima
-QUEST_20150317_000015	No momento em que você receber esta mensagem, muito tempo terá se passado. {nl}Eu sou a Deusa do Destino e da Sabedoria, Laima.
-QUEST_20150317_000016	600 anos atrás, eu previ uma grande quantidade de morte e sofrimento. {nl}Se você está vendo isso, então eu receio que o que eu previ está acontecendo.
-QUEST_20150317_000017	Os demônios iniciaram o primeiro dos cataclismas, e todas as Deusas desapareceram. {nl}Eu sabia que isso ocorreria e fiz tudo que pude para prevenir este destino, mas meus poderes não foram o bastante.
-QUEST_20150317_000018	Em vez disso, eu vaguei por muitas visões distantes por uma resposta. {nl} Você estava no final deles... um Redentor.
-QUEST_20150317_000019	Infelizmente, eu não pude ficar aqui com os demônios procurando por mim, sabendo dos meus poderes de clarividência. {nl}Eu fui forçada a me esconder, até o momento que você aparecesse.
-QUEST_20150317_000020	Eu decidi dividir meu ser e subsistir no interior de várias mensagens. {nl}Mensagens que eu continuei a criar secretamente por muitos milênios.
-QUEST_20150317_000021	Redentor, se você puder me ajudar a recuperar minha forma, nós poderemos parar os planos sinistros dos demônios.{nl}Você deve recuperar as Revelações que eu escondi ao longo dos diversos eixos do tempo.
-QUEST_20150317_000022	Esta tarefa divina pode ser um pesado fardo, mas é algo que você deve suportar. {nl}Talvez, no meio da turvidêz de suas provações e tribulações, algo possa surgir.
-QUEST_20150317_000023	De qualquer forma, apenas nós podemos salvar este mundo.
-QUEST_20150317_000024	Eu passei a próxima Revelação para o primeiro Paladino. {nl}Eles estará aguardando você no mais alto dos jardins.
+QUEST_20150317_000001	$Por favor, selecione o usuário solicitando a atualização da busca. 
+QUEST_20150317_000002	$Estátua da Deusa Vakarine
+QUEST_20150317_000003	$Por favor selecione um mapa. 
+QUEST_20150317_000004	$Selecione
+QUEST_20150317_000005	$Por favor selecione um item.
+QUEST_20150317_000006	$Selecione Grupo 
+QUEST_20150317_000007	$Por favor, selecione um grupo de início.
+QUEST_20150317_000008	$Selecione Zona
+QUEST_20150317_000009 $Por favor, selecione uma zona de início. 
+QUEST_20150317_000010	$Selecione Progresso.
+QUEST_20150317_000011	$Por favor, selecione uma classe.
+QUEST_20150317_000012	$Mestre Bokor
+QUEST_20150317_000013	$Então, você gostaria de aprender mais sobre esta pedra de ardósia. {nl}Se desejar, lhe mostrarei a vontade de seu criador.
+QUEST_20150317_000014	$Deusa Laima
+QUEST_20150317_000015	$No momento em que você receber esta mensagem, muito tempo terá se passado. {nl}Eu sou a Deusa do Destino e da Sabedoria, Laima.
+QUEST_20150317_000016	$600 anos atrás, eu previ uma grande quantidade de morte e sofrimento. {nl}Se você está vendo isso, então eu receio que o que eu previ está acontecendo.
+QUEST_20150317_000017	$Os demônios iniciaram o primeiro dos cataclismas, e todas as Deusas desapareceram. {nl}Eu sabia que isso ocorreria e fiz tudo que pude para prevenir este destino, mas meus poderes não foram o bastante.
+QUEST_20150317_000018	$Em vez disso, eu vaguei por muitas visões distantes por uma resposta. {nl} Você estava no final deles... um Redentor.
+QUEST_20150317_000019	$Infelizmente, eu não pude ficar aqui com os demônios procurando por mim, sabendo dos meus poderes de clarividência. {nl}Eu fui forçada a me esconder, até o momento que você aparecesse.
+QUEST_20150317_000020	$Eu decidi dividir meu ser e subsistir no interior de várias mensagens. {nl}Mensagens que eu continuei a criar secretamente por muitos milênios.
+QUEST_20150317_000021	$Redentor, se você puder me ajudar a recuperar minha forma, nós poderemos parar os planos sinistros dos demônios.{nl}Você deve recuperar as Revelações que eu escondi ao longo dos diversos eixos do tempo.
+QUEST_20150317_000022	$Esta tarefa divina pode ser um pesado fardo, mas é algo que você deve suportar. {nl}Talvez, no meio da turvidêz de suas provações e tribulações, algo possa surgir.
+QUEST_20150317_000023	$De qualquer forma, apenas nós podemos salvar este mundo.
+QUEST_20150317_000024	$Eu passei a próxima Revelação para o primeiro Paladino. {nl}Eles estará aguardando você no mais alto dos jardins.
 QUEST_20150317_000025	{memo X}A aura escura é realmente desagradável... {nl}Mas se esta mensagem é verdadeiramente da Deusa Laima, então eu vou apenas reverenciá-la.
 QUEST_20150317_000026	{memo X}Bem, você deve se apressar e ir encontrar Sir Uska. {nl}Ele irá lhe dizer aonde ir em seguida. {nl}Que a Deusa abençoe seu destino...
-QUEST_20150317_000027	Por favor selecione a Smart Gen preferível.
-QUEST_20150317_000028 William
+QUEST_20150317_000027	$Por favor selecione a Smart Gen preferível.
+QUEST_20150317_000028 $William
 QUEST_20150317_000029 {memo X}A taxa é de 100 moedas de pratas. {nl}É mais barato do que cortar caminho através dos monstros.
-QUEST_20150317_000030 Cyneburg
+QUEST_20150317_000030 $Cyneburg
 QUEST_20150317_000031	{memo X}Isto custará 100 moedas de prata. {nl}Isto irá cobrir as operações, trabalho, e outros gastos
 QUEST_20150317_000032	{memo X}Hey, espere um minuto. {nl}Você sabe que precisa mais do que isto...
 QUEST_20150317_000033	{memo X}Isso não é bom! {nl}Eu não posso trabalhar por nada, mesmo para um Redentor.
-QUEST_20150317_000034	Mercador Nômade
-QUEST_20150317_000035	Como as sementes de um Dente-de-Leão, eu sou alguém que meramente segue o vento. {nl}Já que nos encontramos de uma forma bastante curiosa, talvez você poderia poupar um momento para ver as minhas curiosidades? 
-QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Seja bem vindo! {nl}Você está a procura de um companheiro de viagem, certo? {nl}Você não encontrará um lugar melhor para parceiros do que aqui!
+QUEST_20150317_000034	$Mercador Nômade
+QUEST_20150317_000035	$Como as sementes de um Dente-de-Leão, eu sou alguém que meramente segue o vento. {nl}Já que nos encontramos de uma forma bastante curiosa, talvez você poderia poupar um momento para ver as minhas curiosidades? 
+QUEST_20150317_000036	$Kristina
+QUEST_20150317_000037	$Seja bem vindo! {nl}Você está a procura de um companheiro de viagem, certo? {nl}Você não encontrará um lugar melhor para parceiros do que aqui!
 QUEST_20150317_000038	{memo X}Você pode fazer seus companheiros assistirem sua luta ou treinarem atributos especiais. {nl}Ganhe afeição o bastante, e você pode até comprar alguns equipamentos legais!
 QUEST_20150317_000039	{memo X}Aumentar a afeição de seu companheiro, irá aumentar o vigor de cavalgada e a evasão! {nl}E então o que você acha? Isso é o bastante para fazer você considerar um?
 QUEST_20150317_000040	{memo X}O baú requer uma chave que sirva.
-QUEST_20150317_000041	Selecione Missão
-QUEST_20150317_000042	Modifique Condição da Missão
-QUEST_20150317_000043	Forçar início?
-QUEST_20150317_000044	Itens para serem deletados
-QUEST_20150317_000045	Selecione tipo de gênero
-QUEST_20150317_000046	Selecione coordenadas
+QUEST_20150317_000041	$Selecione Missão
+QUEST_20150317_000042	$Modifique Condição da Missão
+QUEST_20150317_000043	$Forçar início?
+QUEST_20150317_000044	$Itens para serem deletados
+QUEST_20150317_000045	$Selecione tipo de gênero
+QUEST_20150317_000046	$Selecione coordenadas
 QUEST_20150317_000047	$Cavaleiro Titas
 QUEST_20150317_000048	$Se assim for, vá ver o Cavaleiro Comandante Uska em Klaipeda. {nl}Mas primeiro, tem uma coisa importante que eu preciso falar sobre com você, então me siga.
 QUEST_20150317_000049	$Seria bom se eu pudesse encontrar um momento para relaxar...
-QUEST_20150317_000050	Sparnas… {nl}Não é alguém para lidar de maneira leve...
-QUEST_20150317_000051	Soldado Temperamental
-QUEST_20150317_000052	Vamos lidar com esses monstros antes de falarmos.
-QUEST_20150317_000053	Equipe de Investigação Conjunta - Scott
-QUEST_20150317_000054	Eu espero por um tempo em que nosso time não seja mais necessário... {nl}Que era pacífica seria...
-QUEST_20150317_000055	Eu não sei por onde começar. {nl}Você ouviu sobre algo?
-QUEST_20150317_000056	Pelo comando real, nós viemos à esta floresta para investigar alguns eventos estranhos. {nl}Testemunhas reportaram algo com um rosto grande e dedos ossudos. {nl}O que no mundo isto poderia ser?
-QUEST_20150317_000057	No passado, peregrinos viajavam por esta floresta.{nl}Mas agora, apenas soldados se reúnem aqui devido a presença de monstros. 
-QUEST_20150317_000058	Até quatro anos atrás, as Deusas ás vezes nos abençoavam com sinais de suas presenças. {nl}Mas agora, mesmo nossas preces combinadas não trazem mais do que uma vibração. {nl}Será que elas realmente nos abandonaram?
-QUEST_20150317_000059	Vacenin vai a cada região pessoalmente para lidar com as coisas. {nl}Ele se sente desconfortável quando fica na cidade.
-QUEST_20150317_000060	Você planeja ficar ou se alistar? {nl}Se você estiver interessado, eu irei prazerosamente te recomendar para os comandantes chefes.
-QUEST_20150317_000061	Não abaixe sua guarda. Monstros podem aparecer a qualquer momento, em qualquer lugar.
-QUEST_20150317_000062	Para onde no mundo poderia a Deusa Zemyna ter ido...
-QUEST_20150317_000063	O que no mundo você chama isto? 
-QUEST_20150317_000064	Acredito que a Deusa da Terra, Zemyna, lamentaria mais do que qualquer pessoa.
-QUEST_20150317_000065	Os Pokubus sempre estiveram aqui, mas outros monstros desconhecidos também são avistados ás vezes.
-QUEST_20150317_000066	Eu tenho pensado sobre isso. Não há dúvidas de que as Deusas abandonaram a nós todos. {nl}Se não fosse assim, então não haveria tantos monstros.
-QUEST_20150317_000067	Eles dizem que há um homem abençoado com a força das Deusas vivendo na floresta.
-QUEST_20150317_000068	Eu quero ir pra casa.
-QUEST_20150317_000069	O número de monstros aqui não parece mudar não importa quantos deles nós matamos.
+QUEST_20150317_000050	$Sparnas… {nl}Não é alguém para lidar de maneira leve...
+QUEST_20150317_000051	$Soldado Temperamental
+QUEST_20150317_000052	$Vamos lidar com esses monstros antes de falarmos.
+QUEST_20150317_000053	$Equipe de Investigação Conjunta - Scott
+QUEST_20150317_000054	$Eu espero por um tempo em que nosso time não seja mais necessário... {nl}Que era pacífica seria...
+QUEST_20150317_000055	$Eu não sei por onde começar. {nl}Você ouviu sobre algo?
+QUEST_20150317_000056	$Pelo comando real, nós viemos à esta floresta para investigar alguns eventos estranhos. {nl}Testemunhas reportaram algo com um rosto grande e dedos ossudos. {nl}O que no mundo isto poderia ser?
+QUEST_20150317_000057	$No passado, peregrinos viajavam por esta floresta.{nl}Mas agora, apenas soldados se reúnem aqui devido a presença de monstros. 
+QUEST_20150317_000058	$Até quatro anos atrás, as Deusas ás vezes nos abençoavam com sinais de suas presenças. {nl}Mas agora, mesmo nossas preces combinadas não trazem mais do que uma vibração. {nl}Será que elas realmente nos abandonaram?
+QUEST_20150317_000059	$Vacenin vai a cada região pessoalmente para lidar com as coisas. {nl}Ele se sente desconfortável quando fica na cidade.
+QUEST_20150317_000060	$Você planeja ficar ou se alistar? {nl}Se você estiver interessado, eu irei prazerosamente te recomendar para os comandantes chefes.
+QUEST_20150317_000061	$Não abaixe sua guarda. Monstros podem aparecer a qualquer momento, em qualquer lugar.
+QUEST_20150317_000062	$Para onde no mundo poderia a Deusa Zemyna ter ido...
+QUEST_20150317_000063	$O que no mundo você chama isto? 
+QUEST_20150317_000064	$Acredito que a Deusa da Terra, Zemyna, lamentaria mais do que qualquer pessoa.
+QUEST_20150317_000065	$Os Pokubus sempre estiveram aqui, mas outros monstros desconhecidos também são avistados ás vezes.
+QUEST_20150317_000066	$Eu tenho pensado sobre isso. Não há dúvidas de que as Deusas abandonaram a nós todos. {nl}Se não fosse assim, então não haveria tantos monstros.
+QUEST_20150317_000067	$Eles dizem que há um homem abençoado com a força das Deusas vivendo na floresta.
+QUEST_20150317_000068	$Eu quero ir pra casa.
+QUEST_20150317_000069	$O número de monstros aqui não parece mudar não importa quantos deles nós matamos.
 QUEST_20150317_000070	{memo X}Julian lhe enviou aqui, Revelador?
-QUEST_20150317_000071	Estou impressionado. {nl}Você é a primeira pessoa que encontro aqui em vários anos.
-QUEST_20150317_000072	Eu irei lhe mostrar o que eu vi.
+QUEST_20150317_000071	$Estou impressionado. {nl}Você é a primeira pessoa que encontro aqui em vários anos.
+QUEST_20150317_000072	$Eu irei lhe mostrar o que eu vi.
 QUEST_20150317_000073	{memo X}Por favor, esqueça sobre mim e apenas vá embora. {nl}As flores parecem estar chegando de maneira deslumbrante.
-QUEST_20150317_000074	Lena
-QUEST_20150317_000075 Por favor, me conte sua história de vida. {nl}Nós seguimos a vontade de Vibora e gravamos tudo que está neste mundo.
-QUEST_20150317_000076 Henryka
-QUEST_20150317_000077	Olá! {nl}Bem vindo a filial de Klaipeda da Sociedade dos Magos. {nl}Nós nos especializamos em estudar os estranhos fenômenos que acontecem quando itens especiais são combinados.
-QUEST_20150317_000078	Não há nada para ver aqui a não ser vapor e Vubbes. {nlEspere, o que é aquela coisa com uma cara grande que está se aproximando?!
-QUEST_20150317_000079	A terra precisa de nossa atenção também. {nl}O mundo ainda não foi arruinado...correto?
-QUEST_20150317_000080	Se nos mantivéssemos respeitosos, então nós ainda teríamos aquela graça e conhecimento. {nl}Deveríamos todos considerar se essa confusão é ou não nossa culpa porque contamos com a Deusa para tudo. 
-QUEST_20150317_000081	Quadro de Avisos
-QUEST_20150317_000082	Bem Vindos a cidade mineradora de Klaipeda!
-QUEST_20150317_000083	Viúva Indiferente
-QUEST_20150317_000084	Não estou certa de que entendo isso completamente, mas o que tenho certeza é que as Deusas não desapareceram todas de uma vez. 
-QUEST_20150317_000085	A primeira a desaparecer foi a Deusa Gabija. {nl}Eu ouvi que foi há muito tempo atrás. {nl}Uma por uma, começando por Gabija, One by one, starting with Gabija, elas pararam de responder.
-QUEST_20150317_000086	A Deusa Vakarine nos deixou pouco antes do Medzio Diena {nl}Ambas Zemyna e Ausrine desapareceram logo depois. {nl}Já se passaram quatro anos desde então.
+QUEST_20150317_000074	$Lena
+QUEST_20150317_000075 $Por favor, me conte sua história de vida. {nl}Nós seguimos a vontade de Vibora e gravamos tudo que está neste mundo.
+QUEST_20150317_000076 $Henryka
+QUEST_20150317_000077	$Olá! {nl}Bem vindo a filial de Klaipeda da Sociedade dos Magos. {nl}Nós nos especializamos em estudar os estranhos fenômenos que acontecem quando itens especiais são combinados.
+QUEST_20150317_000078	$Não há nada para ver aqui a não ser vapor e Vubbes. {nlEspere, o que é aquela coisa com uma cara grande que está se aproximando?!
+QUEST_20150317_000079	$A terra precisa de nossa atenção também. {nl}O mundo ainda não foi arruinado...correto?
+QUEST_20150317_000080	$Se nos mantivéssemos respeitosos, então nós ainda teríamos aquela graça e conhecimento. {nl}Deveríamos todos considerar se essa confusão é ou não nossa culpa porque contamos com a Deusa para tudo. 
+QUEST_20150317_000081	$Quadro de Avisos
+QUEST_20150317_000082	$Bem Vindos a cidade mineradora de Klaipeda!
+QUEST_20150317_000083	$Viúva Indiferente
+QUEST_20150317_000084	$Não estou certa de que entendo isso completamente, mas o que tenho certeza é que as Deusas não desapareceram todas de uma vez. 
+QUEST_20150317_000085	$A primeira a desaparecer foi a Deusa Gabija. {nl}Eu ouvi que foi há muito tempo atrás. {nl}Uma por uma, começando por Gabija, One by one, starting with Gabija, elas pararam de responder.
+QUEST_20150317_000086	$A Deusa Vakarine nos deixou pouco antes do Medzio Diena {nl}Ambas Zemyna e Ausrine desapareceram logo depois. {nl}Já se passaram quatro anos desde então.
 QUEST_20150317_000087	{memo X}Está certo. A mais estranha de todas foi a Deusa Laima. {nl} Ninguém sabe ao certo quando ela desapareceu. 
 QUEST_20150317_000088	{memo X}Além disso, Laima não é a Deusa do Destino e da Sabedoria? {nl}Ela provavelmente sabia tudo sobre isto.
-QUEST_20150317_000089	Soldado Descansando
-QUEST_20150317_000090	Eu costumava ser um aventureiro como você. Então eu levei uma flechada no joelho...
-QUEST_20150317_000091	Não importa. Venha e me enfrente, seu monstro!
-QUEST_20150317_000092	Uma Deusa apareceu em meu sonho agora há pouco... {nl}Foi tão encantador…
-QUEST_20150317_000093	Ainda assim, eu tenho o dever de proteger o Reino. É por isso que estou aqui.
-QUEST_20150317_000094	Uska é um antigo amigo meu.
-QUEST_20150317_000095	Nós fizemos os testes para nos tornarmos cavaleiros juntos. Uska chegou aonde chegou agora com o meu sincero suporte. {nl}Oh, aqueles foram dias loucos...seria legal vê-lo novamente.
+QUEST_20150317_000089	$Soldado Descansando
+QUEST_20150317_000090	$Eu costumava ser um aventureiro como você. Então eu levei uma flechada no joelho...
+QUEST_20150317_000091	$Não importa. Venha e me enfrente, seu monstro!
+QUEST_20150317_000092	$Uma Deusa apareceu em meu sonho agora há pouco... {nl}Foi tão encantador…
+QUEST_20150317_000093	$Ainda assim, eu tenho o dever de proteger o Reino. É por isso que estou aqui.
+QUEST_20150317_000094	$Uska é um antigo amigo meu.
+QUEST_20150317_000095	$Nós fizemos os testes para nos tornarmos cavaleiros juntos. Uska chegou aonde chegou agora com o meu sincero suporte. {nl}Oh, aqueles foram dias loucos...seria legal vê-lo novamente.
 QUEST_20150317_000096	{memo X}Apenas não acredite em tudo que ele diz. {nl}Ele era conhecido por ser bastante presunçoso onde vivia.
-QUEST_20150317_000097	Eu? Eu acho isso engraçado, então apenas o deixo sozinho.
-QUEST_20150317_000098	Uh, espere. Eu retiro o que eu disse sobre não acreditar em tudo que ele diz.
-QUEST_20150317_000099	Tudo o que voa para fora da boca dele é uma mentira. Não confie nele. 
-QUEST_20150317_000100	Guarda Siauliai
+QUEST_20150317_000097	$Eu? Eu acho isso engraçado, então apenas o deixo sozinho.
+QUEST_20150317_000098	$Uh, espere. Eu retiro o que eu disse sobre não acreditar em tudo que ele diz.
+QUEST_20150317_000099	$Tudo o que voa para fora da boca dele é uma mentira. Não confie nele. 
+QUEST_20150317_000100	$Guarda Siauliai
 QUEST_20150317_000101
 QUEST_20150317_000102
 QUEST_20150317_000103
