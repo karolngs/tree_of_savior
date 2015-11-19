@@ -25,7 +25,7 @@ UI_20150317_000024	{@st41b}Preço Inicial
 UI_20150317_000025	{@st41b}Ofertas
 UI_20150317_000026	{@st41b}Preço Atual
 UI_20150317_000027	{@st41b}Lance
-UI_20150317_000028	{@st41b}Oferta mínima de {@st57}%s{@st41b}prata{/}
+UI_20150317_000028	{@st41b}Oferta mínima de {@st57}%s{@st41b}moedas de prata{/}
 UI_20150317_000029	{@st41b}Oferta{/}
 UI_20150317_000030	{@st43b}Compre Agora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Configurar Permissões{/}
@@ -184,7 +184,7 @@ UI_20150317_000183	Informação de Missão
 UI_20150317_000184	{@st59}Cancelar Troca{/}
 UI_20150317_000185	{@st43}Troca Pessoal{/}
 UI_20150317_000186	Minha Lista de Trocas
-UI_20150317_000187	Prata : %s
+UI_20150317_000187	Moedas de Prata : %s
 UI_20150317_000188	{memo X}Entrar
 UI_20150317_000189	{@st41}Aceitar
 UI_20150317_000190	{@st41}Confirmar
@@ -254,7 +254,7 @@ UI_20150317_000253	{@st41b}Fechar
 UI_20150317_000254	{@st59}Cancelar {/}
 UI_20150317_000255	{@st43}Teleporte{/}
 UI_20150317_000256	{@st59}Fechar Janela de Teleporte{/}
-UI_20150317_000257	{@st59b}Teleporte{nl}{@st59s} - Permite-lhe viajar rapidamente para regiões que já visitou. {nl} - O Recurso é ativado quando dois ou mais pontos de teleporte estão disponíveis. {nl} {/}
+UI_20150317_000257	{@st59b}Teleporte{nl}{@st59s} - Lhe permite viajar rapidamente para regiões que já visitou. {nl} - O Recurso é ativado quando dois ou mais pontos de teleporte estão disponíveis. {nl} {/}
 UI_20150317_000258	{@st41}Local Atual : %s{/}
 UI_20150317_000259	{@st43}{s22}Teleporte{/}
 UI_20150317_000260	{@st41b}Deseja mudar para essa área?{/}
