@@ -1121,7 +1121,7 @@ SKILL_20150317_001120	{memo X}$Cria uma rajada de vento que empurra o alvo para 
 SKILL_20150317_001121	$Pilar de Gelo
 SKILL_20150317_001122	$Invoca uma árvore de gelo no chão que puxa alvos próximos e os congela com uma chance.
 SKILL_20150317_001123	${#339999}{ol}[Gelo]{/}{/}Chance #{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001124	$Pressão Física
+SKILL_20150317_001124	$Pressão Psíquica
 SKILL_20150317_001125	{memo X}{#993399}{ol}[Magia]{/}{/}{nl}Inflinge dano contínuo nos alvos à sua frente.
 SKILL_20150317_001126	{memo X}Ataque #{SkillAtkAdd}#{nl}Espalhado #{CaptionRatio}#{nl}Consome #{CaptionRatio2}#% de SP por segundo.
 SKILL_20150317_001127	$Telecinese
