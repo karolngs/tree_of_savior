@@ -210,7 +210,7 @@ QUEST_20150317_000209 {memo X}A cidade está ficando sem comida e suprimentos. {
 QUEST_20150317_000210 {memo X}Há rumores de que o General Ruklys ouviu sobre a situação severa dos cidadãos {nl}e está negociando com Kadumel pela anistia.
 QUEST_20150317_000211 $Ata de um Oficial
 QUEST_20150317_000212 {memo X}Primeiro Ministro está em negociação com General Ruklys. {nl}Poderemos ter de nos mover para a Grande Fortaleza de Terra e deixar que as forças reais reivindiquem a cidade. {nl}São boas notícias para nossos civis, ao menos. Apesar da cidade ser concedida, a Fortaleza não será tomada tão facilmente.
-QUEST_20150317_000213 {memo X}Rei Kadumel está interessado em perseguir as pessoas da cidade. {nl}O Primeiro Ministro está forçando o General Ruklys a negociar termos que assegurem que os civis estão protegidos de forças inimigas. {nl}Apesar das forças reais estarem ocupando a cidade, ainda tem de haver algum movimento ameaçador. 
+QUEST_20150317_000213 {memo X}Rei Kadumel está interessado em perseguir as pessoas da cidade. {nl}O Primeiro Ministro está forçando o General Ruklys a negociar termos que assegurem que os civis estão protegidos de forças inimigas. {nl}Apesar das forças reais ocupando a cidade, ainda está por vir algum movimento ameaçador. 
 QUEST_20150317_000214 {memo X}Devemos esperar até Kostas chegar aqui. {nl}Temos muito o que fazer, então seria bom se ele chegasse logo.
 QUEST_20150317_000215 $Criomante Kostas
 QUEST_20150317_000216 {memo X}Tudo será resolvido quando o Símbolo da Seda for encontrado. {nl}Com isso, poderemos reviver a cidade.
@@ -218,7 +218,7 @@ QUEST_20150317_000217 $Ladrão de Túmulos Rudolpas
 QUEST_20150317_000218 {memo X}Guarda Real e cavaleiros de Kaliss...eu acho que atingimos ouro. {nl}Ninguém mais está à nossa volta ou chamando este lugar de lar.
 QUEST_20150317_000219 $Ata de um Oficial Real.
 QUEST_20150317_000220 {memo X}Não houve progresso desde que o grupo de Ruklys recuou para a Grande Fortaleza de Terra. {nl}Os sacerdotes sob a direção de Maven estão relutantes para lutar, e o Rei está contratando magos pagando-lhes uma grande soma. {nl}Mas esperamos pouco ou nenhum progresso mesmo após suas participações.
-QUEST_20150317_000221 $Documento de uma Pessoa da Cidade
+QUEST_20150317_000221 $Documento de uma Pessoa da Cidadeso
 QUEST_20150317_000222 {memo X}Como isso pode acontecer?! {nl}Lydia Schaffen está ajudando as forças de Kadumel!
 QUEST_20150317_000223 $Relatório de um Oficial do Exército
 QUEST_20150317_000224 {memo X}Lydia Schaffen, uma pessoa que só ouvi falar através de rumores, veio à cidade com seus seguidores. {nl}Os oficiais e soldados esperam que ela irá mudar a maré da batalha. {nl}Sua Majestade nos ordenou a dar suporte a ela com o melhor de nossas capacidades.
@@ -245,9 +245,9 @@ QUEST_20150317_000244 $Movimento de Alta Velocidade
 QUEST_20150317_000245 $Carta Rasgada
 QUEST_20150317_000246 $Para meu amado Irmão em Fedimian...
 QUEST_20150317_000247 $Gesti percebeu isto. Mantenha-se calmo. Ainda não é a hora.
-QUEST_20150317_000248 $Soldado de Abastecimento Fora de Serviço
+QUEST_20150317_000248 $Soldado de Suprimentos Fora de Serviço
 QUEST_20150317_000249 $Eu não tenho idéia do que a Casa Real esteja fazendo. {nl}Eu até mesmo ouvi que os nobres já fugiram da cidade.
-QUEST_20150317_000250 $Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de abastecimento, mas este trabalho não é muito diferente do de um ferreiro.
+QUEST_20150317_000250 $Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de suprimentos, mas este trabalho não é muito diferente do de um ferreiro.
 QUEST_20150317_000251
 QUEST_20150317_000252
 QUEST_20150317_000253
