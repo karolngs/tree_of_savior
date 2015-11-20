@@ -801,39 +801,39 @@ UI_20150317_000800
 UI_20150317_000801	{@st41}Receber EXP
 UI_20150317_000802	{@st41}Página de PVP
 UI_20150317_000803	{@st41}Pesquisar
-UI_20150317_000804	{@st43}Rankings do Campo de Batalha
-UI_20150317_000805	{@st59}Fechar Rankings do Campo de Batalha
+UI_20150317_000804	{memo X}{@st43}Ranks do Campo de Batalha
+UI_20150317_000805	{memo X}{@st59}Fechar Ranks do Campo de Batalha
 UI_20150317_000806	{@st56}Nome da habilidade{/}
 UI_20150317_000807	{@st41}Verificar coordenadas{/}
-UI_20150317_000808	{@st41}Encontrar{/}
-UI_20150317_000809	{@st42b}Configurar regeneração de monstro{/}
-UI_20150317_000810	{@st42b}Lista de monstros{/}
+UI_20150317_000808	{@st41}Procurar{/}
+UI_20150317_000809	{@st42b}Gerencie a regeneração do monstro{/}
+UI_20150317_000810	{@st42b}Lista de Monstros{/}
 UI_20150317_000811	{@st42b}Criar UI{/}
 UI_20150317_000812	{@st42b}Névoa do Mapa{/}
 UI_20150317_000813	{@st42b}Criar Mapa{/}
 UI_20150317_000814	{@st42b}Criar Minimapa{/}
 UI_20150317_000815	{@st42b}Diálogo {/}
 UI_20150317_000816	{@st42b}Mudar recompensas de quest{/}
-UI_20150317_000817	{@st42b}Regeneração de grupo{/}
-UI_20150317_000818	{@st42b}Mudar localização de mapa{/}
-UI_20150317_000819	{@st42b}mapa de habilidades{/}
-UI_20150317_000820	{@st42b}Lista de eventos{/}
-UI_20150317_000821	{@st42b}Checar coordenadas{/}
+UI_20150317_000817	{@st42b}Regeneração do grupo{/}
+UI_20150317_000818	{@st42b}Selecione a Localização no Mapa{/}
+UI_20150317_000819	{@st42b}Mapa de Habilidades{/}
+UI_20150317_000820	{@st42b}Lista de Eventos{/}
+UI_20150317_000821	{@st42b}Checar Coordenadas{/}
 UI_20150317_000822	{@st42b} Checar XAC, textura{/}
-UI_20150317_000823	{@st42b}Performance ONOFF{/}
-UI_20150317_000824	Lista de Diálogo
+UI_20150317_000823	{@st42b}Performance ON/OFF{/}
+UI_20150317_000824	Lista de Diálogos
 UI_20150317_000825	Pesquisar.
 UI_20150317_000826	{@st41}Prévia{/}
 UI_20150317_000827	{@st41}Desligado{/}
 UI_20150317_000828	{@st41}Remover{/}
-UI_20150317_000829	{@st41}Salvar tudo{/}
-UI_20150317_000830	{@st41}Aplicar imagem{/}
+UI_20150317_000829	{@st41}Salvar Tudo{/}
+UI_20150317_000830	{@st41}Aplicar Imagem{/}
 UI_20150317_000831	{#FFFFFF}{ds}Selecionar Evento
 UI_20150317_000832	{#FFFFFF}{ds}Editar Evento
 UI_20150317_000833	{ol}Lista
-UI_20150317_000834	TO nome do grupo para salvar
-UI_20150317_000835	{@st42}Criar novo{/}
-UI_20150317_000836	{@st41}Regeneração de grupo{/}
+UI_20150317_000834	O nome do grupo que será salvo
+UI_20150317_000835	{@st42}Criar Novo{/}
+UI_20150317_000836	{@st41}Regeneração do Grupo{/}
 UI_20150317_000837	{@st59}Insira o nome do monstro para pesquisar{/}
 UI_20150317_000838	{@st59}Insira o nome do grupo para salvar{/}
 UI_20150317_000839	{@st41}Novo grupo{/}
@@ -844,15 +844,15 @@ UI_20150317_000843	Lista de Classes
 UI_20150317_000844	Aplicar no XML
 UI_20150317_000845	{#FFFFFF}{ds}Registro
 UI_20150317_000846	{#FFFFFF}{ds}Ver todas as propriedades
-UI_20150317_000847	Insira a palavra para pesquisa
+UI_20150317_000847	Insira uma Palavra Chave para Pesquisa
 UI_20150317_000848	Todos os valores de atributo
 UI_20150317_000849	{ol}Nome
 UI_20150317_000850	{ol}Valor
-UI_20150317_000851	Log
+UI_20150317_000851	$Registro
 UI_20150317_000852	{ol}Revisão
-UI_20150317_000853	{ol}Log
+UI_20150317_000853	{ol}Registro
 UI_20150317_000854	Lista de Classe
-UI_20150317_000855	XML Conversação
+UI_20150317_000855	XML Conversa
 UI_20150317_000856	{ol}Nome da Classe
 UI_20150317_000857	{ol}Nome da Propriedade
 UI_20150317_000858	{ol}Valor Alterado
@@ -862,8 +862,8 @@ UI_20150317_000861	Checar tudo
 UI_20150317_000862	História
 UI_20150317_000863	Valor de Retorno
 UI_20150317_000864	{ol}Selecionar Item
-UI_20150317_000865	Coloque o nome que deseja procurar
-UI_20150317_000866	{@st42} OK {/}
+UI_20150317_000865	Coloque o nome que deseja pesquisar
+UI_20150317_000866	{@st42}Confirmar{/}
 UI_20150317_000867	{@st41}Criar UI{/}
 UI_20150317_000868	{ol}Frame
 UI_20150317_000869	{@st41}Frame{/}
@@ -871,7 +871,7 @@ UI_20150317_000870	{@st41}Botão{/}
 UI_20150317_000871	{@st41}Texto{/}
 UI_20150317_000872	{@st42b}Normal{img btn_close}
 UI_20150317_000873	{@st42b}Leilão{img btn_close}
-UI_20150317_000874	{@st41}Ativar localização no mapa{/}
+UI_20150317_000874	{@st41}Selecione Localização no Mapa{/}
 UI_20150317_000875	{@st41}Renomear{/}
 UI_20150317_000876	{@st59}Coloque as letras que deseja filtrar{/}
 UI_20150317_000877	{@st41}Criar{/}
@@ -882,56 +882,56 @@ UI_20150317_000881	{@st56}Valor{/}
 UI_20150317_000882	{@st42}Conteúdo{/}
 UI_20150317_000883	{@st41}Desfazer{/}
 UI_20150317_000884	{@st41}Salvar tudo{/}
-UI_20150317_000885	{@st41}XML Aberto{/}
-UI_20150317_000886	{@st42b}Habilidade fixa : 0{/}
+UI_20150317_000885	{@st41}Abrir XML{/}
+UI_20150317_000886	{@st42b}Habilidade Fixa : 0{/}
 UI_20150317_000887	{@st42b}Habilidade fixa : %s{/}
-UI_20150317_000888	{@st42b}Mouse homing{/}
+UI_20150317_000888	{@st42b}Migrar Mouse{/}
 UI_20150317_000889	{@st42b}Nome da Habilidade{/}
-UI_20150317_000890	{@st41}Lista de mosntros{/}
-UI_20150317_000891	{@st41}Gerenciar performance{/}
+UI_20150317_000890	{@st41}Lista de Monstros{/}
+UI_20150317_000891	{@st41}Gerenciar Performance{/}
 UI_20150317_000892	{ol}Selecione a quest
-UI_20150317_000893	Coloque o nome da quest que deseja procurar
+UI_20150317_000893	Coloque o nome da quest que deseja pesquisar
 UI_20150317_000894	{ol}Selecione o mapa
-UI_20150317_000895	Coloque o nome do mapa que você deseja procurar.
+UI_20150317_000895	Coloque o nome do mapa que você deseja pesquisar.
 UI_20150317_000896	{@st42}Mapa atual{/}
 UI_20150317_000897	{ol}Nome do mapa
 UI_20150317_000898	{ol}Coordenadas
-UI_20150317_000899	{@st41}Alterar premios da quest{/}
-UI_20150317_000900	{@st59}Coloque o nome da quest que deseja procurar{/}
-UI_20150317_000901	{@st59}Coloque o nome do item que deseja procurar{/}
+UI_20150317_000899	{@st41}Alterar Recompensas da Quest{/}
+UI_20150317_000900	{@st59}Coloque o nome da quest que deseja pesquisar{/}
+UI_20150317_000901	{@st59}Coloque o nome do item que deseja pesquisar{/}
 UI_20150317_000902	{@st42}EXP
-UI_20150317_000903	{ol}Prêmios Básicos
-UI_20150317_000904	{ol}Quantidades
-UI_20150317_000905	{ol}Premios adicionais
+UI_20150317_000903	{ol}Recompensas Básicos
+UI_20150317_000904	{ol}Quantidade
+UI_20150317_000905	{ol}Recompensas Adicionais
 UI_20150317_000906	{@st45}Truques usados com frequencia
 UI_20150317_000907	{@st41}Mapa de Habilidades{/}
-UI_20150317_000908	{@st42}Capacidade/habilidade{/}
+UI_20150317_000908	{@st42}Habilidade{/}
 UI_20150317_000909	{@st42}Guerreiro{/}
-UI_20150317_000910	{@st42}Mago{/}
+UI_20150317_000910	{@st42}Bruxo{/}
 UI_20150317_000911	{@st42}Arqueiro{/}
 UI_20150317_000912	{@st42}Monge{/}
 UI_20150317_000913	{@st42}Sorcerer{/}
-UI_20150317_000914	{@st41}Habilidade{/}
-UI_20150317_000915	{@st59}Carregar Xml{/}
-UI_20150317_000916	{@st41}Carregar{/}
-UI_20150317_000917	{@st59}Salvar como xml{/}
-UI_20150317_000918	{@st59}Resetar mapa de habilidade aberto{/}
-UI_20150317_000919	 {@st41}Resetar{/}
-UI_20150317_000920	{@st59}Reset todos os mapas de habilidade{/}
-UI_20150317_000921	{@st41}Reset tudo{/}
-UI_20150317_000922	{S18}Remover script
-UI_20150317_000923	{S18}String argumento
-UI_20150317_000924	{s18}string 1 argumento
-UI_20150317_000925	{s18}string 2 argumento
-UI_20150317_000926	{s18}level máximo de habilidade
-UI_20150317_000927	{@st59}Remover tipo de caixa de script{/}
-UI_20150317_000928	{@st59}Remover argumento de script{/}
-UI_20150317_000929	{@st59}Level máximo de Habilidade{/}
-UI_20150317_000930	{@st59}Salvar propriedade{/}
-UI_20150317_000931	{@st41}Salvar propriedade{/}
+UI_20150317_000914	{memo X}{@st41}Habilidade{/}
+UI_20150317_000915	{memo X}{@st59}Carregar XML{/}
+UI_20150317_000916	{memo X}{@st41}Carregar{/}
+UI_20150317_000917	{memo X}{@st59}Salvar como XML{/}
+UI_20150317_000918	{memo X}{@st59}Resetar mapa de habilidade aberto{/}
+UI_20150317_000919	{memo X}{@st41}Resetar{/}
+UI_20150317_000920	{memo X}{@st59}Reset todos os mapas de habilidade{/}
+UI_20150317_000921	{memo X}{@st41}Reset tudo{/}
+UI_20150317_000922	{memo X}{S18}Remover script
+UI_20150317_000923	{memo X}{S18}String argumento
+UI_20150317_000924	{memo X}{s18}String 1 argumento
+UI_20150317_000925	{memo X}{s18}String 2 argumento
+UI_20150317_000926	{memo X}{s18}Level máximo de habilidade
+UI_20150317_000927	{memo X}{@st59}Remover scrpit: Caixa de Digitação{/}
+UI_20150317_000928	{memo X}{@st59}Remover script: Argumento{/}
+UI_20150317_000929	{memo X}{@st59}Level máximo de Habilidade{/}
+UI_20150317_000930	{memo X}{@st59}Salvar propriedade{/}
+UI_20150317_000931	{memo X}{@st41}Salvar propriedade{/}
 UI_20150317_000932	{@st44}Lista de UI{/}
-UI_20150317_000933	{ds}Lista de Addon
-UI_20150317_000934	{ds}Lista de frame fixo
+UI_20150317_000933	{ds}Lista de Complementos
+UI_20150317_000934	{ds}Lista de frame fixado
 UI_20150317_000935	{@st42}Lista de UI{/}
 UI_20150317_000936	{@st59}Mostra lista de UI{/}
 UI_20150317_000937	{@st42}Ajustar localização{/}
@@ -942,12 +942,12 @@ UI_20150317_000941	{@st42}Salvar{/}
 UI_20150317_000942	{@st59}Salvar{/}
 UI_20150317_000943	{@st44}Ediar as propriedades da UI{/}
 UI_20150317_000944	{@St59}Selecionar Personagem{/}
-UI_20150317_000945	{@St59}Mudar servidor{/}
+UI_20150317_000945	{@St59}Deslogar{/}
 UI_20150317_000946	{@St59}Configurações{/}
 UI_20150317_000947	{@St59}Sair{/}
-UI_20150317_000948	{@st43}Opções do alojamento{/}
-UI_20150317_000949	{@st59}Fechar opções do alojamento{/}
-UI_20150317_000950	{@St42}{s18}{#f5c384}Nome do time{/}
+UI_20150317_000948	{@st43}Opções do Alojamento{/}
+UI_20150317_000949	{@st59}Fechar opções do Alojamento{/}
+UI_20150317_000950	{memo X}{@St42}{s18}{#f5c384}Nome do Time{/}
 UI_20150317_000951
 UI_20150317_000952
 UI_20150317_000953
