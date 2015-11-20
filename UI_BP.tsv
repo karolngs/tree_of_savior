@@ -1518,7 +1518,7 @@ UI_20150428_001517	{@st41b}Remover Gema
 UI_20150428_001518	{@st42}{s14}{#ffff00}Modo da UI{/}
 UI_20150428_001519	{@st59}Use o Teclado ou Joypad Para controlar a UI
 UI_20150428_001520	Usar procura de Grupos
-UI_20150428_001521	Quando um jogador corresponde as condições do seu grupo, a menssagem [Grupo correspondente encontrado!] será mostrada.
+UI_20150428_001521	Quando um jogador corresponder às condições do seu grupo, a mensagem [Grupo correspondente encontrado!] será mostrada.
 UI_20150428_001522	{@st41}Estilo de Jogo{/}
 UI_20150428_001523	Quest
 UI_20150428_001524	Caça
@@ -1542,11 +1542,11 @@ UI_20150428_001541	Joypad
 UI_20150428_001542	{@st59}Info do Joypad{/}
 UI_20150428_001543	Teclado
 UI_20150428_001544	{@st59}Info do Teclado{/}
-UI_20150428_001545	{@st43}Opções de Gráfico{/}
+UI_20150428_001545	{@st43}Configurações Gráficas{/}
 UI_20150428_001546	{@st43}Performance{/}
 UI_20150428_001547	{@st41b}Modo de Baixa Performance{/}
-UI_20150428_001548	{@st41b}Auto Ajutar{/}
-UI_20150428_001549	{@st41b}Não use{/}
+UI_20150428_001548	{@st41b}Auto Ajustar{/}
+UI_20150428_001549	{@st41b}Não usar{/}
 UI_20150428_001550	FAQ do Jogo
 UI_20150428_001551
 UI_20150428_001552
