@@ -1700,10 +1700,10 @@ UI_20150717_001699
 UI_20150717_001700
 UI_20150717_001701	{@st59}Organizar inventário{/}
 UI_20150717_001702	Organizar
-UI_20150717_001703	{@st59}Fechar informações de controle pelo Joystick.{/}
-UI_20150717_001704	{@st59}Fechar informações de controle pelo teclado.{/}
+UI_20150717_001703	{@st59}Fechar informações de controle do Joypad.{/}
+UI_20150717_001704	{@st59}Fechar informações de controle do teclado.{/}
 UI_20150717_001705	Tutorial do mouse
-UI_20150717_001706	{@st59}Fechar informações de controle pelo mouse.{/}
+UI_20150717_001706	{@st59}Fechar informações de controle do mouse.{/}
 UI_20150717_001707	Ataque : %s
 UI_20150717_001708	Defesa  : %s
 UI_20150717_001709	STR : %s
@@ -1711,45 +1711,45 @@ UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
-UI_20150717_001714	{@st42}{b}  Para espadachins, aperte duas vezes para correr{/}
-UI_20150717_001715	{@st42}Detalhes do grupo{/}
-UI_20150717_001716	{@st42}Iserir tag de grupo
+UI_20150717_001714	{@st42}{b}A classe espadachim e evoluções pode correr ao pressionar duas vezes as setas de movimento{/}
+UI_20150717_001715	{@st42}Nome e descrição do Grupo{/}
+UI_20150717_001716	{@st42}Iserir tag do grupo
 UI_20150717_001717	{@st41b}Lista de grupo pública{/}
-UI_20150717_001718	{@st41b}Personagens recomendados{/}
-UI_20150717_001719	{@st41b}Procurar
-UI_20150717_001720	Isto pode apenas ser usado por liders de grupo.
+UI_20150717_001718	{@st41b}Lista de Personagens Recomendados{/}
+UI_20150717_001719	{@st41b}Receber Recomendação
+UI_20150717_001720	Pode ser usado apenas por lideres de grupo.
 UI_20150717_001721	Você precisa usar a função de recomendação de membros para grupo.
 UI_20150717_001722	{@st66b}Nome da quest de classe{/}
-UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Click-Direito e entre a quatidade que deseja comprar/vender{nl} - Click-Direito para vender todos os itens{/}
+UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Click-Direito e entre a quatidade que deseja comprar/vender{nl} - Click-Direito duas vezes para vender todos os itens{/}
 UI_20150717_001724	{@st59}Info do Mouse{/}
 UI_20150717_001725	{@st66b}Organizar
 UI_20150717_001726	{@st59}Organizar itens.{/}
-UI_20150717_001727	{@st59}Equipar Arma{nl}Alt+Z para mudar armas{/}
-UI_20150717_001728	Ver como observador
-UI_20150717_001729	{@st41}Batalha de campo
+UI_20150717_001727	{@st59}Equipe armas neste slot{nl}Aperte Alt+Z para trocar de armas{/}
+UI_20150717_001728	Observar outro jogador
+UI_20150717_001729	{@st41}Campo de Batalha
 UI_20150717_001730	Resultados
 UI_20150717_001731	{@st41}Mover imediatamente
-UI_20150717_001732	{@St41b}       O nome do time que representa os seus personagens.{nl}      É o nome comum usado junto ao jogo.{nl}               O nome do time pode ser mudado posteriormente.{/}
-UI_20150729_001733	{@st42}Mostrar apenas os disponíveis{/}
+UI_20150717_001732	{@St41b}       O nome do time representa todos os seus personagens.{nl}      É o nome comum usado junto ao jogo.{nl}               O nome do time pode ser mudado posteriormente.{/}
+UI_20150729_001733	{@st42}Mostrar apenas os talentos disponíveis{/}
 UI_20150729_001734	Contagem de pés
-UI_20150729_001735	Altura
+UI_20150729_001735	Chave
 UI_20150729_001736	Peso
-UI_20150729_001737	{@st43}Aprimorar Gema{/}
+UI_20150729_001737	{@st43}Polir Gema{/}
 UI_20150729_001738	{@st59b}Criação de itens{nl}{@st59s} - Você pode criar itens usando suas receitas{nl} - Coloque a receita e os materiais no slot de criação{nl} - Você pode selecionar um nome e uma descrição para o item{/}
 UI_20150729_001739	{@st59}Fechar criação de flechas.{/}
 UI_20150729_001740	Fragmentos Necessários : Mutante %s / Besta %s / Planta %s
 UI_20150729_001741	{@st42b}Espadachins e evoluções podem correr clicando duas vezes nas setas.{/}
 UI_20150729_001742	{@st41}Opções de grupo
-UI_20150729_001743	{@st41}opções de formação de grupo
+UI_20150729_001743	{@st41}Opções de recrutamento do grupo
 UI_20150729_001744	{@st42}Função de localização de grupos{/}
-UI_20150729_001745	Se houver um jogador dentro das condições aplicadas, a menssagem [Condições para grupo encontradas!] será mostrada.
-UI_20150729_001746	{@st41b}Lista de jogadores{/}
+UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a menssagem [Grupo Feito!] será mostrada.
+UI_20150729_001746	{@st41b}Lista de jogadores recomendados{/}
 UI_20150729_001747	{@st41}Informações dos atributos
 UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
-UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de quest podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas podem ser aprimoradas usando outras cartas{/}
-UI_20150729_001750	{#000000}{s22}Esperando para entrar no servidor..
-UI_20150729_001751	{#000000}{s22}Servidor cheio. Na fila para entrar.
-UI_20150729_001752	{#000000}{s22}Rank atual : %s
+UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de quest podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas podem apenas serem aprimoradas usando outras cartas{/}
+UI_20150729_001750	{memo X}{#000000}{s22}Fila do Servidor
+UI_20150729_001751	{memo X}{#000000}{s22}Servidor cheio. Entrando na Fila.
+UI_20150729_001752	{memo X}{#000000}{s22}Posição atual : %s
 UI_20150729_001753	{@st43}Liga de batalha em grupo
 UI_20150729_001754	{@st59}Fechar liga de batalha em grupo
 UI_20150729_001755	{@st42}Cronograma da liga de batalha em grupo
@@ -1757,24 +1757,24 @@ UI_20150729_001756	{@st43}Ranks da liga de batalha em grupo
 UI_20150729_001757	{@st59}Fechar Rank da Liga de Batalhas em Grupo
 UI_20150729_001758	Nome do Time
 UI_20150729_001759	{@st41b}Nome da habilidade
-UI_20150729_001760	{@st59}Aceitar missão em grupo{/}
+UI_20150729_001760	{@st59}Aceitar missão de grupo{/}
 UI_20150729_001761	{@st59}Deletar este ticket.{/}
 UI_20150729_001762	Pontuação
 UI_20150729_001763	Entre na Liga de batalha em grupo
 UI_20150730_001764	{@st56}Meu Rank
 UI_20150730_001765	{@st56}Rank de Mortes
 UI_20150730_001766	{@st56}Rank de dano
-UI_20150803_001767	Geral: /s chat{nl}Gritar: /y chat {nl}Grupo: /p chat{nl} Msg.Priv: /w TeamName Chat
+UI_20150803_001767	Geral: /s chat{nl}Gritar: /y chat {nl}Grupo: /p chat{nl} Msg.Priv: /w Nome, Chat
 UI_20150803_001768	{@st66b}Vibrar Controle{/}
 UI_20150803_001769	Partida encontrada. Por favor espere o jogo começar.
-UI_20150804_001770	{@st43}{s18}Selecione o personagem.{/}
-UI_20150804_001771	$Sockets Máximo: %s
+UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Escolha o personagem que receberá o item(s).{/}
+UI_20150804_001771	$Soquetes Máximo: %s
 UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{memo X}
 UI_20150807_001774	{memo X}
 UI_20150918_001775	Duração do acampamento
 UI_20150918_001776	Efeito
-UI_20150918_001777	A duração do acampamento aumenta quando é renovado{nl} requer %s pratas.
+UI_20150918_001777	A duração do acampamento aumenta quando é renovado{nl} Requer %s pratas.
 UI_20150918_001778	Armazem pessoal
 UI_20150918_001779	{@st41b}Tipo : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Dificuldade : {@sti7}%s{/}
@@ -1785,11 +1785,11 @@ UI_20150918_001784	{#000000}Nome do Calabouço{/}
 UI_20150918_001785	{#000000}Level para entrar{/}
 UI_20150918_001786	{#000000}Contador de entrada{/}
 UI_20150918_001787	{#000000}O número de entradas vai resetar em %s.{/}
-UI_20150918_001788	{img prata 20 20} Preço				
-UI_20150918_001789	Grupos Próximos				
+UI_20150918_001788	{img prata 20 20} Preço
+UI_20150918_001789	Grupos Próximos
 UI_20150918_001790	Fragmentos necesários: %s
-UI_20150918_001791	{@st66b}Vazio			
-UI_20150918_001792	{@st42}Mostrar grupos próximos{/}			
+UI_20150918_001791	{@st66b}Vazio
+UI_20150918_001792	{@st42}Mostrar grupos próximos{/}	
 UI_20150918_001793	Amizade com {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Amizade	
 UI_20150918_001795	{@st41b}Obtido material para criar o item!
@@ -1801,11 +1801,11 @@ UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}
 UI_20150918_001801	{@st66b}Tentar denovo{/}
 UI_20150918_001802	{@st66b}Itens vendidos{/}
 UI_20150918_001803	{@st53}Pontos do rank:				
-UI_20150918_001804	Total inegociável:			
-UI_20150918_001805	{@st42b}Checar Dialogo{/}				
-UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}			
-UI_20150918_001807	{@st41b}Alterar título		
-UI_20150918_001808	{@sti9}Meu rank			
+UI_20150918_001804	Total inegociável:
+UI_20150918_001805	{@st42b}Checar Dialogo{/}
+UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}
+UI_20150918_001807	{@st41b}Alterar título
+UI_20150918_001808	{@sti9}Meu rank
 UI_20150918_001809	{@sti9}Rank de mortes		
 UI_20150918_001810	{@sti9}Rank de dano		
 UI_20151001_001811	{@st43}Configurar atalhos{/}		
@@ -1813,7 +1813,7 @@ UI_20151001_001812	{@st45tw2}Categoria	{@st45tw2}
 UI_20151001_001813	Ação				
 UI_20151001_001814	Restaurar padrões		
 UI_20151016_001815	{@st59}O item selecionado será bloqueado{/}
-UI_20151016_001816	{@st59}Você pode mudar o tema da sua casa e checar previamente
+UI_20151016_001816	{@st59}Você pode checar novos temos para sua casa antes de compra-los.
 UI_20151016_001817	%s Personagens{/}
 UI_20151016_001818	{@st42b}Checar
 UI_20151016_001819	{@st42b}Voltar
@@ -1826,5 +1826,5 @@ UI_20151016_001825	Notícia
 UI_20151022_001826	{@st41}Fila do Servidor
 UI_20151022_001827	{#000000}{s18}O servidor está cheio. Entrando na fila.
 UI_20151022_001828	{#000000}{s18}Posição atual : %s
-UI_20151022_001829	{@st66b}Efeitos dos outros personagens
-UI_20151102_001830	Ouro
+UI_20151022_001829	{@st66b}Mostrar efeito de outros personagens
+UI_20151102_001830	Moedas
