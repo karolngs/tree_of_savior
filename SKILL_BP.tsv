@@ -1111,7 +1111,7 @@ SKILL_20150317_001110	{memo X}${#993399}{ol}[Magia] - [Gelo] - [Perfurante] {/} 
 SKILL_20150317_001111	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Congelamento]{/}{/} Duração 4 segundos
 SKILL_20150317_001112	{memo X}$Cria uma barreira de gelo com a chance de congelar os inimigos.
 SKILL_20150317_001113	{memo X}Barreira de Gelo #{CaptionRatio}# {nl}{#339999}{ol}[Gelo]{/}{/}{nl} Duração 3 segundos {nl} Duração da Barreira de Gelo 10 segundos
-SKILL_20150317_001114	$Explosão Gelada
+SKILL_20150317_001114	$Explosão Glacial
 SKILL_20150317_001115	{memo X}${#993399}{ol}[Magia] - [Gelo]{/}{/}{nl} Inflinge dano ao quebrar um inimigo congelado.
 SKILL_20150317_001116	${#339999}{ol}[Gelo]{/}{/} Ataque à Alvos #{SkillAtkAdd}#
 SKILL_20150317_001117	{memo X}$Cria uma barreira de gelo que temporáriamente defende contra ataques de inimigos.
