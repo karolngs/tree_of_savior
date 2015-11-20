@@ -1409,7 +1409,7 @@ UI_20150401_001408	{@st43}Habilidade{/}
 UI_20150401_001409	{@st43}Dica de Classe{/}
 UI_20150401_001410	Dica de Classe
 UI_20150401_001411	{@st42}{#ffff00}Travar Alvo {/}
-UI_20150401_001412	{@st41}Remover Tabela
+UI_20150401_001412	{@st41}Remover Mesa
 UI_20150401_001413	{@st43}Tingindo{/}
 UI_20150401_001414	Atalho do Joystick
 UI_20150401_001415	{@st42}{#ffff00}Modo Teclado{/}
@@ -1459,12 +1459,12 @@ UI_20150406_001458	{@st42}Cancelar
 UI_20150406_001459	{@stc1}Duração do acampamento
 UI_20150406_001460	{@st41b}Acampamento
 UI_20150406_001461	{@st41b}Duração do acampamento
-UI_20150406_001462	{@st42b}Acampamento dura mais 24 horas quando renovado. {nl}%s pratas serão consumidas.
+UI_20150406_001462	{@st42b}O acampamento dura mais 24 horas quando renovado. {nl}%s pratas serão consumidas.
 UI_20150406_001463	{@st41}Remover Acampamento
 UI_20150406_001464	{@st42}Remover Tabela
 UI_20150406_001465	{@st59b}Grimório{nl}{@st59s} - Coloque uma carta no deck para iniciar a invocação{/}
 UI_20150406_001466	{@st41}Habilidades da minha invocação
-UI_20150406_001467	{@st41}Statu
+UI_20150406_001467	{@st41}Status
 UI_20150406_001468	{@st41b}Nome da Caixa de Ofertas
 UI_20150406_001469	{@st41b}Detalhes da Caixa de Ofertas
 UI_20150406_001470	{@st59}Fechar Loja de Compras
@@ -1473,7 +1473,7 @@ UI_20150406_001472	{@st41b}Outro item requisitado do jogador{/}
 UI_20150406_001473	{@st41b}Itens Disponíveis{/}
 UI_20150406_001474	{@st41b}Vendas Totais
 UI_20150406_001475	{@st41b}Vender
-UI_20150406_001476	{@st59}Vender o Item(s) que você adicionou.{/}
+UI_20150406_001476	{@st59}Vender o(s) Item(s) que você adicionou.{/}
 UI_20150406_001477	{@st59}Fechar Armazem{/}
 UI_20150406_001478	{@st41b} %s prata é consumida quando você usa o armazem.{/}
 UI_20150406_001479	{@st41b}Quantidade
@@ -1490,7 +1490,7 @@ UI_20150414_001489	{@st44}{s26}Level
 UI_20150414_001490	{@st59b}{s26}cada
 UI_20150414_001491	{@st41b}Cozinhar
 UI_20150414_001492	{@st41b}Comida
-UI_20150414_001493	{@st42}Remover Tabela
+UI_20150414_001493	{@st42}Remover Mesa
 UI_20150414_001494	{@st41b}Registros{/}
 UI_20150414_001495	{@st41}Descrição de Grupo
 UI_20150414_001496	{@st41b}Entrar{/}
@@ -1501,7 +1501,7 @@ UI_20150428_001500	{@st41b}Reporte BUG
 UI_20150428_001501	{@st59}Nos notifique sobre bugs e problemas{/}
 UI_20150428_001502	Quando você reporta um bug, o seu gameplay até aquele ponto será enviado para o nosso servidor. O arquivo de replay irá ajudar muito com o conserto do BUG. Deseja enviar?
 UI_20150428_001503	{@st41b}Descrição do BUG :{/}
-UI_20150428_001504	{@st41b}Colocar uma descrição não é obrigatório, mas irá nos ajudar muito na analize do BUG.
+UI_20150428_001504	{@st41b}Colocar uma descrição não é obrigatório, mas irá nos ajudar muito na análise do BUG.
 UI_20150428_001505	{@st41b}Enviar
 UI_20150428_001506	{@st42}{s14}{#ffff00}Travar Alvo{/}
 UI_20150428_001507	{@st59}Trava o alvo independente de distancia ou direção
