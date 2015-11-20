@@ -815,9 +815,9 @@ QUEST_20150317_000814	$Caution! What happens to you beyond this point is your re
 QUEST_20150317_000815	P.S. É melhor correr do que rezar para a Deusa caso você encontre Golems.
 QUEST_20150317_000816	As Deusas desapareceram. {n1}Mas se lutarmos bravamente contra os demônios, talvez as Deusas retornarão algum dia. {n1} - Laimonas
 QUEST_20150317_000817	Atenção àqueles que vêm para Klaipeda depois de sonharem com a Revelação. {n1}O Cavaleiro Uska está esperando por vocês no Central Plaza.
-QUEST_20150317_000818	Bem-vindos ao Klaipeda Shopping Center. {n1}Você pode comprar uma variedade de acessórios, ferramentas, equipamentos e outros itens.
-QUEST_20150317_000819	Use as escadas à direita para ir ao Klaipeda Central Plaza.
-QUEST_20150317_000820	Klaipeda Central Plaza
+QUEST_20150317_000818	Bem-vindos ao Centro Comercial de Klaipeda. {n1}Você pode comprar uma variedade de acessórios, ferramentas, equipamentos e outros itens.
+QUEST_20150317_000819	Use as escadas à direita para ir ao Parque Central de Klaipeda.
+QUEST_20150317_000820	Parque Central de Klaipeda
 QUEST_20150317_000821	Quadro de Avisos
 QUEST_20150317_000822	Bosques de Siauliai Leste
 QUEST_20150317_000823	{memo X}Não se sabe à quem a estátua honra ou quão antiga ela é. {n1} Mas ela certamente possui poderes misteriores que move pessoas selecionadas para outras áreas.
@@ -830,7 +830,7 @@ QUEST_20150317_000829	Como eu poderia lhe esquecer… {nl}Por favor, não vague 
 QUEST_20150317_000830	Aviso de Feriado
 QUEST_20150317_000831	Eu fui alistado no exército para salvar o reino. {n1}Portanto, o restaurante estará fechado nesse meio tempo. {n1} - Dono do Restaurante de Especiarias de Klaipeda, Vulinya
 QUEST_20150317_000832	$Não apague as velas. {n1}Elas guiam os espíritos para que eles não se percam.
-QUEST_20150317_000833	Como você sabe, o Rei morreu em Medzio Diena e o destino dos outros nobres e membros da realeza não foi diferente. {n1}O reino está se segurando em pé de algum jeito mas… agora nós só podemos rezar.
+QUEST_20150317_000833	Como você sabe, o Rei morreu em Medzio Diena e o destino dos outros nobres e membros da realeza não foi diferente. {n1}O reino está resistindo de algum jeito mas… agora nós só podemos rezar.
 QUEST_20150317_000834	{memo X}Agora nós só podemos rezar…
 QUEST_20150317_000835	Quando o pináculo banhar-se com uma luz vermelha, a… porta… para a fantasia há de se abrir.
 QUEST_20150317_000836	Testamento do Rei Zachariel
@@ -838,8 +838,8 @@ QUEST_20150317_000837	{memo X}Querido Revelador. {nl}Ouça as interpretações d
 QUEST_20150317_000838	Hmpf… {nl}Quem diria que eu seria desafiado por humanos…
 QUEST_20150317_000839	Sua morte há de ser derradeiramente dolorosa!
 QUEST_20150317_000840	Informativo de Recrutamento de Soldados
-QUEST_20150317_000841	Nós queremos você! {nl}Projeta sua família e seu reino. {nl} - Estação de Recrutamento de Klaipeda
-QUEST_20150317_000842	Estamos buscando jovens bravos que trarão ordem a esses tempos caóticos. {n1}O mundo precisa de você! {n1} - Estação de Recrutamento de Klaipeda
+QUEST_20150317_000841	Nós queremos você! {nl}Proteja sua família e seu reino. {nl} - Estação de Recrutamento de Klaipeda
+QUEST_20150317_000842	Estamos buscando bravos jovens que trarão ordem a esses tempos caóticos. {n1}O mundo precisa de você! {n1} - Estação de Recrutamento de Klaipeda
 QUEST_20150317_000843	Honra. {nl}É disso que seu uniforme será feito. {nl} - Estação de Recrutamento de Klaipeda
 QUEST_20150317_000844	Atenção! Proibida a entrada de civis.
 QUEST_20150317_000845	{memo X}Somente pessoas autorizadas são permitidas.
@@ -849,7 +849,7 @@ QUEST_20150317_000848	{memo X}Os soldados morrerão se eu não conseguir. {nl}Pr
 QUEST_20150317_000849	Eu consigo. {nl}Dessa vez, eu matarei Gaigalas.
 QUEST_20150317_000850	$Infelizmente, eu não consigo resolver isso por você. É a vontade de Maven. {nl}Porém, eu posso lhe dar alguns conselhos.
 QUEST_20150317_000851	{memo X}A Grande Catedral foi construída por Silvestro Maven há 660 anos.
-QUEST_20150317_000852	A maldição de Naktis… Somente maldições continuam onde ela trilha. {nl}E agora ela está invadindo a Grande Catedral procurando pela Revelação.
+QUEST_20150317_000852	A maldição de Naktis… Somente maldições se perpetuam por onde ela trilha. {nl}E agora ela está invadindo a Grande Catedral procurando pela Revelação.
 QUEST_20150317_000853	{memo X}Tentamos ao máximo impedí-los até sua chegada. {nl}Mas como você pode ver, chegamos ao nosso limite.
 QUEST_20150317_000854	Mesa da Capela
 QUEST_20150317_000855	{memo X}…Só depois de três anos desde que Ruklys aprendeu com meus ensinamentos…
@@ -879,7 +879,7 @@ QUEST_20150317_000878	{memo X}Não entregarei a Revelação para meros humanos!
 QUEST_20150317_000879	{memo X}Revelação da Catedral
 QUEST_20150317_000880	{memo X}Interpretação da Revelação
 QUEST_20150317_000881	$Há mil anos, antes de sua geração… {n1}Esta é a história do tempo anterior a eu ter deixado a Revelação com o Grande Rei Zachariel.
-QUEST_20150317_000882	$Esta terra era repleta de caos quando o Grande Rei Zachariel tentou levantar um novo reino. {n1}Somente um lugar parecer se encher de vida, e Zachariel desejada este lugar.
+QUEST_20150317_000882	$Esta terra era repleta de caos quando o Grande Rei Zachariel tentou levantar um novo reino. {n1}Somente um lugar parecer se encher de vida, e era esse lugar que Zachariel desejava.
 QUEST_20150317_000883	$Mas o futuro que vi naquela terra era somente de morte e arrependimento. {n1}Então, eu deixei uma profecia que fez a capital se mudar para outro lugar quando o reino chegou a mil anos de idade.
 QUEST_20150317_000884	$Agora é a vez dos humanos de cumprir aquela profecia. {n1}O fim se encontra após a névoa.
 QUEST_20150317_000885	$Eu planejo deixar o final desta história na próxima Revelação. {n1}Ache minha revelação na Torre dos Magos.
@@ -888,7 +888,7 @@ QUEST_20150317_000887	$Ainda existem mais chaves para encontrar. {n1}É um alív
 QUEST_20150317_000888	{memo X}O que uma vez acomodou as Deusas está agora repleto de demônios. {n1}Maven, o primeiro bispo, ficaria muito triste com isso.
 QUEST_20150317_000889	$Insira as Relíquias que combinam com cada altar. {n1}Então você conseguirá pegar a primeira chave de Maven.
 QUEST_20150317_000890	Primeiro, prepare-se. {n1}Os Goblins de Madeira atacarão em breve.
-QUEST_20150317_000891	{memo X}A Catedral costumava ser onde nós adorávamos a Deusa. {n1}Agora se tornou em um ninho de demônios…
+QUEST_20150317_000891	{memo X}A Catedral costumava ser onde nós adorávamos a Deusa. {n1}Agora, se transformou em um ninho de demônios…
 QUEST_20150317_000892	{memo X}É uma chave. Vá até o Altar de Veiniky. {n1}O dispositivo de Maven pode ser encontrado lá.
 QUEST_20150317_000893	{memo X}Os subordinados de Naktis ficaram desorientados.
 QUEST_20150317_000894	{memo X}Presumo que essa é a chave que liberta o dispositivo no Altar de Veiniky.
