@@ -1056,7 +1056,7 @@ SKILL_20150317_001055	$Preparar para Atacar
 SKILL_20150317_001056	$Murmillo 1
 SKILL_20150317_001057	$Murmillo 2
 SKILL_20150317_001058	$Se defense contra ataque de inimigos.
-SKILL_20150317_001059	{memo X}Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Esquiva {CaptionRatio}#%
+SKILL_20150317_001059	{memo X}Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Aparar o Golpe {CaptionRatio}#%
 SKILL_20150317_001060	{memo X}Use o ombro para afastar o inimigo.
 SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Impacto]{/}{/} Atributo{nl} Ataque #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl} SP Consumido #{SpendSP}#
 SKILL_20150317_001062	{memo X}Aumenta o Poder de derrubada.
