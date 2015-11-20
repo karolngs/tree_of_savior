@@ -261,7 +261,7 @@ SKILL_20150317_000260	[Spion] Físico, Impacto, Propriedade Veneno, Ataca Duas V
 SKILL_20150317_000261	[Bat] Físico, Impacto, Propriedade Sombria, Impacta com as Asas
 SKILL_20150317_000262	[Shredded] Mágico, Mágico, Propriedade Sombria
 SKILL_20150317_000263	[Yekubite] Físico, Impacto, Propriedade Gelo, Bate com a Cabeça
-SKILL_20150317_000264	[Pedaço de Estátua] Físico, Perfurante, Propriedade Elétrica, Impacto de Asas
+SKILL_20150317_000264	[Estátua Quebrada] Físico, Perfurante, Propriedade Elétrica, Impacto de Asas
 SKILL_20150317_000265	[Cire] Físico, Impacto, Propriedade Elétrica, Ataque
 SKILL_20150317_000266	[Treegool] Físico, Impacto, Propriedade Sombria, Ataque
 SKILL_20150317_000267	[Ammon] Físico, Cortante, Ataque de Propriedade Terra
@@ -283,20 +283,20 @@ SKILL_20150317_000282	[Incursor Kepa] Físico, Impacto, Propriedade Sombria, Ata
 SKILL_20150317_000283	[Mushcarfung] Físico, Impacto, Propriedade Sombria, Ataca com o Corpo
 SKILL_20150317_000284	[Homem de Madeira] Físico, Cortante, Propriedade Sombria, Ataque
 SKILL_20150317_000285	[Goblin de Madeira] Físico, Impacto, Propriedade Elétrica, Ataque
-SKILL_20150317_000286	[Stoneorca] Físico, Impacto, Propriedade Gelo, Cauda de Gancho
-SKILL_20150317_000287	[Stoneorca] Mágico, Aumentar Bloqueio, Buffa, Mágico
+SKILL_20150317_000286	[Orca de Pedra] Físico, Impacto, Propriedade Gelo, Cauda de Gancho
+SKILL_20150317_000287	[Orca de Pedra] Mágico, Aumentar Bloqueio, Buffa, Mágico
 SKILL_20150317_000288	[Drape] Físico, Perfurante, Ataque de Propriedade Veneno,
 SKILL_20150317_000289	[Infro Holder] Físico, Impacto, Propriedade Fogo, Ataque
 SKILL_20150317_000290	[Repusbunny] Físico, Cortante, Propriedade Gelo, Ataque
 SKILL_20150317_000291	[Armory] Físico, Impacto, Ataque de Propriedade Fogo
 SKILL_20150317_000292	[Hound] Físico, Perfurante, Ataque de Propriedade Sombria
 SKILL_20150317_000293	[Stoulet] Físico, Impacto, Ataque de Propriedade Sombria
-SKILL_20150317_000294	[Prisonfighter] Físico, Cortante, Ataque de Propriedade Sombria
+SKILL_20150317_000294	[Lutador da Prisão] Físico, Cortante, Ataque de Propriedade Sombria
 SKILL_20150317_000295	[Caro] Físico, Cortante, Propriedade Veneno, Ataque
 SKILL_20150317_000296	[Maggot] Físico, Impacto, Propriedade Sombria, Ataca com o corpo
 SKILL_20150317_000297	[Vubbe Perseguidor] Físico, Perfurante, Propriedade Sombria, Ataque Perfurante
 SKILL_20150317_000298	[Meduja Vermelha] Mágico, Mágico, Propriedade Fogo, Ataque
-SKILL_20150317_000299	[Avatar of Helgasecle] Magia Sombria
+SKILL_20150317_000299	[Avatar Helgasecle] Magia Sombria
 SKILL_20150317_000300	[Filibo] Físico, Impacto, Ataque de Propriedade Veneno
 SKILL_20150317_000301
 SKILL_20150317_000302
