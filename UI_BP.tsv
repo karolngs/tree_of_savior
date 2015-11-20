@@ -354,11 +354,11 @@ UI_20150317_000353	{ol}Som
 UI_20150317_000354	{@st41}Criar Minimapa{/}
 UI_20150317_000355	{@st55}Mapa da Área
 UI_20150317_000356	{@st43}{s22}Mercado{/}
-UI_20150317_000357	Mercado {@st43} {s24} {/}
-UI_20150317_000358	{@st42b}Grupo{/}
+UI_20150317_000357	{@st43}{s24}Mercado{/}
+UI_20150317_000358	{@st42b}Filtrar{/}
 UI_20150317_000359	{@st42b}Tipo{/}
-UI_20150317_000360	{@st42b}Equipar Lv.{/}
-UI_20150317_000361	{@st42b}Aprimorar{/}
+UI_20150317_000360	{@st42b}Level Req.{/}
+UI_20150317_000361	{@st42b}Level de Aprimoramento{/}
 UI_20150317_000362	{@st42b}Nome
 UI_20150317_000363	{@st41b}Itens à receber%s
 UI_20150317_000364	{@st41b}Vender
@@ -366,9 +366,9 @@ UI_20150317_000365	{@st41b}Pesquisar
 UI_20150317_000366	{@st59}Fechar janela de mercado{/}
 UI_20150317_000367	{@st42b}Organizar por
 UI_20150317_000368	{@st41b}Itens à venda
-UI_20150317_000369	{@st43}{s22}Item Cabinet
+UI_20150317_000369	{@st43}{s22}Itens à receber
 UI_20150317_000370	{@st41b}Receber tudo
-UI_20150317_000371	{@st41b} Itens à receber
+UI_20150317_000371	{@st41b}Itens à receber
 UI_20150317_000372	{@st43}{s22}Vender
 UI_20150317_000373	{@st42b}Qtd.
 UI_20150317_000374	{@st42b}Preço
@@ -390,7 +390,7 @@ UI_20150317_000389	{s16}O jogo começa em %s segundos.
 UI_20150317_000390	{@st59}Zoom{/}
 UI_20150317_000391	{@st59}Distanciar{/}
 UI_20150317_000392	{@st59}Mapa (M){/}
-UI_20150317_000393	{@st42b} mapa da Área
+UI_20150317_000393	{@st42b}Mapa da Área
 UI_20150317_000394	{@st44}Sintetizador de itens{/}
 UI_20150317_000395	{s16}{#FFcc66}{ol}Por favor selecione o item que você quer criar{/}{/}
 UI_20150317_000396	{s16}{#FFcc66}{ol}Arraste os ingredientes nos slots
@@ -409,11 +409,11 @@ UI_20150317_000408	{@st41} Conquista {/}
 UI_20150317_000409	Objeto
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Fechar UI do Necronomicon{/}
-UI_20150317_000412	{@st59}Estou muito cansado pra pensar.{/}
+UI_20150317_000412	{@st59}Sou muito preguiçoso para pensar.{/}
 UI_20150317_000413	Invocando Item : {#ffcc33}%s{/}
-UI_20150317_000414	Harpia Zombi
-UI_20150317_000415	Skill : %s
-UI_20150317_000416	Skill 1, Skill 2
+UI_20150317_000414	Harpia Zumbi
+UI_20150317_000415	Habilidade : %s
+UI_20150317_000416	Habilidade 1, Habilidade 2
 UI_20150317_000417	Fragmentos necessários : %s
 UI_20150317_000418	Besta 60 / Inseto 20/ Mutante 10
 UI_20150317_000419	Número de fragmentos
@@ -425,8 +425,8 @@ UI_20150317_000424	Alerta de itens
 UI_20150317_000425	{@st64}Detalhes{/}
 UI_20150317_000426	Como jogar
 UI_20150317_000427	{@st42}{b}      Mova o personagem para as quatro direções{/}
-UI_20150317_000428	{@st42}{b}      Usar ataque básico{/}
-UI_20150317_000429	{@st42}{b}         Pular parado {nl}          ou em movimento{/}
+UI_20150317_000428	{@st42}{b}      Realize um ataque básico{/}
+UI_20150317_000429	${@st42b}                Pule{/}
 UI_20150317_000430	{@st42}{b}Use duas teclas ao mesmo tempo para se mover diagonalmente{/}
 UI_20150317_000431	Ferramenta de névoa de mapa
 UI_20150317_000432	Ferramenta para matar monstros
@@ -439,22 +439,22 @@ UI_20150317_000438	{@st43}Informação do Grupo{/}
 UI_20150317_000439	{@st41b}Membros{/}
 UI_20150317_000440	{@st41b} Evento do Grupo {/}
 UI_20150317_000441	{@st41b}Configurações{/}
-UI_20150317_000442	{@st41}Membros{/}
-UI_20150317_000443	{@st41}Condições para se juntar ao grupo
-UI_20150317_000444	{@st41b}Público
-UI_20150317_000445	{@st41b}Privado
-UI_20150317_000446	Level                                ~
+UI_20150317_000442	{memo X}{@st41}Membros{/}
+UI_20150317_000443	{memo X}{@st41}Condições para se juntar ao grupo
+UI_20150317_000444	{memo X}{@st41b}Público
+UI_20150317_000445	{memo X}{@st41b}Privado
+UI_20150317_000446	{memo X}{memo X}Level Exigido ~
 UI_20150317_000447	{@st41}Distribuição de Itens
-UI_20150317_000448	{@st41b}Adquirir separadamente
-UI_20150317_000449	{@st41b}Adquirir em ordem
-UI_20150317_000450	{@st41b}Aleatório
-UI_20150317_000451	{@st41}Distribuição de EXP
-UI_20150317_000452	{@st41b}Separadamente
-UI_20150317_000453	{@st41b}Distribuição igual
-UI_20150317_000454	{@st41b}Por level
-UI_20150317_000455	{@st41}Compartilhar quest
-UI_20150317_000456	{@st41b}Permitir
-UI_20150317_000457	{@st41b}Negar
+UI_20150317_000448	{memo X}{@st41b}Livre para todos
+UI_20150317_000449	{memo X}{@st41b}Um membro por vez
+UI_20150317_000450	{memo X}{@st41b}Aleatório
+UI_20150317_000451	{memo X}{@st41}Distribuição de EXP
+UI_20150317_000452	{memo X}{@st41b}Individual
+UI_20150317_000453	{memo X}{@st41b}Distribuição igual
+UI_20150317_000454	{memo X}{@st41b}Por level
+UI_20150317_000455	{memo X}{@st41}Compartilhar quest
+UI_20150317_000456	{memo X}{@st41b}Permitir
+UI_20150317_000457	{memo X}{@st41b}Negar
 UI_20150317_000458	{@st41b}Criar grupo
 UI_20150317_000459	{@st43} Lista de Grupos Públicos {/}
 UI_20150317_000460	{@st59b} Lista de Grupos Públicos {nl} {@st59s} - Procure por grupos que você queira se juntar {nl} - Personalise a pesquisa para pesquisar pelo grupo que quer {/}
@@ -469,7 +469,7 @@ UI_20150317_000468	{s18}{ol}{gr gradation1}Regras de logout do PC{/}
 UI_20150317_000469	{ol}Condições para aplicar regras
 UI_20150317_000470	{ol}Ação para aplicar regras
 UI_20150317_000471	Insira um nome para a regra
-UI_20150317_000472	{Gr gradation1}Registração{/}
+UI_20150317_000472	{Gr gradation1}Registro{/}
 UI_20150317_000473	Regras de registro
 UI_20150317_000474	{Gr gradation1}Cancelar{/}
 UI_20150317_000475	Cancelar ação
