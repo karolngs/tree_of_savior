@@ -501,7 +501,7 @@ UI_20150317_000500
 UI_20150317_000501	misturar, mixar e misturar
 UI_20150317_000502	{@st43}Categoria{/}
 UI_20150317_000503	{@st43}Eu{/}
-UI_20150317_000504	{@st43}Objeto{/}
+UI_20150317_000504	{@st43}Alvo{/}
 UI_20150317_000505	{@st43}Level{/}
 UI_20150317_000506	{@st43}Prata{/}
 UI_20150317_000507	{@st43}Grau{/}
@@ -513,10 +513,10 @@ UI_20150317_000512	{@st41b} Comprar
 UI_20150317_000513	{@st43} Adquiriu ingredientes para fabricar itens!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Excluir tudo
-UI_20150317_000516	
+UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combinação
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	Quest {@st59b} {nl}{@st59s}- Registre para saber quando há uma nova quest! {nl} - Amarelo para quests principais, Azul para side-quest {nl} - A seta nos pés do personagem direciona para a quest {nl} - Ícone de 'Retorno' aparece quando a quest é finalizada {nl}    (Teleporte-se para o NPC da quest usando backspace ou clique do mouse) {nl} - Selecione o campo na frente do nome da quest para adicionar/remover do registro do quest {/}
+UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone "Retonar" irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
 UI_20150317_000520	{@st41b}Em Progresso{/}
 UI_20150317_000521	{@st41b}Abandonar{/}
 UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
@@ -537,16 +537,16 @@ UI_20150317_000536	Para qual quest você gostaria de voltar?
 UI_20150317_000537	{@st41b}Nome da classe da quest{/}
 UI_20150317_000538	{@st59}Expandir slot {/}
 UI_20150317_000539	{@st59}Reduzir slot{/}
-UI_20150317_000540	
+UI_20150317_000540	{memo X}{@st59}Invocar Mascote{/}
 UI_20150317_000541	{@st44}Menu{/}
 UI_20150317_000542	{@st60}Selecionar Personagem{/}
-UI_20150317_000543	{@st60}Log Out{/}
+UI_20150317_000543	{@st60}Deslogar{/}
 UI_20150317_000544	{@st60}Sair do Jogo{/}
 UI_20150317_000545	{@st60}Configurações do jogo{/}
 UI_20150317_000546	{@st60}Voltar{/}
 UI_20150317_000547	{@st41}Pular Tutorial{/}
 UI_20150317_000548	{@st41}Selecionar Personagem{/}
-UI_20150317_000549	{@st41}Log Out{/}
+UI_20150317_000549	{@st41}Deslogar{/}
 UI_20150317_000550	{@st41}Sair do Jogo{/}
 UI_20150317_000551	{@st41}Voltar{/}
 UI_20150317_000552	{@st43}{s22}Preparar Raid!
@@ -593,8 +593,8 @@ UI_20150317_000592	Lista de itens para reparo
 UI_20150317_000593	{@st41b}Custo do reparo{/}
 UI_20150317_000594	{@st41b}Balanço esperado{/}
 UI_20150317_000595	{@st41b}Reparar equipamento{/}
-UI_20150317_000596	Repair o equipamento selecionado.
-UI_20150317_000597	{@st59}Fechar reparação de item{/}
+UI_20150317_000596	Reparar o equipamento selecionado.
+UI_20150317_000597	{@st59}Fechar reparo de item{/}
 UI_20150317_000598	{@st43}Reparar Item{/}
 UI_20150317_000599	{@st41}Lista de itens para reparar{/}
 UI_20150317_000600	{@st44}Reparar item{/}
@@ -609,15 +609,15 @@ UI_20150317_000608	{@st41b}Voltar ao campo{/}
 UI_20150317_000609	{@st41b}Abandonar quest e recomeçar{/}
 UI_20150317_000610	{@st41b}Tentar novamente{/}
 UI_20150317_000611	Santuário da Ressurreição (70031)
-UI_20150317_000612	Esse item foi adquirido.
-UI_20150317_000613	Atalho de Descanço
+UI_20150317_000612	O item necessário está faltando.
+UI_20150317_000613	Atalho de Descanso
 UI_20150317_000614	{@st43}Caixa de diálogo{/}
 UI_20150317_000615	Nome temporário
 UI_20150317_000616	{@st41b} {s18} falta de espaço no inventário
-UI_20150317_000617	O inventário está cheio, você não pode pegar o item, por favor organize o {nl} inventário.
-UI_20150317_000618	{@st44}Conjunto de item adquirido!{/}
+UI_20150317_000617	Seu inventário está cheio e você não pode pegar o item{nl}Por favor libere espaço no seu inventário.
+UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}
 UI_20150317_000619	Por favor selecione um item
-UI_20150317_000620	{@st59b} loja {nl} {@st59s} - Se você quiser comprar um item, click-direito no item para adiciona-lo a compra {nl} - Clique-direito duas vezes para vender tudo de uma vez{/}
+UI_20150317_000620	{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
 UI_20150317_000621	{@st59}Fechar loja{/}
 UI_20150317_000622	{@st59}Primeira página{/}
 UI_20150317_000623	{@st59}Próxima página{/}
@@ -627,8 +627,8 @@ UI_20150317_000626	{@st59}Resetar carrinho de compras{/}
 UI_20150317_000627	{@st41b}Confirmar{/}
 UI_20150317_000628	{@st59}Confirmar transação{/}
 UI_20150317_000629	{@st43}Loja{/}
-UI_20150317_000630	{@st41b}Itens que serão comprados{/}
-UI_20150317_000631	{@st41b}Itens que serão vendidos{/}
+UI_20150317_000630	{@st41b}Itens à comprar{/}
+UI_20150317_000631	{@st41b}Itens à vender{/}
 UI_20150317_000632	{@st41b}Preço{/}
 UI_20150317_000633	{@st41b}Balanço{/}
 UI_20150317_000634	{@st41b}Meus itens vendidos{/}
@@ -642,11 +642,11 @@ UI_20150317_000641	{@st41}Habilidades de fabricação
 UI_20150317_000642	{@st42}Level %s{/}
 UI_20150317_000643	Custos de fabricação
 UI_20150317_000644	Quantidade de fabricação
-UI_20150317_000645	Aproximadamente %s segundos consumidos
+UI_20150317_000645	Aproximadamente %s segundos necessários
 UI_20150317_000646	{@st41}Criar
 UI_20150317_000647	{@st43}Habilidades e atributos de classe{/}
 UI_20150317_000648	{@st59}Fechar habilidades e atributos de classe{/}
-UI_20150317_000649	{@st59b}Classe {nl}{@st59s}- Aumente os círculo de classe para ganhar mais habilidades {nl} - Selecione 3 classes quando avançar da 1ª para 2ª classe {nl} - Avance para a mesma classe até três vezes {nl} - Não é possível retornar à classe anterior após mudar de classe {nl} - Consuma todos os pontos de habilidade para avançar {nl} - Pode-se escolher a mesma classe {nl} {nl} {@st59b}Habilidade {nl}{@st59s}- Cada habilidade de rank pode ser aumentada até c5 vezes {nl} - Atributos adquiridos de monstros podem ser visualizados abaixo das habilidades {/}
+UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Aumente o círculo de sua classe para ganhar mais habilidades. {nl} - Você pode escolher entre 3 opções quando for avançar da 1ª para 2ª classe. {nl} - Você pode avançar para a mesma classe até 3 vezes. {nl} - Não é possível retornar à classe anterior após mudar de classe. {nl} - Você deve consumir todos os pontos de habilidade para poder avançar. {nl} - Você pode escolher continuar na mesma classe. {nl} {nl} {@st59b}Habilidades{nl}{@st59s}- Cada habilidade pode chegar até o nível 5. {nl} - Atributos adquiridos de Mestres podem ser visualizados abaixo das habilidades. {/}
 UI_20150317_000650	{@st41b}Aplicar{/}
 UI_20150317_000651
 UI_20150317_000652
