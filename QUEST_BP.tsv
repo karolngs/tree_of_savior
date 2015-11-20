@@ -149,105 +149,105 @@ QUEST_20150317_000148
 QUEST_20150317_000149
 QUEST_20150317_000150
 QUEST_20150317_000151
-QUEST_20150317_000152
-QUEST_20150317_000153
-QUEST_20150317_000154
-QUEST_20150317_000155
-QUEST_20150317_000156
-QUEST_20150317_000157
-QUEST_20150317_000158
-QUEST_20150317_000159
-QUEST_20150317_000160
-QUEST_20150317_000161
-QUEST_20150317_000162
-QUEST_20150317_000163
-QUEST_20150317_000164
-QUEST_20150317_000165
-QUEST_20150317_000166
-QUEST_20150317_000167
-QUEST_20150317_000168
-QUEST_20150317_000169
-QUEST_20150317_000170
-QUEST_20150317_000171
-QUEST_20150317_000172
-QUEST_20150317_000173
-QUEST_20150317_000174
-QUEST_20150317_000175
-QUEST_20150317_000176
-QUEST_20150317_000177
-QUEST_20150317_000178
-QUEST_20150317_000179
-QUEST_20150317_000180
-QUEST_20150317_000181
-QUEST_20150317_000182
-QUEST_20150317_000183
-QUEST_20150317_000184
-QUEST_20150317_000185
-QUEST_20150317_000186
-QUEST_20150317_000187
-QUEST_20150317_000188
-QUEST_20150317_000189
-QUEST_20150317_000190
-QUEST_20150317_000191
-QUEST_20150317_000192
-QUEST_20150317_000193
-QUEST_20150317_000194
-QUEST_20150317_000195
-QUEST_20150317_000196
-QUEST_20150317_000197
-QUEST_20150317_000198
-QUEST_20150317_000199
-QUEST_20150317_000200
-QUEST_20150317_000201
-QUEST_20150317_000202
-QUEST_20150317_000203
-QUEST_20150317_000204
-QUEST_20150317_000205
-QUEST_20150317_000206
-QUEST_20150317_000207
-QUEST_20150317_000208
-QUEST_20150317_000209
-QUEST_20150317_000210
-QUEST_20150317_000211
-QUEST_20150317_000212
-QUEST_20150317_000213
-QUEST_20150317_000214
-QUEST_20150317_000215
-QUEST_20150317_000216
-QUEST_20150317_000217
-QUEST_20150317_000218
-QUEST_20150317_000219
-QUEST_20150317_000220
-QUEST_20150317_000221
-QUEST_20150317_000222
-QUEST_20150317_000223
-QUEST_20150317_000224
-QUEST_20150317_000225
-QUEST_20150317_000226
-QUEST_20150317_000227
-QUEST_20150317_000228
-QUEST_20150317_000229
-QUEST_20150317_000230
-QUEST_20150317_000231
-QUEST_20150317_000232
-QUEST_20150317_000233
-QUEST_20150317_000234
-QUEST_20150317_000235
-QUEST_20150317_000236
-QUEST_20150317_000237
-QUEST_20150317_000238
-QUEST_20150317_000239
-QUEST_20150317_000240
-QUEST_20150317_000241
-QUEST_20150317_000242
-QUEST_20150317_000243
-QUEST_20150317_000244
-QUEST_20150317_000245
-QUEST_20150317_000246
-QUEST_20150317_000247
-QUEST_20150317_000248
-QUEST_20150317_000249
-QUEST_20150317_000250
+QUEST_20150317_000152 $Pedra
+QUEST_20150317_000153 $Uma grande pedra está bloqueando o caminho.
+QUEST_20150317_000154 $Isto precisa ser reparado.
+QUEST_20150317_000155 {memo X}Uma pedra bloqueia o caminho.
+QUEST_20150317_000156 $Material de Pesquisa Mágico
+QUEST_20150317_000157 $Parecem ser as notas de pesquisa de alguém da Torre do Mago {nl}Isto deve ser copiado?
+QUEST_20150317_000158 {memo X}Se esconder e se esgueirar não irá resolver todos os seus problemas. {nl}Um verdadeiro Batedor também precisa estar pronto para lutar.
+QUEST_20150317_000159 {memo X}Você irá precisar de muitas coisas ao viajar. {nl}Certifique-se de estocar suas provisões com antecedência.
+QUEST_20150317_000160 $Se a magia de controle for dissipada, as mensagens divinas não estarão protegidas.
+QUEST_20150317_000161 $Cenotáfio do Ladrão Esquecido
+QUEST_20150317_000162 $Eu, Zubeck, deixo este epitáfio. {nl}Pela honra de ser o maior ladrão da história, eu desafiei uma poderosa feiticeira.
+QUEST_20150317_000163 $Mas poderia eu, um mero ladrão, reivindicar vitória por meramente ter roubado dela? {nl}Talvez, se eu pudesse roubar o maior arquimago cego.
+QUEST_20150317_000164 $No entanto, eu não poderia. {nl}Eu queria ser o maior ladrão de toda história, não apenas hoje.
+QUEST_20150317_000165 $Eu ao menos descobri um meio de entrar na Torre do Mago. {nl}Para isso, alguém tem de concentrar poder mágico em um local específico. {nl}Agora, eu só preciso tomar mais um passo decisivo. 
+QUEST_20150317_000166 $Então, meu dispositivo especial irá ativar. {nl}Se você fizer como eu fiz, você será capaz de entrar na torre também.
+QUEST_20150317_000167 $Depois disso, você também poderá mostrar para aqueles magos estúpidos algumas coisinhas. Haha!
+QUEST_20150317_000168 $Monumento do Comando
+QUEST_20150317_000169 {memo X}Os ladrões que entraram nessa torre foram queimados vivos. {nl}Eu deixo este monumento como alerta aos transgressores. {nl}- Agailla Flurry
+QUEST_20150317_000170 $Rainha Demoníaca Gesti
+QUEST_20150317_000171 $Humanos insolentes.
+QUEST_20150317_000172 $Apenas esperem. Este não é o fim. {nl}Rezem com seus corações para que Laima salve este mundo.
+QUEST_20150317_000173 $Oficial de Klaipeda
+QUEST_20150317_000174 {memo X}Bem vindo, bem vindo. {nl}Sir Uska está esperando na praça central de Klaipeda. {nl}Oh, você precisa de alguma coisa, primeiro?
+QUEST_20150317_000175 $Você quer ir para o portão de Klaipeda imediatamente?
+QUEST_20150317_000176 $Operador Temporário
+QUEST_20150317_000177 $Por favor mude a condição deste personagem.
+QUEST_20150317_000178 $Ocultar/Revelar configuração de NPC
+QUEST_20150317_000179 $Seguidor Algis
+QUEST_20150317_000180 $Este é o momento que a Deusa predisse ao primeiro Paladino. {nl}Venha, me pergunte o que quiser.
+QUEST_20150317_000181 $Há muito, muito tempo atrás, haviam nômades que sofreram de uma praga amaldiçoada. {nl}O honorável primeiro Paladino removeu a maldição com uma Relíquia Sagrada.
+QUEST_20150317_000182 $Os Observadores são descendentes daqueles nômades. {nl}No entanto, a Relíquia Sagrada não era para ser usada para curar aquelas pessoas.
+QUEST_20150317_000183 $O primeiro Paladino recebeu um pedido da Deusa, um dia, em uma Revelação divina. {nl}Enquanto ele pensava em como manter este segredo, os nômades surgiram com sua maldição.
+QUEST_20150317_000184 $Eles e o primeiro Paladino fizeram três promessas antes de quebrar a maldição.
+QUEST_20150317_000185 $Construir a Tenet Chapel. {nl}Esconder a Relíquia Sagrada nesta terra e zelar por ela. {nl}Lutar juntos sempre que o perigo se aproximasse.
+QUEST_20150317_000186 $Tudo isso, era para proteger a Revelação sagrada no santuário da Tenet Chapel.
+QUEST_20150317_000187 $A Relíquia Sagrada foi originalmente feita para proteger esta mensagem. {nl}Ela foi concebida para atrair a Rainha Demoníaca e destruí-la.
+QUEST_20150317_000188 $Tudo pode acontecer, no entanto. {nl}Se este plano falhar, então é muito provável que a batalha final irá ocorrer aqui, na capela.
+QUEST_20150317_000189 $Pawndel
+QUEST_20150317_000190 $E aí?
+QUEST_20150317_000191 $Mesmo?
+QUEST_20150317_000192 $Pawnd
+QUEST_20150317_000193 $O que aconteceu?
+QUEST_20150317_000194 $Gesti nos disse para proteger este lugar.
+QUEST_20150317_000195 $Então o que eu faço agora?
+QUEST_20150317_000196 $Este é o lugar certo?
+QUEST_20150317_000197 $Explicando
+QUEST_20150317_000198 {memo X}Compartilhado os detalhes do fragmento da Revelação encontrados na Crystal Mine.
+QUEST_20150317_000199 {memo X}Eu não sei o quão grande você era no passado e também não me importo. {nl}Aqui, você segue as ordens do Exército Real, até mesmo você Cavaleiro de Kaliss. {nl}Aqui, nossa palavra é lei!
+QUEST_20150317_000200 $Ladrão de Túmulos Hubertas
+QUEST_20150317_000201 $Passear em volta dessas ruínas está me levando a loucura. {nl}Por que diabos ele veio aqui, de qualquer forma?
+QUEST_20150317_000202 $Ladrão de Túmulos Benjaminas
+QUEST_20150317_000203 {memo X}As pessoas nos chamam de ladrões de túmulos, mas preferimos nos chamar...arqueologistas, {nl}varrendo e fazendo uso destes itens que ninguém mais usa. {nl}Com certeza é melhor do que deixá-los apodrecer, certo?
+QUEST_20150317_000204 $Diário de um Cidadão
+QUEST_20150317_000205 {memo X}Já faz um ano que a guerra civil eclodiu. Os preços na cidade subiram dramaticamente. {nl}General Ruklys enviou ajuda, para restabelecer o fornecimento de suprimentos que se tornavam escassos na cidade. {nl}Já faz um tempo desde a última vez que tivemos alguma boa notícia. Há boatos sobre o Rei Kadumel indo atrás do General.
+QUEST_20150317_000206 $Relatório de uma Sentinela
+QUEST_20150317_000207 {memo X}Os postos de guarda foram reforçados em resposta aos movimentos das força do Rei Kadumel pela região. {nl}Foi confirmado que o Rei comanda um grande exército. {nl}Mas se o General Hayatin puder reunir soldados voluntários suficientes, o rei incompetente irá se render ou recuar.
+QUEST_20150317_000208 $Registro de um Comerciante
+QUEST_20150317_000209 {memo X}A cidade está ficando sem comida e suprimentos. {nl}(o resto é ilegível.)
+QUEST_20150317_000210 {memo X}Há rumores de que o General Ruklys ouviu sobre a situação severa dos cidadãos {nl}e está negociando com Kadumel pela anistia.
+QUEST_20150317_000211 $Ata de um Oficial
+QUEST_20150317_000212 {memo X}Primeiro Ministro está em negociação com General Ruklys. {nl}Poderemos ter de nos mover para a Grande Fortaleza de Terra e deixar que as forças reais reivindiquem a cidade. {nl}São boas notícias para nossos civis, ao menos. Apesar da cidade ser concedida, a Fortaleza não será tomada tão facilmente.
+QUEST_20150317_000213 {memo X}Rei Kadumel está interessado em perseguir as pessoas da cidade. {nl}O Primeiro Ministro está forçando o General Ruklys a negociar termos que assegurem que os civis estão protegidos de forças inimigas. {nl}Apesar das forças reais ocupando a cidade, ainda está por vir algum movimento ameaçador. 
+QUEST_20150317_000214 {memo X}Devemos esperar até Kostas chegar aqui. {nl}Temos muito o que fazer, então seria bom se ele chegasse logo.
+QUEST_20150317_000215 $Criomante Kostas
+QUEST_20150317_000216 {memo X}Tudo será resolvido quando o Símbolo da Seda for encontrado. {nl}Com isso, poderemos reviver a cidade.
+QUEST_20150317_000217 $Ladrão de Túmulos Rudolpas
+QUEST_20150317_000218 {memo X}Guarda Real e cavaleiros de Kaliss...eu acho que atingimos ouro. {nl}Ninguém mais está à nossa volta ou chamando este lugar de lar.
+QUEST_20150317_000219 $Ata de um Oficial Real.
+QUEST_20150317_000220 {memo X}Não houve progresso desde que o grupo de Ruklys recuou para a Grande Fortaleza de Terra. {nl}Os sacerdotes sob a direção de Maven estão relutantes para lutar, e o Rei está contratando magos pagando-lhes uma grande soma. {nl}Mas esperamos pouco ou nenhum progresso mesmo após suas participações.
+QUEST_20150317_000221 $Documento de uma Pessoa da Cidadeso
+QUEST_20150317_000222 {memo X}Como isso pode acontecer?! {nl}Lydia Schaffen está ajudando as forças de Kadumel!
+QUEST_20150317_000223 $Relatório de um Oficial do Exército
+QUEST_20150317_000224 {memo X}Lydia Schaffen, uma pessoa que só ouvi falar através de rumores, veio à cidade com seus seguidores. {nl}Os oficiais e soldados esperam que ela irá mudar a maré da batalha. {nl}Sua Majestade nos ordenou a dar suporte a ela com o melhor de nossas capacidades.
+QUEST_20150317_000225 $Testemunho de um Cidadão
+QUEST_20150317_000226 $A Grande Fortaleza de Terra caiu! Está tudo acabado...
+QUEST_20150317_000227 {memo X}O General Ruklys caiu em batalha, e a Grande Fortaleza de Terra foi tomada. {nl}Algumas pessoa dizem que o general morreu para uma flecha de Lydia Schaffen, outros dizem que ele morreu para as mágicas dos magos reais. {nl}É de fato uma notícia triste.
+QUEST_20150317_000228 {memo X}Em apoio aos Cavaleiros de Kaliss, eu fui destacado aqui pela sede de comando. {nl}Se você tem alguma dúvida visite o quartel general na Praça da Lamentação.
+QUEST_20150317_000229 {memo X}Os superiores dos Cavaleiros de Kaliss estão gastando muito neste lugar. Não estou certo sobre o que achar disto. {nl}Para piorar, ladrões de túmulos estão aqui, então estamos aguardando auxílio.
+QUEST_20150317_000230 {memo X}Até agora, só vi as figuras amaldiçoadas dos caídos. Agora que estou aqui, isto irá mudar.
+QUEST_20150317_000231 {memo X}Quebrar a maldição desta cidade traria os mortos de volta? {nl}Eu duvido disto, mas nossos senhores empreenderam grande esforço para retomar esta área. {nl}Eles fizeram tudo que puderam com este propósito. 
+QUEST_20150317_000232 $Ladrão de Túmulos Stephonas
+QUEST_20150317_000233 {memo X}Nós somos diferentes daqueles outros ladrões de túmulos arruaceiros. {nl}Eles não tem nenhum orgulho ou senso de negócios! {nl}Se você nos ajudar agora, nós retornaremos o favor em breve algum dia.
+QUEST_20150317_000234 $Exército Real Rofdel
+QUEST_20150317_000235 {memo X}Você pode ver todo tipo de coisa acontecendo desta torre de observação mesmo que seja como se o tempo na cidade tivesse parado. {nl}A poeira geralmente entra no caminho, mas você pode enxergar todo o trajeto para os caminhos de Ruklys quando chove. 
+QUEST_20150317_000236 {memo X}Nós trabalhamos por séculos para reviver estas ruínas. {nl}Com a sua ajuda poderemos aprender sobre aquele dia e finalmente suceder.
+QUEST_20150317_000237 $Bokor Edita
+QUEST_20150317_000238 {memo X}Definitivamente há uma maldição aqui. Eu tenho certeza disto.
+QUEST_20150317_000239 $Alquimista Saliamonas
+QUEST_20150317_000240 {memo X}Este lugar é verdadeiramente intrigante. Esta cidade é cheia de coisas para estudar e fazer experimentos.
+QUEST_20150317_000241 $Ladra de Túmulos Amanda
+QUEST_20150317_000242 $Nossa família é diferente daqueles ladrões de túmulos brutamontes. {nl}Podemos dobrar algumas regras para viver, mas ainda assim...
+QUEST_20150317_000243 {memo X}Os soldados já estão mortos? {nl}Eu nunca vi uma pedra congelada tão esquisita quanto esta antes. {nl}É como se todo mundo nesta cidade esteja tentando esconder alguma coisa revivendo aquele dia.
+QUEST_20150317_000244 $Movimento de Alta Velocidade
+QUEST_20150317_000245 $Carta Rasgada
+QUEST_20150317_000246 $Para meu amado Irmão em Fedimian...
+QUEST_20150317_000247 $Gesti percebeu isto. Mantenha-se calmo. Ainda não é a hora.
+QUEST_20150317_000248 $Soldado de Suprimentos Fora de Serviço
+QUEST_20150317_000249 $Eu não tenho idéia do que a Casa Real esteja fazendo. {nl}Eu até mesmo ouvi que os nobres já fugiram da cidade.
+QUEST_20150317_000250 $Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de suprimentos, mas este trabalho não é muito diferente do de um ferreiro.
 QUEST_20150317_000251
 QUEST_20150317_000252
 QUEST_20150317_000253
