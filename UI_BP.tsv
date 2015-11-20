@@ -671,14 +671,14 @@ UI_20150317_000670	{@st59}Visitar Minha Página{/}
 UI_20150317_000671	{@st41}Vender{/}
 UI_20150317_000672	{@st59}Vender item{/}
 UI_20150317_000673	{@st43}Casa{/}
-UI_20150317_000674	{@st59}fechar casa{/}
+UI_20150317_000674	{@st59}Fechar Casa{/}
 UI_20150317_000675	{@st41}Ver tudo{/}
 UI_20150317_000676	{@st41}Criar mapa{/}
 UI_20150317_000677	{@st41}%s/min (%s em mãos){/}
-UI_20150317_000678	Teclado Guerreiro
+UI_20150317_000678	Guerreiro do Teclado
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
 UI_20150317_000680	{@st41_yellow}Tempo de contrato
-UI_20150317_000681	{@st43}Graffiti{/}
+UI_20150317_000681	{@st43}Grafite{/}
 UI_20150317_000682	{@st59}Fechar Spray{/}
 UI_20150317_000683	{@st41b}Dica: Desenhe uma imagem no quadro abaixo{/}
 UI_20150317_000684	{@st41b}Cores{/}
@@ -726,7 +726,7 @@ UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Informação do personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classe e Habilidades (F3){/}
-UI_20150317_000729	{@st59}Registro de Aventuras (F4){/}
+UI_20150317_000729	{@st59}Jornal do Aventureiro (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
@@ -762,7 +762,7 @@ UI_20150317_000761	{@st46}imagem da IMC
 UI_20150317_000762	{@st46}%s imagem
 UI_20150317_000763	{@st46}Curtir
 UI_20150317_000764	{@st46}Reportar
-UI_20150317_000765	{@st46}Use preservativos
+UI_20150317_000765	{@st46}Usar conservantes
 UI_20150317_000766	{@st46}Remover Imagem
 UI_20150317_000767	Alucinação da Neve
 UI_20150317_000768	Bouquet
