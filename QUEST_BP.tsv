@@ -1110,33 +1110,33 @@ QUEST_20150317_001109 $O ourives não levou suas próprias palavras a sério, ma
 QUEST_20150317_001110 {memo X}Exausta, Aiste logou chegou na estátua da Deusa Zemyna. {nl}Ela se prostou à sua frente e rezou para a representaçao da Estátua da Deusa, sua cabeça completamente abaixada. {nl}Oh, Deusa. Por favor devolva minhas moedas de prata perdidas.' {nl}Logo, enquanto oferecia suas orações, Aiste não conseguia mais se segurar em sua tristeza e ela finalmente chorou.
 QUEST_20150317_001111 {memo X}Quanto tempo ela rezou chorando? {nl}Subitamente, Aiste ouviu uma voz dirigida a ela. {nl}'Minha criança, veio pegar de volta aquilo que você perdeu?'
 QUEST_20150317_001112 $Aiste sabia em seu coração que era a Deusa Zemyna que se diriga a ela. {nl}Ela parou de chorar, limpou a voz e respondeu.
-QUEST_20150317_001113 {memo X}A voz da Deusa foi ouvida novamente
-QUEST_20150317_001114
-QUEST_20150317_001115
-QUEST_20150317_001116
-QUEST_20150317_001117
-QUEST_20150317_001118
-QUEST_20150317_001119
-QUEST_20150317_001120
-QUEST_20150317_001121
-QUEST_20150317_001122
-QUEST_20150317_001123
-QUEST_20150317_001124
-QUEST_20150317_001125
-QUEST_20150317_001126
-QUEST_20150317_001127
-QUEST_20150317_001128
-QUEST_20150317_001129
-QUEST_20150317_001130
-QUEST_20150317_001131
-QUEST_20150317_001132
-QUEST_20150317_001133
-QUEST_20150317_001134
-QUEST_20150317_001135
-QUEST_20150317_001136
-QUEST_20150317_001137
-QUEST_20150317_001138
-QUEST_20150317_001139
+QUEST_20150317_001113 {memo X}A voz da Deusa foi ouvida novamente. {nl}'Aiste, o que você me pede não é um método que aprovo. Aonde eu reino não há colheita nem frutas para aqueles que não trabalham.'
+QUEST_20150317_001114 {memo X}'Mas eu trabalhei muito duro hoje!'
+QUEST_20150317_001115 {memo X}'Eu sei. Por isso, eu darei a você e aos outros uma chance. Olhe debaixo de seus pés.'
+QUEST_20150317_001116 $A voz da Deusa desapareceu com aquelas palavras, e Aiste encontrou moedas de prata debaixo de seus pés. {nl}Ela olhou para onde a Deusa tinha deixado suas moedas e descobriu que as lágrimas que derramou tinham se transformado em moedas. {nl}Aiste estava muito feliz, e fez questão de pegar toda prata antes de sair.
+QUEST_20150317_001117 {memo X}Depois de alguns passos, Aiste pensou sobre o ourives, {nl}e, novamente, foi até sua casa e bateu na porta. {nl}Como se o ourives já estivesse esperando pelo seu retorno, ele abriu a porta e disse imediatamente. {nl}Me desculpe, eu me arrependo de ter te mandado embora daquela forma. Eu irei lhe dar alguma prata. {nl} Desta vez, tenha cuidado para não deixar cair tudo e chegar em casa com segurança.'
+QUEST_20150317_001118 {memo X}Enquanto o ourives estendia suas moedas de prata, Aiste balançou a cabeça e disse, {nl}'Não obrigado, a Deusa devolveu todas as minhas moedas. Na verdade, ela me deu ainda mais. {nl}Eu lembro de você dizendo que você também perdeu prata, então eu vim aqui para lhe entregar minhas moedas extras. Você não precisa me dar as suas.'
+QUEST_20150317_001119 {memo X}De início, o ourives estava cético sobre as moedas serem devolvidas, {nl}então ele ficou surpreso quando Aiste lhe mostrou moedas genuínas. Depois de pensar por um tempo, o ourives disse, {nl}'Então que tal isto. Você me dá o que você quiser enquanto aceita o que eu estava prestes a lhe dar. {nl}Não é justo? Além disso, eu também lhe darei uma bolsa para carregar sua prata extra.'
+QUEST_20150317_001120 $Aiste agradeceu e deu suas moedas extras para o ourives. {nl}Depois disto, o ourives deu a Aiste sua bolsa de moedas.
+QUEST_20150317_001121 {memo X}Depois de deixar a casa do ourives, {nl}Aiste subitamente lembrou que o velho mendigo ainda deveria estar procurando por suas moedas e se preocupou com ele. {nl}Em seu caminho para encontrar o mendigo, ela encontrou o proprietário do pomar novamente. {nl}Ao ver Aiste, o proprietário do pomar estava radiante. {nl}'Eu estava procurando por você. Me desculpe por ter lhe mandado embora antes. Como um pedido de desculpas, eu irei lhe dar seu salário novamente. {nl} Por favor, tenha cuidado para não perder ele novamente.'
+QUEST_20150317_001122 {memo X}O proprietário do pomar pegou uma grande quantidade de moedas, mais do que o próprio salário de Aiste, e entregou a ela. [nl]No entanto, Aiste balançou sua cabeça e disse, {nl}'A Deusa Zemyna já me devolveu meu dinheiro. O ourives também me ajudou, então na verdade agora eu já tenho muito. {nl}Aqui, dê uma olhada.'
+QUEST_20150317_001123 $Dizendo isto, Aiste abriu a bolsa de moedas que ela conseguiu com o ourives e mostrou para o proprietário do pomar. {nl}Ele ficou extremamente surpreso, já que o montante de dinheiro que ela conseguiu da Deusa e do ourives ultrapassou a quantia que ele tinha.
+QUEST_20150317_001124 {memo X}Desconsiderando o montante que Aiste havia lhe mostrado, o proprietário do pomar disse, {nl}'Bem, mesmo assim, eu me sentiria envergonhado se não lhe entregasse minha contribuição, então por favor apenas pegue isto.' {nl}Depois de dizer isto, o proprietário do pomar enfiou suas moedas na bolsa de Aiste e foi embora. {nl}No tempo que Aiste conseguiu reunir energia para chamar pelo proprietário do pomar, ele já estava longe demais.
+QUEST_20150317_001125 {memo X}Ela hesitou por um momento mas então recolocou sua mente no mendigo. {nl}Depois de um pouco caminhar, Aiste chegou aonde eles tinham se encontrado. O velho mendigo a viu primeiro e correu para ela. {nl}Ele mostrou-lhe as moedas de prata que estava apertando junto a si e disse, 'Olhe! Eu encontrei sua prata perdida.' {nl}Aiste recebeu a prata do mendigo e então mostrou a ele sua bolsa e disse, {nl}Olhe, eu encontrei suas moedas de prata também.'
+QUEST_20150317_001126 $Embora o mendigo estivesse exausto, ele juntou suas mãos para receber suas moedas de volta. {nl}Vendo isto Aiste foi levada à beira das lágrimas. {nl}Ela imaginou quanto o mendigo teve de implorar e pedir para dar a ela suas moedas de volta. {nl}Com o coração pesado, Aiste deu ao mendigo as moedas.
+QUEST_20150317_001127 {memo X}Depois disto, Aiste também lhe entregou sua bolsa e disse, {nl}'Este é um presente como agradecimento por porcurar por minhas moedas. Eu recebi isto pelas graças da Deusa Zemyna.' {nl}Aiste então partiu antes que o mendigo pudesse descobrir como responder.
+QUEST_20150317_001128 $O mendigo olhou para a sombra distante de Aiste, e abriu a bolsa de presentes que Aiste havia lhe dado, {nl}curioso pelo que tinha dentro. Dentro, ele ficou surpreso de encontrar dúzias de moedas de prata. {nl}Agora ele entendia porque Aiste foi capaz de partir muito mais rápido do que quando havia chegado. Ela tinha aliviado sua carga, dando-lhe o excesso.
+QUEST_20150317_001129 $Para um mendigo, que havia sido mesquinho por uma única moeda de prata, o fato de Aiste ter simplesmente lhe doado várias dezenas de vezes aquela quantia o comoveu. {nl}O fato de Aiste, que saiu em busca e resolveu o mistério de Fedimian, voltar e lhe entregar o que realmente não tinha obrigação de entregar, fez o mendigo se sentir muito grato.
+QUEST_20150317_001130 $Quanto mais ele pensava, menos o mendigo conseguia segurar suas lágrimas. {nl}Enquanto chorava, ele notou algo esquisito - cada lágrima brilhante que tocou o solo transformadas em moedas de prata.
+QUEST_20150317_001131 $O mendigo não podia acreditar em seus olhos, mas rapidamente lembrou das palavras de Aiste sobre a benção da Deusa. {nl}Depois de um tempo, o mendigo parou de chorar, e foi colher suas moedas e colocá-las na bolsa que Aiste lhe deu.
+QUEST_20150317_001132 $Poucos dias depois, o mendigo foi até a estátua para qual Aiste rezou. Lá, ele pegou uma moeda da bolsa para manter consigo, e ofereceu o resto para a Estátua da Deusa. {nl}Ele então rezou para a Deusa do fundo do seu coração e partiu. Enquanto o dinheiro que ele ofereceu desaparecia, o mendigo novamente se derramou em lágrimas, mas esta é outra história.
+QUEST_20150317_001133 $Depois de alguns dias, um estranho rumor se espalhou por Fedimian. {nl}O rumor de que a prata não mais desapareciam ao cair no solo de Fedimian. {nl}O rumor não caiu bem de início com os mais velhos, pessoas experientes, mas alguns testaram o rumor com uma quantidade irrisória de prata, {nl}e acabou que era verdade. Todos concordaram que o misterioso fenônemo de Fedimian tinha chegado ao fim.
+QUEST_20150317_001134 $Depois de um tempo, palavras deste ocorrido chegaram ao Rei. Curioso do por que isto aconteceu, o Rei ordenou uma investigação. {nl}A verdade secreta veio à luz, e a história de Aiste ficou conhecida.
+QUEST_20150317_001135 $O Rei louvou as pessoas que causaram este milagre com seus corações caridosos. {nl}Adicionalmente, para honrar a graça da Deusa, ele decidiu utilizar o tesouro nacional para construir uma grande estátua dedicada a ela.
+QUEST_20150317_001136 $No dia que a estátua foi finalmente completada, {nl}alguma coisa miraculosa aconteceu enquanto o Rei e Aiste foram juntos fazer a primeira oferenda. {nl}Em volta da estátua brotaram moedas - todas as moedas que foram perdidas pelos #pending Fedimians até aquele momento.
+QUEST_20150317_001137 $Após um debate caloroso, o povo de Fedimian decidiram não acumular suas moedas perdidas. {nl}Em vez disso, eles pediram para o Rei coletar todas elas e distribuir entre os pobres do Reino. {nl}O Rei prontamente concordou, e deu a ordem para gravar este lindo evento na história do Reino.
+QUEST_20150317_001138 $Mesmo agora, ninguém sabe quando ou como o misterioso fenômeno de Fedimian começou, {nl}mas todos sabem quando, como, e quem ajudou a desvendar o mistério. {nl}Foi através da bondade de Aiste e das pessoas que a ajudaram, e também através da graça da Deusa, que o mistério chegou ao fim.
+QUEST_20150317_001139 
 QUEST_20150317_001140
 QUEST_20150317_001141
 QUEST_20150317_001142
