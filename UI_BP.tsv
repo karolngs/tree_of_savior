@@ -1400,36 +1400,36 @@ UI_20150323_001399
 UI_20150323_001400
 UI_20150323_001401	{@st41}Comer
 UI_20150323_001402	{@st41}Criar
-UI_20150323_001403	{@st41}Criar Qtd.
-UI_20150323_001404	{@st41}Materias Consumidos
+UI_20150323_001403	{@st41}Quantidade
+UI_20150323_001404	{@st41}Materias Consumiveis
 UI_20150401_001405	{@st59}Fechar Briquetting{/}
 UI_20150401_001406	{@st41}Desfazer acampamento
-UI_20150401_001407	{@st43}%s Ciclo{/}
+UI_20150401_001407	{@st43}[Ciclo %s]{/}
 UI_20150401_001408	{@st43}Habilidade{/}
 UI_20150401_001409	{@st43}Dica de Classe{/}
 UI_20150401_001410	Dica de Classe
 UI_20150401_001411	{@st42}{#ffff00}Travar Alvo {/}
-UI_20150401_001412	{@st41}Desfazer Tabela
+UI_20150401_001412	{@st41}Remover Tabela
 UI_20150401_001413	{@st43}Tingindo{/}
 UI_20150401_001414	Atalho do Joystick
-UI_20150401_001415	{@st42}{#ffff00}Modo de Teclado{/}
-UI_20150401_001416	{@st43}Abrir caixa de Oferta
+UI_20150401_001415	{@st42}{#ffff00}Modo Teclado{/}
+UI_20150401_001416	{@st43}Abrir Caixa de Ofertas
 UI_20150401_001417	{@st41b}Abrir
-UI_20150401_001418	{@st41b}Caixa de Oferta
-UI_20150401_001419	{@st41}Nome da Caixa de Oferta
-UI_20150401_001420	Preço pago
-UI_20150401_001421	Lucro estimado
+UI_20150401_001418	{@st41b}Caixa de Ofertas
+UI_20150401_001419	{@st41}Nome da Caixa de Ofertas
+UI_20150401_001420	Pagamento
+UI_20150401_001421	Lucro Estimado
 UI_20150401_001422	Fundos
-UI_20150401_001423	{@st45tw}Detalhes do item na Caixa de Ofertas
+UI_20150401_001423	{@st45tw}Detalhes dos Items da Caixa de Ofertas
 UI_20150401_001424	{@st41}Vender tudo
-UI_20150401_001425	{@st43}Caixa de ofertas
-UI_20150401_001426	Dar uma Oferta
+UI_20150401_001425	{@st43}Caixa de Ofertas
+UI_20150401_001426	Oferta
 UI_20150401_001427	Finalizar Transação
 UI_20150401_001428	Balanço estimado
-UI_20150401_001429	{@st45tw}Caixa de oferertas
+UI_20150401_001429	{@st45tw}Caixa de Ofertas
 UI_20150401_001430	{@st41}Vazio
-UI_20150401_001431	{@st43}Atual lista de usuários na Zona{/}
-UI_20150401_001432	{@st59}Fechar a Lista de UI do GM{/}
+UI_20150401_001431	{@st43}Lista de usuários na Zona{/}
+UI_20150401_001432	{@st59}Fechar a UI da lista do GM{/}
 UI_20150401_001433	{@st41}Descrição do Grupo :
 UI_20150401_001434	{s20}Quantidade de Veneno {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materiais para Veneno
@@ -1438,9 +1438,9 @@ UI_20150401_001437	{@st59}Descelecionar tudo quando clicar denovo{/}
 UI_20150401_001438	{@st41b}Criar{/}
 UI_20150401_001439	{@st59}Mistura, mistura, vira e mistura{/}
 UI_20150401_001440	{@st41b}Conquistas{/}
-UI_20150401_001441	Cor do Cabelo
-UI_20150401_001442	Título Disponível
-UI_20150401_001443	{@st41b}Modo Joystick de UI{/}
+UI_20150401_001441	Cor do Penteado
+UI_20150401_001442	Títulos Disponíveis
+UI_20150401_001443	{@st41b}Modo Joystick{/}
 UI_20150401_001444	{@st41}{#ffffcc}Nome
 UI_20150401_001445	{@st41}{#ffffcc}Preço
 UI_20150401_001446	{@st41}{#ffffcc}Status
@@ -1451,7 +1451,7 @@ UI_20150401_001450	Descrição : {#FFFF00}%s{/}
 UI_20150401_001451	Level Médio : {#FFFF00}%s{/}
 UI_20150401_001452	Condições
 UI_20150401_001453	Tituto %s
-UI_20150401_001454	Premio %s
+UI_20150401_001454	Recompensa %s
 UI_20150401_001455	{@st42}Quantia
 UI_20150406_001456	{@st43}Acampamento
 UI_20150406_001457	{@st42}Construir
@@ -1460,48 +1460,48 @@ UI_20150406_001459	{@stc1}Duração do acampamento
 UI_20150406_001460	{@st41b}Acampamento
 UI_20150406_001461	{@st41b}Duração do acampamento
 UI_20150406_001462	{@st42b}Acampamento dura mais 24 horas quando renovado. {nl}%s pratas serão consumidas.
-UI_20150406_001463	{@st41}Desfazer Acampamento
-UI_20150406_001464	{@st42}Desativar Tabela
-UI_20150406_001465	{@st59b}Grimório{nl}{@st59s} - Coloque uma carta e inicie a invocação{/}
+UI_20150406_001463	{@st41}Remover Acampamento
+UI_20150406_001464	{@st42}Remover Tabela
+UI_20150406_001465	{@st59b}Grimório{nl}{@st59s} - Coloque uma carta no deck para iniciar a invocação{/}
 UI_20150406_001466	{@st41}Habilidades da minha invocação
-UI_20150406_001467	{@st41}Stato
-UI_20150406_001468	{@st41b}Nome da Venda
-UI_20150406_001469	{@st41b}Detalhes do Item Oferecido
+UI_20150406_001467	{@st41}Statu
+UI_20150406_001468	{@st41b}Nome da Caixa de Ofertas
+UI_20150406_001469	{@st41b}Detalhes da Caixa de Ofertas
 UI_20150406_001470	{@st59}Fechar Loja de Compras
 UI_20150406_001471	{@st59b}Loja de Compras{nl}{@st59s} - Trocar itens por prata
-UI_20150406_001472	{@st41b}Item pedido pelo cliente{/}
-UI_20150406_001473	{@st41b}Item Registrado para venda{/}
-UI_20150406_001474	{@st41b}Total Adquirido
+UI_20150406_001472	{@st41b}Outro item requisitado do jogador{/}
+UI_20150406_001473	{@st41b}Itens Disponíveis{/}
+UI_20150406_001474	{@st41b}Vendas Totais
 UI_20150406_001475	{@st41b}Vender
-UI_20150406_001476	{@st59}Vender Item Registrado{/}
+UI_20150406_001476	{@st59}Vender o Item(s) que você adicionou.{/}
 UI_20150406_001477	{@st59}Fechar Armazem{/}
 UI_20150406_001478	{@st41b} %s prata é consumida quando você usa o armazem.{/}
-UI_20150406_001479	{@st41b}Qty.
-UI_20150414_001480	{@st42b}Duração do acampamento é aumentada quando resetado.{nl} Custa %s Pratas .
+UI_20150406_001479	{@st41b}Quantidade
+UI_20150414_001480	{@st42b}A duração do seu acampamento pode ser aumentada.{nl} Custa %s Pratas .
 UI_20150414_001481	{@st41b}Tipo {@sti7}%s{/}
-UI_20150414_001482	{@st41b}Dificuldade de Controle {@sti7}%s{/}
+UI_20150414_001482	{@st41b}Controlar Dificuldade {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
 UI_20150414_001484	{@st59b} Monstro {/}
 UI_20150414_001485	{@st59b} Mover Mapa {/}
 UI_20150414_001486	{@st59b} Comando de Batalha {/}
-UI_20150414_001487	{s26}{b}ea
+UI_20150414_001487	{s26}{b}
 UI_20150414_001488	{s26}{b}Level
 UI_20150414_001489	{@st44}{s26}Level
-UI_20150414_001490	{@st59b}{s26}ea
+UI_20150414_001490	{@st59b}{s26}cada
 UI_20150414_001491	{@st41b}Cozinhar
 UI_20150414_001492	{@st41b}Comida
-UI_20150414_001493	{@st42}Desativar tabela
-UI_20150414_001494	{@st41b}Gravar{/}
+UI_20150414_001493	{@st42}Remover Tabela
+UI_20150414_001494	{@st41b}Registros{/}
 UI_20150414_001495	{@st41}Descrição de Grupo
 UI_20150414_001496	{@st41b}Entrar{/}
 UI_20150414_001497	Level de Polimento %s
 UI_20150428_001498	{@st43}Loja de Compras{/}
 UI_20150428_001499	{@st41b}Fechar
 UI_20150428_001500	{@st41b}Reporte BUG
-UI_20150428_001501	{@st59}Notificação sobre o problema{/}
-UI_20150428_001502	A sua tela de jogo vai ser enviada quando você reportar um BUG. O arquivo de replay irá ajudar muito com o conserto do BUG. Deseja usar o Reporte de BUG?
+UI_20150428_001501	{@st59}Nos notifique sobre bugs e problemas{/}
+UI_20150428_001502	Quando você reporta um bug, o seu gameplay até aquele ponto será enviado para o nosso servidor. O arquivo de replay irá ajudar muito com o conserto do BUG. Deseja enviar?
 UI_20150428_001503	{@st41b}Descrição do BUG :{/}
-UI_20150428_001504	{@st41b}Colocar uma descrição do BUG não é obrigatório, mas irá nos ajudar muito na analize do BUG.
+UI_20150428_001504	{@st41b}Colocar uma descrição não é obrigatório, mas irá nos ajudar muito na analize do BUG.
 UI_20150428_001505	{@st41b}Enviar
 UI_20150428_001506	{@st42}{s14}{#ffff00}Travar Alvo{/}
 UI_20150428_001507	{@st59}Trava o alvo independente de distancia ou direção
@@ -1512,26 +1512,26 @@ UI_20150428_001511	Tutorial do Joypad
 UI_20150428_001512	{@st59}Fechar Tutorial do Joypad.(M){/}
 UI_20150428_001513	Tutorial do Teclado
 UI_20150428_001514	{@st44}Deslogar{/}
-UI_20150428_001515	{@st41b}Auxiliar de Saída(%s Moedas Necessárias){/}
-UI_20150428_001516	Custo para adicionar Socket : {#ff9933}%s{/}{nl}Custo para remover Gema : {#ff9933}%s{/}
+UI_20150428_001515	{memo X}{@st41b}Leave Helper(Requer %s Moedas){/}
+UI_20150428_001516	Custo para adicionar Soquete : {#ff9933}%s{/}{nl}Custo para remover Gema : {#ff9933}%s{/}
 UI_20150428_001517	{@st41b}Remover Gema
 UI_20150428_001518	{@st42}{s14}{#ffff00}Modo da UI{/}
 UI_20150428_001519	{@st59}Use o Teclado ou Joypad Para controlar a UI
 UI_20150428_001520	Usar procura de Grupos
-UI_20150428_001521	Se houver um jogador dentro das condições aplicadas, a menssagem [Condições para grupo encontradas!] será mostrada.
-UI_20150428_001522	{@st41}Tipo de Jogo{/}
-UI_20150428_001523	Quest 
-UI_20150428_001524	Caçar
-UI_20150428_001525	Evento
+UI_20150428_001521	Quando um jogador corresponde as condições do seu grupo, a menssagem [Grupo correspondente encontrado!] será mostrada.
+UI_20150428_001522	{@st41}Estilo de Jogo{/}
+UI_20150428_001523	Quest
+UI_20150428_001524	Caça
+UI_20150428_001525	Eventos
 UI_20150428_001526	{@st41}Diferença de Level{/}
 UI_20150428_001527	Não Relatado
-UI_20150428_001528	{@st41}Classe Desejada{/}
+UI_20150428_001528	{@st41}Tipo de Classe Desejada{/}
 UI_20150428_001529	{@st41b}Sair do Grupo
 UI_20150428_001530	{@st59}Procurar por descrição de grupo{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Auxiliar de Regras{/}
-UI_20150428_001532	{@st59}Proceder manufaturação.{/}
-UI_20150428_001533	{@st45ty}Cor do Cabelo
-UI_20150428_001534	{@st45ty}Titulos Disponíveis
+UI_20150428_001532	{@st59}Proceder Criação.{/}
+UI_20150428_001533	{@st45ty}Cor do Penteado
+UI_20150428_001534	{@st45ty}Titulo Disponível
 UI_20150428_001535	{@st41_yellow}Auxiliar de Habilidades
 UI_20150428_001536	{@st41b}Mostrar o nome de outros personagens{/}
 UI_20150428_001537	{@st43}Modo da UI{/}
@@ -1545,7 +1545,7 @@ UI_20150428_001544	{@st59}Info do Teclado{/}
 UI_20150428_001545	{@st43}Opções de Gráfico{/}
 UI_20150428_001546	{@st43}Performance{/}
 UI_20150428_001547	{@st41b}Modo de Baixa Performance{/}
-UI_20150428_001548	{@st41b}Ajutar Auto.{/}
+UI_20150428_001548	{@st41b}Auto Ajutar{/}
 UI_20150428_001549	{@st41b}Não use{/}
 UI_20150428_001550	FAQ do Jogo
 UI_20150428_001551
