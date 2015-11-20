@@ -1056,7 +1056,7 @@ SKILL_20150317_001055	$Preparar para Atacar
 SKILL_20150317_001056	$Murmillo 1
 SKILL_20150317_001057	$Murmillo 2
 SKILL_20150317_001058	$Se defense contra ataque de inimigos.
-SKILL_20150317_001059	{memo X}Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Paering {CaptionRatio}#%
+SKILL_20150317_001059	{memo X}Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Esquiva {CaptionRatio}#%
 SKILL_20150317_001060	{memo X}Use o ombro para afastar o inimigo.
 SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Impacto]{/}{/} Atributo{nl} Ataque #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl} SP Consumido #{SpendSP}#
 SKILL_20150317_001062	{memo X}Aumenta o Poder de derrubada.
@@ -1068,7 +1068,7 @@ SKILL_20150317_001067	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração 1 
 SKILL_20150317_001068	$Letargia
 SKILL_20150317_001069	{memo X}Inflinge Letargia no inimigo.
 SKILL_20150317_001070	$Ataque Físico: -#{CaptionRatio}#{nl}Ataque Mágico: -#{CaptionRatio}#{nl}Esquiva: -#{CaptionRatio2}#{nl}{#339999}{ol}[Letargia]{/}{/} Duração: #{CaptionTime}# segundos
-SKILL_20150317_001071	$Sono
+SKILL_20150317_001071	$Adormecer
 SKILL_20150317_001072	{memo X}Inflinge sono nos inimigos. Os inimigos irão acordar após um certo número de golpes ou quando o efeito acabar.
 SKILL_20150317_001073	${#339999}{ol}[Sono]{/}{/} Duração: #{SkillFactor}# segundos{nl}Ataque Limite: #{CaptionRatio}#
 SKILL_20150317_001074	$Escudo Refletor
