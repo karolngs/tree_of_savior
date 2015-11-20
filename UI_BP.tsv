@@ -1698,7 +1698,7 @@ UI_20150717_001697
 UI_20150717_001698
 UI_20150717_001699
 UI_20150717_001700
-UI_20150717_001701	{@st59}Organizar inventário{/}
+UI_20150717_001701	{@st59}Organizar Inventário{/}
 UI_20150717_001702	Organizar
 UI_20150717_001703	{@st59}Fechar informações de controle do Joypad.{/}
 UI_20150717_001704	{@st59}Fechar informações de controle do teclado.{/}
@@ -1711,16 +1711,16 @@ UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
-UI_20150717_001714	{@st42}{b}A classe espadachim e evoluções pode correr ao pressionar duas vezes as setas de movimento{/}
+UI_20150717_001714	{@st42}{b}A classe espadachim e suas evoluções pode correr ao pressionar duas vezes as setas de movimento{/}
 UI_20150717_001715	{@st42}Nome e descrição do Grupo{/}
-UI_20150717_001716	{@st42}Iserir tag do grupo
-UI_20150717_001717	{@st41b}Lista de grupo pública{/}
+UI_20150717_001716	{@st42}Inserir tag do grupo
+UI_20150717_001717	{@st41b}Lista pública de grupos{/}
 UI_20150717_001718	{@st41b}Lista de Personagens Recomendados{/}
 UI_20150717_001719	{@st41b}Receber Recomendação
 UI_20150717_001720	Pode ser usado apenas por lideres de grupo.
 UI_20150717_001721	Você precisa usar a função de recomendação de membros para grupo.
-UI_20150717_001722	{@st66b}Nome da quest de classe{/}
-UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Click-Direito e entre a quatidade que deseja comprar/vender{nl} - Click-Direito duas vezes para vender todos os itens{/}
+UI_20150717_001722	{@st66b}Quest Classe Nome{/}
+UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Click-Direito e entre a quantidade que deseja comprar/vender{nl} - Click-Direito duas vezes para vender todos os itens{/}
 UI_20150717_001724	{@st59}Info do Mouse{/}
 UI_20150717_001725	{@st66b}Organizar
 UI_20150717_001726	{@st59}Organizar itens.{/}
@@ -1742,7 +1742,7 @@ UI_20150729_001741	{@st42b}Espadachins e evoluções podem correr clicando duas 
 UI_20150729_001742	{@st41}Opções de grupo
 UI_20150729_001743	{@st41}Opções de recrutamento do grupo
 UI_20150729_001744	{@st42}Função de localização de grupos{/}
-UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a menssagem [Grupo Feito!] será mostrada.
+UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a mensagem [Jogador Encontrado!] será mostrada.
 UI_20150729_001746	{@st41b}Lista de jogadores recomendados{/}
 UI_20150729_001747	{@st41}Informações dos atributos
 UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
@@ -1760,7 +1760,7 @@ UI_20150729_001759	{@st41b}Nome da habilidade
 UI_20150729_001760	{@st59}Aceitar missão de grupo{/}
 UI_20150729_001761	{@st59}Deletar este ticket.{/}
 UI_20150729_001762	Pontuação
-UI_20150729_001763	Entre na Liga de batalha em grupo
+UI_20150729_001763	Entrar na Liga de batalha em grupo
 UI_20150730_001764	{@st56}Meu Rank
 UI_20150730_001765	{@st56}Rank de Mortes
 UI_20150730_001766	{@st56}Rank de dano
@@ -1768,7 +1768,7 @@ UI_20150803_001767	Geral: /s chat{nl}Gritar: /y chat {nl}Grupo: /p chat{nl} Msg.
 UI_20150803_001768	{@st66b}Vibrar Controle{/}
 UI_20150803_001769	Partida encontrada. Por favor espere o jogo começar.
 UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Escolha o personagem que receberá o item(s).{/}
-UI_20150804_001771	$Soquetes Máximo: %s
+UI_20150804_001771	$Soquetes Máximos: %s
 UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{memo X}
 UI_20150807_001774	{memo X}
@@ -1792,7 +1792,7 @@ UI_20150918_001791	{@st66b}Vazio
 UI_20150918_001792	{@st42}Mostrar grupos próximos{/}	
 UI_20150918_001793	Amizade com {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Amizade	
-UI_20150918_001795	{@st41b}Obtido material para criar o item!
+UI_20150918_001795	{@st41b}Materiais para criação de itens obtidos!
 UI_20150918_001796	{@st66b}{s20}Você se tornou {/}{s20}{#cc6600}{ol}Incapaz de combater {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais próximo{/}
 UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s Ouro){/}
@@ -1813,7 +1813,7 @@ UI_20151001_001812	{@st45tw2}Categoria	{@st45tw2}
 UI_20151001_001813	Ação				
 UI_20151001_001814	Restaurar padrões		
 UI_20151016_001815	{@st59}O item selecionado será bloqueado{/}
-UI_20151016_001816	{@st59}Você pode checar novos temos para sua casa antes de compra-los.
+UI_20151016_001816	{@st59}Você pode escolher e avaliar outros tipos de casa antes de compra-los.
 UI_20151016_001817	%s Personagens{/}
 UI_20151016_001818	{@st42b}Checar
 UI_20151016_001819	{@st42b}Voltar
