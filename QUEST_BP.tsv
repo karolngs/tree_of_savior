@@ -1048,69 +1048,69 @@ QUEST_20150317_001047
 QUEST_20150317_001048
 QUEST_20150317_001049
 QUEST_20150317_001050
-QUEST_20150317_001051
-QUEST_20150317_001052
-QUEST_20150317_001053
-QUEST_20150317_001054
-QUEST_20150317_001055
-QUEST_20150317_001056
-QUEST_20150317_001057
-QUEST_20150317_001058
-QUEST_20150317_001059
-QUEST_20150317_001060
-QUEST_20150317_001061
-QUEST_20150317_001062
-QUEST_20150317_001063
-QUEST_20150317_001064
-QUEST_20150317_001065
-QUEST_20150317_001066
-QUEST_20150317_001067
-QUEST_20150317_001068
-QUEST_20150317_001069
-QUEST_20150317_001070
-QUEST_20150317_001071
-QUEST_20150317_001072
-QUEST_20150317_001073
-QUEST_20150317_001074
-QUEST_20150317_001075
-QUEST_20150317_001076
-QUEST_20150317_001077
-QUEST_20150317_001078
-QUEST_20150317_001079
-QUEST_20150317_001080
-QUEST_20150317_001081
-QUEST_20150317_001082
-QUEST_20150317_001083
-QUEST_20150317_001084
-QUEST_20150317_001085
-QUEST_20150317_001086
-QUEST_20150317_001087
-QUEST_20150317_001088
-QUEST_20150317_001089
-QUEST_20150317_001090
-QUEST_20150317_001091
-QUEST_20150317_001092
-QUEST_20150317_001093
-QUEST_20150317_001094
-QUEST_20150317_001095
-QUEST_20150317_001096
-QUEST_20150317_001097
-QUEST_20150317_001098
-QUEST_20150317_001099
-QUEST_20150317_001100
-QUEST_20150317_001101
-QUEST_20150317_001102
-QUEST_20150317_001103
-QUEST_20150317_001104
-QUEST_20150317_001105
-QUEST_20150317_001106
-QUEST_20150317_001107
-QUEST_20150317_001108
-QUEST_20150317_001109
-QUEST_20150317_001110
-QUEST_20150317_001111
-QUEST_20150317_001112
-QUEST_20150317_001113
+QUEST_20150317_001051 $Você está pronto para começar o próximo estágio?
+QUEST_20150317_001052 {memo X}Oficial
+QUEST_20150317_001053 {memo X}Eu irei lhe guiar para onde acredito que suas habilidades são mais necessárias.
+QUEST_20150317_001054 {memo X}Teve um repentino aumento de monstros nos Bosques Ocidentais Siauliai. {nl}Precisamos de sua ajuda, urgentemente.
+QUEST_20150317_001055 {memo X}Vubbes estão saindo da Mina de Cristal. {nl}#pending a Vila dos Mineiros precisa de sua ajuda.
+QUEST_20150317_001056 {memo X}Uma aura perversa desceu sobre o #pending Desfiladeiro do Riacho de Prata (Silverstream Gorge), sinalizando uma invasão de demônios. {nl}Batedores e seguidores Paladinos estão bloqueando o avanço deles, mas precisam desesperadamente de sua ajuda.
+QUEST_20150317_001057 {memo X}Monstros estão atacando a #pending Capela do Dogma. {nl}Seguidores Paladinos estão bloqueando seus ataques, mas logo cairão se não houver ajuda.
+QUEST_20150317_001058 {memo X}Coisas estranhas estão ocorrendo no #pending Riacho da Grama (Grass[y?] Brookside). {nl}Todos os aldeões desapareceram e agora os monstros ocupam a vila.
+QUEST_20150317_001059 {memo X}Tem uma alma escura se formando na #pending Rota do Portão. {nl}Se não nos livrarmos daquela aura, videiras espinhosas cobrirão a floresta.
+QUEST_20150317_001060 {memo X}Por favor, ajude os historiadores na #pending Passagem do Grande Rei. {nl}Monstros estão os seguindo desde que encontraram pistas sobre o Medzio Diena.
+QUEST_20150317_001061 {memo X}Zachariel, o túmulo do Grande Rei está sendo arruinado por uma horda. {nl}O túmulo será destruído pelos demônios se você não enfrentá-los.
+QUEST_20150317_001062 {memo X}Monstros estão obstruindo a entrada da #pending Alta Estrada Tortuosa (High Crooked Road). Se não lidarmos com esses monstros, então as cidades e vilas ficarão isoladas.
+QUEST_20150317_001063 {memo X}Demônios invadiram a #pending Torre dos Magos. {nl}Precisamos da sua ajuda rapidamente.
+QUEST_20150317_001064 {memo X}Precisamos de auxílio na #pending Entrada da Foresta Kateen. {nl}Devemos ser capazes de retomar a floresta dos monstros, mas precisaremos de mais apoio e mão de obra.
+QUEST_20150317_001065 {memo X}Precisamos de auxílio para limpar o caminho entre o #pending Pico da Alma e a #pending Passagem do Grande Rei. {nl}Por favor, ajude-nos.
+QUEST_20150317_001066 {memo X}Houve um desastre no #pending Caminho do Demônio Faminto. {nl}Por favor, envie ajuda rapidamente.
+QUEST_20150317_001067 {memo X}A Grande Catedral está sendo arruinada por uma horda ameaçadora. {nl}A Catedral logo entrará em colapso sem a sua ajuda.
+QUEST_20150317_001068 {memo X}168 [Siauliai50_1, 47_4]
+QUEST_20150317_001069 {memo X}171 #pending [Campo Agrícola47] (Farmland)
+QUEST_20150317_001070 {memo X}178 #pending [Prisão do Demônio]
+QUEST_20150317_001071 {memo X}189 #pending [Campo Agrícola49] (Farmland)
+QUEST_20150317_001072 {memo X}196 #pending [Prisão do Demônio54_1]
+QUEST_20150317_001073 {memo X}198 [Siauliai46]
+QUEST_20150317_001074 {memo X}208 #pending [Floresta dos Espinhos39] (Thorn Forest)
+QUEST_20150317_001075 {memo X}217 #pending [Catacumba38_2, 04, 38_1, 02] (Catacomb)
+QUEST_20150317_001076 {memo X}226 [Área de Ruínas37_1, 2, 3] (Area of Ruins)
+QUEST_20150317_001077 {memo X}Monstros estão avançando sobre a amaldiçoada cidade de calcário. {nl}As tropas despachadas estão fazendo tudo que podem para resistir mas a maldição está tornando a situação terrível.
+QUEST_20150317_001078 {memo X}245 #pending [Forte da Terra] (Fort of Land)
+QUEST_20150317_001079 $Revelação da #pending Torre dos Magos
+QUEST_20150317_001080 $É uma antiga história de Fedimian antes da Estátua da Deusa.
+QUEST_20150317_001081 $Há muito tempo atrás, as pessoas de Fedimian eram comuns. {nl}- não muito diferentes das pessoas comuns do resto do mundo. {nl}No entanto, as pessoas de Fedimian diferiam de seus iguais pelo mundo em um aspecto.
+QUEST_20150317_001082 $As pessoas de Fedimian eram muito cautelosas. No sentido de que levavam a palavra 'cautelosos' de uma maneira muito mais séria. {nl}Estas pessoas eram tão cautelosas em volta do fogo quanto eram longe dele.
+QUEST_20150317_001083 $Os #pending Fedimians eram modestos sobre isto com os outros. {nl}Mesmo aqueles que ficavam em Fedimian por um tempo não adquiriam o traço.
+QUEST_20150317_001084 $Graças a este comportamento, as pessoas de Fedimian se saiam melhor durante tempos difíceis, como se eles pudessem sentir o perigo se aproximando.
+QUEST_20150317_001085 $Por causa disso, não são poucas as palavras que são ditas acerca da cautela do povo de Fedimian.
+QUEST_20150317_001086 $Em Fedimian, se alguém deixasse cair dinheiro no chão, ele sumia para sempre. Em um mundo onde dinheiro era principalmente moeda de prata, somente os credores saberiam exatamente quanto dinheiro fora perdido desta maneira.
+QUEST_20150317_001087 $O por quê o dinheiro desaparecia no chão de Fedimian continua incerto. {nl}Algumas pessoas acreditam que a Deusa Zemyna absorve o dinheiro que entra em contato com sua área. {nl}Mas a maioria das pessoas acredita que isto foi feito para reduzir a procura de moedas de prata dos credores.
+QUEST_20150317_001088 $Por acreditar que a própria Deusa pega o dinheiro, as pessoas achavam infrutífero tentar cavar por prata em seu solo. {nl} O fato de você poder oferecer moedas de prata em Fedimian em tributo à ela reinforça esta idéia.
+QUEST_20150317_001089 $De qualquer modo, o fato de que alguém poderia perder dinheiro deixando-o cair no solo de Fedimian fez dos #pending Fedimians muito cuidadosos ao manipularem seu dinheiro.
+QUEST_20150317_001090 $No entanto, por mais que alguém tente ser cauteloso, erros continuam a acontecer. {nl}Mais ainda no caso de jovens garotas. {nl}Um dia, aconteceu com uma garota chamada Aiste.
+QUEST_20150317_001091 $Normalmente, quando alguém deixa cair moedas de prata no chão, elas se espalhariam na estrada, e então desapareceriam sem deixar traços. {nl}#pending Fedimian normalmente praguejariam por sua própria falta de cuidado e seguiriam em frente, mas Aiste era diferente: ela se perguntou por que e como isso acontecia.
+QUEST_20150317_001092 $Para descobrir o que aconteceu, Aiste começou inspecionando a área em que ela perdeu as moedas. {nl}Em sua busca, ela se deparou com um mendigo ao lado da parte mais distante do canal.
+QUEST_20150317_001093 {memo X}Aiste perguntou ao mendigo idoso, {nl}'Você por um acaso pegou as moedas que deixei cair? Você as devolveria para mim? {nl}Eu trabalhei muito duro todos os dias por aquelas moedas e realmente preciso delas.'
+QUEST_20150317_001094 {memo X}O mendigo foi pego de surpresa. Aiste estava pedindo o impossível. Afinal, encontrar moedas derrubadas em Fedimian era impensável. {nl}O velho mendigo estava pronto para explicar isto para Aiste mas em vez disso comentou, {nl}'Eu também perdi moedas nessa área. Seria legal da sua parte se você procurasse pelas minhas enquanto procura pelas suas.' 
+QUEST_20150317_001095 $Quase imediatamente, o mendigo se sentiu culpado pela zombaria que deixou escapar. Ele pediu desculpas a Aiste.
+QUEST_20150317_001096 {memo X}'Por que você não vai até onde trabalha e explica o que aconteceu a eles? Certifique de parecer perdida'. O mendigo então complementou hesitante, {nl}'Enquanto isso, eu vou procurando por suas moedas de prata perdias aqui'.
+QUEST_20150317_001097 $Ao ouvir as palavras do mendigo, Aiste o agradeceu, e foi embora para seguir seu conselho. {nl}Através de seu ato altruísta, o mendigo sentiu reavivado seu senso de responsabilidade. Ele olhou para a silhueta de Aiste indo embora, e sentiu seu coração pesado e quente com a experiência.
+QUEST_20150317_001098 $Aiste foi para os pomares nos arredores de Fedimian, onde ela trabalhava. {nl}Lá, enquanto alguém colhia frutas das árvores, também era importante pegar as frutas que caiam no chão.
+QUEST_20150317_001099 $Mãos menores eram melhores para colher frutas, então jovens crianças também eram contratadas nos pomares. {nl}Alguns pomares tomaram um passo adiante: contratando macacos, cujas mãos eram menores do que as das crianças, para colher frutas. Macacos trabalhavam de maneira mais fetiva que crianças, mas as vezes comiam as frutas que colhiam. Assim, a maioria dos proprietários preferiam contratar crianças.
+QUEST_20150317_001100 $Voltando, Aiste visitou o pomar que trabalhava e explicou sua situação ao proprietário. {nl}Infelizmente, o proprietário não estava de bom humor, tendo acabado de brigar com sua esposa. {nl}Ele, como todos os outros #pending Fedimians, sabia do fenônemo, e não viu razão para dar mais dinheiro a Aiste.
+QUEST_20150317_001101 {memo X}E então ele disse, {nl}'Assim como você foi capaz de colher todas minhas frutas, você deve ser capaz de encontrar o dinheiro que perdeu em Fedimian, então não me diga para lhe dar um segundo pagamento.' {nl}As palavras frias do proprietário do pomar trouxeram lágrimas aos olhos da garota. {nl}A visão quebrou seu coração, mas mesmo assim, ele não queria dar a ela nenhum dinheiro a mais.
+QUEST_20150317_001102 {memo X}Ele logo foi tomado por culpa e disse, {nl}'Se você realmente precisa desse dinheiro, você deveria ir ao ourives.'
+QUEST_20150317_001103 $Aiste se dirigiu ao lugar que ficava o ourives assim que ouviu aquelas palavras. {nl}Infelizmente, a casa se localizava fora dos muros de Fedimian. {nl}Se fosse dentro, o ourives corria o risco de perder todo seu dinheiro e prataria para o solo.
+QUEST_20150317_001104 $É por essa razão ele vive nos arredores de Fedimian. {nl}Aiste bateu na porta da frente e explicou sua situação para ele assim que ele respondeu.
+QUEST_20150317_001105 {memo X}O ourives, depois de ouvir a história de Aiste, afirmou, {nl}'Mesmo para crianças é ser tão descuidado. Como você pode não saber que todo dinheiro que cai no solo de Fedimian desaparece, para nunca ser encontrado novamente?'
+QUEST_20150317_001106 {memo X}Aiste ficou surpresa pelo o que o ourives disse e ficou triste. {nl}Depois de um tempo, ela perguntou, {nl}'Então por que algo tão cruel assim acontece?'
+QUEST_20150317_001107 {memo X}Mesmo o ourives não sabia a verdadeira resposta, então improvisou, {nl}'A Deusa Zemyna deve estar pegando as moedas.'
+QUEST_20150317_001108 {memo X}Ouvindo estas palavras Aiste respondeu, {nl}'Então eu simplesmente terei que ir perguntar à Deusa.' {nl}O ourives ficou espantado e replicou, {nl}'Enquanto você está nesta, por que não pede a Deusa para retornar minha prataria?'
+QUEST_20150317_001109 $O ourives não levou suas próprias palavras a sério, mas Aiste sim. {nl} Ela imediatamente se propôs a fazer o que foi dito. O ourives sentiu pena de Aiste, {nl}mas não teve coragem de a chamar de volta enquanto ela sumia na distância.
+QUEST_20150317_001110 {memo X}Exausta, Aiste logou chegou na estátua da Deusa Zemyna. {nl}Ela se prostou à sua frente e rezou para a representaçao da Estátua da Deusa, sua cabeça completamente abaixada. {nl}Oh, Deusa. Por favor devolva minhas moedas de prata perdidas.' {nl}Logo, enquanto oferecia suas orações, Aiste não conseguia mais se segurar em sua tristeza e ela finalmente chorou.
+QUEST_20150317_001111 {memo X}Quanto tempo ela rezou chorando? {nl}Subitamente, Aiste ouviu uma voz dirigida a ela. {nl}'Minha criança, veio pegar de volta aquilo que você perdeu?'
+QUEST_20150317_001112 $Aiste sabia em seu coração que era a Deusa Zemyna que se diriga a ela. {nl}Ela parou de chorar, limpou a voz e respondeu.
+QUEST_20150317_001113 {memo X}A voz da Deusa foi ouvida novamente
 QUEST_20150317_001114
 QUEST_20150317_001115
 QUEST_20150317_001116
