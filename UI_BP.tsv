@@ -954,10 +954,10 @@ UI_20150317_000953	Esclusão provisória
 UI_20150317_000954	{@St59}Fechar Decoração da Barraca{/}
 UI_20150317_000955	{@St43}Decoração da Barraca{/}
 UI_20150317_000956	{@St41b}Tema{/}
-UI_20150317_000957	{@St41b}Arranjo de Item{/}
+UI_20150317_000957	{@St41b}Arranjo dos Itens{/}
 UI_20150317_000958	{@St41b}Nome
 UI_20150317_000959	{@St41b}Preço
-UI_20150317_000960	{@St41b}Stato
+UI_20150317_000960	{@St41b}Status
 UI_20150317_000961	{@St44}Novo personagem{/}
 UI_20150317_000962	{@St41b}{s22}Selecionar classe do personagem{/}
 UI_20150317_000963	{@St41b}Voltar{/}
@@ -966,36 +966,36 @@ UI_20150317_000965	Mudar personagem
 UI_20150317_000966	{@St41}Personagem{/}
 UI_20150317_000967	{@St59}Rotação horária{/}
 UI_20150317_000968	{@St59}Rotação anti-horária{/}
-UI_20150317_000969	{@St43b}Rotação de Personagem{/}
+UI_20150317_000969	{@St43b}Rotacionar Personagem{/}
 UI_20150317_000970	{@st43}Nome do personagem{/}
 UI_20150317_000971	Coloque um nome para {@st59} {/}
 UI_20150317_000972	{@St43b}Escolha o sexo{/}
 UI_20150317_000973	{@St59}Feminino{/}
 UI_20150317_000974	{@St59}Masculino{/}
-UI_20150317_000975	{@st43b}Escolha o cabelo{/}
-UI_20150317_000976	{@st59}Cabelo1{/}
-UI_20150317_000977	{@st59}Cabelo2{/}
-UI_20150317_000978	{@St59}Cabelo3{/}
-UI_20150317_000979	{@st59}Cabelo4{/}
-UI_20150317_000980	{@st59}Cabelo5{/}
-UI_20150317_000981	{@st59}Cabelo6{/}
-UI_20150317_000982	{@st59}Cabelo7{/}
-UI_20150317_000983	{@st59}Cabelo8{/}
-UI_20150317_000984	{@st59}Cabelo9{/}
-UI_20150317_000985	{@st59}Cabelo10{/}
+UI_20150317_000975	{@st43b}Escolha o Penteado{/}
+UI_20150317_000976	{@st59}Penteado1{/}
+UI_20150317_000977	{@st59}Penteado2{/}
+UI_20150317_000978	{@St59}Penteado3{/}
+UI_20150317_000979	{@st59}Penteado4{/}
+UI_20150317_000980	{@st59}Penteado5{/}
+UI_20150317_000981	{@st59}Penteado6{/}
+UI_20150317_000982	{@st59}Penteado7{/}
+UI_20150317_000983	{@st59}Penteado8{/}
+UI_20150317_000984	{@st59}Penteado9{/}
+UI_20150317_000985	{@st59}Penteado10{/}
 UI_20150317_000986	{@St43b}Selecionar Classe{/}
 UI_20150317_000987	{@st59}Espadachim{/}
-UI_20150317_000988	{@st59}Mago{/}
+UI_20150317_000988	{@st59}Bruxo{/}
 UI_20150317_000989	{@st59}Arqueiro{/}
-UI_20150317_000990	{@st59}Clerigo{/}
-UI_20150317_000991	{@St41b}Visitar barraca{/}
+UI_20150317_000990	{@st59}Clérigo{/}
+UI_20150317_000991	{@St41b}Visitar Barraca{/}
 UI_20150317_000992	{@St59}Visitar a barraca de outro jogador.{/}
-UI_20150317_000993	{@St41b}Mudar servidor{/}
+UI_20150317_000993	{@St41b}Deslogar{/}
 UI_20150317_000994	{@St59}Vá para a tela de seleção de servidor{/}
 UI_20150317_000995	{@St41b}Fechar Jogo{/}
-UI_20150317_000996	{@St59}Sair de Tree of Savior{/}
-UI_20150317_000997	{@st41b} Selecione o Canal{/}
-UI_20150317_000998	{@st43}Entrar{/}
+UI_20150317_000996	{@St59}Fechar Tree of Savior{/}
+UI_20150317_000997	{@st41b}Selecionar Canal{/}
+UI_20150317_000998	{memo X}{@st43}Entrar{/}
 UI_20150317_000999	{@St59}Inicie o jogo com o personagem selecionado{/}
 UI_20150317_001000	{@St43}{s26}Nome do time{/}
 UI_20150317_001001	{@st59}Nome do time{/}
@@ -1009,14 +1009,14 @@ UI_20150317_001008	{@St44}Novo nome de Janela{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Criação de Personagem{/}
 UI_20150317_001010	{@St59}Criar um personagem{/}
 UI_20150317_001011	{@St59}Cancelar criação de personagem{/}
-UI_20150317_001012	{@St59}Fechar menu de colocar nome de grupo{/}
-UI_20150317_001013	{@St59}Criar time{/}
+UI_20150317_001012	{@St59}Fechar{/}
+UI_20150317_001013	{@St59}Criar o time com o nome escolhido{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Coloque o nome do seu time!
-UI_20150317_001015	{@St41b}       O Nome do time representa os seus Personagens.{nl}      É um nome comum usado durante o jogo.{nl}               O nome do time pode ser alterado depois.{/}
+UI_20150317_001015	{memo X}{@St41b}O Nome do time representa os seus Personagens.{nl}Este nome será usado universalmente durante negociações, quando entrar em uma Guilda, chats e outros. {nl}O nome do time pode ser alterado a qualquer momento.{/}
 UI_20150317_001016	Imagem de carregamento
 UI_20150317_001017	Dica
 UI_20150317_001018	Dicas de jogo
-UI_20150317_001019	Login
+UI_20150317_001019	Logar
 UI_20150317_001020	ID da conta
 UI_20150317_001021	{@st59}Coloque o ID da sua Conta{/}
 UI_20150317_001022	Senha
@@ -1027,53 +1027,53 @@ UI_20150317_001026	{@st41b}Replay{/}
 UI_20150317_001027	{@st41b}Modo único{/}
 UI_20150317_001028	{@St41b}Sair do Jogo{/}
 UI_20150317_001029	Salvar
-UI_20150317_001030	{@St59}Se checado, sua conta será salvada{/}
+UI_20150317_001030	{@St59}Se checado, sua conta será salva{/}
 UI_20150317_001031	Servidores
 UI_20150317_001032	{@St59}Selecione Servidor{/}
 UI_20150317_001033	Titulo de Login
 UI_20150317_001034	[Versão Closed Beta]
 UI_20150317_001035	Opções
-UI_20150317_001036	Faixa de Visão
-UI_20150317_001037	{S20}{#BBBBBB}Faixa de Visão
-UI_20150317_001038	Faixa de visão :
+UI_20150317_001036	Alcance da Visão
+UI_20150317_001037	{S20}{#BBBBBB}Alcance da Visão
+UI_20150317_001038	Alcance da visão :
 UI_20150317_001039	Personagem :
 UI_20150317_001040	Objetos de Fundo :
 UI_20150317_001041	Grama - Topografia (%) :
 UI_20150317_001042	Árvore-Topográfica (%) :
 UI_20150317_001043	Objetos-Topográficos(%) :
 UI_20150317_001044	Sombra
-UI_20150317_001045	{S20}{#BBBBBB}Mapa de sombras
-UI_20150317_001046	Usar mapa de sombras
+UI_20150317_001045	{S20}{#BBBBBB}Sombra dos Mapas
+UI_20150317_001046	Usar Sombra dos Mapas
 UI_20150317_001047	Qualidade da sombra :
 UI_20150317_001048	SSAO Uso
 UI_20150317_001049	SSAO Metodo :
 UI_20150317_001050	SSAO Resolução :
 UI_20150317_001051	Reflecção da água
 UI_20150317_001052	{s20}{#BBBBBB}Reflecção da água
-UI_20150317_001053	Reflecção da água dos personagens
-UI_20150317_001054	Reflecção da água de fundo
+UI_20150317_001053	Reflecção dos personagens na água
+UI_20150317_001054	Reflecção de fundo da água
 UI_20150317_001055	{s20}{#BBBBBB}Opções de Brilho
-UI_20150317_001056	Uso de brilho
-UI_20150317_001057	{@st41}ATK{/}
-UI_20150317_001058	{@St41}DEF{/}
-UI_20150317_001059	{@st41}AUX{/}
+UI_20150317_001056	Usar Brilho
+UI_20150317_001057	{@st41}Ataque{/}
+UI_20150317_001058	{@St41}Defesa{/}
+UI_20150317_001059	{@st41}Suporte{/}
 UI_20150317_001060	{@St41}Dificuldade{/}
-UI_20150317_001061	{@St41}Cabelo
+UI_20150317_001061	{@St41}Penteado
 UI_20150317_001062	{@St41}Rotação
 UI_20150317_001063	{@St43}Criar Personagem
-UI_20150317_001064	{@St59}Criar um personagem usando o nome acima{/}
-UI_20150317_001065	{@St41b}Escolha outro personagem
-UI_20150317_001066	{@St59}Escolha um personagem diferente{/}
+UI_20150317_001064	{@St59}Criar o personagem atual{/}
+UI_20150317_001065	{@St41b}Cancelar
+UI_20150317_001066	{@St59}Cancelar escolha de personagem{/}
 UI_20150317_001067	Informações do Personagem
 UI_20150317_001068	{@t41}Trazer junto
-UI_20150317_001069	{@St59}Clique no personagem para o mascote seguir{/}
+UI_20150317_001069	{@St59}Após clicar, selecione um personagem para mascote seguir{/}
 UI_20150317_001070	UI da Crição de item
 UI_20150317_001071	{S24}Nome :
 UI_20150317_001072	{S16} STR :
 UI_20150317_001073	{S16} HP :
 UI_20150317_001074	{S16} AGI :
 UI_20150317_001075	{S16} VIT :
-UI_20150317_001076	{S16} FOR :
+UI_20150317_001076	{S16} Força :
 UI_20150317_001077	{S18} Selecionar Classe
 UI_20150317_001078	{S18} União de Direita
 UI_20150317_001079	{S18} Providência de União Maligna
@@ -1081,19 +1081,19 @@ UI_20150317_001080	Hong Moo Moon
 UI_20150317_001081	Dae Do Cheon
 UI_20150317_001082	Espadas de Fogo
 UI_20150317_001083	Para adenomas hwageuk
-UI_20150317_001084	Punção sexo
+UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
 UI_20150317_001086	{S16}Sexo e aparencia
 UI_20150317_001087	Masculino
 UI_20150317_001088	Feminino
-UI_20150317_001089	Ajuste de cabelos
-UI_20150317_001090	Ajuste de Chaves
+UI_20150317_001089	Ajustar Penteado
+UI_20150317_001090	Ajustar Atalhos
 UI_20150317_001091	Largura do ombro
 UI_20150317_001092	Tamanho das mãos e dos pés
 UI_20150317_001093	Tamanho do corpo
 UI_20150317_001094	Tamanho da cintura
 UI_20150317_001095	Tamanho do Quadril
-UI_20150317_001096	{S18} Samanho da cabeça
+UI_20150317_001096	{S18} Tamanho da cabeça
 UI_20150317_001097	{S14} Ajuste de Peso
 UI_20150317_001098	{S14} Largura do ombro
 UI_20150317_001099	{S14} Tamanho das mãos e dos pés
