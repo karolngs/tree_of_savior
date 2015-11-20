@@ -1100,8 +1100,8 @@ UI_20150317_001099
 UI_20150317_001100
 UI_20150317_001101	{S14} Tamanho da cintura
 UI_20150317_001102	{S14} Tamanho da pelvis
-UI_20150317_001103	Valor de pré-opção
-UI_20150317_001104	Valor de opção aleatória
+UI_20150317_001103	Usar Padrão
+UI_20150317_001104	Aleatório
 UI_20150317_001105	Criar Novo Personagem
 UI_20150317_001106	Cancelar criação de Personagem
 UI_20150317_001107	{@St43}{s40}{gr gradation4}Iniciar Jogo{/}
@@ -1123,16 +1123,16 @@ UI_20150317_001122	Tipo HP
 UI_20150317_001123	{@st59}Acessórios de cabelo{/}
 UI_20150317_001124	{@st59}Acessórios subdisiarios{/}
 UI_20150317_001125	{@St42}Texto{/}
-UI_20150317_001126	Nome de um conteúdo padrão
-UI_20150317_001127	Nome de um grupo padrão group
-UI_20150317_001128	Nome de um item padrão
+UI_20150317_001126	Nome de conteúdo padrão
+UI_20150317_001127	Nome de grupo padrão
+UI_20150317_001128	Nome de item padrão
 UI_20150317_001129	Sr Kim
 UI_20150317_001130	Peso : %s
 UI_20150317_001131	N/A
 UI_20150317_001132	%S Raça
 UI_20150317_001133	N/A
 UI_20150317_001134	Inegociável
-UI_20150317_001135	Não reforçar
+UI_20150317_001135	Não aprimorável
 UI_20150317_001136	N/A
 UI_20150317_001137	Nome do item
 UI_20150317_001138	N/A
@@ -1140,24 +1140,24 @@ UI_20150317_001139	Mais do que alguns leveis
 UI_20150317_001140	Todos podem equipar
 UI_20150317_001141	Socket Máximo %s ea
 UI_20150317_001142	Nome do Item
-UI_20150317_001143	Preço quando vendido na loja : %s Pratas
+UI_20150317_001143	Preço de venda : %s Pratas
 UI_20150317_001144	Quanto
 UI_20150317_001145	{@St42b}Total explorado de Siauliai{/}
 UI_20150317_001146	{@St42b}Area leste da floresta explorada{/}
 UI_20150317_001147	{@St18}Item{/}
 UI_20150317_001148	{@St18}Meu Rank{/}
 UI_20150317_001149	Diamante
-UI_20150317_001150	N/A
+UI_20150317_001150	Estamina +9.000
 UI_20150317_001151	{@St18}Média{/}
-UI_20150317_001152	{@St42b}{s18}Workmanship{/}
+UI_20150317_001152	{@St42b}{s18}Mão de Obra{/}
 UI_20150317_001153	{@St55_c}Nome do Item
-UI_20150317_001154	{@St55_c}Histórico de Memo
+UI_20150317_001154	{@St55_c}Histórico de Lembretes
 UI_20150317_001155	{@St59}Coloque o nome. Se você não colocar um nome, um nome aleatório será gerado.{/}
-UI_20150317_001156	{@St59}Coloque o memo{/}
+UI_20150317_001156	{@St59}Coloque o Lembrete{/}
 UI_20150317_001157	{@St43}Produzir itens
 UI_20150317_001158	{@st42b}%s pontos {/}
 UI_20150317_001159	{@st42b}%s cachorro {/}
-UI_20150317_001160	{@st42b}%s pontoa {/}
+UI_20150317_001160	{@st42b}%s pontos {/}
 UI_20150317_001161	{@st42b}%s cachorro {/}
 UI_20150317_001162	{S16}{ol}Por preço
 UI_20150317_001163	Preço Total : 1
@@ -1168,63 +1168,63 @@ UI_20150317_001167	{@St41}Nome
 UI_20150317_001168	{@St41}Mensagem
 UI_20150317_001169	{@St43}Nome{/}
 UI_20150317_001170	{@St41b}Mensagem{/}
-UI_20150317_001171	{@St42b}Login{/}
-UI_20150317_001172	{@St41}Criar Nova Conversação
-UI_20150317_001173	{@St41}Conversa Total
+UI_20150317_001171	{@St42b}Entrar{/}
+UI_20150317_001172	{@St41}Criar uma nova conversa
+UI_20150317_001173	{@St41}Toda a Conversa
 UI_20150317_001174	Nome da Região
 UI_20150317_001175	{@St41}Nomes das Habilidades
 UI_20150317_001176	{@St41}Pontos de Atriuto
 UI_20150317_001177	{@St41}Nome da Classe
 UI_20150317_001178	Nome do Personagem
 UI_20150317_001179	{@Sti7}Deletar{/}
-UI_20150317_001180	level do Personagem
+UI_20150317_001180	Level do Personagem
 UI_20150317_001181	{@St42}Compartilhar quest{/}
 UI_20150317_001182	{@St42}Compartilhar experiencia{/}
-UI_20150317_001183	Memo do Personagem
+UI_20150317_001183	Lembrete do Personagem
 UI_20150317_001184	Level médio do grupo : {#FFFF00}%s{/}
-UI_20150317_001185	Procurando jogadores para Grupo : {#FFFF00}%s{/}
-UI_20150317_001186	Clerigo / Arqueiro
+UI_20150317_001185	Procurando jogadores : {#FFFF00}%s{/}
+UI_20150317_001186	Clérigo / Arqueiro
 UI_20150317_001187	Compartilhar quest : {#FFFF00}%s{/}
 UI_20150317_001188	N/A
 UI_20150317_001189	Distribuição de EXP : {#FFFF00}%s{/}
 UI_20150317_001190	Distribuição igual
 UI_20150317_001191	Distribuição de itens : {#FFFF00}%s{/}
 UI_20150317_001192	Distribuir aleatóriamente
-UI_20150317_001193	Como eu
-UI_20150317_001194	Você não ve quem é
-UI_20150317_001195	{@st41b} Adicionado ao jornal do aventureiro
-UI_20150317_001196	Menu de objetos para Quest
-UI_20150317_001197	Categorias de Quest
-UI_20150317_001198	Listar objetos da quest
+UI_20150317_001193	Como que eu
+UI_20150317_001194	Você não vê quem é
+UI_20150317_001195	{@st41b} Jornal do aventureiro atualizado
+UI_20150317_001196	Menu de objetos para Missões
+UI_20150317_001197	Categorias de Missões
+UI_20150317_001198	Listar objetos da Missão
 UI_20150317_001199	N/A
 UI_20150317_001200	Linha usada no roteiro
 UI_20150317_001201	Slot Object_Standard
 UI_20150317_001202	Slot Object_Cash Slot
-UI_20150317_001203	Tipo de Destalhers do Personagem 1
-UI_20150317_001204	Tipo de Destalhers do Personagem 2
-UI_20150317_001205	Tipo de Slot do Inventário 1
-UI_20150317_001206	Tipo de Slot do Inventário 2
-UI_20150317_001207	Tipo de Slot do Inventário
+UI_20150317_001203	Detalhes do Personagem: Tipo 1
+UI_20150317_001204	Detalhes do Personagem: Tipo 2
+UI_20150317_001205	Slot do Inventário: Tipo 1
+UI_20150317_001206	Slot do Inventário: Tipo 2
+UI_20150317_001207	Slot do Inventário: Tipo
 UI_20150317_001208	Ver detalhes do item no mercado
 UI_20150317_001209	Nome do item de saída
-UI_20150317_001210	Número restante de saída
+UI_20150317_001210	Número restante de Saída
 UI_20150317_001211	Valor de saída
-UI_20150317_001212	Quando você adiciona no carrinho
+UI_20150317_001212	Quando adicionar ao carrinho
 UI_20150317_001213	Valor total de saída
-UI_20150317_001214	Para saída de produto
+UI_20150317_001214	Saída de item
 UI_20150317_001215	Preço de saída unitário
 UI_20150317_001216	Categoria de itens
 UI_20150317_001217	Noticias
 UI_20150317_001218	{@St42b}Reiniciar{/}
 UI_20150317_001219	Peltang Stang
-UI_20150317_001220	99 Ciclos
+UI_20150317_001220	Ciclo 99
 UI_20150317_001221	Mate 8 Vubbes Loucos
-UI_20150317_001222	Dica de ferramentas
-UI_20150317_001223	EXP: sad{br}+1 Encantamento de Cristal (Attack)
+UI_20150317_001222	Dica
+UI_20150317_001223	EXP: sad{br}+1 Encantamento de Cristal (Ataque)
 UI_20150317_001224	A espada do aprendiz
 UI_20150317_001225	Reparar Durabilidade :
-UI_20150317_001226	Custo de reparação : 120 pratas
-UI_20150317_001227	Custo de reparação : %s pratas
+UI_20150317_001226	Custo de Reparo: 120 pratas
+UI_20150317_001227	Custo de Reparo : %s pratas
 UI_20150317_001228	{@st42b}Contador de Lances{@sti7}%s{/}
 UI_20150317_001229	{@st42b}Preço Atual {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Comprar imediatamente! {Img icon_item_silver 20 20}{@st57}%s{/}
@@ -1234,9 +1234,9 @@ UI_20150317_001233	{@Sti7}Retornar
 UI_20150317_001234	{@St59}Cabeça{/}
 UI_20150317_001235	{@St59}Bracelete Esquerdo{/}
 UI_20150317_001236	{@St59}Bracelete Direito{/}
-UI_20150317_001237	{@St59}Fantasias{/}
+UI_20150317_001237	{@St59}Trajes{/}
 UI_20150317_001238	{@st59}Anel2{/}
-UI_20150317_001239	Nome do Pet
+UI_20150317_001239	Nome do Mascote
 UI_20150317_001240	Pacote Chandler
 UI_20150317_001241	Floresta oeste etc...
 UI_20150317_001242	Consumir Moedas
