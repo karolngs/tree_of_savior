@@ -9,16 +9,16 @@ QUEST_JOBSTEP_20150317_000008	$Mestre Highlander
 QUEST_JOBSTEP_20150317_000009	{memo X}Estou tão agradecido que você queira ser o sucesso do meu espadachim, mas eu suspeito que você não irá seguir meus ensinamentos bem.{nl}Eu testarei você pedindo que derrote os Vubbes que estão ocupando o [#pending 1st floor of the Crystal Mine].
 QUEST_JOBSTEP_20150317_000010	$Apresse-se. {nl} Embora este seja seu desafio de iniciação, os Vubbes são uma ameaça ao [#pending Miners' Village].
 QUEST_JOBSTEP_20150317_000011	$Bom trabalho, você completou sua iniciação para se tornar um Highlander. {nl} Mantenha o trabalho duro e dedicação.
-QUEST_JOBSTEP_20150317_000012	$Mestre Piromante
+QUEST_JOBSTEP_20150317_000012	$Mestra Piromante
 QUEST_JOBSTEP_20150317_000013	{memo X}Eu posso ver que você quer aprender magia comigo, mas eu não posso ensinar qualquer um. {nl}Eu vou ver o quão bem você irá ajudar em minha pesquisa e em seguida decidir.
 QUEST_JOBSTEP_20150317_000014	{memo X}Bom trabalho. Graças a você posso iniciar a próxima etapa da minha pesquisa. {nl}Eu lhe ensinarei a magia do Piromante conforme prometi.
 QUEST_JOBSTEP_20150317_000015	{memo X}Bom, você está aqui. Eu preciso que você derrote os espíritos ruins que irei invocar. {nl}Eu irei gravar a única onda de luz que será emitida no processo.
 QUEST_JOBSTEP_20150317_000016	{memo X}$Estou fazendo uma pesquisa no 4º estado da matéria. {nl}Isso é impossível sem a cooperação da Mestra Bokor que lida com espíritos.
-QUEST_JOBSTEP_20150317_000017	$Sim, esplêndido. {nl}Diga ao Mestre Piromante que nós temos todo o material que precisamos.
+QUEST_JOBSTEP_20150317_000017	$Sim, esplêndido. {nl}Diga a Mestra Piromante que nós temos todo o material que precisamos.
 QUEST_JOBSTEP_20150317_000018	{memo X}Ótimo. {nl}Este estudo está sendo feito com a Mestra Bokor. Então vá visitá-la e ela vai lhe dizer o que fazer.
 QUEST_JOBSTEP_20150317_000019	$Mestre Criomante
 QUEST_JOBSTEP_20150317_000020	{memo X}$Você quer aprender a magia do Criomante comigo? {nl}Claro, eu ensinarei você, mas somente se você cuidar de algo primeiro!
-QUEST_JOBSTEP_20150317_000021	$O Mestre Piromante não deve estar por perto. {nl}Então será uma tarefa fácil.
+QUEST_JOBSTEP_20150317_000021	$A Mestre Piromante não deve estar por perto. {nl}Então será uma tarefa fácil.
 QUEST_JOBSTEP_20150317_000022	$Não se sinta culpado em relação a isso. Você fez um bom trabalho. {nl}Eu ti darei cobertura agora, então não precisa se preocupar.
 QUEST_JOBSTEP_20150317_000023
 QUEST_JOBSTEP_20150317_000024	{memo X}Isto será suficiente. {nl}Minha mágica não é fácil então você precisará trabalhar duro para continuar.
@@ -28,7 +28,7 @@ QUEST_JOBSTEP_20150317_000027	$Eu nunca imaginei que eu mesmo veria isso. {nl}Ob
 QUEST_JOBSTEP_20150317_000028	$Eu ouvi que as lentes perdidas do telescópio da [#pending Star Tower] estão na [#pending Crystal Mine 1F]. {nl}Traga-me estas lentes antes que outros mestres encontrem e eu lhe ensinarei minhas técnicas.
 QUEST_JOBSTEP_20150317_000029	{memo X}Então você quer aprender o caminho da flecha comigo...Então eu tenho uma missão para você. {nl}Eu basearei minha decisão em quão bem você completa ela.
 QUEST_JOBSTEP_20150317_000030	$Evoniphon...Eu nunca esquecerei ele.
-QUEST_JOBSTEP_20150317_000031	$Mestre Caçador
+QUEST_JOBSTEP_20150317_000031	$Mestra Caçadora
 QUEST_JOBSTEP_20150317_000032	{memo X}Você coletou todos os livros. Bom trabalho. {nl}Eu ti ensinarei o caminho do Caçador como prometi.
 QUEST_JOBSTEP_20150317_000033	{memo X}Você obteve alguns bons resultados. Eu irei te ensinar de agora em diante. {nl}Eu espero que você atenda minhas espectativas.
 QUEST_JOBSTEP_20150317_000034	$Eu ouvi que os morcegos na [#pending Crystal Mine 1F] tem um tipo especial de veneno. {nl}Eu tenho certeza que é o mesmo tipo de veneno utilizado pelo assassino Evoniphon. Traga-me este veneno.
@@ -46,88 +46,88 @@ QUEST_JOBSTEP_20150317_000045	{memo X}Agora vá para [#pending Gintara Highway] 
 QUEST_JOBSTEP_20150317_000046	{memo X}Os Matsums atacaram você? {nl}Desde que os Matsums aceitem as bonecas Matsum como suas amigas, considero que foi bem sucedido. 
 QUEST_JOBSTEP_20150317_000047	{memo X}Bom trabalho. {nl}Você fez um ótimo trabalho como meu assistente, então eu ensinarei o que ser um Psiônico realmente significa. 
 QUEST_JOBSTEP_20150317_000048
-QUEST_JOBSTEP_20150317_000049	$Mestre Vinculador
-QUEST_JOBSTEP_20150317_000050	$Temperamento é muito importante para Vinculador. {nl}Embora seja fácil fechar o coração, abrí-lo requer um tipo especial de temperamento. {nl}
-QUEST_JOBSTEP_20150317_000051
-QUEST_JOBSTEP_20150317_000052
-QUEST_JOBSTEP_20150317_000053
-QUEST_JOBSTEP_20150317_000054
-QUEST_JOBSTEP_20150317_000055
-QUEST_JOBSTEP_20150317_000056
-QUEST_JOBSTEP_20150317_000057
-QUEST_JOBSTEP_20150317_000058
-QUEST_JOBSTEP_20150317_000059
-QUEST_JOBSTEP_20150317_000060
-QUEST_JOBSTEP_20150317_000061
-QUEST_JOBSTEP_20150317_000062
-QUEST_JOBSTEP_20150317_000063
-QUEST_JOBSTEP_20150317_000064
-QUEST_JOBSTEP_20150317_000065
-QUEST_JOBSTEP_20150317_000066
-QUEST_JOBSTEP_20150317_000067
-QUEST_JOBSTEP_20150317_000068
-QUEST_JOBSTEP_20150317_000069
-QUEST_JOBSTEP_20150317_000070
-QUEST_JOBSTEP_20150317_000071
-QUEST_JOBSTEP_20150317_000072
-QUEST_JOBSTEP_20150317_000073
-QUEST_JOBSTEP_20150317_000074
-QUEST_JOBSTEP_20150317_000075
-QUEST_JOBSTEP_20150317_000076
-QUEST_JOBSTEP_20150317_000077
-QUEST_JOBSTEP_20150317_000078
-QUEST_JOBSTEP_20150317_000079
-QUEST_JOBSTEP_20150317_000080
-QUEST_JOBSTEP_20150317_000081
-QUEST_JOBSTEP_20150317_000082
-QUEST_JOBSTEP_20150317_000083
-QUEST_JOBSTEP_20150317_000084
-QUEST_JOBSTEP_20150317_000085
-QUEST_JOBSTEP_20150317_000086
-QUEST_JOBSTEP_20150317_000087
-QUEST_JOBSTEP_20150317_000088
-QUEST_JOBSTEP_20150317_000089
-QUEST_JOBSTEP_20150317_000090
-QUEST_JOBSTEP_20150317_000091
-QUEST_JOBSTEP_20150317_000092
-QUEST_JOBSTEP_20150317_000093
-QUEST_JOBSTEP_20150317_000094
-QUEST_JOBSTEP_20150317_000095
-QUEST_JOBSTEP_20150317_000096
-QUEST_JOBSTEP_20150317_000097
-QUEST_JOBSTEP_20150317_000098
-QUEST_JOBSTEP_20150317_000099
-QUEST_JOBSTEP_20150317_000100 {memo X}Se você quiser que eu lhe ensine novas habilidades, há uma condição. {nl}Eu preciso que você encontre quatro livros escritos por Lydia Schaffen.
-QUEST_JOBSTEP_20150317_000101 $Ouvi rumores de que o primeiro livro estava com um morador da Vila Mineradora antes dos Vubbes atacarem. {nl}Então suponho que o livro poderia estar no posto avançado dos Vubbes. 
-QUEST_JOBSTEP_20150317_000102 $Estou surpreso que você conseguiu encontrar o primeiro livro tao rápido! {nl}Além de estar em boas condições. {nl}
-QUEST_JOBSTEP_20150317_000103 $Acredito que você possa comprar o próximo livro da Caçadora Mestre...{nl}Estou quebrado depois de ter que pagar para consertar a muralha, haha...
-QUEST_JOBSTEP_20150317_000104 $Você procura o segundo livro de Lydia Schaffen? {nl}Eu vendo para você por 5000 moedas de prata.
-QUEST_JOBSTEP_20150317_000105 $Acho que 5000 moedas de prata é um bom valor. {nl}Ouvi dizer que esse é o valor do livro.
-QUEST_JOBSTEP_20150317_000106 {memo X}Ah, você veio na hora certa!{nl}Se você puder levar [#pending Merog leather] ao Besteiro Mestre, ele fará uma cópia do próximo volume à você.
-QUEST_JOBSTEP_20150317_000107 {memo X}Este [#pending Merog leather] veio do Arqueiro Mestre?
-QUEST_JOBSTEP_20150317_000108 {memo X}você encontrará Merogs na [#pending Fallen Worry Forest].{nl}Eu levarei esses para ao Besteiro Mestre em Klaipeda.
-QUEST_JOBSTEP_20150317_000109 $A qualidade é boa o bastante. O Mestre Arqueiro ficará satisfeito. {nl}Aqui, preparei uma cópia do livro, pode ficar. 
-QUEST_JOBSTEP_20150317_000110 $Agora só falta um livro.. {nl}Dê essa bolsa ao [#pending Ranger Master] e pegue o livro. {nl}
-QUEST_JOBSTEP_20150317_000111 $O Arqueiro Mestre mandou você? {nl}Bem, bom trabalho. Lhe darei o livro como prometido.
-QUEST_JOBSTEP_20150317_000112 $O livro não está pronto ainda? {nl}Eu quero ver todos os livros da Lydia Schaffen o mais breve possível...
-QUEST_JOBSTEP_20150317_000113 {memo X}$Finalmente, todos os livros estão aqui. {nl}Lhe ensinarei novas habilidades como prometido.
-QUEST_JOBSTEP_20150317_000114 {memo X}$Estou procurando alguns livros. Eles são livros de Lydia Schaffen's. {nl}Eu lhe ensinarei novas habilidades se você pegar os livros para mim, o que acha?
-QUEST_JOBSTEP_20150317_000115 $O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
-QUEST_JOBSTEP_20150317_000116 $Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
-QUEST_JOBSTEP_20150317_000117 {memo X}O problema é a Caçadora Mestre. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
-QUEST_JOBSTEP_20150317_000118 $Você se refere a esse livro? {nl}Bem... certo! Dou ele para você por 5000 moedas de prata.
-QUEST_JOBSTEP_20150317_000119 {memo X}Acho que 5000 moedas de prata será o suficiente. {nl}Você tem isso?
-QUEST_JOBSTEP_20150317_000120 {memo X}Você veio na hora certa.{nl}O Besteiro Mestre disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
-QUEST_JOBSTEP_20150317_000121 {memo X}A [#pending Ranger Master] não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
-QUEST_JOBSTEP_20150317_000122 {memo X}$Merogs se encontram na [#pending Fallen Worry Forest] e o Besteiro Mestre está em Klaipeda. {nl}Alguém poderia ir até lá e pegar o livro antes de você, então vá depressa.
-QUEST_JOBSTEP_20150317_000123 $O livro está em boas condições.{nl}Agora leve-o ao Mestre Arqueiro. {nl}
-QUEST_JOBSTEP_20150317_000124 $O Mestre Arqueiro em Klaipeda tem o último livro. {nl}Ouvi dizer que ele está consertado a muralha, então talvez essa informaçãp possa lhe ajudar.
-QUEST_JOBSTEP_20150317_000125 $Soube de uma rocha que pode ser útil para consertar a muralha na Vila Mineiradora. {nl}Traga a rocha ao Arqueiro Mestre como presente.
-QUEST_JOBSTEP_20150317_000126 $A Caçadora Mestre disse para você trazer isso? {nl}Se você está aqui pelo livro da Lydia Schaffen, era só ter pedido. Mas obrigado mesmo assim. 
-QUEST_JOBSTEP_20150317_000127 {memo X}$Você finalmente conseguiu todos os livros, Bom trabalho. {nl}Vou lhe ensinar novas habilidades como prometido, mas é seu trabalho manter o rítmo e seguir minhas instruções.
-QUEST_JOBSTEP_20150317_000128 $Você conseguiu couro de boa qualidade. {nl}Leve ao Besteiro Mestre. 
-QUEST_JOBSTEP_20150317_000129 $Por que você trouxe isso para mim? Leve ao Arqueiro Mestre rápido.
-QUEST_JOBSTEP_20150317_000130 $Escultor Tesla
+QUEST_JOBSTEP_20150317_000049	$Vinculadora Mestra
+QUEST_JOBSTEP_20150317_000050	$Temperamento é muito importante para um Vinculador. {nl}Embora seja fácil fechar o coração, abrí-lo requer um tipo especial de temperamento. {nl}
+QUEST_JOBSTEP_20150317_000051	$Eu irei testá-lo para ver se você tal temperamento.
+QUEST_JOBSTEP_20150317_000052	{memo X}Ótimo. De qualquer maneira, você deve preparar alguns materiais antes de fazer o teste.{nl}Traga-me uma [#pending Dunball’s thorn] e uma [#pending Velwriggler’s carving] da [#pending Gate Route].[?]
+QUEST_JOBSTEP_20150317_000053	$Excelente! {nl}Mas isto é apenas para preparar você para o teste. {nl}
+QUEST_JOBSTEP_20150317_000054	{memo X}Eu vou começar o teste agora. {nl}Atrás da [#pending Gate Route] existe uma fenda no espaço.{nl}
+QUEST_JOBSTEP_20150317_000055	$Pessoas normais só são capazes de ver a realidade com ela é, mas se você tiver o temperamento de um Vinculador, {nl}você será capaz de perceber um mundo escondido. {nl}Encontre o livro lá e traga ele para mim.
+QUEST_JOBSTEP_20150317_000056	{memo X}Você ainda não foi até lá? {nl}Apenas vá para a [#pending Gate Route] e verifique. Eu marquei a localização no mapa.{nl}
+QUEST_JOBSTEP_20150317_000057	$Parece que você encontrou o livro. Com isso você passou em meu teste. {nl} Nevertheless, por favor, leia este livro para demonstrar a sua determinação como Vinculador.
+QUEST_JOBSTEP_20150317_000058	$Então você quer que eu lhe ensine as habilidades de um Sapador... bom, então como de costume você deve pagar uma taxa. {nl}Não para mim. Mas eu quero que você faça uma doação para a Mestra Clériga em Klaipeda. {nl}Vamos dizer, em torno de 5.000 moedas de prata?
+QUEST_JOBSTEP_20150317_000059	{memo X}Espere, tem mais uma coisa. {nl}Eu escondi alguns objetos na [#pending Flude Island] que fica na [#pending Siaulai Western Woods].{nl}Antes de você ir a Klaipeda, encontre os objetos primeiro e devolva aos seus donos originais em Klaipedia.{nl}{nl}
+QUEST_JOBSTEP_20150317_000060	$Oh, isso. Eu vi isso em algum lugar...hmm...me parece familiar...{nl}Bem, eu vou pegar com gratidão já que você está me devolvendo.
+QUEST_JOBSTEP_20150317_000061	$Ah, esta é a ferramenta que eu perdi. {nl}Obrigado. Onde ela estava?
+QUEST_JOBSTEP_20150317_000062	$Você esqueceu da doação? {nl}São 5.000 moedas de prata.
+QUEST_JOBSTEP_20150317_000063	$Mestra Clériga
+QUEST_JOBSTEP_20150317_000064	$Obrigado, em nome dos Deuses.{nl}Eu prometo que as doações serão utilizadas para ajudar os feridos pelos monstros. {nl}
+QUEST_JOBSTEP_20150317_000065	$Eu costuma ser uma ladra, mas eu percebi algumas coisas e acabei parando com minha vida criminosa. {nl}Mas há uma pequena questão em que tenho pensado... e eu quero resolver isso agora. {nl}
+QUEST_JOBSTEP_20150317_000066	{memo X}De qualquer forma, você fez um bom trabalho. {nl}Vamos cooperar de agora em diante, ensinando e aprendendo um com o outro.
+QUEST_JOBSTEP_20150317_000067	{memo X}Estou procurando por alguns livros. Quatro livros da Lydia Schaffen. {nl}Se você me ajudar a encontrar o livro, Eu vou lhe ensinar minhas habilidades.
+QUEST_JOBSTEP_20150317_000068	$O livro costumava ficar na [#pending Miners' Village], mas ele foi perdido quando os Vubbes à invadiram. {nl} Tente ir ao [#pending Vubbe Outpost].
+QUEST_JOBSTEP_20150317_000069	$Este é o livro. Você vai precisar deste livro se sonha em se tornar o melhor dos Arqueiros. {nl}Eu irei lhe fazer uma cópia se você reunir toda a coleção.
+QUEST_JOBSTEP_20150317_000070	{memo X}$O Mestre Besteiro tem o próximo livro. {nl}Ele estava procurando por [#pending Merog leather]. Talvez você possa fazer um trato com ele usando isso.
+QUEST_JOBSTEP_20150317_000071	{memo X}Você tem a [#pending Merog leather] da Mestra Caçadora ainda?
+QUEST_JOBSTEP_20150317_000072	$É de boa qualidade. A Mestra Caçadora ficará satisfeita. {nl}Você pode pegar o livro. {nl}
+QUEST_JOBSTEP_20150317_000073	{memo X}$Merogs estão na [#pending Fallen Worry Forest], e o Mestre Besteiro está em Klaipeda. {nl}Alguém pode chegar na sua frente, é melhor se apressar.
+QUEST_JOBSTEP_20150317_000074	$O Mestre Arqueiro em Klaipeda tem o próximo livro. {nl}Ele não é uma pessoa mesquinha, então ele vai lhe dar o livro se você pedir com gentileza. {nl}
+QUEST_JOBSTEP_20150317_000075	$Ele está ajudando com os reparos do muro danificado da cidade. {nl}Eu ouvi que as rochas foram enviadas pela [#pending Miners' Village], então levar alguma para ele pode ser uma forma de pergunta.
+QUEST_JOBSTEP_20150317_000076	$Será que a Mestra Caçadora lhe falou para trazer isso? {nl}Se você está procurando pelo livro de Lydia Schaffen, você poderia apenas ter perguntado. Mas obrigado de qualquer maneira. 
+QUEST_JOBSTEP_20150317_000077	$O último livro está com o Mestre Sentinela em Klaipeda. {nl}Dê-lhe esta bolsa. {nl}Eu poderia ir eu mesmo, mas não estamos confortáveis vendo um ao outro.
+QUEST_JOBSTEP_20150317_000078	$Não pergunte o porquê. Trabalho é trabalho, e é um fato que não queremos ver um ao outro. 
+QUEST_JOBSTEP_20150317_000079	$Esta bolsa...Você veio da Mestra Caçadora? {nl}Aqui. Leve este livro para ela.
+QUEST_JOBSTEP_20150317_000080	$Apesar de que a mulher agiu com humildade para com você, ela é muito assustadora quando se aproxima de mim.
+QUEST_JOBSTEP_20150317_000081	$Este couro será suficiente. {nl}Leve ele para o Mestre Besteiro antes que alguém o faça.
+QUEST_JOBSTEP_20150317_000082	$Esta roça será usada para reparar o muro. {nl}Leve isto para o Mestre Arqueiro rapidamente.
+QUEST_JOBSTEP_20150317_000083	{memo X}$Você é a pessoa que quer aprender minhas habilidades? {nl}Ótimo, eu estava procurando alguem para me ajudar a encontrar os livros de Lydia Schaffen. {nl}Você vai me ajudar, certo?
+QUEST_JOBSTEP_20150317_000084	$Existe um volume na [#pending Miners' Village], mas foi perdido quando os Vubbes â invadiram. {nl} Eu tenho certeza de que ela está na [#pending Vubbe Outpost] agora.
+QUEST_JOBSTEP_20150317_000085	$Ho-ho claro, é isto. {nl}Isso vai ser útil para pessoas como você, que sonham em se tornar Besteiros. {nl}Eu irei lhe fazer uma cópia se você reunir toda a coleção.
+QUEST_JOBSTEP_20150317_000086	$Faltem apenas três. {nl}Eu acho que você pode conseguir um deles dando algum dinheiro para a Mestra Caçadora.
+QUEST_JOBSTEP_20150317_000087	$O problema é, eu estou quebrado.
+QUEST_JOBSTEP_20150317_000088	$Você quer dizer o livro de Lydia Schaffen que eu tenho? {nl}Vou entregá-lo por 5.000 moedas de prata.
+QUEST_JOBSTEP_20150317_000089	$Você me ouviu bem, por favor, pague o preço. {nl}Por volta de 5.000 moedas de prata eu faço. {nl}
+QUEST_JOBSTEP_20150317_000090	$5000 moedas de prata...Yup, está correto. {nl}Eu lhe darei o livro conforme prometido.
+QUEST_JOBSTEP_20150317_000091	$Bem...o Mestre Arqueiro deve ter o próximo livro. {nl}Ele continua ajudando a reparar o muro, por isso ele apreciaria se você o levasse algumas rochas? {nl}Eu poderia levá-las eu mesmo, mas...owwww...minhas costas.
+QUEST_JOBSTEP_20150317_000092	$O Mestre Arqueiro tem o próximo livro. {nl}Ele não é uma pessoa mesquinha, então ele lhe dará o livro se você for gentil. {nl}
+QUEST_JOBSTEP_20150317_000093	$Eu ouvi dizer que ele está ajudando a reparar o muro danificado da cidade. {nl}As rochas foram enviadas da [#pending Miners' Village], e ele será comovido se você trouxer uma para ele.
+QUEST_JOBSTEP_20150317_000094	$A Mestra Caçadora disse para você trazer isso? {nl}Se você está aqui pelo livro de Lydia Schaffen, você poderia apenas ter perguntado. Mas obrigado de qualquer foram.
+QUEST_JOBSTEP_20150317_000095	$Agora, pelo último livro. {nl}Dê esta bolsa para o Mestre Sentinela e traga a bolsa.
+QUEST_JOBSTEP_20150317_000096	$Foi o Mestre Besteiro que mandou isso? {nl}Obrigado. Eu vou entregar o livro como prometido.
+QUEST_JOBSTEP_20150317_000097	$Traga o livro rápido. {nl}Eu não posso segurar isso.
+QUEST_JOBSTEP_20150317_000098	{memo X}Ótimo, é este mesmo! {nl}Eu irei lhe ensinar as habilidades de um Besteiro como prometido. {nl}
+QUEST_JOBSTEP_20150317_000099	$Esta rocha será útil no reparo do muro. {nl}Leve isto para o Mestre Arqueiro rapidamente. 
+QUEST_JOBSTEP_20150317_000100	{memo X}Se você quiser que eu lhe ensine novas habilidades, há uma condição. {nl}Eu preciso que você encontre quatro livros escritos por Lydia Schaffen.
+QUEST_JOBSTEP_20150317_000101	$Ouvi rumores de que o primeiro livro estava com um morador da Vila Mineradora antes dos Vubbes atacarem. {nl}Então suponho que o livro poderia estar no posto avançado dos Vubbes. 
+QUEST_JOBSTEP_20150317_000102	$Estou surpreso que você conseguiu encontrar o primeiro livro tao rápido! {nl}Além de estar em boas condições. {nl}
+QUEST_JOBSTEP_20150317_000103	$Acredito que você possa comprar o próximo livro da  Mestra Caçadora...{nl}Estou quebrado depois de ter que pagar para consertar a muralha, haha...
+QUEST_JOBSTEP_20150317_000104	$Você procura o segundo livro de Lydia Schaffen? {nl}Eu vendo para você por 5000 moedas de prata.
+QUEST_JOBSTEP_20150317_000105	$Acho que 5000 moedas de prata é um bom valor. {nl}Ouvi dizer que esse é o valor do livro.
+QUEST_JOBSTEP_20150317_000106	{memo X}Ah, você veio na hora certa!{nl}Se você puder levar [#pending Merog leather] ao Mestre Besteiro, ele fará uma cópia do próximo volume à você.
+QUEST_JOBSTEP_20150317_000107	{memo X}Este [#pending Merog leather] veio do Mestre Arqueiro?
+QUEST_JOBSTEP_20150317_000108 	{memo X}você encontrará Merogs na [#pending Fallen Worry Forest].{nl}Eu levarei esses para ao Mestre Besteiro em Klaipeda.
+QUEST_JOBSTEP_20150317_000109 	$A qualidade é boa o bastante. O Mestre Arqueiro ficará satisfeito. {nl}Aqui, preparei uma cópia do livro, pode ficar. 
+QUEST_JOBSTEP_20150317_000110 	$Agora só falta um livro.. {nl}Dê essa bolsa ao Mestre Sentinela e pegue o livro. {nl}
+QUEST_JOBSTEP_20150317_000111 	$O Arqueiro Mestre mandou você? {nl}Bem, bom trabalho. Lhe darei o livro como prometido.
+QUEST_JOBSTEP_20150317_000112 	$O livro não está pronto ainda? {nl}Eu quero ver todos os livros da Lydia Schaffen o mais breve possível...
+QUEST_JOBSTEP_20150317_000113 	{memo X}$Finalmente, todos os livros estão aqui. {nl}Lhe ensinarei novas habilidades como prometido.
+QUEST_JOBSTEP_20150317_000114 	{memo X}$Estou procurando alguns livros. Eles são livros de Lydia Schaffen's. {nl}Eu lhe ensinarei novas habilidades se você pegar os livros para mim, o que acha?
+QUEST_JOBSTEP_20150317_000115 	$O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
+QUEST_JOBSTEP_20150317_000116 	$Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
+QUEST_JOBSTEP_20150317_000117 	{memo X}O problema é a Mestra Caçadora. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
+QUEST_JOBSTEP_20150317_000118 	$Você se refere a esse livro? {nl}Bem... certo! Dou ele para você por 5000 moedas de prata.
+QUEST_JOBSTEP_20150317_000119 	{memo X}Acho que 5000 moedas de prata será o suficiente. {nl}Você tem isso?
+QUEST_JOBSTEP_20150317_000120 	{memo X}Você veio na hora certa.{nl}O Mestre Besteiro disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
+QUEST_JOBSTEP_20150317_000121 	{memo X}A Mestre Sentinela não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
+QUEST_JOBSTEP_20150317_000122 	{memo X}$Merogs se encontram na [#pending Fallen Worry Forest] e o Mestre Besteiro está em Klaipeda. {nl}Alguém poderia ir até lá e pegar o livro antes de você, então vá depressa.
+QUEST_JOBSTEP_20150317_000123 	$O livro está em boas condições.{nl}Agora leve-o ao Mestre Arqueiro. {nl}
+QUEST_JOBSTEP_20150317_000124 	$O Mestre Arqueiro em Klaipeda tem o último livro. {nl}Ouvi dizer que ele está consertado a muralha, então talvez essa informaçãp possa lhe ajudar.
+QUEST_JOBSTEP_20150317_000125 	$Soube de uma rocha que pode ser útil para consertar a muralha na Vila Mineiradora. {nl}Traga a rocha ao Mestre Arqueiro como presente.
+QUEST_JOBSTEP_20150317_000126 	$A Mestra Caçadora disse para você trazer isso? {nl}Se você está aqui pelo livro da Lydia Schaffen, era só ter pedido. Mas obrigado mesmo assim. 
+QUEST_JOBSTEP_20150317_000127 	{memo X}$Você finalmente conseguiu todos os livros, Bom trabalho. {nl}Vou lhe ensinar novas habilidades como prometido, mas é seu trabalho manter o rítmo e seguir minhas instruções.
+QUEST_JOBSTEP_20150317_000128 	$Você conseguiu couro de boa qualidade. {nl}Leve ao Mestre Besteiro. 
+QUEST_JOBSTEP_20150317_000129 	$Por que você trouxe isso para mim? Leve ao Mestre Arqueiro rápido.
+QUEST_JOBSTEP_20150317_000130 	$Escultor Tesla
 QUEST_JOBSTEP_20150317_000131
 QUEST_JOBSTEP_20150317_000132
 QUEST_JOBSTEP_20150317_000133
