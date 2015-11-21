@@ -931,9 +931,9 @@ SKILL_20150317_000930	$Dano Adicional: +#{CaptionRatio2}#{nl}Número de Acertos:
 SKILL_20150317_000931	$Coibir
 SKILL_20150317_000932	{memo X}Díminui o seu HP máximo, mas aumenta o seu ataque.
 SKILL_20150317_000933	{memo X}Ataque Físico + #{CaptionRatio}#{nl}HP Máximo - #{CaptionRatio2}# {nl} Duração #{CaptionTime}# segundos
-SKILL_20150317_000934	$Umbo Blow
+SKILL_20150317_000934	$Golpe Umbo
 SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca colidindo o seu escudo. {nl} Inflinge mais dano após bloquear um ataque inimigo.
-SKILL_20150317_000936	$Rim Blow
+SKILL_20150317_000936	$Golpe de Rebordo
 SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca usando a borda do seu escudo. {nl} Inflinge mais dano em monstros congelados ou petrificados.
 SKILL_20150317_000938	$Provocar
 SKILL_20150317_000939	{memo X}$Bate no seu escudo para provocar inimigos próximos.
@@ -968,7 +968,7 @@ SKILL_20150317_000967	{memo X}Crítico + #{CaptionRatio}#{nl}Esquiva - #{Caption
 SKILL_20150317_000968	$Estocada Sincronizada
 SKILL_20150317_000969	{memo X}${#DD5500}{ol}[Físico] - [Perfurante] - [Impacto]{/}{/}{nl} Inflinge dano no inimigo ao atacar com o escudo e lança.
 SKILL_20150317_000970	{memo X}Ataque da Lança #{SkillAtkAdd}#{nl}Ataque do Escudo #{CaptionRatio}#{nl}Espalhado #{SkillSR}#
-SKILL_20150317_000971	$Long Stride
+SKILL_20150317_000971	$Tranco
 SKILL_20150317_000972	${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Inflinge dano no inimigo ao pular em sua direção.
 SKILL_20150317_000973	$Arremessar Lança
 SKILL_20150317_000974	$Avançar
@@ -999,7 +999,7 @@ SKILL_20150317_000998	{memo X}${#DD5500}{ol}[Cortante]{/}{/}{nl} Gira a sua lan�
 SKILL_20150317_000999	{memo X}Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Espalhado #{SkillSR}#
 SKILL_20150317_001000	$Trazendo a Morte
 SKILL_20150317_001001	{memo X}{#DDD300}{ol}[Perfurante]{/}{/}{nl}Ataca os inimigos à frente continuamente.
-SKILL_20150317_001002	$Embowel
+SKILL_20150317_001002	$Estripar
 SKILL_20150317_001003	{memo X}${#DD5500}{ol}[Perfurante]{/}{/}{nl} Realiza uma forte estocada e depois chuta o inimigo.
 SKILL_20150317_001004	$Frenesi
 SKILL_20150317_001005	{memo X}$Aumenta o seu ataque após usar vários ataques consecutivos em um alvo.
@@ -1034,9 +1034,9 @@ SKILL_20150317_001033	$Phalanx
 SKILL_20150317_001034	$Tercio
 SKILL_20150317_001035	$Formação Alada
 SKILL_20150317_001036	$Formação em Pinça
-SKILL_20150317_001037	$Schiltron Formation
+SKILL_20150317_001037	$Formação de Defesa
 SKILL_20150317_001038	$Testuto
-SKILL_20150317_001039	$Skirmisher
+SKILL_20150317_001039	$Guerrear
 SKILL_20150317_001040	$Alterar Direção
 SKILL_20150317_001041	$Ações de Bravura
 SKILL_20150317_001042	{memo X}$Aumenta o seu ataque e a sua velocidade de ataque, mas diminui a sua defesa.
