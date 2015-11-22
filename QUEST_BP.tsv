@@ -898,156 +898,156 @@ QUEST_20150317_000897	{memo X}É bom que esta droga funcione…
 QUEST_20150317_000898	{memo X}Comida… Você trouxe comida?
 QUEST_20150317_000899	{memo X}Você viu o peregrino com fome infinita? {n1}Ele também está sob a maldição de Naktis. {n1}Por isso sua fome não pode ser saciado, não importa o quanto ele coma.
 QUEST_20150317_000900	{memo X}Ugghh… O que eu comi? {nl}Me sinto enjoado.
-QUEST_20150317_000901
-QUEST_20150317_000902
-QUEST_20150317_000903
-QUEST_20150317_000904
-QUEST_20150317_000905
-QUEST_20150317_000906
-QUEST_20150317_000907
-QUEST_20150317_000908
-QUEST_20150317_000909
-QUEST_20150317_000910
-QUEST_20150317_000911
-QUEST_20150317_000912
-QUEST_20150317_000913
-QUEST_20150317_000914
-QUEST_20150317_000915
-QUEST_20150317_000916
-QUEST_20150317_000917
-QUEST_20150317_000918
-QUEST_20150317_000919
-QUEST_20150317_000920
-QUEST_20150317_000921
-QUEST_20150317_000922
-QUEST_20150317_000923
-QUEST_20150317_000924
-QUEST_20150317_000925
-QUEST_20150317_000926
-QUEST_20150317_000927
-QUEST_20150317_000928
-QUEST_20150317_000929
-QUEST_20150317_000930
-QUEST_20150317_000931
-QUEST_20150317_000932
-QUEST_20150317_000933
-QUEST_20150317_000934
-QUEST_20150317_000935
-QUEST_20150317_000936
-QUEST_20150317_000937
-QUEST_20150317_000938
-QUEST_20150317_000939
-QUEST_20150317_000940
-QUEST_20150317_000941
-QUEST_20150317_000942
-QUEST_20150317_000943
-QUEST_20150317_000944
-QUEST_20150317_000945
-QUEST_20150317_000946
-QUEST_20150317_000947
-QUEST_20150317_000948
-QUEST_20150317_000949
-QUEST_20150317_000950
-QUEST_20150317_000951
-QUEST_20150317_000952
-QUEST_20150317_000953
-QUEST_20150317_000954
-QUEST_20150317_000955
-QUEST_20150317_000956
-QUEST_20150317_000957
-QUEST_20150317_000958
-QUEST_20150317_000959
-QUEST_20150317_000960
-QUEST_20150317_000961
-QUEST_20150317_000962
-QUEST_20150317_000963
-QUEST_20150317_000964
-QUEST_20150317_000965
-QUEST_20150317_000966
-QUEST_20150317_000967
-QUEST_20150317_000968
-QUEST_20150317_000969
-QUEST_20150317_000970
-QUEST_20150317_000971
-QUEST_20150317_000972
-QUEST_20150317_000973
-QUEST_20150317_000974
-QUEST_20150317_000975
-QUEST_20150317_000976
-QUEST_20150317_000977
-QUEST_20150317_000978
-QUEST_20150317_000979
-QUEST_20150317_000980
-QUEST_20150317_000981
-QUEST_20150317_000982
-QUEST_20150317_000983
-QUEST_20150317_000984
-QUEST_20150317_000985
-QUEST_20150317_000986
-QUEST_20150317_000987
-QUEST_20150317_000988
-QUEST_20150317_000989
-QUEST_20150317_000990
-QUEST_20150317_000991
-QUEST_20150317_000992
-QUEST_20150317_000993
-QUEST_20150317_000994
-QUEST_20150317_000995
-QUEST_20150317_000996
-QUEST_20150317_000997
-QUEST_20150317_000998
-QUEST_20150317_000999
-QUEST_20150317_001000
-QUEST_20150317_001001
-QUEST_20150317_001002
-QUEST_20150317_001003
-QUEST_20150317_001004
-QUEST_20150317_001005
-QUEST_20150317_001006
-QUEST_20150317_001007
-QUEST_20150317_001008
-QUEST_20150317_001009
-QUEST_20150317_001010
-QUEST_20150317_001011
-QUEST_20150317_001012
-QUEST_20150317_001013
-QUEST_20150317_001014
-QUEST_20150317_001015
-QUEST_20150317_001016
-QUEST_20150317_001017
-QUEST_20150317_001018
-QUEST_20150317_001019
-QUEST_20150317_001020
-QUEST_20150317_001021
-QUEST_20150317_001022
-QUEST_20150317_001023
-QUEST_20150317_001024
-QUEST_20150317_001025
-QUEST_20150317_001026
-QUEST_20150317_001027
-QUEST_20150317_001028
-QUEST_20150317_001029
-QUEST_20150317_001030
-QUEST_20150317_001031
-QUEST_20150317_001032
-QUEST_20150317_001033
-QUEST_20150317_001034
-QUEST_20150317_001035
-QUEST_20150317_001036
-QUEST_20150317_001037
-QUEST_20150317_001038
-QUEST_20150317_001039
-QUEST_20150317_001040
-QUEST_20150317_001041
-QUEST_20150317_001042
-QUEST_20150317_001043
-QUEST_20150317_001044
-QUEST_20150317_001045
-QUEST_20150317_001046
-QUEST_20150317_001047
-QUEST_20150317_001048
-QUEST_20150317_001049
-QUEST_20150317_001050
+QUEST_20150317_000901	{memo X}É bom que a droga funcione…
+QUEST_20150317_000902	{memo X}Eles estão se sentido com náuseas? {nl}Não sei dizer se a droga está funcionando só vendo as reações deles.
+QUEST_20150317_000903	{memo X}Agora te darei a droga. {nl}Dê-a aos pilgrims.
+QUEST_20150317_000904	{memo X}Agora é melhor eu ir e enterrar o bispo.
+QUEST_20150317_000905 	{memo X}Obrigado por me ajidar a enterrar o bispo.
+QUEST_20150317_000906	Mármore Vermelho
+QUEST_20150317_000907	Está emitindo uma luz vermelha.
+QUEST_20150317_000908	Mármore Azul
+QUEST_20150317_000909	Está emitindo uma luz azul.
+QUEST_20150317_000910	Mármore Amarelo
+QUEST_20150317_000911	Está emitindo uma luz amarela.
+QUEST_20150317_000912	Mármore Verde
+QUEST_20150317_000913	Está emitindo uma luz verde.
+QUEST_20150317_000914	Mármore Roxo
+QUEST_20150317_000915	Está emitindo uma luz roxa.
+QUEST_20150317_000916	{memo X}É hora de deixar os subordinados de Naktis saberem sobre a localização do dispositivo de Maven.
+QUEST_20150317_000917	{memo X}O dispositivo de Maven não será destruído facilmente, mas isso não significa que ele é indestrutível.
+QUEST_20150317_000918	{memo X}Os subordinados de Naktis estão mostrando forte obsessão {nl}sobre suas próprias coisas dentro do dispositivo de Maven.
+QUEST_20150317_000919	{memo X}Os subordinados de Naktis estão mostrando forte obsessão {nl}sobre as coisas dentro do dispositivo de Maven.
+QUEST_20150317_000920	{memo X}Você achou a última chave?.
+QUEST_20150317_000921	{memo X}Se os subordinadosde Naktis pegaram-na, então a última chave deve estar nas mãos de Naktis.
+QUEST_20150317_000922	{memo X}Os subordinados de Naktis relataram para ele que nós possuimos a chave.
+QUEST_20150317_000923	{memo X}As brilhantes chaves e marmóres…
+QUEST_20150317_000924	{memo X}A cor das chaves brilhantes e dos marmóres… {nl}eles parecem corresponder uns com os outros.
+QUEST_20150317_000925	Algo parece ter reagido.
+QUEST_20150317_000926	{memo X}Somos os sacerdotes enviados para desfazer a maldição de Naktis em Caminho do Peregrino. {nl}Estamos procurando pelos vários documentos sobre os demonios e sua maldição na Catedral.
+QUEST_20150317_000927	{memo X}O dispositivo será liberado quando todas as placas do piso forem pressionadas.
+QUEST_20150317_000928	Pegue as bombas do báu. Você deve destruir a entrada do Mausoléu Real.
+QUEST_20150317_000929	Me ajude!
+QUEST_20150317_000930	Cuidado
+QUEST_20150317_000931	{memo X}Pare! Você não pode ir além desse ponto sem permissão!
+QUEST_20150317_000932	{memo X}O que? Você parece ser um pouco inexperiente mas ainda pode ser de alguma ajuda. {nl}Você encontrará o oficial se seguir esta estrada.
+QUEST_20150317_000933	{memo X}Mas o que…! Perder a Revelação bem na frente de…! {nl}Esse não é o fim! Lembre-se disso!
+QUEST_20150317_000934	Pois bem, vamos começar o experimento.
+QUEST_20150317_000935	Comida Estragada
+QUEST_20150317_000936	Bolinhos de batata. Aparentemente você não devia come-lôs. {nl}Devemos comer?
+QUEST_20150317_000937	Está estragado.
+QUEST_20150317_000938	Comida Preservada
+QUEST_20150317_000939	É comida preservada que foi seca ou salgada. {nl}Não parece ser comestível por sí só.
+QUEST_20150317_000940	Licor
+QUEST_20150317_000941	Cheira igual licor.
+QUEST_20150317_000942	Explorar
+QUEST_20150317_000943	Parece que somente pode ser usado na Mina de Cristal, na Terceira Galeria…
+QUEST_20150317_000944	Encontrei um pedaço de papel embaixo da terra.
+QUEST_20150317_000945	Comer mais seria bem arriscado.
+QUEST_20150317_000946	$Algo parece terrível dentro…
+QUEST_20150317_000947	Ooopp…
+QUEST_20150317_000948	Eu não quero comer aquilo nunca mais.
+QUEST_20150317_000949	Isso é perigoso. Eu quero vomitar!
+QUEST_20150317_000950	Parecem haver muitos livros interessantes. {nl}Qual deles devemos ler?
+QUEST_20150317_000951	Maravilhas da Floresta Profunda
+QUEST_20150317_000952	Muitas estátuas de coruja de propósito desconhecido foram encontradas nas profundas florestas.
+QUEST_20150317_000953	A lenda diz que um escultor fez as estátuas para ajudar a guiar as almas mortas.
+QUEST_20150317_000954	É dito que ele tem se escondido por séculos e esculpe estátuas até os tempos atuais.
+QUEST_20150317_000955	Cidade Caida do Reino
+QUEST_20150317_000956	O Minelário foi feito para celebrar o aniverário de mil anos do Reino.
+QUEST_20150317_000957	Cem anos depois disso, a Árvore Divina cresceu no centro da capital, {nl}e o desastre ocorreu. O mundo foi devastado por plantas.
+QUEST_20150317_000958	A capital foi preenchida com os choros angustiádos das pessoas, {nl}e logo se tornou uma cidade caida.
+QUEST_20150317_000959	Monstros
+QUEST_20150317_000960	Antes de Medzio Diena, existiam somente Vubbes.
+QUEST_20150317_000961	Depois disso, monstros com distintas e ferozes caracteristicas apareceram em grupos.
+QUEST_20150317_000962	Companias Siauliai
+QUEST_20150317_000963	A indústria principal de Siauliai é mineração, e é especializada em cristais da Mina de Cristal.
+QUEST_20150317_000964	Atualmente, somente o 1º Lote da Mina de Cristal está em uso mas ela costumava ter dois lotes.
+QUEST_20150317_000965	Porém o 2º Lote foi fechado por declaração do bispo para selar os demônios. {nl}O alquimista também resine no vilarejo por causa disso.
+QUEST_20150317_000966	#pending Summa Theologica
+QUEST_20150317_000967	Tudo sobre a Estátua da Deusa Vakarine é lindo, {nl}porém sua parte mais linda é o fato de que seus poderes especiais {nl}podem ser usados para te levar ao mundo das Deusas.
+QUEST_20150317_000968	Lenda de Cunningham
+QUEST_20150317_000969	É uma história antiga o bastante para sido esquecida de toda memória.
+QUEST_20150317_000970	Durante seu compulsório trabalho nas minas, Cunningham encontrou uma estranha garota que tinha perto de sete anos. {nl}A garota falava sobre um grande perigo, mas sabia pouco sobre sí mesma.
+QUEST_20150317_000971	Cunningham sentiu dó da garota e cuidou dela. Logo eles se tornaram melhores amigos.
+QUEST_20150317_000972	Mas a felicidade não durou, logo os demônios atacaram as minas. {nl}Com a ajuda da garota, Cunningham lutou contra os demonios para repelir Mirtis.
+QUEST_20150317_000973	{memo X}Entretanto, Mirtis era forte demais e Cunningham teve de fazer uma dura decisão.
+QUEST_20150317_000974	No fim, Cunningham destruiu as minas, selando Mirtis e sí próprio nela.
+QUEST_20150317_000975	Conjunto de Livros de Cirurgia
+QUEST_20150317_000976	Pessoas não perdoam a familia por acordar os demônios dormentes. {nl}Pessoas perseguiram a familia com o medo de serem corrompidas {nl}e a familia teve de percorrer o reino com a opressão e a discriminação das pessoas.
+QUEST_20150317_000977	#pending O homem daquela familia tinha uma estranha doença. {nl}Suas peles estavam secas e descamadas, e eles continuaram a coça-la como se estivessem com dor.
+QUEST_20150317_000978	A pele rachou como a superficie da terra seca, com sangue e pus saindo. {nl}Eles estavam com dor por muito tempo e eram incapazes de dormir. {nl}Estavam constantemente em um estado de crise nervosa.
+QUEST_20150317_000979	#pending Diario de Viagens do Reino
+QUEST_20150317_000980	{memo X}O Vale de Rhombuspaving é uma obra-prima da Deusa das Maravilhas e Natureza. {nl}As escadas de cal envolvendo a região sul são repletas de nascentes de águas brilhantes. 
+QUEST_20150317_000981	A cor da nascente é as vezes tom de safíra e as vezes tom de jade. {nl}Olhar para suas profundas e misteriosas cores faz você imaginar se esse é o trabalho de uma Deusa.
+QUEST_20150317_000982	Minha Confissão
+QUEST_20150317_000983	{memo X}As muitas mortes dos demônios não podiam encher o vazio em meu coração. {nl}Quando a grande missão das Deusas acabar para mim, eu ficarei com uma longa vida cheia de tediosos momentos.
+QUEST_20150317_000984	Nesse caso, eu devo interpretar as Revelações das Deusas pelo resto de minha vida. {nl}Se isso for contra o desejo dela, a Deusa deve me punir imediatamente.
+QUEST_20150317_000985	Porém isso me dará a oportunidade para reavaliar minha vida. {nl}E a longo prazo, pode ajudar um Revelador que apareça no futuro.
+QUEST_20150317_000986	Mesa de Leitura
+QUEST_20150317_000987	Há alguns livros nas pratileiras embaixo da mesa de leitura. {nl}Qual livro devemos ler?
+QUEST_20150317_000988	É velho e desgastado demais para ler.
+QUEST_20150317_000989	4 de X {nl} - {nl} Existem muitas poucas pessoas da capital vindo pra cidade. {nl} Quando uma familia se mudou, todo o vilarejo deu uma festa de boas vindas. {Nl} Afinal, quantas pessoas de fora conseguimos encontrar esses dias? {nl}
+QUEST_20150317_000990	Eu posso não saber por que motivo as pessoas viriam até aqui, {nl} mas depois de Medzio Diena, é ótimo estar em uma cidade tão animada. {Nl} Acho que faltarei no trabalho amanhã e festejarei junto. {Nl} {nl}
+QUEST_20150317_000991	5 de X {nl} - {nl} Eu queria me tornar amigo de meus novos vizinhos o mais rápido possível então eu levei alguns bolinhos de batata a eles. {nl}A porta deles, pude ouvir a agitação da casa. Meu vizinho então apareceu, sem expressão, {nl}mas ficou com a cara animada quando viu os bolinhos de batata. {Nl}
+QUEST_20150317_000992	Ele se desculpou pela falta de consciência antes, já que ele e seu filho estavam colocando papéis de parede. {Nl} Que família harmoniosa, imagino se eu conseguiria criar algo assim?
+QUEST_20150317_000993	10 de X {nl} - {nl} Sr. Raman, que vivia na margem do riacho oposto, saiu de casa. Sua esposa disse que ele tinha ido pegar madeira. {nl} Bem, por muito tempo ele esteve em Klaipeda. {nl}Eu ouvi que pode-se achar muitas garotas bonitas em Klaipeda. {Nl}
+QUEST_20150317_000994	13 de X {nl} - {nl} Hoje foi o Dia da Origem da Deusa, mas de algum jeito todos da cidade estavam com dor de estômago, e não puderam celebrar. Por que isso aconteceu especificamente nesse dia ainda é desconhecido para mim. {Nl}Bom, doenças são doenças. Além de tudo, tivemos de fazer mingau de batata. {Nl}
+QUEST_20150317_000995	14 de X {nl} - {nl} Noite passada eu discuti com minha irmã mais nova. {nl}Escrever o que você realmente pensa é bem embaraçoso. Depois disso, {nl}Eu fiz um colar como presente para ela, e ela voltou a falar comigo. {nl}Bem, eu tive de desistir eventualmente. Ainda assim, uma manhã ela desapareceu. 
+QUEST_20150317_000996	Ah, logo agora meu vizinho me fez um delicioso mingau. {Nl}Em troca eu fiz a eles uma sopa quente. Eu posso cozinhar também, sabia? {Nl}Hoje teremos outro banquete então farei questão de comer e beber a vontade.
+QUEST_20150317_000997	16 de X {nl} - {nl} A sopa que bebi me deu uma dor de barriga que não sabia que seria tão ruim. {Nl} Ainda havia checado o cheiro antes de come-la, mas não havia nenhum mal cheiro. {Nl}Me sentia tão mal que fui ao poço pegar água. Ainda assim, continuei horrível. {Nl}
+QUEST_20150317_000998	Tenho vomitado muito ultimamente mas estou ficando melhor. {Nl}Amanhã irei ver Sr. Gordon para conseguir algumas ervas medicinais. {Nl} Minha irmã mais nova ainda não voltou. Quando vou até seu quarto, não acho roupas. Até Sr. Man está ficando preocupado.
+QUEST_20150317_000999	17 de X {nl} - {nl} O vilarejo estava assustadoramente quieto hoje. {Nl}Não há sinais de pessoas que foram mais cedo conseguir ervas do Sr. Gordon.
+QUEST_20150317_001000	$23 de X {nl} - {nl} Essa pode ser a última vez que escrevo nesse diário. {Nl} Lyliana, você é a única família que me resta nesse mundo… {nl} Por favor esteja viva… {Nl}
+QUEST_20150317_001001	{nl} (Há algo escrito, mas está tudo desordenado e ilegível.)
+QUEST_20150317_001002	Data Desconhecida {nl} - {nl} Muitos dias se passaram. {nl}Estou fugindo a dois dias sem comer ou dormir. {nl}As pessoas que fugiram para Klaipeda foram todas pegas e mortas. {nl}Não sei quantos ainda estão vivos e conseguem andar. {nl}Tudo está quieto como as sombras, ainda, movendo há passos rápidos. Estamos todos aterrorizados do ataque.
+QUEST_20150317_001003	Eles não desejavam nenhum tumulto ou desordem. {nl}Eles não são pessoas. {nl}Devemos de algum jeito notificar Klaipeda. {nl}Um último esforço seria abandonar tudo que não usamos e nos mudarmos.
+QUEST_20150317_001004	{memo X}Ah. É você. {nl}Essa é nossa base militar de campo, fique livre para relaxar.
+QUEST_20150317_001005	{memo X}Já se encontrou com os outros soldados? {nl}Hmm… Qual é seu nome?
+QUEST_20150317_001006	{memo X}Certo, obrigado. Vocês estão trabalhando duro. {nl}Quero falar com meus assessores. Aonde eles estão?
+QUEST_20150317_001007	Você tem algo a dizer?
+QUEST_20150317_001008	Enviar os dois da entrada para a linha de frente? {nl}Há, que besteira. Eles te pediram isso?
+QUEST_20150317_001009	É você? Isso me incomodaria. {nl}Hmm… Agradeço que você queira se juntar as linhas de frente apesar de ser mais fácil por aqui… 
+QUEST_20150317_001010	Odeio pessoas que não tem responsabilidade. {nl}Há pessoas aqui que podem pegar as suas posições?
+QUEST_20150317_001011	Gosto de seu espírito. {nl}Mas isso não significa que posso te permitir entrar assim.
+QUEST_20150317_001012	Nós somos a unidade ínvicta de Laimondas. {nl}Só aceito os melhores soldados que encontrar.
+QUEST_20150317_001013	Aliás, vocë vai levar esse daqui também?
+QUEST_20150317_001014	Não sei o que ele faz, mas guarde isso: {nl}A guerra não é piada. Te deixarei levar ele se você estiver disposto a treiná-lo em batalha. 
+QUEST_20150317_001015	{memo X}Droga, eu pensei que isso iria morrer depois de ter a garganta cortada. {nl}Espero que isso se comporte e morra lentamente.
+QUEST_20150317_001016	Me atrasei dessa vez. Bem, isso não importa. {nl}Logo minhas obras-primas estarão completas. Espero que vocês gostem.
+QUEST_20150317_001017	Demônio Desconhecido
+QUEST_20150317_001018	Ah… Quase me esqueci. Eu levarei esse junto!
+QUEST_20150317_001019	Posso sentir o poder de Laima.
+QUEST_20150317_001020	{memo X}A dor que não sentia a um bom tempo...
+QUEST_20150317_001021	{memo X}Ainda assim, não gastareio meu poder em você.
+QUEST_20150317_001022	{memo X}Talvez a real Revelação esteja na Capela? {nl}Laima pode preparar até isso. Que pena.
+QUEST_20150317_001023	$Esse é o Selo do Espaço..{nl}
+QUEST_20150317_001024	Iremos precisar do Revelador.
+QUEST_20150317_001025	O Revelador chegou aqui sozinho. {nl}Exatamente o que eu queria.
+QUEST_20150317_001026	{memo X}Com que motivo você veio até essa cidade amaldiçoada? {nl}Vá embora se você não possui nenhuma razão em particular.
+QUEST_20150317_001027	{memo X}Então você é o famoso Revelador. Os Cavaleiros de Kaliss estão procurando por pessoas competentes como você. {nl}Se você está aqui para ajuda-los, eu temporariamente permitirei sua entrada.
+QUEST_20150317_001028	{memo X}Mas não se esqueça. O direito de entrar aqui pertence a nossos soldados. {nl}Esperamos que você não cause nenhum problema.
+QUEST_20150317_001029	{memo X}Salister… O que você está dizendo? {nl}Isso é um absurdo…
+QUEST_20150317_001030	A marca de Schilt está em minhas mãos graças a você. {n}Se eu passar essa marca para os soldados do reino idiotas ou para os Cavaleiros de Kaliss, eles me darão mais turnos.
+QUEST_20150317_001031	Somente alguém ambicioso e esperto como eu conseguiria liberar o verdadeiro potencial desse objeto.
+QUEST_20150317_001032	Eu usarei o poder de Petrificação e Gelo para acordar o antigo poder que existiu centenas de anos atrás. {nl}Você deve somente assistir.
+QUEST_20150317_001033	Eu ajudarei a manterei os Espíritos do Tempo longe de você!
+QUEST_20150317_001034	O que está acontecendo? {nl}Está vindo para cá! Cuidado!
+QUEST_20150317_001035	{memo X}Você está indo para a Grande Catedral, Revelador? {nl}Tome cuidado! Os demônios nos cercaram!
+QUEST_20150317_001036	A barreira está funcionando. {nl}Por favor lide com Gesti enquanto ativo a Esféra Divina.
+QUEST_20150317_001037	Se ela não estiver no primeiro andar, então ela estará no segundo. {nl}Espero que não seja tarde demais.
+QUEST_20150317_001038	Esse é meu amigo, Donatas. {nl}Irei primeiro tentar desvendar os movimentos de Gesti, então venha quando estiver pronto.
+QUEST_20150317_001039	Ei! Você não deve vir aqui!
+QUEST_20150317_001040	Então a Mestra Peltasta enviou isso… Ah, então isso é sobre isso que aqueles mineradores covardes estavam falando.
+QUEST_20150317_001041	Sem problemas. Não estou com medo. São falsos rumores. {nl}Não é surpresa que a mina esteja balançando.
+QUEST_20150317_001042	Quadro de Avisos de Pedidos
+QUEST_20150317_001043	{memo X}Aqui estão reunidos todos os pedidos. {nl}Cuidado: Não somos resposáveis pelas recompensas desses pedidos.
+QUEST_20150317_001044	Empregado Brendon
+QUEST_20150317_001045	{memo X} Tem mostrarei todos os pedidos registrados até agora. {nl}Você sabe que tem de passar um dia para que você possa receber um pedido denovo, mesmo se você desistir dele, certo?
+QUEST_20150317_001046	(Temporary) Gerenciador de Pedidos
+QUEST_20150317_001047	Selecione o Início/Fim do Pedido
+QUEST_20150317_001048	{memo X}Empregado Ramda
+QUEST_20150317_001049	{memo X}Os pedidos que eu supervisiono são diferentes de outros. {nl}Lhe prometo que existem claras recompensas para você e os membros do seu grupo.
+QUEST_20150317_001050	Grande Mercador Gilliam
 QUEST_20150317_001051 $Você está pronto para começar o próximo estágio?
 QUEST_20150317_001052 {memo X}Oficial
 QUEST_20150317_001053 {memo X}Eu irei lhe guiar para onde acredito que suas habilidades são mais necessárias.
