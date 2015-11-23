@@ -498,156 +498,156 @@ UI_20150317_000497
 UI_20150317_000498
 UI_20150317_000499
 UI_20150317_000500
-UI_20150317_000501
-UI_20150317_000502
-UI_20150317_000503
-UI_20150317_000504
-UI_20150317_000505
-UI_20150317_000506
-UI_20150317_000507
-UI_20150317_000508
-UI_20150317_000509
-UI_20150317_000510
-UI_20150317_000511
-UI_20150317_000512
-UI_20150317_000513
-UI_20150317_000514
-UI_20150317_000515
-UI_20150317_000516
-UI_20150317_000517
-UI_20150317_000518
-UI_20150317_000519
-UI_20150317_000520
-UI_20150317_000521
-UI_20150317_000522
-UI_20150317_000523
-UI_20150317_000524
-UI_20150317_000525
-UI_20150317_000526
-UI_20150317_000527
-UI_20150317_000528
-UI_20150317_000529
-UI_20150317_000530
-UI_20150317_000531
-UI_20150317_000532
-UI_20150317_000533
-UI_20150317_000534
-UI_20150317_000535
-UI_20150317_000536
-UI_20150317_000537
-UI_20150317_000538
-UI_20150317_000539
-UI_20150317_000540
-UI_20150317_000541
-UI_20150317_000542
-UI_20150317_000543
-UI_20150317_000544
-UI_20150317_000545
-UI_20150317_000546
-UI_20150317_000547
-UI_20150317_000548
-UI_20150317_000549
-UI_20150317_000550
-UI_20150317_000551
-UI_20150317_000552
-UI_20150317_000553
-UI_20150317_000554
-UI_20150317_000555
-UI_20150317_000556
-UI_20150317_000557
-UI_20150317_000558
-UI_20150317_000559
-UI_20150317_000560
-UI_20150317_000561
-UI_20150317_000562
-UI_20150317_000563
-UI_20150317_000564
-UI_20150317_000565
-UI_20150317_000566
-UI_20150317_000567
-UI_20150317_000568
-UI_20150317_000569
-UI_20150317_000570
-UI_20150317_000571
-UI_20150317_000572
-UI_20150317_000573
-UI_20150317_000574
-UI_20150317_000575
-UI_20150317_000576
-UI_20150317_000577
-UI_20150317_000578
-UI_20150317_000579
-UI_20150317_000580
-UI_20150317_000581
-UI_20150317_000582
-UI_20150317_000583
-UI_20150317_000584
-UI_20150317_000585
-UI_20150317_000586
-UI_20150317_000587
-UI_20150317_000588
-UI_20150317_000589
-UI_20150317_000590
-UI_20150317_000591
-UI_20150317_000592
-UI_20150317_000593
-UI_20150317_000594
-UI_20150317_000595
-UI_20150317_000596
-UI_20150317_000597
-UI_20150317_000598
-UI_20150317_000599
-UI_20150317_000600
-UI_20150317_000601
-UI_20150317_000602
-UI_20150317_000603
-UI_20150317_000604
-UI_20150317_000605
-UI_20150317_000606
-UI_20150317_000607
-UI_20150317_000608
-UI_20150317_000609
-UI_20150317_000610
-UI_20150317_000611
-UI_20150317_000612
-UI_20150317_000613
-UI_20150317_000614
-UI_20150317_000615
-UI_20150317_000616
-UI_20150317_000617
-UI_20150317_000618
-UI_20150317_000619
-UI_20150317_000620
-UI_20150317_000621
-UI_20150317_000622
-UI_20150317_000623
-UI_20150317_000624
-UI_20150317_000625
-UI_20150317_000626
-UI_20150317_000627
-UI_20150317_000628
-UI_20150317_000629
-UI_20150317_000630
-UI_20150317_000631
-UI_20150317_000632
-UI_20150317_000633
-UI_20150317_000634
-UI_20150317_000635
-UI_20150317_000636
-UI_20150317_000637
-UI_20150317_000638
-UI_20150317_000639
-UI_20150317_000640
-UI_20150317_000641
-UI_20150317_000642
-UI_20150317_000643
-UI_20150317_000644
-UI_20150317_000645
-UI_20150317_000646
-UI_20150317_000647
-UI_20150317_000648
-UI_20150317_000649
-UI_20150317_000650
+UI_20150317_000501	misturar, mixar e misturar
+UI_20150317_000502	{@st43}Categoria{/}
+UI_20150317_000503	{@st43}Eu{/}
+UI_20150317_000504	{@st43}Alvo{/}
+UI_20150317_000505	{@st43}Level{/}
+UI_20150317_000506	{@st43}Prata{/}
+UI_20150317_000507	{@st43}Grau{/}
+UI_20150317_000508	{@st43}Taxa de vitórias PvP{/}
+UI_20150317_000509	{@st59}Fechar Janela{/}
+UI_20150317_000510	{@sti5}Total da compra: %s{/}
+UI_20150317_000511	{@sti5}Quantidade total : %s{/}
+UI_20150317_000512	{@st41b} Comprar
+UI_20150317_000513	{@st43} Adquiriu ingredientes para fabricar itens!
+UI_20150317_000514	{@st43}Magnum Opus{/}
+UI_20150317_000515	{@st41}Excluir tudo
+UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
+UI_20150317_000517	{@st41}Combinação
+UI_20150317_000518	{@st43}Quest{/}
+UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone "Retonar" irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
+UI_20150317_000520	{@st41b}Em Progresso{/}
+UI_20150317_000521	{@st41b}Abandonar{/}
+UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
+UI_20150317_000523	Missão Completa
+UI_20150317_000524	{@st41}Completo{/}
+UI_20150317_000525	Informações de progressão da quest
+UI_20150317_000526	{s18}{ol}Informações da Quest
+UI_20150317_000527	{S16}Tempo restante
+UI_20150317_000528	Usar item de quest
+UI_20150317_000529	Dica da quest
+UI_20150317_000530	{@st41}OK{/}
+UI_20150317_000531	{@st43}{s22}Quest Completa{/}
+UI_20150317_000532	{@st41b}Completo {/}
+UI_20150317_000533	{@st41}Aceitar{/}
+UI_20150317_000534	{@st41}Recusar{/}
+UI_20150317_000535	{@st44}Voltar{/}
+UI_20150317_000536	Para qual quest você gostaria de voltar?
+UI_20150317_000537	{@st41b}Nome da classe da quest{/}
+UI_20150317_000538	{@st59}Expandir slot {/}
+UI_20150317_000539	{@st59}Reduzir slot{/}
+UI_20150317_000540	{memo X}{@st59}Invocar Mascote{/}
+UI_20150317_000541	{@st44}Menu{/}
+UI_20150317_000542	{@st60}Selecionar Personagem{/}
+UI_20150317_000543	{@st60}Deslogar{/}
+UI_20150317_000544	{@st60}Sair do Jogo{/}
+UI_20150317_000545	{@st60}Configurações do jogo{/}
+UI_20150317_000546	{@st60}Voltar{/}
+UI_20150317_000547	{@st41}Pular Tutorial{/}
+UI_20150317_000548	{@st41}Selecionar Personagem{/}
+UI_20150317_000549	{@st41}Deslogar{/}
+UI_20150317_000550	{@st41}Sair do Jogo{/}
+UI_20150317_000551	{@st41}Voltar{/}
+UI_20150317_000552	{@st43}{s22}Preparar Raid!
+UI_20150317_000553	{@st41b}Monstros estão se aproximando dos arredores do castelo. Só você pode resolver esse problema.
+UI_20150317_000554	{@st43}{s22}Configurações do Jogo{/}
+UI_20150317_000555	{@sti7}Procurando grupo para raid..{/}
+UI_20150317_000556	{@st41b}Cancelar participação
+UI_20150317_000557	{@st41b}Vou tentar resolver!
+UI_20150317_000558	{@st41b}Eu não acho que posso ajudar agora...
+UI_20150317_000559	{@sti7}{s24}Selecione a recompensa da raid{/}
+UI_20150317_000560	{@st42b}Tempo restante {@st43}%s{@st42b} segundos{/}
+UI_20150317_000561	{@st41b}Aumentar número de seleções
+UI_20150317_000562	{@43b}{s22} Nº. de vezes selecionadas : {@st43}%s{/}
+UI_20150317_000563	shadow_box tentativeremoval
+UI_20150317_000564	{@st43}Ranking{/}
+UI_20150317_000565	{@st59}Fechar Janela de Ranking{/}
+UI_20150317_000566	{@st41}Top 100 Caçadores de monstros{/}
+UI_20150317_000567	{@st41}Top 100 Dano{/}
+UI_20150317_000568	{@st41}Top 100 Prata{/}
+UI_20150317_000569	{@st41}Top 100 Level Up{/}
+UI_20150317_000570	{@st41b}Menu{/}
+UI_20150317_000571	{@st43}{s22}Aprimorar item{/}
+UI_20150317_000572	{@st41b}Item a ser aprimorado
+UI_20150317_000573	{@st41b}Bigorna
+UI_20150317_000574	{@st41}{s20}Contador de golpes na bigorna :{@st43} %s
+UI_20150317_000575	{@st41} {s20}Preço : %s
+UI_20150317_000576	{@st41b}Aprimorar{/}
+UI_20150317_000577	{@st59}Começar aprimoramento de item.{/}
+UI_20150317_000578	{@st59}Fechar Aprimoramento de item{/}
+UI_20150317_000579	Tem certeza que deseja aprimorar os itens {@st41b} {@sti9}%s ea {/} selecionados?{/}
+UI_20150317_000580	{@st43}Aprimorar
+UI_20150317_000581	{@st44}Aprimorar item{/}
+UI_20150317_000582	{S24}{b}{#000000}Aprimoramento completo!
+UI_20150317_000583	{@st41}Aprimorar novamente{/}
+UI_20150317_000584	{@st41}Fechar{/}
+UI_20150317_000585	{s18}{ol}{gr gradation1}Reparar Equipamento{/}
+UI_20150317_000586	Equipmento usado
+UI_20150317_000587	Equipmento em posse
+UI_20150317_000588	{Gr gradation1}Selecionar tudo{/}
+UI_20150317_000589	Selecionar tudo
+UI_20150317_000590	{Gr gradation1}Reparar{/}
+UI_20150317_000591	{@st43}Reparar{/}
+UI_20150317_000592	Lista de itens para reparo
+UI_20150317_000593	{@st41b}Custo do reparo{/}
+UI_20150317_000594	{@st41b}Balanço esperado{/}
+UI_20150317_000595	{@st41b}Reparar equipamento{/}
+UI_20150317_000596	Reparar o equipamento selecionado.
+UI_20150317_000597	{@st59}Fechar reparo de item{/}
+UI_20150317_000598	{@st43}Reparar Item{/}
+UI_20150317_000599	{@st41}Lista de itens para reparar{/}
+UI_20150317_000600	{@st44}Reparar item{/}
+UI_20150317_000601	{@st42}Reparar{/}
+UI_20150317_000602	{@st59}Reparar com as configurações atuais{/}
+UI_20150317_000603	{@st59}Não reparar{/}
+UI_20150317_000604	{@st44}Continuar{/}
+UI_20150317_000605	{@st41b}Você está {/}{s20}{#cc6600}{ol} incapaz de lutar{/}{@st41b}{/}
+UI_20150317_000606	{@st41b}Renascer no ponto de retorno mais próximo{/}
+UI_20150317_000607	{@st41b} Renascer aqui (%s Moedas necessárias) {/}
+UI_20150317_000608	{@st41b}Voltar ao campo{/}
+UI_20150317_000609	{@st41b}Abandonar quest e recomeçar{/}
+UI_20150317_000610	{@st41b}Tentar novamente{/}
+UI_20150317_000611	Santuário da Ressurreição (70031)
+UI_20150317_000612	O item necessário está faltando.
+UI_20150317_000613	Atalho de Descanso
+UI_20150317_000614	{@st43}Caixa de diálogo{/}
+UI_20150317_000615	Nome temporário
+UI_20150317_000616	{@st41b} {s18} falta de espaço no inventário
+UI_20150317_000617	Seu inventário está cheio e você não pode pegar o item{nl}Por favor libere espaço no seu inventário.
+UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}
+UI_20150317_000619	Por favor selecione um item
+UI_20150317_000620	{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
+UI_20150317_000621	{@st59}Fechar loja{/}
+UI_20150317_000622	{@st59}Primeira página{/}
+UI_20150317_000623	{@st59}Próxima página{/}
+UI_20150317_000624	{@st59}Última página{/}
+UI_20150317_000625	{@st41b}Resetar{/}
+UI_20150317_000626	{@st59}Resetar carrinho de compras{/}
+UI_20150317_000627	{@st41b}Confirmar{/}
+UI_20150317_000628	{@st59}Confirmar transação{/}
+UI_20150317_000629	{@st43}Loja{/}
+UI_20150317_000630	{@st41b}Itens à comprar{/}
+UI_20150317_000631	{@st41b}Itens à vender{/}
+UI_20150317_000632	{@st41b}Preço{/}
+UI_20150317_000633	{@st41b}Balanço{/}
+UI_20150317_000634	{@st41b}Meus itens vendidos{/}
+UI_20150317_000635	{@st41}Espaços vazios{/}
+UI_20150317_000636	{@st43}Total{/}
+UI_20150317_000637	{@st41}Estabelecer transação{/}
+UI_20150317_000638	{@st41}Balanço esperado{/}
+UI_20150317_000639	{@st41}Itens comprados{/}
+UI_20150317_000640	{@sti1c}Simony
+UI_20150317_000641	{@st41}Habilidades de fabricação
+UI_20150317_000642	{@st42}Level %s{/}
+UI_20150317_000643	Custos de fabricação
+UI_20150317_000644	Quantidade de fabricação
+UI_20150317_000645	Aproximadamente %s segundos necessários
+UI_20150317_000646	{@st41}Criar
+UI_20150317_000647	{@st43}Habilidades e atributos de classe{/}
+UI_20150317_000648	{@st59}Fechar habilidades e atributos de classe{/}
+UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Aumente o círculo de sua classe para ganhar mais habilidades. {nl} - Você pode escolher entre 3 opções quando for avançar da 1ª para 2ª classe. {nl} - Você pode avançar para a mesma classe até 3 vezes. {nl} - Não é possível retornar à classe anterior após mudar de classe. {nl} - Você deve consumir todos os pontos de habilidade para poder avançar. {nl} - Você pode escolher continuar na mesma classe. {nl} {nl} {@st59b}Habilidades{nl}{@st59s}- Cada habilidade pode chegar até o nível 5. {nl} - Atributos adquiridos de Mestres podem ser visualizados abaixo das habilidades. {/}
+UI_20150317_000650	{@st41b}Aplicar{/}
 UI_20150317_000651
 UI_20150317_000652
 UI_20150317_000653
