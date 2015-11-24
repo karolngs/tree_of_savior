@@ -498,7 +498,7 @@ UI_20150317_000497
 UI_20150317_000498
 UI_20150317_000499
 UI_20150317_000500
-UI_20150317_000501	misturar, mixar e misturar
+UI_20150317_000501	{memo X}misturar, mixar e misturar
 UI_20150317_000502	{@st43}Categoria{/}
 UI_20150317_000503	{@st43}Eu{/}
 UI_20150317_000504	{@st43}Alvo{/}
@@ -507,16 +507,16 @@ UI_20150317_000506	{@st43}Prata{/}
 UI_20150317_000507	{@st43}Grau{/}
 UI_20150317_000508	{@st43}Taxa de vitórias PvP{/}
 UI_20150317_000509	{@st59}Fechar Janela{/}
-UI_20150317_000510	{@sti5}Total da compra: %s{/}
+UI_20150317_000510	{@sti5}Total da compra : %s{/}
 UI_20150317_000511	{@sti5}Quantidade total : %s{/}
 UI_20150317_000512	{@st41b} Comprar
-UI_20150317_000513	{@st43} Adquiriu ingredientes para fabricar itens!
+UI_20150317_000513	{memo X}{@st43} Adquiriu ingredientes para fabricar itens!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Excluir tudo
-UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
+UI_20150317_000516	{memo X}{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combinação
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone "Retonar" irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
+UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone "Retonar" irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
 UI_20150317_000520	{@st41b}Em Progresso{/}
 UI_20150317_000521	{@st41b}Abandonar{/}
 UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
@@ -534,7 +534,7 @@ UI_20150317_000533	{@st41}Aceitar{/}
 UI_20150317_000534	{@st41}Recusar{/}
 UI_20150317_000535	{@st44}Voltar{/}
 UI_20150317_000536	Para qual quest você gostaria de voltar?
-UI_20150317_000537	{@st41b}Nome da classe da quest{/}
+UI_20150317_000537	{memo X}{@st41b}Nome da classe da quest{/}
 UI_20150317_000538	{@st59}Expandir slot {/}
 UI_20150317_000539	{@st59}Reduzir slot{/}
 UI_20150317_000540	{memo X}{@st59}Invocar Mascote{/}
@@ -577,7 +577,7 @@ UI_20150317_000576	{@st41b}Aprimorar{/}
 UI_20150317_000577	{@st59}Começar aprimoramento de item.{/}
 UI_20150317_000578	{@st59}Fechar Aprimoramento de item{/}
 UI_20150317_000579	Tem certeza que deseja aprimorar os itens {@st41b} {@sti9}%s ea {/} selecionados?{/}
-UI_20150317_000580	{@st43}Aprimorar
+UI_20150317_000580	{memo X}{@st43}Aprimorar
 UI_20150317_000581	{@st44}Aprimorar item{/}
 UI_20150317_000582	{S24}{b}{#000000}Aprimoramento completo!
 UI_20150317_000583	{@st41}Aprimorar novamente{/}
@@ -589,7 +589,7 @@ UI_20150317_000588	{Gr gradation1}Selecionar tudo{/}
 UI_20150317_000589	Selecionar tudo
 UI_20150317_000590	{Gr gradation1}Reparar{/}
 UI_20150317_000591	{@st43}Reparar{/}
-UI_20150317_000592	Lista de itens para reparo
+UI_20150317_000592	{memo X}Lista de itens para reparo
 UI_20150317_000593	{@st41b}Custo do reparo{/}
 UI_20150317_000594	{@st41b}Balanço esperado{/}
 UI_20150317_000595	{@st41b}Reparar equipamento{/}
@@ -602,22 +602,22 @@ UI_20150317_000601	{@st42}Reparar{/}
 UI_20150317_000602	{@st59}Reparar com as configurações atuais{/}
 UI_20150317_000603	{@st59}Não reparar{/}
 UI_20150317_000604	{@st44}Continuar{/}
-UI_20150317_000605	{@st41b}Você está {/}{s20}{#cc6600}{ol} incapaz de lutar{/}{@st41b}{/}
-UI_20150317_000606	{@st41b}Renascer no ponto de retorno mais próximo{/}
-UI_20150317_000607	{@st41b} Renascer aqui (%s Moedas necessárias) {/}
-UI_20150317_000608	{@st41b}Voltar ao campo{/}
-UI_20150317_000609	{@st41b}Abandonar quest e recomeçar{/}
-UI_20150317_000610	{@st41b}Tentar novamente{/}
+UI_20150317_000605	{memo X}{@st41b}Você está {/}{s20}{#cc6600}{ol} incapaz de lutar{/}{@st41b}{/}
+UI_20150317_000606	{memo X}{@st41b}Renascer no ponto de retorno mais próximo{/}
+UI_20150317_000607	{memo X}{@st41b} Renascer aqui (%s Moedas necessárias) {/}
+UI_20150317_000608	{memo X}{@st41b}Voltar ao campo{/}
+UI_20150317_000609	{memo X}{@st41b}Abandonar quest e recomeçar{/}
+UI_20150317_000610	{memo X}{@st41b}Tentar novamente{/}
 UI_20150317_000611	Santuário da Ressurreição (70031)
 UI_20150317_000612	O item necessário está faltando.
 UI_20150317_000613	Atalho de Descanso
 UI_20150317_000614	{@st43}Caixa de diálogo{/}
 UI_20150317_000615	Nome temporário
-UI_20150317_000616	{@st41b} {s18} falta de espaço no inventário
-UI_20150317_000617	Seu inventário está cheio e você não pode pegar o item{nl}Por favor libere espaço no seu inventário.
+UI_20150317_000616	{memo X}{@st41b} {s18} falta de espaço no inventário
+UI_20150317_000617	{memo X}Seu inventário está cheio e você não pode pegar o item{nl}Por favor libere espaço no seu inventário.
 UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}
 UI_20150317_000619	Por favor selecione um item
-UI_20150317_000620	{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
+UI_20150317_000620	{memo X}{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
 UI_20150317_000621	{@st59}Fechar loja{/}
 UI_20150317_000622	{@st59}Primeira página{/}
 UI_20150317_000623	{@st59}Próxima página{/}
@@ -629,25 +629,25 @@ UI_20150317_000628	{@st59}Confirmar transação{/}
 UI_20150317_000629	{@st43}Loja{/}
 UI_20150317_000630	{@st41b}Itens à comprar{/}
 UI_20150317_000631	{@st41b}Itens à vender{/}
-UI_20150317_000632	{@st41b}Preço{/}
-UI_20150317_000633	{@st41b}Balanço{/}
-UI_20150317_000634	{@st41b}Meus itens vendidos{/}
+UI_20150317_000632	{memo X}{@st41b}Preço{/}
+UI_20150317_000633	{memo X}{@st41b}Balanço{/}
+UI_20150317_000634	{memo X}{@st41b}Meus itens vendidos{/}
 UI_20150317_000635	{@st41}Espaços vazios{/}
 UI_20150317_000636	{@st43}Total{/}
 UI_20150317_000637	{@st41}Estabelecer transação{/}
 UI_20150317_000638	{@st41}Balanço esperado{/}
 UI_20150317_000639	{@st41}Itens comprados{/}
-UI_20150317_000640	{@sti1c}Simony
+UI_20150317_000640	{memo X}{@sti1c}Simony
 UI_20150317_000641	{@st41}Habilidades de fabricação
 UI_20150317_000642	{@st42}Level %s{/}
 UI_20150317_000643	Custos de fabricação
 UI_20150317_000644	Quantidade de fabricação
 UI_20150317_000645	Aproximadamente %s segundos necessários
 UI_20150317_000646	{@st41}Criar
-UI_20150317_000647	{@st43}Habilidades e atributos de classe{/}
-UI_20150317_000648	{@st59}Fechar habilidades e atributos de classe{/}
-UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Aumente o círculo de sua classe para ganhar mais habilidades. {nl} - Você pode escolher entre 3 opções quando for avançar da 1ª para 2ª classe. {nl} - Você pode avançar para a mesma classe até 3 vezes. {nl} - Não é possível retornar à classe anterior após mudar de classe. {nl} - Você deve consumir todos os pontos de habilidade para poder avançar. {nl} - Você pode escolher continuar na mesma classe. {nl} {nl} {@st59b}Habilidades{nl}{@st59s}- Cada habilidade pode chegar até o nível 5. {nl} - Atributos adquiridos de Mestres podem ser visualizados abaixo das habilidades. {/}
-UI_20150317_000650	{@st41b}Aplicar{/}
+UI_20150317_000647	{memo X}{@st43}Habilidades e atributos de classe{/}
+UI_20150317_000648	{memo X}{@st59}Fechar habilidades e atributos de classe{/}
+UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Aumente o ciclo de sua classe para ganhar mais habilidades. {nl} - Você pode escolher entre 3 opções quando for avançar da 1ª para 2ª classe. {nl} - Você pode avançar para a mesma classe até 3 vezes. {nl} - Não é possível retornar à classe anterior após mudar de classe. {nl} - Você deve consumir todos os pontos de habilidade para poder avançar. {nl} - Você pode escolher continuar na mesma classe. {nl} {nl} {@st59b}Habilidades{nl}{@st59s}- Cada habilidade pode chegar até o nível 5. {nl} - Atributos adquiridos de Mestres podem ser visualizados abaixo das habilidades. {/}
+UI_20150317_000650	{memo X}{@st41b}Aplicar{/}
 UI_20150317_000651	{@st59}Aplicar pontos de habilidade{/}
 UI_20150317_000652	Clérigo
 UI_20150317_000653	{@st59}Cancelar distribuição de pontos{/}
@@ -705,23 +705,23 @@ UI_20150317_000704	{s20}{#050505}Descreva
 UI_20150317_000705	{@st41} Todos {/}
 UI_20150317_000706	{@st41} Grupo {/}
 UI_20150317_000707	{@st41} Monstro {/}
-UI_20150317_000708	{@st41b}{#f0dcaa}Pontos de atributos restantes ▶ {@st46}%s
+UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Pontos de atributos restantes ▶ {@st46}%s
 UI_20150317_000709	{@st59b}Minhas informações{nl}{@st59s}- Atributos : Ganhe pontos subindo de level e os use para aprimorar 5 atributos. {nl}- Informação : Informação baseada nos atributos e equipamentos atuais {nl}- Título : Pode ser adquirido completando missões {nl} {/}
 UI_20150317_000710	{@st41b}Informação{/}
-UI_20150317_000711	{@st41b}Título{/}
+UI_20150317_000711	{memo X}{@st41b}Título{/}
 UI_20150317_000712	Mostrar classe
 UI_20150317_000713	Mostrar nome de personagem
 UI_20150317_000714	{@st59}Mudar nome do personagem{/}
-UI_20150317_000715	{@st41b}Aplicar
+UI_20150317_000715	{memo X}{@st41b}Aplicar
 UI_20150317_000716	{@st59}Usar pontos de atributos{/}
 UI_20150317_000717	{@st41b}Cancelar
-UI_20150317_000718	{@st59}Cancelar distribuição de atributos{/}
+UI_20150317_000718	{memo X}{@st59}Cancelar distribuição de atributos{/}
 UI_20150317_000719	Nome do PC
 UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
-UI_20150317_000721	{@st41_yellow}Habilidades de Mercenário
+UI_20150317_000721	{memo X}{@st41_yellow}Habilidades de Mercenário
 UI_20150317_000722	{@st43}Efeitos de ataque{/}
 UI_20150317_000723	{@st43}Efeitos de defesa{/}
-UI_20150317_000724	{@st43}Status{/}
+UI_20150317_000724	{@st43}Stats{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Informação do personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
@@ -740,21 +740,21 @@ UI_20150317_000739	Conteúdo
 UI_20150317_000740	Ver detalhes
 UI_20150317_000741	{@st43}Configurações do jogo{/}
 UI_20150317_000742	{@st43}Jogo{/}
-UI_20150317_000743	{@st41b}Mostrar EXP adquirida{/}
-UI_20150317_000744	{@st41b}Mostrar nome do personagem{/}
-UI_20150317_000745	{@st41b} Mostrar apenas o nome do time {/}
-UI_20150317_000746	{@st41b}Mostrar guia de quests{/}
+UI_20150317_000743	{memo X}{@st41b}Mostrar EXP adquirida{/}
+UI_20150317_000744	{memo X}{@st41b}Mostrar nome do personagem{/}
+UI_20150317_000745	{memo X}{@st41b} Mostrar apenas o nome do time {/}
+UI_20150317_000746	{memo X}{@st41b}Mostrar guia de quests{/}
 UI_20150317_000747	{@st43}Tela{/}
 UI_20150317_000748	{@st43}Gráficos{/}
-UI_20150317_000749	{@st41b}Tela cheia{/}
-UI_20150317_000750	{@st41b}Modo janela{/}
+UI_20150317_000749	{memo X}{@st41b}Tela cheia{/}
+UI_20150317_000750	{memo X}{@st41b}Modo janela{/}
 UI_20150317_000751	{@st43}Som{/}
-UI_20150317_000752	{@st41b}Volume dos efeitos sonoros (%s){/}
-UI_20150317_000753	{@st41b}Volume da música (%s){/}
-UI_20150317_000754	{@st41b}Volume (%s){/}
+UI_20150317_000752	{memo X}{@st41b}Volume dos efeitos sonoros (%s){/}
+UI_20150317_000753	{memo X}{@st41b}Volume da música (%s){/}
+UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}
 UI_20150317_000755	{@ St43}{b}             Selecione o idioma {/}{/}
 UI_20150317_000756	{@st59}Fechar configurações{/}
-UI_20150317_000757	Menor modo {@st41b} {/}
+UI_20150317_000757	{memo X}Menor modo {@st41b} {/}
 UI_20150317_000758	{@st41b}Ver{/}
 UI_20150317_000759	{@st59}Créditos{/}
 UI_20150317_000760	Janela de Buffs
@@ -778,7 +778,7 @@ UI_20150317_000777	{@st53}- Clique no nome para assistir{nl}- Botão direito par
 UI_20150317_000778	Meu personagem como câmera
 UI_20150317_000779	{@st55_a}Parabéns!
 UI_20150317_000780	{@st42}Mudar câmera
-UI_20150317_000781	{@st44}Registro de aventuras{/}
+UI_20150317_000781	{@st44}Jornal do Aventureiro{/}
 UI_20150317_000782	{@st59}Mudar configurações de visualização{/}
 UI_20150317_000783	{@st41} Estatísticas {/}
 UI_20150317_000784	{@st41 }Fabricar {/}
@@ -790,13 +790,13 @@ UI_20150317_000789	{@st42}Detalhes{/}
 UI_20150317_000790	{@st42}Combate{/}
 UI_20150317_000791	{@st42}Adquirir{/}
 UI_20150317_000792	{@st59}Fechar página{/}
-UI_20150317_000793	{@st43}Campo de batalha
-UI_20150317_000794	{@st59}Fechar campo de batalha.
-UI_20150317_000795	(Bronze 3)
+UI_20150317_000793	{memo X}{@st43}Campo de batalha
+UI_20150317_000794	{memo X}{@st59}Fechar campo de batalha.
+UI_20150317_000795	{memo X}(Bronze 3)
 UI_20150317_000796	{@sti8}Pontos adquiridos hoje : {nl}%s{/}
 UI_20150317_000797	{@st41}Loja de pontos
 UI_20150317_000798	{@st41}Rankings
-UI_20150317_000799	{@st42}Horários do campo de batalha
+UI_20150317_000799	{memo X}{@st42}Horários do campo de batalha
 UI_20150317_000800	{@st42}Eventos recentes
 UI_20150317_000801
 UI_20150317_000802
