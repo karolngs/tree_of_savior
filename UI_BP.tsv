@@ -43,7 +43,7 @@ UI_20150317_000042	{@st43}{s22}Cabeleireiro{/}
 UI_20150317_000043	{@st59}Penteado Ant.{/}
 UI_20150317_000044	{@st59}Próx. Penteado{/}
 UI_20150317_000045	{@st41b} Trocar {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@st59}Usar penteado selecionado.{/}
+UI_20150317_000046	{@st59}Mudar para penteado selecionado.{/}
 UI_20150317_000047	{@st41}Cancelar
 UI_20150317_000048	{@st43}Mercado Negro{/}
 UI_20150317_000049	Nome do Livro
@@ -1290,14 +1290,14 @@ UI_20150323_001288	{@st59}Coloque o seu item aqui{/}
 UI_20150323_001289	{@st42}Cancelar
 UI_20150323_001290	{@st42}Confirmar
 UI_20150323_001291	{@st43}Briquetting{/}
-UI_20150323_001292	Potecial Atual
+UI_20150323_001292	Potencial Atual
 UI_20150323_001293	Materiais Consumíveis
 UI_20150323_001294	Consumir Quantidade
 UI_20150323_001295	Quantidade disponível
 UI_20150323_001296	{@sti6}Histórico de transações
 UI_20150323_001297	{@st43}Acampamento
 UI_20150323_001298	Nome do Quadro
-UI_20150323_001299	{@st43}Contruir
+UI_20150323_001299	{@st43}Construir
 UI_20150323_001300	{@stc1}Duração do acampamento
 UI_20150323_001301	{@stc1}Efeito
 UI_20150323_001302	{@stc1}Materiais e Preço
@@ -1308,8 +1308,8 @@ UI_20150323_001306	{@st59}Renovar tempo de duração{/}
 UI_20150323_001307	{@st41b}Tempo de duração do acampamento
 UI_20150323_001308	{@st41b}Efeito
 UI_20150323_001309	{@st42b}Acampamento dura mais 24 horas quando renovado. Consome %s pratas.
-UI_20150323_001310	{@st41b}Armazem
-UI_20150323_001311	{@stc1}Colocar ou retirar itens do armazem custa %s pratas.{/}
+UI_20150323_001310	{@st41b}Armazém
+UI_20150323_001311	{@stc1}Colocar ou retirar itens do armazém custa %s pratas.{/}
 UI_20150323_001312	{@st41}{#ffff00}Travar alvo{/}
 UI_20150323_001313	{@st43}Mesa de Refeições
 UI_20150323_001314	{@st41b}Tipo de comida
@@ -1318,7 +1318,7 @@ UI_20150323_001316	{@st59}Fechar{/}
 UI_20150323_001317	{@st43}Grimório{/}
 UI_20150323_001318	{@st59}Fechar Janela do Grimório{/}
 UI_20150323_001319	Habilidades da minha invocação
-UI_20150323_001320	Carta Prin.
+UI_20150323_001320	Carta Principal
 UI_20150323_001321	Carta Secundária
 UI_20150323_001322	Status
 UI_20150323_001323	CON
@@ -1345,7 +1345,7 @@ UI_20150323_001343	{@st41b}Materiais
 UI_20150323_001344	{@st43}Reparar{/}
 UI_20150323_001345	{@st41b}Reparar{/}
 UI_20150323_001346	Level da Habilidade
-UI_20150323_001347	{@st41}Entre o Nú. de Jogadores
+UI_20150323_001347	{@st41}Número de jogadores a entrar
 UI_20150323_001348	{@st43}Aprimoramente de Itens no Calabouço
 UI_20150323_001349	{@st41}Materias Necessários
 UI_20150323_001350	{@st59}Materias Necessários{/}
@@ -1356,7 +1356,7 @@ UI_20150323_001354	Nome da Loja
 UI_20150323_001355	{@st41b}Abrir Loja
 UI_20150323_001356	{@st59}Iniciar loja de compras{/}
 UI_20150323_001357	{@st59}Cancelar{/}
-UI_20150323_001358	{@st59}Fecha loja de compras{/}
+UI_20150323_001358	{@st59}Fechar loja de compras{/}
 UI_20150323_001359	Requisitar compra
 UI_20150323_001360	{@st59}Fechar loja de compras
 UI_20150323_001361	{@st59}Loja de compras{nl} - Troque seus itens por prata
@@ -1375,9 +1375,9 @@ UI_20150323_001373	{@st41b}Aplicar FXAA{/}
 UI_20150323_001374	{@st41b}Aplicar GLOW{/}
 UI_20150323_001375	{@st41b}Aplicar Depth {/}
 UI_20150323_001376	{@st41b}Aplicar SoftParticle{/}
-UI_20150323_001377	{@st43}Armazem{/}
-UI_20150323_001378	{@st59}Fechar Armazem{/}
-UI_20150323_001379	{@sti6}Colocar ou retirar itens do armazem custa %s prata.{/}
+UI_20150323_001377	{@st43}Armazém{/}
+UI_20150323_001378	{@st59}Fechar Armazém{/}
+UI_20150323_001379	{@sti6}Colocar ou retirar itens do armazém custa %s prata.{/}
 UI_20150323_001380	{@st59}Alt+Z para trocar de arma{/}
 UI_20150323_001381	{@st59}Salvar configurações do Alojamento{/}
 UI_20150323_001382	Alterar alojamento
@@ -1394,10 +1394,10 @@ UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Alterar
 UI_20150323_001394	{@st59}Alterar cumprimentos do personagem{/}
 UI_20150323_001395	{@st59}Colocar Loja de compras{/}
-UI_20150323_001396	Qty Adquirida. : %s{/}
+UI_20150323_001396	Comprar quantidade. : %s{/}
 UI_20150323_001397	Procurar itens para compra
 UI_20150323_001398	Quantidade
-UI_20150323_001399	Preço/cada
+UI_20150323_001399	Preço unitário
 UI_20150323_001400	{@sti5}%s cada{/}
 UI_20150323_001401	{@st41}Comer
 UI_20150323_001402	{@st41}Criar
