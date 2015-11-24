@@ -949,7 +949,7 @@ UI_20150317_000948
 UI_20150317_000949
 UI_20150317_000950
 UI_20150317_000951	{@st59}Coloque o nome do time {/}
-UI_20150317_000952	{@st59}Salvar nome do time{/}
+UI_20150317_000952	{memo X}{@st59}Salvar nome do time{/}
 UI_20150317_000953	Esclusão provisória
 UI_20150317_000954	{@St59}Fechar Decoração da Barraca{/}
 UI_20150317_000955	{@St43}Decoração da Barraca{/}
@@ -957,9 +957,9 @@ UI_20150317_000956	{@St41b}Tema{/}
 UI_20150317_000957	{@St41b}Arranjo dos Itens{/}
 UI_20150317_000958	{@St41b}Nome
 UI_20150317_000959	{@St41b}Preço
-UI_20150317_000960	{@St41b}Status
+UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}Novo personagem{/}
-UI_20150317_000962	{@St41b}{s22}Selecionar classe do personagem{/}
+UI_20150317_000962	{@St41b}{s22}Selecione a classe do personagem{/}
 UI_20150317_000963	{@St41b}Voltar{/}
 UI_20150317_000964	{@St59}Voltar para o alojamento
 UI_20150317_000965	Mudar personagem
@@ -999,8 +999,8 @@ UI_20150317_000998	{memo X}{@st43}Entrar{/}
 UI_20150317_000999	{@St59}Inicie o jogo com o personagem selecionado{/}
 UI_20150317_001000	{@St43}{s26}Nome do time{/}
 UI_20150317_001001	{@st59}Nome do time{/}
-UI_20150317_001002	{@st41b}Mudar o nome do time{/}
-UI_20150317_001003	{@st59} Mude o nome do seu time{/}
+UI_20150317_001002	{memo X}{@st41b}Mudar o nome do time{/}
+UI_20150317_001003	{memo X}{@st59} Mude o nome do seu time{/}
 UI_20150317_001004	{@St41}Mascote{/}
 UI_20150317_001005	Puxar Chat
 UI_20150317_001006	{@St44}Novo nome de Diálogo{/}
