@@ -1,4 +1,4 @@
-SKILL_20150317_000001	Ataque
+﻿SKILL_20150317_000001	Ataque
 SKILL_20150317_000002	[Elite Kepa] Uma vez, Físico, Propriedade Veneno, Impacto
 SKILL_20150317_000003	[Rafflesia] Espalhar Veneno
 SKILL_20150317_000004	[Rafflesia] Bomba de Veneno
@@ -897,157 +897,156 @@ SKILL_20150317_000896	[Carta Mallet Wyvern] Impacto Mágico Neutro
 SKILL_20150317_000897	[Carta Moyabruka] Impacto Físico Neutro
 SKILL_20150317_000898	[Carta Colimencia] Impacto Físico de Água
 SKILL_20150317_000899	[Carta Rajapearl] Impacto Mágico de Água
-SKILL_20150317_000900	[Carta Mushwort] Magia de Propriedade Veneno
-SKILL_20150317_000901
-SKILL_20150317_000902
-SKILL_20150317_000903
-SKILL_20150317_000904
-SKILL_20150317_000905
-SKILL_20150317_000906
-SKILL_20150317_000907
-SKILL_20150317_000908
-SKILL_20150317_000909
-SKILL_20150317_000910
-SKILL_20150317_000911
-SKILL_20150317_000912
-SKILL_20150317_000913
-SKILL_20150317_000914
-SKILL_20150317_000915
-SKILL_20150317_000916
-SKILL_20150317_000917
-SKILL_20150317_000918
-SKILL_20150317_000919
-SKILL_20150317_000920
-SKILL_20150317_000921
-SKILL_20150317_000922
-SKILL_20150317_000923
-SKILL_20150317_000924
-SKILL_20150317_000925
-SKILL_20150317_000926
-SKILL_20150317_000927
-SKILL_20150317_000928
-SKILL_20150317_000929
-SKILL_20150317_000930
-SKILL_20150317_000931
-SKILL_20150317_000932
-SKILL_20150317_000933
-SKILL_20150317_000934
-SKILL_20150317_000935
-SKILL_20150317_000936
-SKILL_20150317_000937
-SKILL_20150317_000938
-SKILL_20150317_000939
-SKILL_20150317_000940
-SKILL_20150317_000941
-SKILL_20150317_000942
-SKILL_20150317_000943
-SKILL_20150317_000944
-SKILL_20150317_000945
-SKILL_20150317_000946
-SKILL_20150317_000947
-SKILL_20150317_000948
-SKILL_20150317_000949
-SKILL_20150317_000950
-SKILL_20150317_000951
-SKILL_20150317_000952
-SKILL_20150317_000953
-SKILL_20150317_000954
-SKILL_20150317_000955
-SKILL_20150317_000956
-SKILL_20150317_000957
-SKILL_20150317_000958
-SKILL_20150317_000959
-SKILL_20150317_000960
-SKILL_20150317_000961
-SKILL_20150317_000962
-SKILL_20150317_000963
-SKILL_20150317_000964
-SKILL_20150317_000965
-SKILL_20150317_000966
-SKILL_20150317_000967
-SKILL_20150317_000968
-SKILL_20150317_000969
-SKILL_20150317_000970
-SKILL_20150317_000971
-SKILL_20150317_000972
-SKILL_20150317_000973
-SKILL_20150317_000974
-SKILL_20150317_000975
-SKILL_20150317_000976
-SKILL_20150317_000977
-SKILL_20150317_000978
-SKILL_20150317_000979
-SKILL_20150317_000980
-SKILL_20150317_000981
-SKILL_20150317_000982
-SKILL_20150317_000983
-SKILL_20150317_000984
-SKILL_20150317_000985
-SKILL_20150317_000986
-SKILL_20150317_000987
-SKILL_20150317_000988
-SKILL_20150317_000989
-SKILL_20150317_000990
-SKILL_20150317_000991
-SKILL_20150317_000992
-SKILL_20150317_000993
-SKILL_20150317_000994
-SKILL_20150317_000995
-SKILL_20150317_000996
-SKILL_20150317_000997
-SKILL_20150317_000998
-SKILL_20150317_000999
-SKILL_20150317_001000
-SKILL_20150317_001001
-SKILL_20150317_001002
-SKILL_20150317_001003
-SKILL_20150317_001004
-SKILL_20150317_001005
-SKILL_20150317_001006
-SKILL_20150317_001007
-SKILL_20150317_001008
-SKILL_20150317_001009
-SKILL_20150317_001010
-SKILL_20150317_001011
-SKILL_20150317_001012
-SKILL_20150317_001013
-SKILL_20150317_001014
-SKILL_20150317_001015
-SKILL_20150317_001016
-SKILL_20150317_001017
-SKILL_20150317_001018
-SKILL_20150317_001019
-SKILL_20150317_001020
-SKILL_20150317_001021
-SKILL_20150317_001022
-SKILL_20150317_001023
-SKILL_20150317_001024
-SKILL_20150317_001025
-SKILL_20150317_001026
-SKILL_20150317_001027
-SKILL_20150317_001028
-SKILL_20150317_001029
-SKILL_20150317_001030
-SKILL_20150317_001031
-SKILL_20150317_001032
-SKILL_20150317_001033
-SKILL_20150317_001034
-SKILL_20150317_001035
-SKILL_20150317_001036
-SKILL_20150317_001037
-SKILL_20150317_001038
-SKILL_20150317_001039
-SKILL_20150317_001040
-SKILL_20150317_001041
-SKILL_20150317_001042
-SKILL_20150317_001043
-SKILL_20150317_001044
-SKILL_20150317_001045
-SKILL_20150317_001046
-SKILL_20150317_001047
-SKILL_20150317_001048
-SKILL_20150317_001049
-SKILL_20150317_001050
+SKILL_20150317_000900	[Carta Mushwort] Magia de Propriedade VenenoSKILL_20150317_000901	[Carta Lepus] Perfuração Física de Água
+SKILL_20150317_000902	[Carta Sparnas] Magia Fisica Elétrica
+SKILL_20150317_000903	[Carta Cactusvel] Magia Física Venenosa
+SKILL_20150317_000904	[Throw] Impacto Físico Neutro
+SKILL_20150317_000905	[Carta Velorchard] Magia de Propriedade Veneno
+SKILL_20150317_000906	[Carta Luropus] Perfuração Física Neutra
+SKILL_20150317_000907	[Carta Dionia] Magia Neutra
+SKILL_20150317_000908	[Carta Gazing Golem] Impacto Físico de Propriedade Fogo
+SKILL_20150317_000909	[Invocar Folhas] Magia Neutra
+SKILL_20150317_000910	[Carta Hydra] Magia Física de Água
+SKILL_20150317_000911	[Carta Moa] Impacto Físico Neutro
+SKILL_20150317_000912	[Carta Jack O'Lantern] Perfuração Mágica de Fogo
+SKILL_20150317_000913	[Carta Manticen] Magia Fisica Neutra
+SKILL_20150317_000914	[Carta Mineloader] Magia Fisica Elétrica
+SKILL_20150317_000915	[Carta Grinender] Magia de Fogo
+SKILL_20150317_000916	[Carta Helgasercle] Corte Físico Sombrio
+SKILL_20150317_000917	[Carta Yekub] Impacto Mágico Sombrio
+SKILL_20150317_000918	[Escudo Físico] Magia Neutra
+SKILL_20150317_000919	[Carta Sparnasman] Magia Fisica Neutra
+SKILL_20150317_000920	$Estocada
+SKILL_20150317_000921	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Perfura e empurra o inimigo.
+SKILL_20150317_000922	{memo X}Ataque #{SkillAtkAdd}#{nl}Cortante #{SkillSR}#
+SKILL_20150317_000923	$Golpe
+SKILL_20150317_000924	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Inflinge dano no alvo ao manejar fortemente sua arma.
+SKILL_20150317_000925	$Gung Ho
+SKILL_20150317_000926	{memo X}Aumenta o seu ataque, mas díminui a sua defesa.
+SKILL_20150317_000927	$Dano Físico: +#{CaptionRatio}#{nl}Defesa Física: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000928	$Concentração
+SKILL_20150317_000929	{memo X}$Aumenta o poder das suas habilidades de ataque.
+SKILL_20150317_000930	$Dano Adicional: +#{CaptionRatio2}#{nl}Número de Acertos: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000931	$Coibir
+SKILL_20150317_000932	{memo X}Díminui o seu HP máximo, mas aumenta o seu ataque.
+SKILL_20150317_000933	{memo X}Ataque Físico + #{CaptionRatio}#{nl}HP Máximo - #{CaptionRatio2}# {nl} Duração #{CaptionTime}# segundos
+SKILL_20150317_000934	$Golpe Umbo
+SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca colidindo o seu escudo. {nl} Inflinge mais dano após bloquear um ataque inimigo.
+SKILL_20150317_000936	$Golpe de Rebordo
+SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca usando a borda do seu escudo. {nl} Inflinge mais dano em monstros congelados ou petrificados.
+SKILL_20150317_000938	$Provocar
+SKILL_20150317_000939	{memo X}$Bate no seu escudo para provocar inimigos próximos.
+SKILL_20150317_000940	$Alvos: #{SkillSR}#{nl}Provações Máximas: +#{CaptionRatio}# por #{CaptionTime}# segundos
+SKILL_20150317_000941	{memo X}Díminui o seu ataque, mas aumenta a sua defesa.
+SKILL_20150317_000942	$Defesa Física: +#{CaptionRatio}#{nl}Dano Físico: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000943	$Arremessar Escudo
+SKILL_20150317_000944	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Arremessa o seu escudo no inimigo causando dano.
+SKILL_20150317_000945	$Aprimorar Defesa
+SKILL_20150317_000946	$Borboleta
+SKILL_20150317_000947	$Roda de Vagão
+SKILL_20150317_000948	{memo X}{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Executa um ataque que lança seus inimigos no ar.
+SKILL_20150317_000949	$Pulverizar
+SKILL_20150317_000950	{memo X}$ {#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Concentra o seu poder para esmagar seus inimigos contra o chão.
+SKILL_20150317_000951	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de conjuração 0.5 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000952	$Trauma
+SKILL_20150317_000953	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Realiza um forte ataca esmagando a cabeça do inimigo. Díminui a INT e o SPR do inimigo temporariamente.
+SKILL_20150317_000954	{memo X}Ataque #{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl}{#339999}{ol}[Choque]{/}{/} Duração #{CaptionTime}# segundos
+SKILL_20150317_000955	$Guarda Cruzada
+SKILL_20150317_000956	{memo X}Use a sua arma para se defender.
+SKILL_20150317_000957	$Defesa: +#{CaptionRatio}#{nl}Bloqueio: +#{CaptionRatio2}#
+SKILL_20150317_000958	$Molinete
+SKILL_20150317_000959	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Executa 5 ataques consecutivos à frente.
+SKILL_20150317_000960	$Perfuração
+SKILL_20150317_000961	{memo X}${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Ataca o inimigo consecutivamente.
+SKILL_20150317_000962	$Perfurar
+SKILL_20150317_000963	{memo X}${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Perfura fortemente o inimigo inflingindo dano.{nl} Um bônus de ataque será aplicado dependendo do tamanho do inimigo.
+SKILL_20150317_000964	{memo X}Ataque #{SkillAtkAdd}#{nl}Dois ataques em alvos médios{nl}Três ataques em alvos grandes.
+SKILL_20150317_000965	$Finestra
+SKILL_20150317_000966	{memo X}$Troca a sua forma.{nl} Aumenta a chance de crítico, mas díminui a sua esquiva.
+SKILL_20150317_000967	{memo X}Crítico + #{CaptionRatio}#{nl}Esquiva - #{CaptionRatio2}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_000968	$Estocada Sincronizada
+SKILL_20150317_000969	{memo X}${#DD5500}{ol}[Físico] - [Perfurante] - [Impacto]{/}{/}{nl} Inflinge dano no inimigo ao atacar com o escudo e lança.
+SKILL_20150317_000970	{memo X}Ataque da Lança #{SkillAtkAdd}#{nl}Ataque do Escudo #{CaptionRatio}#{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000971	$Tranco
+SKILL_20150317_000972	${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Inflinge dano no inimigo ao pular em sua direção.
+SKILL_20150317_000973	$Arremessar Lança
+SKILL_20150317_000974	$Avançar
+SKILL_20150317_000975	{memo X}${#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Corre segurando seu escudo causando dano aos inimigos. O primeiro alvo atingido será derrubado.
+SKILL_20150317_000976	{memo X}Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Consome STA
+SKILL_20150317_000977	$Montano
+SKILL_20150317_000978	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Usa um forte ataque na parte de baixo do alvo.
+SKILL_20150317_000979	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Confusão]{/}{/} Duração 7 segundos
+SKILL_20150317_000980	$Esmagar Alvo
+SKILL_20150317_000981	{memo X}${#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Inflinge dano ao esmagar o alvo com seu escudo. Tem grande chance de causa cegueira no alvo.
+SKILL_20150317_000982	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Cegueira]{/}{/} Duração 3 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000983	$Empurrar Escudo
+SKILL_20150317_000984	{memo X}${#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Usa o seu escudo contra o inimigo.{nl} Causa o Efeito Desiquilibrío no Inimigo
+SKILL_20150317_000985	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Desiquilibrío]{/}{/} Duração 5 segundos
+SKILL_20150317_000986	$Empalar
+SKILL_20150317_000987	{memo X}${#DD5500}{ol}[Perfurante]{/}{/}{nl} Empala um monstro pequeno com sua lança. O monstro preso na lança receberá dano toda vez que está habilidade for usada.
+SKILL_20150317_000988	$Tremor
+SKILL_20150317_000989	{memo X}${#DDD300}{ol}[Impacto]{/}{/}{nl} Concentra o seu poder e o usa na sua arma para esmagar o inimigo contra o chão.
+SKILL_20150317_000990	$Trote
+SKILL_20150317_000991	$Aumenta a sua Velocidade de Movimento.
+SKILL_20150317_000992	{memo X}Velocidade de Movimento +#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_000993	$Avanço Forçado
+SKILL_20150317_000994	{memo X}${#DDD300}{ol}[Impacto]{/}{/}{nl}Força um avanço à frente arremessando os inimigos no seu caminho.
+SKILL_20150317_000995	$Estocada Fatal
+SKILL_20150317_000996	{memo X}${#DDD300}{ol}[Perfurante]{/}{/}{nl} Concentra o seu poder para realizar uma forte estacada contra o inimigo.
+SKILL_20150317_000997	$Corrida
+SKILL_20150317_000998	{memo X}${#DD5500}{ol}[Cortante]{/}{/}{nl} Gira a sua lança sobre a sua cabeça continuamente causando dano ao inimigo.
+SKILL_20150317_000999	{memo X}Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_001000	$Trazendo a Morte
+SKILL_20150317_001001	{memo X}{#DDD300}{ol}[Perfurante]{/}{/}{nl}Ataca os inimigos à frente continuamente.
+SKILL_20150317_001002	$Estripar
+SKILL_20150317_001003	{memo X}${#DD5500}{ol}[Perfurante]{/}{/}{nl} Realiza uma forte estocada e depois chuta o inimigo.
+SKILL_20150317_001004	$Frenesi
+SKILL_20150317_001005	{memo X}$Aumenta o seu ataque após usar vários ataques consecutivos em um alvo.
+SKILL_20150317_001006	{memo X}$Ataque +#{CaptionRatio}# {nl} Acumulo #{CaptionRatio2}# vezes {nl} Duração #{CaptionTime}# segundos
+SKILL_20150317_001007	$Agressor
+SKILL_20150317_001008	{memo X}$Seus ataque não vão errar, mas a sua média crítica e sua esquiva crítica diminuem.
+SKILL_20150317_001009	{memo X}Chance Crítica -#{CaptionRatio}#%{nl}Esquiva Crítica -#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001010	$Selvageria
+SKILL_20150317_001011	{memo X}$Enquanto o Buff estiver ativo, um contínuo bônus de ataque ser aplicado a ataques que possuem o efeito {#DD5500}{ol}[Perfurante]{/}{/}.
+SKILL_20150317_001012	${#DD5500}{ol}[Perfurante]{/}{/} Bônus de Ataque Contínuo {nl} Duração: #{CaptionTime}# segundos
+SKILL_20150317_001013	$Grito de Guerra
+SKILL_20150317_001014	{memo X}Diminui o ataque dos inimigos próximos e adiciona ao seu ataque.
+SKILL_20150317_001015	$Alvos: #{CaptionRatio}#{nl} Defesa Física Máxima: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_001016	$Chute e Pisoteio
+SKILL_20150317_001017	{memo X}${#DD5500}{ol}[Impacto]{/}{/}{nl} Pisoteia o inimigo após um pulo.
+SKILL_20150317_001018	{memo X}manutenção de armas
+SKILL_20150317_001019	{memo X}Abrir Loja para Reparar Armas.
+SKILL_20150317_001020	{memo X}manutenção de Armaduras
+SKILL_20150317_001021	{memo X}Abrir Loja para Reparar Armaduras.
+SKILL_20150317_001022	$Reparar
+SKILL_20150317_001023	{memo X}Usa o seu escudo para empurrar o seu inimigo abaixo
+SKILL_20150317_001024	$Prender
+SKILL_20150317_001025	$Jolly Roger
+SKILL_20150317_001026	$Gancho de Ferro
+SKILL_20150317_001027	$Arrastar
+SKILL_20150317_001028	$Destrancar Baú
+SKILL_20150317_001029	{memo X}Cancelar Sub Arma
+SKILL_20150317_001030	{memo X}${#DDD300}{ol}[Buff]{/}{/}{nl} Enquanto estiver ativo, Um bônus de ataque contínuo é aplicado em ataques do tipo {#CC3300}{ol}[Perfurante]{/}{/}.
+SKILL_20150317_001031	{memo X}Duração #{CaptionTime}# segundos{nl} Consome #{SpendSP}# SP
+SKILL_20150317_001032	$Conscrição
+SKILL_20150317_001033	$Phalanx
+SKILL_20150317_001034	$Tercio
+SKILL_20150317_001035	$Formação Alada
+SKILL_20150317_001036	$Formação em Pinça
+SKILL_20150317_001037	$Formação de Defesa
+SKILL_20150317_001038	$Testuto
+SKILL_20150317_001039	$Guerrear
+SKILL_20150317_001040	$Alterar Direção
+SKILL_20150317_001041	$Ações de Bravura
+SKILL_20150317_001042	{memo X}$Aumenta o seu ataque e a sua velocidade de ataque, mas diminui a sua defesa.
+SKILL_20150317_001043	$Vigor
+SKILL_20150317_001044	{memo X}Velocidade de Movimento Aumentada +#{CaptionTime}# por #{CaptionRatio}#% segundos
+SKILL_20150317_001045	$Mordschlag
+SKILL_20150317_001046	{memo X}{#CC3300}{ol}[Perfurante]{/}{/} Atributo{nl}Dano #{SkillFactor}#%{nl}Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
+SKILL_20150317_001047	$Pagamento em Dobro
+SKILL_20150317_001048	{memo X}Três vezes o dano causado
+SKILL_20150317_001049	$Punição
+SKILL_20150317_001050	$Ciclone
 SKILL_20150317_001051	{memo X}$Inflinge dano ao realizar um forte ataque giratório em inimigos próximos.
 SKILL_20150317_001052	{memo X}Lv.1 Ataque Médio #{SkillFactor}#, Espalhar 3Lv.2 Ataque Médio #{SkillFactor}#, Espalhar 6Lv.3 Ataque Médio #{SkillFactor}#, Espalhar 9Lv.4 Ataque Médio #{SkillFactor}#, Espalhar 12Lv.5 Ataque Médio #{SkillFactor}#, Espalhar 15
 SKILL_20150317_001053	{memo X}$Alto Destruição
