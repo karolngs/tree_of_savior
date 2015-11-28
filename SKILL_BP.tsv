@@ -1200,10 +1200,10 @@ SKILL_20150317_001200	$Acelerar
 SKILL_20150317_001200	
 SKILL_20150317_001201	{memo X}Aplica um buff que aumenta a velocidade de movimento de um aliado.
 SKILL_20150317_001202	$Reencarnar
-SKILL_20150317_001203	{memo X}Re-invoca o monstro que acabou de ser destrído.
+SKILL_20150317_001203	{memo X}Re-invoca o monstro que acabou de ser destruído.
 SKILL_20150317_001204	{memo X}{#6644FF}{ol}[Fogo]{/}{/}Atributo {nl} Ataque #{SkillFactor}#% + #{SkillAtkAdd} a cada 0.5 segundos# damage {nl} Duração 10 segundos {nl}Consome #{{nl} SpendSP}# SP
 SKILL_20150317_001205	$Parar
-SKILL_20150317_001206	{memo X}Monstros mantem o estado atual. Todos os montros na área irão parar suas ações.
+SKILL_20150317_001206	{memo X}Monstros mantém o estado atual. Todos os montros na área irão parar suas ações.
 SKILL_20150317_001207	$Devagar
 SKILL_20150317_001208	{memo X}Velocidade de Movimento -#{CaptionRatio}#%{nl}Duração: 5 segundos {nl}Consome #{SpendSP}# SP
 SKILL_20150317_001209	$Agilizar
