@@ -198,13 +198,13 @@ QUEST_LV_0100_20150317_000197	$Estou tentando lembrar de algo, mas continua desv
 QUEST_LV_0100_20150317_000198	$Vaidotas
 QUEST_LV_0100_20150317_000199	${memo X}Esse cheiro... Acho que o aparelho purificador na mina está quebrado.{nl}É melhor o repararmos rapidamente. Os habitantes raptados podem sufocar.
 QUEST_LV_0100_20150317_000200	$Você sabe sobre a lenda de Cunningham?{nl}A lenda diz que um grande demônio foi selado aqui na #pending Crystal Mine.{nl}Há um livro com mais detalhes sobre isso no #pending Mine Worker's Resting Place in Crystal Mine 2F.{nl}
-QUEST_LV_0100_20150317_000201	${memo X}De qualquer maneira, meu chute é que o demônio está despertando de novo e está controlando os Vubbes.{nl}O sonho do bispo e a Lenda de Cunningham... Eu sinto que eles podem ser um sinal que algo grande está pra acontecer.{nl} 
+QUEST_LV_0100_20150317_000201	${memo X}De qualquer maneira, meu chute é que o demônio está despertando de novo e está{nl}controlando os Vubbes.O sonho do bispo e a Lenda de Cunningham... Eu sinto que eles podem ser um sinal que algo grande está pra acontecer.{nl} 
 QUEST_LV_0100_20150317_000202	$Só a Deusa saberia se teremos esperança ou só aflição.{nl}
-QUEST_LV_0100_20150317_000203	$O purificador pode ser facilmente concertado por qualquer um, mas pode ser difícil achar as partes necessárias.{nl}Nesse caso, use a bússola que eu te dei para procurá-las.{nl}
+QUEST_LV_0100_20150317_000203	$O purificador pode ser facilmente concertado por qualquer um, mas pode ser difícil achar as partes{nl}necessárias.{nl}Nesse caso, use a bússola que eu te dei para procurá-las.{nl}
 QUEST_LV_0100_20150317_000204	$Bem, eu tenho algumas coisas para fazer então encontro você no #pending 3F da Mina de Cristal.{nl}Em nome da Deusa, eu oro pelo sucesso de suas pelejas. 
-QUEST_LV_0100_20150317_000205	$Se você não conseguir achar as partes necessárias para concertar o purificador, use a bússola que eu te dei.{nl}Vai te ajudar encontra-las.
+QUEST_LV_0100_20150317_000205	$Se você não conseguir achar as partes necessárias para concertar o purificador, use a bússola que{nl}eu te dei.{nl} Vai te ajudar encontra-las.
 QUEST_LV_0100_20150317_000206	$#pending Vila Tia
-QUEST_LV_0100_20150317_000207   $Você veio nos salvar? Certo?
+QUEST_LV_0100_20150317_000207	$Você veio nos salvar? Certo?
 QUEST_LV_0100_20150317_000208	$Está tudo certo, vamos ficar bem agora!
 QUEST_LV_0100_20150317_000209	$Garota da Vila
 QUEST_LV_0100_20150317_000210	$Por favor salve-nos. Por favor...
@@ -226,19 +226,19 @@ QUEST_LV_0100_20150317_000225	$Essa ardósia é evidencia da salvação?{nl}Só 
 QUEST_LV_0100_20150317_000226	{memo X}$Pergunte o prefeito da #pending Vila dos Mineradores sobre um caminho para #pending Leaf Veil Plateau.{nl}Eu vou mandar a mensagem para o Paladino mestre antes.{nl}Que as bençãos da Deusa estejam com você.
 QUEST_LV_0100_20150317_000227	$Seria bom bom perguntar a mestre Bokor para interpretar essa ardósia.{nl}Ela vive no final da Área Residencial #pending de Klaipeda vá vista-la. 
 QUEST_LV_0100_20150317_000228	{memo X}$Use seu tempo sabiamente.{nl}Ninguém mais sabe seu futuro completo.
-QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que o mestre Bokor lhe disse?
+QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que a mestre Bokor lhe disse?
 QUEST_LV_0100_20150317_000230	{memo X}$Também estou curioso sobre a garota que quebrou o selo.{nl}Esse não é um selo que pode ser facilmente quebrado.
 QUEST_LV_0100_20150317_000231	{memo X}$Se a mestre Bokor lhe disse que eu saberia...{nl}Tem um lugar que me vem a cabeça.{nl}
 QUEST_LV_0100_20150317_000232	{memo X}$Os #pending High Gardens que a Deusa mencionou podem ser uma área dentro do #pending Leaf Veil Plateau. Eu ouvi que o mestre paladino esta lá, fazendo uma promessa de longo prazo.
 QUEST_LV_0100_20150317_000233	$Prefeito da #pending Vila dos Mineiradores
 QUEST_LV_0100_20150317_000234	$Bem vindo. Não é você o salvador da nossa cidade?{nl}
-QUEST_LV_0100_20150317_000235	{memo X}$#pending Leaf Veil Plateau hum? Se você pegar o caminho no meio das pontes abaixo, você vai chegar em #pending Silverstram Gorge
-QUEST_LV_0100_20150317_000236	{memo X}$Então essa Revelação é da Deusa Laima e nós temos que coletar todas essas daí para que a deusa recupere seus poderes?{nl}Isso é incrível. 
-QUEST_LV_0100_20150317_000237	$Oh, por favor não revele o fato que a revelação foi encontrada a menos que absolutamente necessário.{nl}Contar só vai criar confusão se os rumores se espalharem.
-QUEST_LV_0100_20150317_000238	$Ah, sim o relatório.{nl}No começo, aqueles #pending Siaulagos fizeram algo estranho nos suprimentos, mas eles fugiram um pouco depois que os Sparnas chegaram.{nl}
-QUEST_LV_0100_20150317_000239	$Eu fui visto por aqueles Siaulagos enquanto eles estavam fugindo, então lutei contra eles...{nl}Sim... Como pode ver, eu perdi. O relatório claro.{nl)Não são uns cretinos!?
+QUEST_LV_0100_20150317_000235	{memo X}$#pending Leaf Veil Plateau hum? Se você pegar o caminho no meio das pontes abaixo, você vai{nl}chegar em #pending Silverstram Gorge
+QUEST_LV_0100_20150317_000236	{memo X}$Então essa Revelação é da Deusa Laima e nós temos que coletar todas essas daí para que a Deusa{nl}recupere seus poderes?{nl}Isso é incrível. 
+QUEST_LV_0100_20150317_000237	$Oh, por favor não revele o fato que a revelação foi encontrada a menos que absolutamente{nl}necessário. Contar só vai criar confusão se os rumores se espalharem.
+QUEST_LV_0100_20150317_000238	$Ah, sim o relatório.{nl}No começo, aqueles #pending Siaulagos fizeram algo estranho nos suprimentos, mas eles fugiram{nl}um pouco depois que os Sparnas chegaram.{nl}
+QUEST_LV_0100_20150317_000239	$Eu fui visto por aqueles Siaulagos enquanto eles estavam fugindo, então lutei contra eles...{nl}Sim... Como pode ver, eu perdi. O relatório claro.{nl}Não são uns cretinos!?
 QUEST_LV_0100_20150317_000240	$Quando você achar o relatório, por favor entregue-o pro Luders imediatamente.{nl}Estou aterrorizado em pensar no que os cretinos fizeram com nossos suprimentos.
-QUEST_LV_0100_20150317_000241	$Sim. Depois que vi o relatório do Moody, tenho certeza que eles colocaram algo nos nossos suprimentos para atrair Sparnas.{nl}Assim como pássaros são enlouquecidos por grãos velhos
+QUEST_LV_0100_20150317_000241	$Sim. Depois que vi o relatório do Moody, tenho certeza que eles colocaram algo nos nossos{nl}suprimentos para atrair Sparnas.{nl}Assim como pássaros são enlouquecidos por grãos velhos
 QUEST_LV_0100_20150317_000242	Os soldados em patrulha acharam o lugar que os Siaulambs guardam as coisas roubadas.{nl}Que tal rouba-las para nós mesmos?{nl}Vamos deixar claro que nós não somos tão fracos como pensam.{nl}
 QUEST_LV_0100_20150317_000243	Você deve combater fogo com fogo.{nl}Nós vamos continuar atacando até que entendam que cometeram um erro.
 QUEST_LV_0100_20150317_000244	Não vamos mais sofrer.{nl}Obrigado por seus esforços.
@@ -247,7 +247,7 @@ QUEST_LV_0100_20150317_000246	Eu não ouvi nada mais sobre o sonho do bisbo.{nl}
 QUEST_LV_0100_20150317_000247	Capitão da guarda de #pending Klaipeda
 QUEST_LV_0100_20150317_000248	Vá em frente para Klaipeda.{nl}Comandante Uska está esperando por você no #pending Klaipeda Central Plaza.{nl}Eu ouvi que o bispo teve um sonho sobre a Deusa... Parece ser a preocupação de hoje.
 QUEST_LV_0100_20150317_000249	Guarda #pending Klaipeda	
-QUEST_LV_0100_20150317_000250	Obrigado por vir para cá.{nl}Se ainda resta esse tanto mesmo depois que Sir Titas resolveu ele mesmo, você consegue imaginar como estava antes?
+QUEST_LV_0100_20150317_000250	Obrigado por vir para cá.{nl}Se ainda resta esse tanto mesmo depois que Sir Titas resolveu ele mesmo, você consegue imaginar{nl}como estava antes?
 QUEST_LV_0100_20150317_000251
 QUEST_LV_0100_20150317_000252
 QUEST_LV_0100_20150317_000253
@@ -9592,8 +9592,7 @@ QUEST_LV_0100_20151016_009591
 QUEST_LV_0100_20151016_009592
 QUEST_LV_0100_20151016_009593
 QUEST_LV_0100_20151016_009594
-QUEST_LV_0100_20151016_009595
-{nl}¿¿ ¿¿¿ ¿¿¿¿¿¿..
+QUEST_LV_0100_20151016_009595	{nl}정말 중요한 것들이었는데..
 QUEST_LV_0100_20151016_009596
 QUEST_LV_0100_20151016_009597
 QUEST_LV_0100_20151016_009598
@@ -9838,8 +9837,7 @@ QUEST_LV_0100_20151016_009836
 QUEST_LV_0100_20151016_009837
 QUEST_LV_0100_20151016_009838
 QUEST_LV_0100_20151016_009839
-QUEST_LV_0100_20151016_009840
- ¿¿ ¿¿ ¿¿¿ ¿¿ ¿¿¿ ¿¿¿ ¿¿ ¿¿ ¿¿?{nl}¿¿ ¿¿¿ ¿¿ ¿¿ ¿¿¿¿¿.{nl}¿¿¿ ¿¿ ¿¿ ¿¿ ¿¿¿ ¿¿ ¿¿¿ ¿¿¿¿ ¿ ¿ ¿¿¿.
+QUEST_LV_0100_20151016_009840	그걸 먹은 페릿은 다신 식량을 훔치러 오지 않을 걸요?{nl}일단 오염된 붉은 물을 떠다주세요.{nl}오염된 붉은 물은 마을 구석에 있는 오래된 우물에서 뜰 수 있어요.
 QUEST_LV_0100_20151016_009841
 QUEST_LV_0100_20151016_009842
 QUEST_LV_0100_20151016_009843
