@@ -1301,7 +1301,7 @@ SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Pul
 SKILL_20150317_001301	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataca 5 vezes
 SKILL_20150317_001302	$Flecha Espiral
 SKILL_20150317_001303	{memo X}Incrementa o seu próximo ataque para executar um dano adicional.
-SKILL_20150317_001304	{memo X}Ataques Contínuous: #{CaptionRatio}# {nl}Duração: 10 segundos
+SKILL_20150317_001304	{memo X}Ataques Contínuos: #{CaptionRatio}# {nl}Duração: 10 segundos
 SKILL_20150317_001305	$Soltar Pavise
 SKILL_20150317_001306	{memo X}Instala um Pavise no chão que protege contra projéteis.
 SKILL_20150317_001307	{memo X}Alcance de defesa #{SkillFactor}# vezes{nl}Duração do Pavise #{CaptionTime}# segundos
@@ -1335,9 +1335,9 @@ SKILL_20150317_001334	Arrastar de volta
 SKILL_20150317_001335	Mascote morde o alvo e traz de volta para o jogador.
 SKILL_20150317_001336	{memo X}Arrasta inimigos com HP menor que #{CaptionRatio}#%{nl} Duração 4 segundos
 SKILL_20150317_001337	$Arrebatar
-SKILL_20150317_001338	$O Mascote morte monstros do tipo voador e trás eles ao chão.
+SKILL_20150317_001338	$O Mascote morde monstros do tipo voador e trás eles ao chão.
 SKILL_20150317_001339	$Elogiar
-SKILL_20150317_001340	{memo X}Temporariamente aumenta a velocidade de moviment e o ataque do Mascote.
+SKILL_20150317_001340	{memo X}Temporariamente aumenta a velocidade de movimento e o ataque do Mascote.
 SKILL_20150317_001341	{memo X}Velocidade de movimento do Mascote + #{CaptionRatio}#% {nl} Duração 60 segundos
 SKILL_20150317_001342	$Apontar
 SKILL_20150317_001343	{memo X}$O seu Mascote provoca e chama a atenção do inimigo. Diminuí a evasão do inimigo.
@@ -1346,7 +1346,7 @@ SKILL_20150317_001345	$Farejar
 SKILL_20150317_001346	$O seu Mascote encontra inimigos próximos.
 SKILL_20150317_001347	$Desentoxicar
 SKILL_20150317_001348	{memo X}Remove veneno dos alvos. Não pode curar habilidades venenos de maior level que o desintoxicar, mas diminuí o tempo de duração.
-SKILL_20150317_001349	$Duração: -#{CaptionRatio}# segundos{nl}Consome #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001349	$Duração: -#{CaptionRatio}# segundos{nl}Consome #{SpendPoison}# Pote(s) de Veneno
 SKILL_20150317_001350	$Soprar Agulha
 SKILL_20150317_001352
 SKILL_20150317_001353
