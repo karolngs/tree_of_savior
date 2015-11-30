@@ -1212,7 +1212,7 @@ SKILL_20150317_001211	{memo X}Reverte o tempo na área ao estado anterior.
 SKILL_20150317_001212	$Recolher Corpos
 SKILL_20150317_001213	{memo X}Recolhe partes dos corpos dos inimigos que morreram na área alvo.
 SKILL_20150317_001214	$Criar Shoggoth
-SKILL_20150317_001215	{memo X}Usa os corpos para invocar um Shoggoth atravéz do necronomicon.
+SKILL_20150317_001215	{memo X}Usa os corpos para invocar um Shoggoth através do necronomicon.
 SKILL_20150317_001216	{memo X}Canhão de carne
 SKILL_20150317_001217	{memo X}Atira partes mortas na área alvo.
 SKILL_20150317_001218	{memo X}Barreira de Corpos
@@ -1220,15 +1220,15 @@ SKILL_20150317_001219	{memo X}Cria uma barreira a sua volta com corpos, inflinge
 SKILL_20150317_001220	$Parede de Sujeira
 SKILL_20150317_001221	$Desenterrar
 SKILL_20150317_001222	$Combustão
-SKILL_20150317_001223	{memo X}Pavês Mágico
+SKILL_20150317_001223	{memo X}Pavise Mágico
 SKILL_20150317_001224	$Escavar
 SKILL_20150317_001225	{memo X}Polir
-SKILL_20150317_001226	$Briquetting
+SKILL_20150317_001226	$Briquetagem
 SKILL_20150317_001227	$Tingir
 SKILL_20150317_001228	$Magnum Opus
 SKILL_20150317_001229	{memo X}Cria uma barreira mágica na área alvo que bloqueia os ataques dos inimigos.
 SKILL_20150317_001230	{memo X}Lv.1 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.2 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.3 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}#
-SKILL_20150317_001231	{memo X}Cria uma área com névoa a frente. A presisão dos inimigos dentro da névoa diminuí.
+SKILL_20150317_001231	{memo X}Cria uma área com névoa a frente. A precisão dos inimigos dentro da névoa diminuí.
 SKILL_20150317_001232	{memo X}Duração #{CaptionTime}# segundos, Presisão -#{CaptionRatio}#%{nl}Consome #{SpendSP}# SP
 SKILL_20150317_001233	{memo X}Atinge os inimigos sob o status [Congelamento] próximos e inflinge dano.
 SKILL_20150317_001234	{memo X}Lv.1 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.2 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.3 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.4 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.5 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
@@ -1238,7 +1238,7 @@ SKILL_20150317_001237	{memo X}Inflinge dano em um alvo sob [Maldição]. Todos o
 SKILL_20150317_001238	{memo X}Lv.1 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.2 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.4Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}#
 SKILL_20150317_001239	{memo X}Inflinge dano aos inimigos próximos ao invocar uma aura de [Vício].
 SKILL_20150317_001240	{memo X}Lv.1 Ataque médio #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.2 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.3 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.4 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.5 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001241	{memo X}Pinta o Noir de guerra no chão. Aumenta força e inteligência dos aliados.
+SKILL_20150317_001241	{memo X}Pinta o Noir de Guerra no chão. Aumenta força e inteligência dos aliados.
 SKILL_20150317_001242	{memo X}Lv.1 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 STR, INT+ #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
 SKILL_20150317_001243	{memo X}Pinta o Noir da Morte no chão. Aumenta a CON e a AGI dos aliados.
 SKILL_20150317_001244	{memo X}Lv.1 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl}Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 CON, AGI + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
@@ -1255,15 +1255,15 @@ SKILL_20150317_001254	{memo X}Duração #{CaptionTime}# segundos, Defende 6 veze
 SKILL_20150317_001255	{memo X}Rodeia o alvo com uma energia poderosa. Inflinge dano à todos os que estiverem perto.
 SKILL_20150317_001256	{memo X}Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
 SKILL_20150317_001257	{memo X}Joga um meteoro e inflinge dano da propriedade [Fogo] nos inimigos.
-SKILL_20150317_001258	{memo X}[Fogo] [Impacto] Dano + #{SkillFactor}#{nl} contador de meteoros #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
+SKILL_20150317_001258	{memo X}[Fogo] [Impacto] Dano + #{SkillFactor}#{nl} contador de meteoros #{CaptionRatio}#{nl} Dano Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
 SKILL_20150317_001259	{memo X}Congela o Inimigo.
 SKILL_20150317_001260	$Contagem Regressiva
 SKILL_20150317_001261	{memo X}Volta os aliados no tempo. Volta HP, SP, STA e tempo de recarga das Habilidades
 SKILL_20150317_001262	{memo X}Invoca um espírito que ataca enquanto se move.
-SKILL_20150317_001263	{memo X}Usa o seu próprio demônio para inflingir dano aos inimigos próximos.
+SKILL_20150317_001263	{memo X}Usa o seu próprio demônio para Infligir dano aos inimigos próximos.
 SKILL_20150317_001264	{memo X}O espírito recebe todo o dano do invocador.
 SKILL_20150317_001265	{memo X}Cria um clone de você mesmo e se move para fora da área após o uso.
-SKILL_20150317_001266	{memo X}Buffa adicionando velocidade de ataque.
+SKILL_20150317_001266	{memo X}Buff adicionando velocidade de ataque.
 SKILL_20150317_001267	{memo X}Torna habilidades de chão inimigas aliadas.
 SKILL_20150317_001268	{memo X}Teste
 SKILL_20150317_001269	$Multi Tiro
