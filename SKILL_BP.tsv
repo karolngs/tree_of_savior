@@ -1264,7 +1264,7 @@ SKILL_20150317_001263	{memo X}Usa o seu próprio demônio para Infligir dano aos
 SKILL_20150317_001264	{memo X}O espírito recebe todo o dano do invocador.
 SKILL_20150317_001265	{memo X}Cria um clone de você mesmo e se move para fora da área após o uso.
 SKILL_20150317_001266	{memo X}Buff adicionando velocidade de ataque.
-SKILL_20150317_001267	{memo X}Torna habilidades de chão inimigas aliadas.
+SKILL_20150317_001267	{memo X}Torna habilidades de chão inimigas em aliadas.
 SKILL_20150317_001268	{memo X}Teste
 SKILL_20150317_001269	$Multi Tiro
 SKILL_20150317_001270	${#DD5500}{ol}[Físico] - [Missile]{/}{/}{nl}Atira rapidamente várias vezes na área alvo.
@@ -1278,19 +1278,19 @@ SKILL_20150317_001277	{memo X}Ataque Físico + #{CaptionRatio}#{nl} Alcance + #{
 SKILL_20150317_001278	$Passos Rápidos
 SKILL_20150317_001279	{memo X}Aumenta a velocidade de movimento enquanto estiver atacando.
 SKILL_20150317_001280	$Velocidade de Movimento atirando Flechas: +#{SkillFactor}#%{nl}Defesa: -#{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_001281	$Tiro oblíquo
+SKILL_20150317_001281	$Tiro Oblíquo
 SKILL_20150317_001282	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira de forma a acertar mais de um inimigo.
 SKILL_20150317_001283	{memo X}Ataque #{SkillAtkAdd}#{nl}Dano da flecha que pulou #{CaptionRatio}#%
 SKILL_20150317_001284	$Barragem
 SKILL_20150317_001285	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira 5 flechas a frente em forma de arco em direção ao chão.
 SKILL_20150317_001286	$Tiro Preciso
-SKILL_20150317_001287	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Puxa o arco fortemente e faz com que a flecha penetre atravéz dos inimigos a frente.
+SKILL_20150317_001287	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Puxa o arco fortemente e faz com que a flecha penetre através dos inimigos a frente.
 SKILL_20150317_001288	$Tiro Crítico
 SKILL_20150317_001289	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira uma flecha com grande chance de crítico.
 SKILL_20150317_001290	$Ataque #{SkillAtkAdd}#{nl}Chance crítica adicional 50%
 SKILL_20150317_001291	$Mira Firme
 SKILL_20150317_001292	{memo X}Aumenta o poder de ataque e diminui a velocidade de ataque.
-SKILL_20150317_001293	$Dano Adicional: +#{CaptionRatio}#{nl}Velocidade de atauqe: -#{CaptionRatio2}#% {nl}Duração: 40 segundos
+SKILL_20150317_001293	$Dano Adicional: +#{CaptionRatio}#{nl}Velocidade de ataque: -#{CaptionRatio2}#% {nl}Duração: 40 segundos
 SKILL_20150317_001294	$Flecha Bomba Relógio
 SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Coloca uma bomba na flecha e atira no inimigo.
 SKILL_20150317_001296	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração da bomba 5 segundos
@@ -1300,7 +1300,7 @@ SKILL_20150317_001299	$Chuva de Flechas
 SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Pula para trás enquanto atira várias flechas a frente.
 SKILL_20150317_001301	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataca 5 vezes
 SKILL_20150317_001302	$Flecha Espiral
-SKILL_20150317_001303	{memo X}Incrementa o seu próximo ataque para executar um dano adicional.
+SKILL_20150317_001303	{memo X}Incrementa o seu próximo ataque para causar um dano adicional.
 SKILL_20150317_001304	{memo X}Ataques Contínuos: #{CaptionRatio}# {nl}Duração: 10 segundos
 SKILL_20150317_001305	$Soltar Pavise
 SKILL_20150317_001306	{memo X}Instala um Pavise no chão que protege contra projéteis.
@@ -1331,8 +1331,8 @@ SKILL_20150317_001330	{memo X}Ataque #{SkillAtkAdd}#{nl}Explosão #{CaptionRatio
 SKILL_20150317_001331	$Imobilizar
 SKILL_20150317_001332	{memo X}O Mascote morde e segura o alvo. Uma chance maior de crítico é aplicada no monstro que está preso.
 SKILL_20150317_001333	{memo X}Chance Crítica +30% {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001334	Arrastar de volta
-SKILL_20150317_001335	Mascote morde o alvo e traz de volta para o jogador.
+SKILL_20150317_001334	Arrastar de Volta
+SKILL_20150317_001335	O Mascote morde o alvo e traz de volta para o jogador.
 SKILL_20150317_001336	{memo X}Arrasta inimigos com HP menor que #{CaptionRatio}#%{nl} Duração 4 segundos
 SKILL_20150317_001337	$Arrebatar
 SKILL_20150317_001338	$O Mascote morde monstros do tipo voador e trás eles ao chão.
@@ -1341,10 +1341,10 @@ SKILL_20150317_001340	{memo X}Temporariamente aumenta a velocidade de movimento 
 SKILL_20150317_001341	{memo X}Velocidade de movimento do Mascote + #{CaptionRatio}#% {nl} Duração 60 segundos
 SKILL_20150317_001342	$Apontar
 SKILL_20150317_001343	{memo X}$O seu Mascote provoca e chama a atenção do inimigo. Diminuí a evasão do inimigo.
-SKILL_20150317_001344	{memo X}Evasion -#{CaptionRatio}#{nl}Duração 10 segundos
+SKILL_20150317_001344	{memo X}Evasão-#{CaptionRatio}#{nl}Duração 10 segundos
 SKILL_20150317_001345	$Farejar
 SKILL_20150317_001346	$O seu Mascote encontra inimigos próximos.
-SKILL_20150317_001347	$Desentoxicar
+SKILL_20150317_001347	$Desintoxicar
 SKILL_20150317_001348	{memo X}Remove veneno dos alvos. Não pode curar habilidades venenos de maior level que o desintoxicar, mas diminuí o tempo de duração.
 SKILL_20150317_001349	$Duração: -#{CaptionRatio}# segundos{nl}Consome #{SpendPoison}# Pote(s) de Veneno
 SKILL_20150317_001350	$Soprar Agulha
