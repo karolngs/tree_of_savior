@@ -1347,20 +1347,20 @@ SKILL_20150317_001347
 SKILL_20150317_001348
 SKILL_20150317_001349
 SKILL_20150317_001350
-SKILL_20150317_001351	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma agulha venenona que inflige dano por tempo.
-SKILL_20150317_001352	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 30 segundos{nl}Usa #{SpendPoison}# Poção de Veneno
-SKILL_20150317_001353	$Bewitch
-SKILL_20150317_001354	$inflige confusão em um inimigo envenenado.
-SKILL_20150317_001355	${#339999}{ol}[Confusão]{/}{/}{nl} Duração: 10 segundos {nl}Consome  #{SpendPoison}# Poção de Veneno
+SKILL_20150317_001351	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma agulha venenosa que inflige dano por tempo.
+SKILL_20150317_001352	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 30 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001353	$Enfeitiçar
+SKILL_20150317_001354	$Inflige confusão em um inimigo envenenado.
+SKILL_20150317_001355	${#339999}{ol}[Confusão]{/}{/}{nl} Duração: 10 segundos {nl}Consome  #{SpendPoison}# Pote de Veneno
 SKILL_20150317_001356	$Wugong Gu
 SKILL_20150317_001357	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contagiosa. O alvo espalha veneno em volta dele mesmo e envenena qualquer inimigo próximo.
-SKILL_20150317_001358	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 10 segundos{nl}Usa #{SpendPoison}# Poção de Veneno
+SKILL_20150317_001358	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
 SKILL_20150317_001359	$Atirar Pote Gu
 SKILL_20150317_001360	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira um jarro que cria uma poça de veneno.
-SKILL_20150317_001361	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos{nl}Usa #{SpendPoison}# Poção de Veneno
+SKILL_20150317_001361	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
 SKILL_20150317_001362	$Jincan Gu
-SKILL_20150317_001363	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contendo um parasita no inimigo.
-SKILL_20150317_001364	{memo X}Ataque #{SkillAtkAdd}#{nl}Usa #{SpendPoison}# Poção de Veneno
+SKILL_20150317_001363	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contendo parasitas no inimigo.
+SKILL_20150317_001364	{memo X}Ataque #{SkillAtkAdd}#{nl}Usa #{SpendPoison}# Pote de Veneno
 SKILL_20150317_001365	$Camuflagem
 SKILL_20150317_001366	{memo X}Se esconde dentro de um barril para desviar a atenção dos inimigos. O barril fornece defesa contra vários ataques.
 SKILL_20150317_001367	$Número de Bloqueios: #{CaptionRatio}#{nl}Velocidade de Movimento: -#{CaptionRatio}#
@@ -1373,48 +1373,48 @@ SKILL_20150317_001373	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos
 SKILL_20150317_001374	$Disfarce
 SKILL_20150317_001375	{memo X}Se esconde dos inimigos.
 SKILL_20150317_001376	$Duração: #{CaptionTime}# segundos
-SKILL_20150317_001377	$Distorção Perspectiva
-SKILL_20150317_001378	{memo X}Distorse o espaço atual fazendo com que ataques corpo a corpo acertem alvos a longa distância.
+SKILL_20150317_001377	$Distorcer Perspectiva
+SKILL_20150317_001378	{memo X}Distorce o espaço atual fazendo com que ataques corpo a corpo acertem alvos a longa distância.
 SKILL_20150317_001379	{memo X}Duração Max. 10 segundos {nl} #{CaptionRatio}# de SP consumido a cada segundo.
 SKILL_20150317_001380	$Escanear
 SKILL_20150317_001381	{memo X}Mostra monstros e itens escondidos na área alvo.
 SKILL_20150317_001382	{memo X}$Duração: 10 segundos
 SKILL_20150317_001383	Esteja Preparado
-SKILL_20150317_001384	$Diminuí o tempo de recarga de todas as habilidades atuais.
+SKILL_20150317_001384	$Diminui o tempo de recarga de todas as habilidades atuais.
 SKILL_20150317_001385	$Tempo de Recarga: -#{CaptionRatio} segundos#{nl}Consome #{SpendSP}# de SP
 SKILL_20150317_001386	$Picada de Cobra
 SKILL_20150317_001387	$Estratagema
-SKILL_20150317_001388	$Brandir em Curva
-SKILL_20150317_001389	{memo X}A Flecha Voa...
+SKILL_20150317_001388	$Brandir Arco
+SKILL_20150317_001389	{memo X}Flecha de Batalha...
 SKILL_20150317_001390	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
 SKILL_20150317_001391	$Entocar
-SKILL_20150317_001392	$Ponta Larga
+SKILL_20150317_001392	$Ponteira Larga
 SKILL_20150317_001393	{memo X}Atira uma flecha que causa sangramento.
 SKILL_20150317_001394	$Ponto Crítico
-SKILL_20150317_001395	{memo X}Atira uma flecha que diminuí a defesa e remove magias de proteção.
+SKILL_20150317_001395	{memo X}Atira uma flecha que diminui a defesa e remove magias de proteção.
 SKILL_20150317_001396	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Reduz a armadura com uma chance de 30% à 70% {nl} Consome SP #{SpendSP}#
 SKILL_20150317_001397	$Flecha Farpada
 SKILL_20150317_001398	{memo X}Atira uma flecha farpada. Atinge um inimigo diversas vezes, dependendo da tipo de armadura do inimigo.
 SKILL_20150317_001399	{memo X}Ataque Médio #{SkillFactor}#
 SKILL_20150317_001400	$Fogo Cruzado
-SKILL_20150317_001401	{memo X}Atira uma Flecha que explode em formato de cruz caso mate monstro.
+SKILL_20150317_001401	{memo X}Atira uma flecha que explode em formato de cruz caso mate o monstro alvo.
 SKILL_20150317_001402	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl} Consome #{SpendSP }# de SP
 SKILL_20150317_001403	Tocar Flauta
 SKILL_20150317_001404	Sentimentos
-SKILL_20150317_001405	{memo X}Se move para longe da area atual ao pular e girar para trás. Ao evadir um ataque inimigo com sucesso, aumenta drasticamente a chance crítica no próximo ataque.
+SKILL_20150317_001405	{memo X}Se move para longe da área atual ao pular e girar para trás. Ao esquivar um ataque inimigo com sucesso, aumenta drasticamente a chance crítica no próximo ataque.
 SKILL_20150317_001406	Tiro na Perna
 SKILL_20150317_001407	{memo X}Atira na perna do inimigo para diminuir sua velocidade.
 SKILL_20150317_001408	{memo X}Lv.1 Ataque Médio #{SkillFactor}# Lv.2 Ataque Médio #{SkillFactor}# Lv.3 Ataque Médio #{SkillFactor}#
-SKILL_20150317_001409	{memo X}Impossibilita o inimigo de se mover. Os inimigos vão ter sua velocidade de movimento diminuída após o efeito passar.
-SKILL_20150317_001410	{memo X}Instala um Turrete que inflige dano nos inimigos dentro do campo de visão.
-SKILL_20150317_001411	{memo X}Instala um espantalho que provoca os inimigos, os inimigos irão atacar o espantalho.
+SKILL_20150317_001409	{memo X}Impossibilita o inimigo de se mover. O inimigo terá sua velocidade de movimento diminuída após o efeito passar.
+SKILL_20150317_001410	{memo X}Instala um turrete que inflige dano nos inimigos dentro do campo de visão.
+SKILL_20150317_001411	{memo X}Instala um espantalho que provoca os inimigos para se tornar o alvo dos ataques deles.
 SKILL_20150317_001412	{memo X}Temporariamente cega o inimigo. O inimigo não pode usar habilidades enquanto estiver cego.
 SKILL_20150317_001413	{memo X}Chance de Cegueira #{CaptionRatio}#% {nl} Consome #{SpendSP}# de SP
 SKILL_20150317_001414	$Estocada com Sabre
 SKILL_20150317_001415	$Golpe com Sabre
 SKILL_20150317_001416	$Avanço de Cavalaria
-SKILL_20150317_001417	Avanço do Cavalo
-SKILL_20150317_001418	Sem munição
+SKILL_20150317_001417	Investida do Cavalo
+SKILL_20150317_001418	Munição de Festim
 SKILL_20150317_001419	$Fogo Concentrado
 SKILL_20150317_001420	Ataque com Arções
 SKILL_20150317_001421	$Enfraquecimento
@@ -1431,10 +1431,10 @@ SKILL_20150317_001431	$Zona Segura
 SKILL_20150317_001432	$Cria um círculo mágico que bloqueia ataques.
 SKILL_20150317_001433	$Número de bloqueios: #{SkillFactor}#{nl} Duração do círculo mágico: 20 segundos
 SKILL_20150317_001434	$Zona Desprotegida
-SKILL_20150317_001435	{memo X}Cria um círculo mágico que diminuí a defesa do alvo continuamente.
+SKILL_20150317_001435	{memo X}Cria um círculo mágico que diminui a defesa do alvo continuamente.
 SKILL_20150317_001436	$Defesa: -#{CaptionRatio}#{nl}Por Pilha: -#{CaptionRatio2}#{nl}Duração do Círculo Mágico: #{CaptionTime}# segundos
 SKILL_20150317_001437	$Poder Divino
-SKILL_20150317_001438	{memo X}Cria um círculo mágico que aumenta o level da habilidade do alvo. O efeito do circulo desaparece do chão assim que usado e não pode ser sobreposto.
+SKILL_20150317_001438	{memo X}Cria um círculo mágico que aumenta o level da habilidade do alvo. O efeito do círculo desaparece do chão assim que usado e não pode ser sobreposto.
 SKILL_20150317_001439	{memo X}Level da Habilidade: +#{SkillFactor}#{nl}Duração: 10 segundos {nl}Duração do Círculo Mágico: 20 segundos
 SKILL_20150317_001440	{memo X}Invoca uma tocha que aumenta a recuperação de HP nas imediações.
 SKILL_20150317_001441	{memo X}Aumenta a habilidade de recuperação de HP{nl}Duração da Tocha #{CaptionTime}# segundos
@@ -1456,27 +1456,27 @@ SKILL_20150317_001456	$Aspersio
 SKILL_20150317_001457	{memo X}{#993399}{ol}[Magia] - [Divino]{/}{/}{nl}Borrifa água sagrada que aumenta a defesa do alvo e causa dano nos inimigos.
 SKILL_20150317_001458	{memo X}Ataque #{SkillAtkAdd}#{nl}Defesa +#{CaptionRatio}# {nl}Alvo 10{nl}Duração #{CaptionRatio2}# segundos{nl}Usa 1 Água Sagrada
 SKILL_20150317_001459	$Monstrance
-SKILL_20150317_001460	{memo X}A destreza dos aliados é aumentada e cria aleatóriamente um circulo mágico que reduz evasão e dano físico dos inimigos.
+SKILL_20150317_001460	{memo X}A destreza dos aliados é aumentada e cria aleatoriamente um circulo mágico que reduz evasão e dano físico dos inimigos.
 SKILL_20150317_001461	{memo X}$Número máximo de círculos mágicos: #{SkillFactor}#{nl}Aumenta DEX dos aliados{nl}Defesa e Evasão dos inimigos: -#{CaptionRatio}#{nl}Duração do Círculo Mágico: 20 segundos
 SKILL_20150317_001462	$Benção
 SKILL_20150317_001463	{memo X}Aumenta o dano das habilidades dos membros do grupo.
 SKILL_20150317_001464	{memo X}Dano adicional + #{CaptionRatio}# {nl} Ataque# {CaptionRatio2} # vezes{nl} {nl} Duração 30 segundos{nl}Usa 1 Pó Sagrado
 SKILL_20150317_001465	$Ressureição
 SKILL_20150317_001466	{memo X}Revive jogadores caídos.
-SKILL_20150317_001467	$Ataque: #{SkillAtkAdd}#{nl}Tempo de Conjuração: #{CaptionTime}# segundos{nl}Recuperação de HP após se recuperar do estádo de incapacidade de combate: #{CaptionRatio}#%
+SKILL_20150317_001467	$Ataque: #{SkillAtkAdd}#{nl}Tempo de Conjuração: #{CaptionTime}# segundos{nl}Recuperação de HP após se recuperar do estado de incapacidade de combate: #{CaptionRatio}#%
 SKILL_20150317_001468	$Sacramento
-SKILL_20150317_001469	{memo X}Garante o atributo sagrado nos ataques dos membros do grupo. Dano adicional é aplicado à ataques básicos.
-SKILL_20150317_001470	{memo X}Atributo de ataque dívino + #{CaptionRatio}#{nl} Dano adicional + #{CaptionRatio2}#{nl} Duração #{CaptionTime} segundos#{nl}Usa 1 Gislotis
+SKILL_20150317_001469	{memo X}Concede o atributo sagrado aos ataques dos membros do grupo. Dano adicional é aplicado a ataques básicos.
+SKILL_20150317_001470	{memo X}Atributo de ataque divino + #{CaptionRatio}#{nl} Dano adicional + #{CaptionRatio2}#{nl} Duração #{CaptionTime} segundos#{nl}Usa 1 Gislotis
 SKILL_20150317_001471	$Proteção
 SKILL_20150317_001472	$Dodola
 SKILL_20150317_001473	$Bruxaria
-SKILL_20150317_001474	{memo X}Amaldiçoa um inimigo e diminuí a defesa mágica.
+SKILL_20150317_001474	{memo X}Amaldiçoa um inimigo e diminui a defesa mágica.
 SKILL_20150317_001475	$Defesa Mágica: -#{CaptionRatio}#{nl}Duração da Bruxaria: #{CaptionTime}# segundos
 SKILL_20150317_001476	$Efígie
 SKILL_20150317_001477	{memo X}{#993399}{ol}[Magia] - [Sombrio]{/}{/}{nl}Causa dano em inimigos afetados por Bruxaria. O terceiro ataque inflige mais dano.
 SKILL_20150317_001478	{memo X}Ataque #{SkillAtkAdd}#{nl}Bônus de ataque no terceiro ataque #{CaptionRatio}# vezes ~ #{CaptionRatio2}#vezes
 SKILL_20150317_001479	$Tet Mamak La
-SKILL_20150317_001480	{memo X}Atraí os Zumbis até a área alvo.
+SKILL_20150317_001480	{memo X}Atrai os Zumbis até a área alvo.
 SKILL_20150317_001481	Requer um zumbi invocado{nl}Level Máximo: 1
 SKILL_20150317_001482	$Zumbificar
 SKILL_20150317_001483	{memo X}Cria um círculo mágico no chão. Inimigos mortos nessa área voltam como zumbis.
