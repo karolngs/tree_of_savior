@@ -6,7 +6,7 @@ ITEM_20150317_000005 	$Braçadeira
 ITEM_20150317_000006 	$Braçadeira Laçada
 ITEM_20150317_000007	$Braçadeira Longa
 ITEM_20150317_000008	$Braçadeira de Penas
-ITEM_20150317_000009  
+ITEM_20150317_000009  	$Braçadeira Franjada
 ITEM_20150317_000010 	$Arma_Vazia
 ITEM_20150317_000011	$Gladius Bruta
 ITEM_20150317_000012	$Espada de Uma Mão [Corte]
@@ -93,61 +93,61 @@ ITEM_20150317_000092	{memo X}$ - 2% de chance de causar +600% de dano.
 ITEM_20150317_000093	{memo X}$Esta espada frequentemente brilha com o talento e habilidade de seu criador.
 ITEM_20150317_000094	$Espada Klavis
 ITEM_20150317_000095	$Apesar de sua qualidade, ela pode ser vendida por um bom preço. 
-ITEM_20150317_000096
-ITEM_20150317_000097
-ITEM_20150317_000098
-ITEM_20150317_000099
-ITEM_20150317_000100
-ITEM_20150317_000101
-ITEM_20150317_000102
-ITEM_20150317_000103
-ITEM_20150317_000104
-ITEM_20150317_000105
-ITEM_20150317_000106
-ITEM_20150317_000107
-ITEM_20150317_000108
-ITEM_20150317_000109
-ITEM_20150317_000110
-ITEM_20150317_000111
-ITEM_20150317_000112
-ITEM_20150317_000113
-ITEM_20150317_000114
-ITEM_20150317_000115
-ITEM_20150317_000116
-ITEM_20150317_000117
-ITEM_20150317_000118
-ITEM_20150317_000119
-ITEM_20150317_000120
-ITEM_20150317_000121
-ITEM_20150317_000122
-ITEM_20150317_000123
-ITEM_20150317_000124
-ITEM_20150317_000125
-ITEM_20150317_000126
-ITEM_20150317_000127
-ITEM_20150317_000128
-ITEM_20150317_000129
-ITEM_20150317_000130
-ITEM_20150317_000131
-ITEM_20150317_000132
-ITEM_20150317_000133
-ITEM_20150317_000134
-ITEM_20150317_000135
-ITEM_20150317_000136
-ITEM_20150317_000137
-ITEM_20150317_000138
-ITEM_20150317_000139
-ITEM_20150317_000140
-ITEM_20150317_000141
-ITEM_20150317_000142
-ITEM_20150317_000143
-ITEM_20150317_000144
-ITEM_20150317_000145
-ITEM_20150317_000146
-ITEM_20150317_000147
-ITEM_20150317_000148
-ITEM_20150317_000149
-ITEM_20150317_000150
+ITEM_20150317_000096	$Espada Dio
+ITEM_20150317_000097	$Espada Thresh
+ITEM_20150317_000098	$Espada Sestas 
+ITEM_20150317_000099	$Espada Dratt 
+ITEM_20150317_000100	$Espada Aston 
+ITEM_20150317_000101	{memo X}$Espada Devi 
+ITEM_20150317_000102	{memo X}$Espada Prima 
+ITEM_20150317_000103	$Espada Trindade 
+ITEM_20150317_000104	$Se você está insatisfeito com um tipo de Alfanje, essa é uma alternativa. Porém você irá arcar com o custo extra para sua forja.
+ITEM_20150317_000105	$Durandal 
+ITEM_20150317_000106	$Muitos aventureiros nomearam sua melhor espada baseados nessa arma. Esse era o nome da espada manejada por um guerreiro antigo escolhido por uma Deusa.
+ITEM_20150317_000107	$Velniup 
+ITEM_20150317_000108	$Pessoas chegam ao ponto de dizer que essa arma é excessivamente cruel. 
+ITEM_20150317_000109	$Fortis 
+ITEM_20150317_000110	{memo X}$Apesar de ser impopular durante o Grande Cataclisma das Plants, o reaparecimento de monstros com armaduras fortes está provando seu valor.
+ITEM_20150317_000111	{memo X}$Cortadora Chaparição 
+ITEM_20150317_000112	$De acordo com uma teoria, essa espada tambem é usada em conflitos entre os Demônios.
+ITEM_20150317_000113	$Cortador de Tecelão da morte. 
+ITEM_20150317_000114	{memo X}$Quem empunha esta lamina se torna aquele traz a morte. 
+ITEM_20150317_000115	$Espada Chaparição 
+ITEM_20150317_000116	{memo X}$Isso serve como uma evidência indireta das disputas entre Demônios. 
+ITEM_20150317_000117	$Espada Bendras 
+ITEM_20150317_000118	$Uma espada carregando o poder da Deusa que destruiu muitos males no passado. 
+ITEM_20150317_000119	$Illizia 
+ITEM_20150317_000120	$Essa lâmina ameaça severamente tanto a vida de seu adversário quanto as finanças de seu dono. É claro, a maioria dos espadachins ignoram esse ultimo efeito.
+ITEM_20150317_000121	$Programado para deleção. 
+ITEM_20150317_000122	$Espada de duas mãos [Corte] 
+ITEM_20150317_000123	$Espada Bastarda Dunkel 
+ITEM_20150317_000124	$Alguns mestres artesões e soldados chamam esta espada de 'Espada de duas mãos de estilo misto.' Eles dizem isso para se justificarem.
+ITEM_20150317_000125	$Flamberge 
+ITEM_20150317_000126	$Se você é um expert em armas de duas mãos, esta lâmina com forma de onda pode causar um dano massivo. 
+ITEM_20150317_000127	$Nodachi 
+ITEM_20150317_000128	$Uma Nodachi com o comprimento 'na medida' pode amplificar seu poder de corte e dominar o espaço entre aquele que a segura e seu inimigo.
+ITEM_20150317_000129	$Claymore 
+ITEM_20150317_000130	$Todas as Claymores do reino são feitas com ênfase em peso e poder.. 
+ITEM_20150317_000131	$Colossus 
+ITEM_20150317_000132	$Esta incomum lâmina com forma de leque oferece o potencial para amplificar seu poder e versatilidade para ser adaptado em várias técnicas
+ITEM_20150317_000133	$Caliburn 
+ITEM_20150317_000134	$Frequentemente carregada por soldados de patente alta. 
+ITEM_20150317_000135	$Quaddara 
+ITEM_20150317_000136	$Ao contrário que aparenta, esta é uma espada de dois gumes, e é frequentemente usada por espadachins procurando praticidade.
+ITEM_20150317_000137	$Claymore Leve 
+ITEM_20150317_000138	$A estrutura dessa espada permite à seu usuário realizar uma estocada.
+ITEM_20150317_000139	{memo X}$Colossus Bruta
+ITEM_20150317_000140	$Ilwoon 
+ITEM_20150317_000141	$O Grande Ruklys carregou esta espada em sua juventude. 
+ITEM_20150317_000142	$Espada Bastarda de Treino 
+ITEM_20150317_000143	$Espada Bastarda
+ITEM_20150317_000144	{memo X}$Flamberge Pesada 
+ITEM_20150317_000145	{memo X}$Nodachi Pesada 
+ITEM_20150317_000146	{memo X}$Claymore Pesada
+ITEM_20150317_000147	$Nodachi Dunkel
+ITEM_20150317_000148	$Quaddara Dunkel 
+ITEM_20150317_000149	$Flamberge Dunkel 
+ITEM_20150317_000150	$Claymore Dunkel 
 ITEM_20150317_000151
 ITEM_20150317_000152
 ITEM_20150317_000153
