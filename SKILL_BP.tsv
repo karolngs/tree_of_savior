@@ -897,7 +897,8 @@ SKILL_20150317_000896	[Carta Mallet Wyvern] Impacto Mágico Neutro
 SKILL_20150317_000897	[Carta Moyabruka] Impacto Físico Neutro
 SKILL_20150317_000898	[Carta Colimencia] Impacto Físico de Água
 SKILL_20150317_000899	[Carta Rajapearl] Impacto Mágico de Água
-SKILL_20150317_000900	[Carta Mushwort] Magia de Propriedade VenenoSKILL_20150317_000901	[Carta Lepus] Perfuração Física de Água
+SKILL_20150317_000900	[Carta Mushwort] Magia de Propriedade Veneno
+SKILL_20150317_000901	[Carta Lepus] Perfuração Física de Água
 SKILL_20150317_000902	[Carta Sparnas] Magia Fisica Elétrica
 SKILL_20150317_000903	[Carta Cactusvel] Magia Física Venenosa
 SKILL_20150317_000904	[Throw] Impacto Físico Neutro
@@ -1197,7 +1198,6 @@ SKILL_20150317_001197	$Montar
 SKILL_20150317_001198	{memo X}Monta um espírito invocado.
 SKILL_20150317_001199	$Metamorfose
 SKILL_20150317_001200	$Acelerar
-SKILL_20150317_001200	
 SKILL_20150317_001201	{memo X}Aplica um buff que aumenta a velocidade de movimento de um aliado.
 SKILL_20150317_001202	$Reencarnar
 SKILL_20150317_001203	{memo X}Re-invoca o monstro que acabou de ser destruído.
