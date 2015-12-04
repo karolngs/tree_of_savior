@@ -1,0 +1,37 @@
+SKILL_20151102_005700 $Afligi atordoar numa chance de 2% por nível de atributo quando realizar um ataque básico em um inimigo com [Instrumento Contundente].
+SKILL_20151102_005701 $Inimigos recebem dano Sagrado igual ao [Nível de Atributo] quando utilizar [Energia Arcana].
+SKILL_20151102_005702 $Fator de Cura: Ataque
+SKILL_20151102_005703
+SKILL_20151102_005704 $Incineração: Aprimorar
+SKILL_20151102_005705 $Aumenta o dano causado a um inimigo com [Incineração] em 1% por nível de atributo.
+SKILL_20151102_005706 $Sangria: Hemostasia
+SKILL_20151102_005707 $Aumenta o tempo de ciclo do custo de #pending HP em 0.2 segundos por nível de atributo enquanto [Sangria] estiver ativo.
+SKILL_20151102_005708 $Sangria: Substituto #pending SP
+SKILL_20151102_005709 $Enquanto [Sangria] estiver ativo, cada ciclo tem 10% de chance por nível de atributo de reduzir #pending SP invés de #pending HP.
+SKILL_20151102_005710 $Aumenta a chance de [Fumegar] bloquear estados anormais de nivel 3 ou menor por 10 segundos em 5% por nível de atributo.
+SKILL_20151102_005711 $A área em que [Fumegar] é aplicada ganha efeito de purificação por 10 segundos. Aliados dentro dessa área, ganham 10% de resistêcia contra propriedades Venenosas.
+SKILL_20151102_005712 $Mascara Bico de Passaro: Imunidade
+SKILL_20151102_005713 $Aumenta a chance de bloquear estados anormais de nível 3 em 5% por nível de atributo, porem aumenta o custo #pending SP enquanto usar a [Mascara Bico de Passaro].
+SKILL_20151102_005714 $Mascara Bico de Pássaro: Resistencia a Veneno
+SKILL_20151102_005715 $Aumenta a resistência a Veneno em 5 por nível de atributo enquanto usar a [Mascara Bico de Pássaro].
+SKILL_20151102_005716 $Vingança Séptupla: Duração
+SKILL_20151102_005717 $Aumenta a duração dos efeitos de [Vingança Séptupla] por 1 segundo por nível de atributo.
+SKILL_20151102_005718 $Vingança Séptupla: Maldição
+SKILL_20151102_005719 $Afligi [Maldição] numa chance de 10% por 4 segundos em um inimigo quando causar dano com  [Vingança Séptupla].
+SKILL_20151102_005720 $Nachash: Aprimorar
+SKILL_20151102_005721 $Aumenta o dano causado a um inimigo com [Nachash] em 1% por nível de atributo.
+SKILL_20151102_005722 $Nachash: Resistência
+SKILL_20151102_005723
+SKILL_20151102_005724 $Nachash: Estado Anormal
+SKILL_20151102_005725 $Aumenta a chance de afligir petrificação ou maldição em um inimigo quando causar dano com [Nachash] em 1%.
+SKILL_20151102_005726 $Ein Sof: Conservar Tempo
+SKILL_20151102_005727
+SKILL_20151102_005728 $Ein Sof: Geração Adicional
+SKILL_20151102_005729
+SKILL_20151102_005730 $Merkaba: Aprimorar
+SKILL_20151102_005731 $Aumenta o dano causado a um inimigo com [Merkaba] em 1% por nível de atributo.
+SKILL_20151102_005732 $Merkaba: Petrificação
+SKILL_20151102_005733
+SKILL_20151102_005734 $Ein Sof: Recupera SP
+SKILL_20151102_005735 
+SKILL_20151102_005736 $$Ein Sof nível 3 requerido.
