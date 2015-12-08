@@ -5666,12 +5666,12 @@ SKILL_20151102_005666 $Ngadhundi: Aprimorar
 SKILL_20151102_005667 $Aumenta o dano causado a um inimigo com [Ngadhundi] em 1% por nível de atributo.
 SKILL_20151102_005668 $Kurdaitcha: Aprimorar
 SKILL_20151102_005669
-SKILL_20151102_005670 $Levitação: Anular Dano Físico
+SKILL_20151102_005670 $Levitação: Anula Dano Físico
 SKILL_20151102_005671 $Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1.5% por nível de atributo.
-SKILL_20151102_005672 $Pés Leves: Aumentar Recuperação
+SKILL_20151102_005672 $Pés Leves: Aumento da Recuperação
 SKILL_20151102_005673 $Aumenta a recuperação de #pending HP and #pending SP de habilidade e poções em 0.5% por nível de atributo.
 SKILL_20151102_005674 $Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [arco de duas mãos].
-SKILL_20151102_005675 $Ignora 5%,por nível de atributo, da defesa do alvo quando atacar com [arcos de uma mão].
+SKILL_20151102_005675 $Ignora 5%, por nível de atributo, da defesa do alvo quando atacar com [arcos de uma mão].
 SKILL_20151102_005676 $Maestria com Escudos: Defesa de Projeteis
 SKILL_20151102_005677 $Aumenta a chance de bloquear [Projeteis] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
 SKILL_20151102_005678 $Aumenta sua precisão por 5% por nível de atributo enquanto estiver equipado com Pistolas.
@@ -5681,7 +5681,7 @@ SKILL_20151102_005681 $Cerco Explosivo: Alcance Aumentado
 SKILL_20151102_005682 $Determina um local mais distante quando usar [Cerco Explosivo]. Quanto maior o atributo maior seu alcance.
 SKILL_20151102_005683 $Disparo de Canhão: Romper Armadura
 SKILL_20151102_005684 $Inimigos atingidos por [Disparo de Canhão] tem 7% de chance por nível de atributo de ser infligido por [Romper Armadura] por 10 segundos.
-SKILL_20151102_005685 $0.5% chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
+SKILL_20151102_005685 $0.5% de chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
 SKILL_20151102_005686 $Fogo de Cobertura: Aprimorar
 SKILL_20151102_005687 $Aumenta o dano causado a um inimigo com [Fogo de Cobertura] em 1% por nível de atributo.
 SKILL_20151102_005688 $Tiro na Cabeça: Aprimorar
