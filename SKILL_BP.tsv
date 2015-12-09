@@ -5598,11 +5598,11 @@ SKILL_20151102_005598
 SKILL_20151102_005599
 SKILL_20151102_005600 $Seu personagem vai se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
 SKILL_20151102_005601 $Bunshin no Jutsu: Resistência
-SKILL_20151102_005602 $Aumenta o tempo do ciclo para o custo da STA em 0.5 segundos por nível de atributo.
+SKILL_20151102_005602 $Aumenta o tempo do ciclo para o custo da STA em 0,5 segundos por nível de atributo.
 SKILL_20151102_005603 $Mokuton no Jutsu: Vincular
 SKILL_20151102_005604 $Restringe o movimento de um inimigo por 4 segundos quando tomar dano com [Mokuton no Jutsu]. Aumenta a duração do Nível 2 em 1 segundo por nível de atributo.
 SKILL_20151102_005605 $Bunshin no Jutsu: Diminuir Dano
-SKILL_20151102_005606 $Diminuí o dano dos clones sombrios do [Bunshin no Jutsu].
+SKILL_20151102_005606 $Diminui o dano dos clones sombrios do [Bunshin no Jutsu].
 SKILL_20151102_005607 $Dente do Dragão: Aprimorar
 SKILL_20151102_005608 $Aumenta o dano causado a um inimigo com [Dente do Dragão] em 1% por nível de atributo.
 SKILL_20151102_005609 $Dente do Dragão: Evasão
@@ -5610,7 +5610,7 @@ SKILL_20151102_005610 $Aumenta a evasão em 10% por nível de atributo por 7 seg
 SKILL_20151102_005611 $Serpentina: Aprimorar
 SKILL_20151102_005612 $Aumenta o dano causado a um inimigo com [Serpentina] em 1% por nível de atributo.
 SKILL_20151102_005613 $Serpentina: Sangrar
-SKILL_20151102_005614 $Inimigos atingidos por [Serpentina] tem 2% de chance por nível de atributo de serem infligidos com [Sangramento] por 8 segundos. Dano de Sangramento e Proporcional ao ataque físico do atacante.
+SKILL_20151102_005614 $Inimigos atingidos por [Serpentina] tem 2% de chance por nível de atributo de serem infligidos com [Sangramento] por 8 segundos. Dano de Sangramento é proporcional ao ataque físico do atacante.
 SKILL_20151102_005615 $Gae Bulg: Aprimorar
 SKILL_20151102_005616 $Aumenta o dano causado a um inimigo com [Gae Bulg] em 1% por nível de atributo.
 SKILL_20151102_005617 
@@ -5628,18 +5628,18 @@ SKILL_20151102_005628 $Causa 10%, por nível de atributo, de dano adicional da p
 SKILL_20151102_005629 $Sanção Conjunta: Terra
 SKILL_20151102_005630 $Causa 10%, por nível de atributo, de dano adicional da propriedade Terra a inimigos afetados por [Sanção Conjunta].
 SKILL_20151102_005631 $Sanção Conjunta: Aumentar Anulação
-SKILL_20151102_005632 $Diminuí a chance de anulação de ataques de inimigos afetados por [Sanção Conjunta] em 5% por nível de atributo.
+SKILL_20151102_005632 $Diminui a chance de anulação de ataques de inimigos afetados por [Sanção Conjunta] em 5% por nível de atributo.
 SKILL_20151102_005633 $Bruxo: Ataque da Escuridão
 SKILL_20151102_005634 $Aumenta o dano da propriedade Escuridão em inimigos em 1% por nível de atributo.
 SKILL_20151102_005635 $Haste da Agonia: Aprimorar
 SKILL_20151102_005636 $Aumenta o dano causado a um inimigo com [Haste da Agonia] em 1% por nível de atributo.
 SKILL_20151102_005637 $Haste da Agonia: Duração
-SKILL_20151102_005638 $Aumenta o tempo de duração da [Haste da Agonia] em um inimigo em 0.8 segundos por nível de atributo.
+SKILL_20151102_005638 $Aumenta o tempo de duração da [Haste da Agonia] em um inimigo em 0,8 segundos por nível de atributo.
 SKILL_20151102_005639 $Invocação: Aprimorar
 SKILL_20151102_005640 $Aumenta o dano causado a um inimigo com [Invocação] em 1% por nível de atributo.
-SKILL_20151102_005641 $Aumenta ataques da propriedade Escuridão em 5%,por nível de atributo, dos aliados proximos do espírito maligno da [Invocação]. O invocador do espírito maligno recebe o efeito dobrado.
+SKILL_20151102_005641 Aumenta dano de ataques da propriedade Escuridão dos aliados próximos do espírito maligno da [Invocação] em 5% por nível de atributo. O invocador do espírito maligno recebe o efeito dobrado.
 SKILL_20151102_005642 $Pulso Tenebroso: Criar Espírito Maligno
-SKILL_20151102_005643 $[Pulso Tenebroso] possui 0.4% de chance por nível de atributo de criar um espírito maligno na posição do inimigo.
+SKILL_20151102_005643 $[Pulso Tenebroso] possui 0,4% de chance por nível de atributo de criar um espírito maligno na posição do inimigo.
 SKILL_20151102_005644 $Pulso Tenebroso: Aprimorar
 SKILL_20151102_005645 $Aumenta o dano causado a um inimigo com [Pulso Tenebroso] em 1% por nível de atributo.
 SKILL_20151102_005646 $Pulso Tenebroso: Cegueira
@@ -5667,12 +5667,12 @@ SKILL_20151102_005667 $Aumenta o dano causado a um inimigo com [Ngadhundi] em 1%
 SKILL_20151102_005668 $Kurdaitcha: Aprimorar
 SKILL_20151102_005669
 SKILL_20151102_005670 $Levitação: Anula Dano Físico
-SKILL_20151102_005671 $Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1.5% por nível de atributo.
+SKILL_20151102_005671 $Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1,5% por nível de atributo.
 SKILL_20151102_005672 $Pés Leves: Aumentar Recuperação
-SKILL_20151102_005673 $Aumenta a recuperação de #pending HP and #pending SP de habilidade e poções em 0.5% por nível de atributo.
-SKILL_20151102_005674 $Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [arco de duas mãos].
-SKILL_20151102_005675 $Ignora 5% por nível de atributo da defesa do alvo quando atacar com [arcos de uma mão].
-SKILL_20151102_005676 $Maestria com Escudos: Defesa de Projeteis
+SKILL_20151102_005673 $Aumenta a recuperação de #pending HP é #pending SP de habilidades e poções em 0,5% por nível de atributo.
+SKILL_20151102_005674 $Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [Arco de Duas Mãos].
+SKILL_20151102_005675 $Ignora 5% da defesa do alvo por nível de atributo quando atacar com um [Arco de Uma Mão].
+SKILL_20151102_005676 $Maestria com Escudos: Defesa de Projéteis
 SKILL_20151102_005677 $Aumenta a chance de bloquear [Projeteis] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
 SKILL_20151102_005678 $Aumenta sua precisão por 5% por nível de atributo enquanto estiver equipado com Pistolas.
 SKILL_20151102_005679 $Abater: Cair
@@ -5681,7 +5681,7 @@ SKILL_20151102_005681 $Cerco Explosivo: Alcance Aumentado
 SKILL_20151102_005682 $Determina um local mais distante quando usar [Cerco Explosivo]. Quanto maior o atributo maior seu alcance.
 SKILL_20151102_005683 $Disparo de Canhão: Romper Armadura
 SKILL_20151102_005684 $Inimigos atingidos por [Disparo de Canhão] tem 7% de chance por nível de atributo de ser infligido por [Romper Armadura] por 10 segundos.
-SKILL_20151102_005685 $0.5% de chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
+SKILL_20151102_005685 $0,5% de chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
 SKILL_20151102_005686 $Fogo de Cobertura: Aprimorar
 SKILL_20151102_005687 $Aumenta o dano causado a um inimigo com [Fogo de Cobertura] em 1% por nível de atributo.
 SKILL_20151102_005688 $Tiro na Cabeça: Aprimorar
@@ -5695,7 +5695,7 @@ SKILL_20151102_005695 $Aumenta o dano causado a um inimigo com [Coronhada] em 1%
 SKILL_20151102_005696 $Investida de Baioneta: Aprimorar
 SKILL_20151102_005697 $Aumenta o dano causado a um inimigo com [Investida de Baioneta] em 1% por nível de atributo.
 SKILL_20151102_005698 $Coronhada: Atordoar
-SKILL_20151102_005699 $Inflige atordoar numa chance de 1.5% por nível de atributo por 3 segundos em inimigos atingidos por [Coronhada].
+SKILL_20151102_005699 $Inflige atordoar numa chance de 1,5% por nível de atributo por 3 segundos em inimigos atingidos por [Coronhada].
 SKILL_20151102_005700 $Inflige atordoar numa chance de 2% por nível de atributo quando realizar um ataque básico em um inimigo com [Instrumento Contundente].
 SKILL_20151102_005701 $Inimigos recebem dano Sagrado igual ao [Nível de Atributo] quando utilizar [Energia Arcana].
 SKILL_20151102_005702 $Fator de Cura: Ataque
