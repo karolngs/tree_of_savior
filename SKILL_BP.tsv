@@ -5669,11 +5669,11 @@ SKILL_20151102_005669
 SKILL_20151102_005670 $Levitação: Anula Dano Físico
 SKILL_20151102_005671 $Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1,5% por nível de atributo.
 SKILL_20151102_005672 $Pés Leves: Aumentar Recuperação
-SKILL_20151102_005673 $Aumenta a recuperação de #pending HP é #pending SP de habilidades e poções em 0,5% por nível de atributo.
+SKILL_20151102_005673 $Aumenta a recuperação de #pending HP é #pending SP por meio de habilidades e poções em 0,5% por nível de atributo.
 SKILL_20151102_005674 $Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [Arco de Duas Mãos].
 SKILL_20151102_005675 $Ignora 5% da defesa do alvo por nível de atributo quando atacar com um [Arco de Uma Mão].
 SKILL_20151102_005676 $Maestria com Escudos: Defesa de Projéteis
-SKILL_20151102_005677 $Aumenta a chance de bloquear [Projeteis] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
+SKILL_20151102_005677 $Aumenta a chance de bloquear um [Projétil] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
 SKILL_20151102_005678 $Aumenta sua precisão por 5% por nível de atributo enquanto estiver equipado com Pistolas.
 SKILL_20151102_005679 $Abater: Cair
 SKILL_20151102_005680 $Monstros voadores atingidos por [Abater] irão cair no chão por 3 segundos por nível de atributo.
