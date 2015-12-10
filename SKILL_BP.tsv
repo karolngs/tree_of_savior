@@ -5496,106 +5496,106 @@ SKILL_20151022_005496
 SKILL_20151022_005497
 SKILL_20151022_005498
 SKILL_20151022_005499
-SKILL_20151022_005500
-SKILL_20151022_005501
-SKILL_20151022_005502
-SKILL_20151022_005503
-SKILL_20151022_005504
-SKILL_20151022_005505
-SKILL_20151022_005506
-SKILL_20151102_005507
-SKILL_20151102_005508
-SKILL_20151102_005509
-SKILL_20151102_005510
-SKILL_20151102_005511
-SKILL_20151102_005512
-SKILL_20151102_005513
-SKILL_20151102_005514
-SKILL_20151102_005515
-SKILL_20151102_005516
-SKILL_20151102_005517
-SKILL_20151102_005518
-SKILL_20151102_005519
-SKILL_20151102_005520
-SKILL_20151102_005521
-SKILL_20151102_005522
-SKILL_20151102_005523
-SKILL_20151102_005524
-SKILL_20151102_005525
-SKILL_20151102_005526
-SKILL_20151102_005527
-SKILL_20151102_005528
-SKILL_20151102_005529
-SKILL_20151102_005530
-SKILL_20151102_005531
-SKILL_20151102_005532
-SKILL_20151102_005533
-SKILL_20151102_005534
-SKILL_20151102_005535
-SKILL_20151102_005536
-SKILL_20151102_005537
-SKILL_20151102_005538
-SKILL_20151102_005539
-SKILL_20151102_005540
-SKILL_20151102_005541
-SKILL_20151102_005542
-SKILL_20151102_005543
-SKILL_20151102_005544
-SKILL_20151102_005545
-SKILL_20151102_005546
-SKILL_20151102_005547
-SKILL_20151102_005548
-SKILL_20151102_005549
-SKILL_20151102_005550
-SKILL_20151102_005551
-SKILL_20151102_005552
-SKILL_20151102_005553
-SKILL_20151102_005554
-SKILL_20151102_005555
-SKILL_20151102_005556
-SKILL_20151102_005557
-SKILL_20151102_005558
-SKILL_20151102_005559
-SKILL_20151102_005560
-SKILL_20151102_005561
-SKILL_20151102_005562
-SKILL_20151102_005563
-SKILL_20151102_005564
-SKILL_20151102_005565
-SKILL_20151102_005566
-SKILL_20151102_005567
-SKILL_20151102_005568
-SKILL_20151102_005569
-SKILL_20151102_005570
-SKILL_20151102_005571
-SKILL_20151102_005572
-SKILL_20151102_005573
-SKILL_20151102_005574
-SKILL_20151102_005575
-SKILL_20151102_005576
-SKILL_20151102_005577
-SKILL_20151102_005578
-SKILL_20151102_005579
-SKILL_20151102_005580
-SKILL_20151102_005581
-SKILL_20151102_005582
-SKILL_20151102_005583
-SKILL_20151102_005584
-SKILL_20151102_005585
-SKILL_20151102_005586
-SKILL_20151102_005587
-SKILL_20151102_005588
-SKILL_20151102_005589
+SKILL_20151022_005500 Energia Arcana: Duração
+SKILL_20151022_005501 Aumenta a duração de [Energia Arcana] em 1 minuto por nível de atributo.
+SKILL_20151022_005502 Sentença de Morte: Lentidão
+SKILL_20151022_005503 Diminui a velocidade de movimento do inimigo afetado por [Sentença de Morte] em 15% por nível de atributo.
+SKILL_20151022_005504 Requer Bandeira Pirata nível 2
+SKILL_20151022_005505 Requer Resistir Elementos nível 3
+SKILL_20151022_005506 Requer Invocar Serviçal nível 3
+SKILL_20151102_005507 Ataque um inimigo distante
+SKILL_20151102_005508 Banho de Sangue
+SKILL_20151102_005509 Sugar Sangue
+SKILL_20151102_005510 Punhal Ósseo
+SKILL_20151102_005511 Ngadhundi
+SKILL_20151102_005512 Kurdaitcha
+SKILL_20151102_005513 Haste da Agonia
+SKILL_20151102_005514 Invocação
+SKILL_20151102_005515 Mastema
+SKILL_20151102_005516 {#DD5500}{ol}[Projétil]{/}{/}{nl}Rapidamente dispara um numero de flechas em uma área designada.
+SKILL_20151102_005517 {#DD5500}{ol}[Projétil]{/}{/}{nl}Puxa a corda do arco e dispara um tiro penetrante preciso, inimigos atingidos ficam presos no chão.
+SKILL_20151102_005518 Ajoelhe para aumentar a concentração. Aumenta o dano, velocidade e alcance.
+SKILL_20151102_005519 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha que quica no alvo primário e atinge um alvo adjacente.
+SKILL_20151102_005520 {#DD5500}{ol}[Projétil]{/}{/}{nl}Demonstra sua força disparando um tiro que empurra seus inimigos.
+SKILL_20151102_005521 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara dois tiros de uma vez só em um inimigo.
+SKILL_20151102_005522 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara 5 flechas em formato de arco na sua frente.
+SKILL_20151102_005523 {#DD5500}{ol}[Projétil]{/}{/}{nl}Mira com a ponta da flecha - e transpassa os inimigos a sua frente.
+SKILL_20151102_005524 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com grandes chances de acerto crítico no alvo.
+SKILL_20151102_005525 Aumenta o dano de habilidades com [Projétil], enquanto diminui a velocidade de ataque.
+SKILL_20151102_005526 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha com uma bomba atrelada. Apos um tempo, ao acertar um alvo, a bomba explode causando dano extra.
+SKILL_20151102_005527 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que se separa ao atingir um alvo e atinge alvos adjacentes.
+SKILL_20151102_005528 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha em espiral causando múltiplos acertos no alvo.
+SKILL_20151102_005529 {#DD5500}{ol}[Projétil]{/}{/}{nl}Pula para trás enquanto dispara múltiplas flechas.
+SKILL_20151102_005530 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma bala de pedra que empurra o alvo. O alvo tem chance de ser atordoado.
+SKILL_20151102_005531 {#DD5500}{ol}[Projétil]{/}{/}{nl}Carrega múltiplos virotes em sua besta e então os dispara em rápida sucessão a um inimigo.
+SKILL_20151102_005532 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Sopra uma flecha toxica que inflige dano sobre o tempo durante um longo período.
+SKILL_20151102_005533 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Dispara uma flecha com veneno contagiante. Sempre que o alvo for atacado ele espalhara veneno aos inimigos próximos.
+SKILL_20151102_005534 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha barulhenta. Inimigos próximos ao alvo são infligidos com Medo.
+SKILL_20151102_005535 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um sinalizador na área designada, ao atingir o chão o sinalizador explode em faíscas que causam dano aos inimigos próximos.
+SKILL_20151102_005536 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo quica e atinge dois inimigos mais próximos.
+SKILL_20151102_005537 {#DD5500}{ol}[Projétil]{/}{/}{nl}Se o alvo morrer com este ataque ele explode. Membros do grupo ganham força por um período de tempo.
+SKILL_20151102_005538 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com ponteira grande e larga. Inimigos atingidos sao infligidos com estado Sangramento.
+SKILL_20151102_005539 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha perfuradora em um inimigo. Abaixa a defesa de inimigos atingidos e anula qualquer magia protetiva.
+SKILL_20151102_005540 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha farpada. O numero de acertos depende do tipo de defesa do alvo.
+SKILL_20151102_005541 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir um inimigo cria um explosão em forma de cruz.
+SKILL_20151102_005542 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo cria labaredas que causam dano os inimigos.
+SKILL_20151102_005543 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com explosivos. Apos um tempo, ao acertar um alvo, o explosivo se ativa causando dano colateral.
+SKILL_20151102_005544 {#DD5500}{ol}[Projétil]{/}{/}{nl}Focaliza múltiplos tiros contra um inimigo.
+SKILL_20151102_005545 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara e é empurrado para trás com o coice.
+SKILL_20151102_005546 {#DD5500}{ol}[Projétil]{/}{/}{nl}Manobra rapidamente com sua montaria e ataca inimigos pela frente.
+SKILL_20151102_005547 {#DD5500}{ol}[Projétil]{/}{/}{nl}Atira na direção oposta enquanto se movimenta.
+SKILL_20151102_005548 Fogo de Cobertura
+SKILL_20151102_005549 Tiro na Cabeça
+SKILL_20151102_005550 Disparo
+SKILL_20151102_005551 Tiro Penetrante
+SKILL_20151102_005552 Coronhada
+SKILL_20151102_005553 Investida de Baioneta
+SKILL_20151102_005554 Troca de Gênero
+SKILL_20151102_005555 Pandemia
+SKILL_20151102_005556 Vingança Séptupla
+SKILL_20151102_005557 Nachash
+SKILL_20151102_005558 Ein Sof
+SKILL_20151102_005559 Merkaba
+SKILL_20151102_005560 Gematria
+SKILL_20151102_005561 Notarikon
+SKILL_20151102_005562 Chance Dupla
+SKILL_20151102_005563 Reduzir Nível
+SKILL_20151102_005564 Furtivo
+SKILL_20151102_005565 Diminuiu velocidade de movimento.
+SKILL_20151102_005566 Estigma.
+SKILL_20151102_005567 Invocação.
+SKILL_20151102_005568 Invocação: Entregar
+SKILL_20151102_005569 Aumentado ataques da propriedade Escuridão.
+SKILL_20151102_005570 Aumentado #pending HP máximo.
+SKILL_20151102_005571 Reflete um ataque inimigo.
+SKILL_20151102_005572 Fumegar: Purificação
+SKILL_20151102_005573 Aumentado resistência a propriedade Veneno.
+SKILL_20151102_005574 Fumegar: Prevenção
+SKILL_20151102_005575 Aumentado chance de resistência de estados anormais de nível 3.
+SKILL_20151102_005576 Diminuiu Defesa Física.
+SKILL_20151102_005577 Diminuiu defesa física.
+SKILL_20151102_005578 Diminuiu Defesa Mágica.
+SKILL_20151102_005579 Diminuiu defesa mágica.
+SKILL_20151102_005580 Diminuiu Ataque Físico.
+SKILL_20151102_005581 Diminuiu ataque físico.
+SKILL_20151102_005582 Diminuiu Ataque Mágico.
+SKILL_20151102_005583 Diminuiu ataque mágico.
+SKILL_20151102_005584 Diminuiu velocidade de movimento.
+SKILL_20151102_005585 Gae Bulg: Zona de Ataque
+SKILL_20151102_005586 Aumentado ataque físico e ataque mágico
+SKILL_20151102_005587 Gae Bulg: Zona de Defesa
+SKILL_20151102_005588 Aumentada defesa física e defesa mágica
+SKILL_20151102_005589 Aumenta penetração de bloqueio em 10% por nível de atributo quando atacar um inimigo com uma [Lança de Duas Mãos].
 SKILL_20151102_005590
-SKILL_20151102_005591
-SKILL_20151102_005592
-SKILL_20151102_005593
-SKILL_20151102_005594
-SKILL_20151102_005595
-SKILL_20151102_005596
-SKILL_20151102_005597
-SKILL_20151102_005598
-SKILL_20151102_005599
+SKILL_20151102_005591 Kunai: Aprimorar
+SKILL_20151102_005592 Aumenta o dano causado a um inimigo com [Kunai] em 1% por nível de atributo.
+SKILL_20151102_005593 Katon no Jutsu: Aprimorar
+SKILL_20151102_005594 Aumenta o dano causado a um inimigo com [Katon no Jutsu] em 1% por nível de atributo.
+SKILL_20151102_005595 Mijin no Jutsu: Aprimorar
+SKILL_20151102_005596 Aumenta o dano causado a um inimigo com [Mijin no Jutsu] em 1% por nível de atributo.
+SKILL_20151102_005597 Mijin no Jutsu: Furtivo
+SKILL_20151102_005598 Seu personagem vai se esconder por 5 segundos apos usar [Mijin no Jutsu]. Aumenta a duração no nível 2 em 1.5 segundos por nível de atributo.
+SKILL_20151102_005599 Katon no Jutsu: Furtivo
 SKILL_20151102_005600 $Seu personagem vai se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
 SKILL_20151102_005601 $Bunshin no Jutsu: Resistência
 SKILL_20151102_005602 $Aumenta o tempo do ciclo para o custo da STA em 0,5 segundos por nível de atributo.
