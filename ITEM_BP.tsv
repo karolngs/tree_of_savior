@@ -6,7 +6,7 @@ ITEM_20150317_000005 	$Braçadeira
 ITEM_20150317_000006 	$Braçadeira Laçada
 ITEM_20150317_000007	$Braçadeira Longa
 ITEM_20150317_000008	$Braçadeira de Penas
-ITEM_20150317_000009  
+ITEM_20150317_000009 	$Braçadeira Franjada
 ITEM_20150317_000010 	$Arma_Vazia
 ITEM_20150317_000011	$Gladius Bruta
 ITEM_20150317_000012	$Espada de Uma Mão [Corte]
@@ -93,61 +93,61 @@ ITEM_20150317_000092	{memo X}$ - 2% de chance de causar +600% de dano.
 ITEM_20150317_000093	{memo X}$Esta espada frequentemente brilha com o talento e habilidade de seu criador.
 ITEM_20150317_000094	$Espada Klavis
 ITEM_20150317_000095	$Apesar de sua qualidade, ela pode ser vendida por um bom preço. 
-ITEM_20150317_000096
-ITEM_20150317_000097
-ITEM_20150317_000098
-ITEM_20150317_000099
-ITEM_20150317_000100
-ITEM_20150317_000101
-ITEM_20150317_000102
-ITEM_20150317_000103
-ITEM_20150317_000104
-ITEM_20150317_000105
-ITEM_20150317_000106
-ITEM_20150317_000107
-ITEM_20150317_000108
-ITEM_20150317_000109
-ITEM_20150317_000110
-ITEM_20150317_000111
-ITEM_20150317_000112
-ITEM_20150317_000113
-ITEM_20150317_000114
-ITEM_20150317_000115
-ITEM_20150317_000116
-ITEM_20150317_000117
-ITEM_20150317_000118
-ITEM_20150317_000119
-ITEM_20150317_000120
-ITEM_20150317_000121
-ITEM_20150317_000122
-ITEM_20150317_000123
-ITEM_20150317_000124
-ITEM_20150317_000125
-ITEM_20150317_000126
-ITEM_20150317_000127
-ITEM_20150317_000128
-ITEM_20150317_000129
-ITEM_20150317_000130
-ITEM_20150317_000131
-ITEM_20150317_000132
-ITEM_20150317_000133
-ITEM_20150317_000134
-ITEM_20150317_000135
-ITEM_20150317_000136
-ITEM_20150317_000137
-ITEM_20150317_000138
-ITEM_20150317_000139
-ITEM_20150317_000140
-ITEM_20150317_000141
-ITEM_20150317_000142
-ITEM_20150317_000143
-ITEM_20150317_000144
-ITEM_20150317_000145
-ITEM_20150317_000146
-ITEM_20150317_000147
-ITEM_20150317_000148
-ITEM_20150317_000149
-ITEM_20150317_000150
+ITEM_20150317_000096	$Espada Dio
+ITEM_20150317_000097	$Espada Thresh
+ITEM_20150317_000098	$Espada Sestas 
+ITEM_20150317_000099	$Espada Dratt 
+ITEM_20150317_000100	$Espada Aston 
+ITEM_20150317_000101	{memo X}$Espada Devi 
+ITEM_20150317_000102	{memo X}$Espada Prima 
+ITEM_20150317_000103	$Espada Trindade 
+ITEM_20150317_000104	$Se você está insatisfeito com um tipo de Alfanje, essa é uma alternativa. Porém você irá arcar com o custo extra para sua criação.
+ITEM_20150317_000105	$Durandal 
+ITEM_20150317_000106	$Muitos aventureiros nomearam sua melhor espada baseados nessa arma. Esse era o nome da espada manejada por um guerreiro antigo escolhido por uma Deusa.
+ITEM_20150317_000107	$Velniup 
+ITEM_20150317_000108	$Pessoas chegam ao ponto de dizer que essa arma é excessivamente cruel. 
+ITEM_20150317_000109	$Fortis 
+ITEM_20150317_000110	{memo X}$Apesar de ser impopular durante o Grande Cataclisma das Plantas, o reaparecimento de monstros com armaduras fortes está provando seu valor.
+ITEM_20150317_000111	{memo X}$Talhadeira da Chaparição 
+ITEM_20150317_000112	$De acordo com uma teoria, essa espada também é usada em conflitos entre os Demônios.
+ITEM_20150317_000113	$Talhadeira da Tecelã da Morte. 
+ITEM_20150317_000114	{memo X}$Quem empunha esta lâmina se torna aquele traz a morte. 
+ITEM_20150317_000115	$Espada da Chaparição 
+ITEM_20150317_000116	{memo X}$Isso serve como uma evidência indireta das disputas entre Demônios. 
+ITEM_20150317_000117	$Espada Bendras 
+ITEM_20150317_000118	$Uma espada carregando o poder da Deusa que destruiu muitos males no passado. 
+ITEM_20150317_000119	$Illizia 
+ITEM_20150317_000120	$Essa lâmina ameaça severamente tanto a vida de seu adversário quanto as finanças de seu dono. É claro, a maioria dos espadachins ignora esse último efeito.
+ITEM_20150317_000121	$Programado para deleção. 
+ITEM_20150317_000122	$Espada de Duas Mãos [Corte] 
+ITEM_20150317_000123	$Espada Bastarda Dunkel 
+ITEM_20150317_000124	$Alguns mestres artesãos e soldados chamam esta espada de 'Espada de duas mãos de estilo misto.' Eles dizem isso para se justificarem.
+ITEM_20150317_000125	$Flamberge 
+ITEM_20150317_000126	$Se você é um expert em armas de duas mãos, esta lâmina com forma de onda pode causar um dano massivo. 
+ITEM_20150317_000127	$Nodachi 
+ITEM_20150317_000128	$Uma Nodachi com o comprimento 'na medida' pode amplificar seu poder de corte e dominar o espaço entre aquele que a empunha e seu inimigo.
+ITEM_20150317_000129	$Claymore 
+ITEM_20150317_000130	$Todas as Claymores do reino são feitas com ênfase em peso e poder. 
+ITEM_20150317_000131	$Colossus 
+ITEM_20150317_000132	$A lâmina incomum em forma de leque oferece o potencial de amplificar seu poder e versatilidade para ser adaptada em várias técnicas.
+ITEM_20150317_000133	$Caliburn 
+ITEM_20150317_000134	$Frequentemente carregada por soldados de patente alta. 
+ITEM_20150317_000135	$Quaddara 
+ITEM_20150317_000136	$Ao contrário do que aparenta, esta é uma espada de dois gumes e é frequentemente usada por espadachins procurando praticidade.
+ITEM_20150317_000137	$Claymore Leve 
+ITEM_20150317_000138	$A estrutura dessa espada permite à seu usuário realizar uma estocada.
+ITEM_20150317_000139	{memo X}$Colossus Bruta
+ITEM_20150317_000140	$Ilwoon 
+ITEM_20150317_000141	$O Grande Ruklys carregou esta espada em sua juventude. 
+ITEM_20150317_000142	$Espada Bastarda de Treino 
+ITEM_20150317_000143	$Espada Bastarda
+ITEM_20150317_000144	{memo X}$Flamberge Pesada 
+ITEM_20150317_000145	{memo X}$Nodachi Pesada 
+ITEM_20150317_000146	{memo X}$Claymore Pesada
+ITEM_20150317_000147	$Nodachi Dunkel
+ITEM_20150317_000148	$Quaddara Dunkel 
+ITEM_20150317_000149	$Flamberge Dunkel 
+ITEM_20150317_000150	$Claymore Dunkel 
 ITEM_20150317_000151
 ITEM_20150317_000152
 ITEM_20150317_000153
@@ -8472,54 +8472,54 @@ ITEM_20151102_008471
 ITEM_20151102_008472
 ITEM_20151102_008473
 ITEM_20151102_008474
-ITEM_20151102_008475
-ITEM_20151102_008476
-ITEM_20151102_008477
-ITEM_20151102_008478
-ITEM_20151102_008479
-ITEM_20151102_008480
-ITEM_20151102_008481
-ITEM_20151102_008482
-ITEM_20151102_008483
-ITEM_20151102_008484
-ITEM_20151102_008485
-ITEM_20151102_008486
-ITEM_20151102_008487
-ITEM_20151102_008488
-ITEM_20151102_008489
-ITEM_20151102_008490
-ITEM_20151102_008491
-ITEM_20151102_008492
-ITEM_20151102_008493
-ITEM_20151102_008494
-ITEM_20151102_008495
-ITEM_20151102_008496
-ITEM_20151102_008497
-ITEM_20151102_008498
-ITEM_20151102_008499
-ITEM_20151102_008500
-ITEM_20151102_008501
-ITEM_20151102_008502
-ITEM_20151102_008503
-ITEM_20151102_008504
-ITEM_20151102_008505
-ITEM_20151102_008506
-ITEM_20151102_008507
-ITEM_20151102_008508
-ITEM_20151102_008509
-ITEM_20151102_008510
-ITEM_20151102_008511
-ITEM_20151102_008512
-ITEM_20151102_008513
-ITEM_20151102_008514
-ITEM_20151102_008515
-ITEM_20151102_008516
-ITEM_20151102_008517
-ITEM_20151102_008518
-ITEM_20151102_008519
-ITEM_20151102_008520
-ITEM_20151102_008521
-ITEM_20151102_008522
-ITEM_20151102_008523
-ITEM_20151102_008524
-ITEM_20151102_008525
+ITEM_20151102_008475	Pele de Lepus Bunny Killer
+ITEM_20151102_008476	Pele de Green Lepus Bunny Killer. Aparenta ser igual a pele de Lepus Bunny normal, mas parece reter melhor o calor.
+ITEM_20151102_008477	Comida de Emergência de Siaulav Mago
+ITEM_20151102_008478	Comida de emergência carregada por Siaulav Magos para seus semelhantes, conhecida pela sua forma de preparo.
+ITEM_20151102_008479	Cogumelo Azul de Lafseif
+ITEM_20151102_008480	Madeira Seca
+ITEM_20151102_008481	Contador de Batalha
+ITEM_20151102_008482	Um item mágico usado para contar o número de inimigos que você derrotou. Usado durante os testes de Peltasta.
+ITEM_20151102_008483	Partes de Lança Quebrada de Hoplitas
+ITEM_20151102_008484	Pedaços de Armadura Quebrada de Hoplitas 
+ITEM_20151102_008485	Restos de armadura quebrada durante combate entre Hoplitas
+ITEM_20151102_008486	Um líquido medicinal especial para ser consumido por bárbaros durante o treinamento em sua cidade natal. Intencionalmente reduz a força de quem bebe. O efeito pode ser manualmente desabilitado.
+ITEM_20151102_008487	Disco de Metal/Madeira/Pedra Suspeito
+ITEM_20151102_008488	Um grande disco redondo de aparência suspeita. Dizem que brilha vermelho quando certas condições forem cumpridas.
+ITEM_20151102_008489	Fragmento Vermelho do Lago	
+ITEM_20151102_008490	Um fragmento pequeno que emite um brilho vermelho, com origem desconhecida.
+ITEM_20151102_008491	Carne de Chafperor
+ITEM_20151102_008492	Oferenda do Lago
+ITEM_20151102_008493	Diário parcialmente queimado de um Lago
+ITEM_20151102_008494	Um diário parcialmente queimado. Difícil de ler devido a partes aleatoriamente queimadas.
+ITEM_20151102_008495	Anotação baseada no Diário da Neta
+ITEM_20151102_008496	Uma coleção de anotações baseadas nas transcrições do diário parcialmente queimado. "Xº Experimento bem sucedido, ---- está contaminando a água sem problemas. Continuarei monitorando o progresso da fruta gigantesca da floresta. Adicionalmente, um método de proteção para ---- é necessário."
+ITEM_20151102_008497	Pintura Parcialmente Queimada
+ITEM_20151102_008498	Uma pintura parcialmente queimada. Tudo exceto a pintura parece ter sido completamente queimado. A pintura mostra uma gema vermelha e Hydra com gema vermelha em seu corpo.
+ITEM_20151102_008499	Erva Azul do Lago
+ITEM_20151102_008500	Uma erva azul com um cheiro peculiar que cresce ao redor do lago. Provavelmente usada em iscas para eliminar o cheiro humano.
+ITEM_20151102_008501	Carne do Lago
+ITEM_20151102_008502	Carne de um monstro. Usada para fazer a isca que as Hydras adoram.
+ITEM_20151102_008503	Erva Amarela do Lago
+ITEM_20151102_008504	Uma erva amarela que cresce perto do lago. Alivia a dor.
+ITEM_20151102_008505	Óleo Especial do Lago
+ITEM_20151102_008506	Óleo feito de gordura.
+ITEM_20151102_008507	Banha de Chaperer
+ITEM_20151102_008508	Banha de Monstro. Pode ser usada para fazer óleo.
+ITEM_20151102_008509	Isca Especial de Tyronas Hydra
+ITEM_20151102_008510	Isca Completa. Tyronas Hydra adora isso. 
+ITEM_20151102_008511	Saco com Oferendas
+ITEM_20151102_008512	Bússola da Procura Mágica
+ITEM_20151102_008513	Mostra os locais próximos onde a magia se acumula.
+ITEM_20151102_008514	Esfera Mágica Vazia
+ITEM_20151102_008515	Esfera de Cristal dada por Mihail. Você pode coletar magia atacando monstros.
+ITEM_20151102_008516	Esfera Mágica Carregada
+ITEM_20151102_008517	Esfera de Cristal carregada com magia. Mihail planeja usar isso como uma bomba.
+ITEM_20151102_008518	Amuleto da Dissipação Mágica
+ITEM_20151102_008519	Um amuleto preparado por Melchioras. Pode dissipar um feitiço esgotando o poder mágico dentro de um artefato.
+ITEM_20151102_008520	Coleção de Esferas Mágicas
+ITEM_20151102_008521	Esferas Mágicas coletadas por todos, em parceria com Mihail e seus amigos.
+ITEM_20151102_008522	Cartas Não Enviadas
+ITEM_20151102_008523	Cartas que ainda não foram enviadas pelos moradores de Castlefield, antes deles desaparecerem.
+ITEM_20151102_008524	Flecha Usável
+ITEM_20151102_008525	Já foi usada uma vez mas ainda parece estar em boas condições.
