@@ -223,13 +223,13 @@ QUEST_LV_0100_20150317_000222	$Esses são os mantimentos que recuperamos do Bosq
 QUEST_LV_0100_20150317_000223	$Graças a você, eu recebi esse tanto de comida.{nl}Estou aliviado.
 QUEST_LV_0100_20150317_000224	$Cavalheiro Comandante Uska
 QUEST_LV_0100_20150317_000225	$Essa ardósia é evidencia da salvação?{nl}Só parece uma pedra velha pra mim.
-QUEST_LV_0100_20150317_000226	${memo X}$Pergunte ao prefeito da #pending Vila dos Mineradores sobre um caminho para {nl}#pending Leaf Veil Plateau.{nl}Mandarei a mensagem para o Paladino Mestre antes.{nl}Que as bençãos da Deusa estejam com você.
-QUEST_LV_0100_20150317_000227	$Seria bom perguntar ao Bokor Mestre para interpretar essa ardósia.{nl}Ela vive no final da Área Residencial #pending de Klaipeda, vá vista-la. 
+QUEST_LV_0100_20150317_000226	${memo X}$Pergunte ao prefeito da #pending Vila dos Mineradores sobre um caminho para {nl}#pending Leaf Veil Plateau.{nl}Mandarei a mensagem para o Mestre Paladino antes.{nl}Que as bençãos da Deusa estejam com você.
+QUEST_LV_0100_20150317_000227	$Seria bom perguntar a Mestra Bokor para interpretar essa ardósia.{nl}Ela vive no final da Área Residencial #pending de Klaipeda, vá vista-la. 
 QUEST_LV_0100_20150317_000228	${memo X}$Use seu tempo sabiamente.{nl}Ninguém mais sabe seu futuro todo.
-QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que a Bokor Mestre lhe disse?
+QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que a Mestra Bokor lhe disse?
 QUEST_LV_0100_20150317_000230	${memo X}$Também estou curioso sobre a garota que quebrou o selo.{nl}Esse não é um selo que pode ser quebrado facilmente.
-QUEST_LV_0100_20150317_000231	${memo X}$Se a Bokor Mestre lhe disse que eu saberia...{nl}Tem um lugar que me vem a cabeça.{nl}
-QUEST_LV_0100_20150317_000232	${memo X}$Os #pending High Gardens que a Deusa mencionou podem ser uma área dentro do {nl}#pending Leaf Veil Plateau. Eu ouvi que o Paladino Mestre esta lá, fazendo uma promessa de{nl}longo prazo.
+QUEST_LV_0100_20150317_000231	${memo X}$Se a Mestra Bokor lhe disse que eu saberia...{nl}Tem um lugar que me vem a cabeça.{nl}
+QUEST_LV_0100_20150317_000232	${memo X}$Os #pending High Gardens que a Deusa mencionou podem ser uma área dentro do {nl}#pending Leaf Veil Plateau. Eu ouvi que o Mestre Paladino esta lá, fazendo uma promessa de{nl}longo prazo.
 QUEST_LV_0100_20150317_000233	$Prefeito da #pending Vila dos Mineiradores
 QUEST_LV_0100_20150317_000234	$Bem vindo. Não é você o salvador da nossa cidade?{nl}
 QUEST_LV_0100_20150317_000235	${memo X}$#pending Leaf Veil Plateau, né? Se você pegar o caminho entre as duas pontes abaixo, {nl}você vai chegar em #pending Silverstram Gorge
