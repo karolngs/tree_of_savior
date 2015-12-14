@@ -5512,34 +5512,34 @@ SKILL_20151102_005512 Kurdaitcha
 SKILL_20151102_005513 Haste da Agonia
 SKILL_20151102_005514 Invocação
 SKILL_20151102_005515 Mastema
-SKILL_20151102_005516 {#DD5500}{ol}[Projétil]{/}{/}{nl}Rapidamente dispara um numero de flechas em uma área designada.
+SKILL_20151102_005516 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara rapidamente um número de flechas em uma área designada.
 SKILL_20151102_005517 {#DD5500}{ol}[Projétil]{/}{/}{nl}Puxa a corda do arco e dispara um tiro penetrante preciso, inimigos atingidos ficam presos no chão.
-SKILL_20151102_005518 Ajoelhe para aumentar a concentração. Aumenta o dano, velocidade e alcance.
-SKILL_20151102_005519 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha que quica no alvo primário e atinge um alvo adjacente.
+SKILL_20151102_005518 Ajoelha para aumentar a concentração. Aumenta o dano, velocidade e alcance do ataque.
+SKILL_20151102_005519 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha que rebate no alvo e atinge um alvo adjacente.
 SKILL_20151102_005520 {#DD5500}{ol}[Projétil]{/}{/}{nl}Demonstra sua força disparando um tiro que empurra seus inimigos.
 SKILL_20151102_005521 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara dois tiros de uma vez só em um inimigo.
-SKILL_20151102_005522 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara 5 flechas em formato de arco na sua frente.
-SKILL_20151102_005523 {#DD5500}{ol}[Projétil]{/}{/}{nl}Mira com a ponta da flecha - e transpassa os inimigos a sua frente.
+SKILL_20151102_005522 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara 5 flechas em formato de arco à sua frente.
+SKILL_20151102_005523 {#DD5500}{ol}[Projétil]{/}{/}{nl}Mira com a ponta da flecha - e transpassa os inimigos à sua frente.
 SKILL_20151102_005524 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com grandes chances de acerto crítico no alvo.
 SKILL_20151102_005525 Aumenta o dano de habilidades com [Projétil], enquanto diminui a velocidade de ataque.
-SKILL_20151102_005526 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha com uma bomba atrelada. Apos um tempo, ao acertar um alvo, a bomba explode causando dano extra.
-SKILL_20151102_005527 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que se separa ao atingir um alvo e atinge alvos adjacentes.
+SKILL_20151102_005526 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com uma bomba atrelada. Ao acertar um alvo, a bomba explodirá após um tempo, causando dano extra.
+SKILL_20151102_005527 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que se divide ao atingir um alvo e atinge alvos adjacentes.
 SKILL_20151102_005528 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha em espiral causando múltiplos acertos no alvo.
 SKILL_20151102_005529 {#DD5500}{ol}[Projétil]{/}{/}{nl}Pula para trás enquanto dispara múltiplas flechas.
 SKILL_20151102_005530 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma bala de pedra que empurra o alvo. O alvo tem chance de ser atordoado.
-SKILL_20151102_005531 {#DD5500}{ol}[Projétil]{/}{/}{nl}Carrega múltiplos virotes em sua besta e então os dispara em rápida sucessão a um inimigo.
-SKILL_20151102_005532 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Sopra uma flecha toxica que inflige dano sobre o tempo durante um longo período.
-SKILL_20151102_005533 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Dispara uma flecha com veneno contagiante. Sempre que o alvo for atacado ele espalhara veneno aos inimigos próximos.
-SKILL_20151102_005534 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um flecha barulhenta. Inimigos próximos ao alvo são infligidos com Medo.
+SKILL_20151102_005531 {#DD5500}{ol}[Projétil]{/}{/}{nl}Carrega múltiplos setas em sua besta e então os dispara em rápida sucessão em um inimigo.
+SKILL_20151102_005532 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Sopra uma flecha toxica que inflige dano por um longo período de tempo.
+SKILL_20151102_005533 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Dispara uma flecha com veneno contagioso. Sempre que o alvo for atacado ele espalhará veneno aos inimigos próximos.
+SKILL_20151102_005534 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha barulhenta. Inimigos próximos ao alvo são infligidos com Medo.
 SKILL_20151102_005535 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um sinalizador na área designada, ao atingir o chão o sinalizador explode em faíscas que causam dano aos inimigos próximos.
-SKILL_20151102_005536 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo quica e atinge dois inimigos mais próximos.
+SKILL_20151102_005536 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo rebate e atinge dois inimigos mais próximos.
 SKILL_20151102_005537 {#DD5500}{ol}[Projétil]{/}{/}{nl}Se o alvo morrer com este ataque ele explode. Membros do grupo ganham força por um período de tempo.
-SKILL_20151102_005538 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com ponteira grande e larga. Inimigos atingidos sao infligidos com estado Sangramento.
-SKILL_20151102_005539 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha perfuradora em um inimigo. Abaixa a defesa de inimigos atingidos e anula qualquer magia protetiva.
-SKILL_20151102_005540 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha farpada. O numero de acertos depende do tipo de defesa do alvo.
-SKILL_20151102_005541 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir um inimigo cria um explosão em forma de cruz.
+SKILL_20151102_005538 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com ponteira grande e larga. Inimigos atingidos sao infligidos com Sangramento.
+SKILL_20151102_005539 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha altamente perfurante em um inimigo. Abaixa a defesa de inimigos atingidos e anula qualquer magia protetiva.
+SKILL_20151102_005540 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha farpada. O número de acertos depende do tipo de defesa do alvo.
+SKILL_20151102_005541 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir um inimigo cria uma explosão em forma de cruz.
 SKILL_20151102_005542 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo cria labaredas que causam dano os inimigos.
-SKILL_20151102_005543 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com explosivos. Apos um tempo, ao acertar um alvo, o explosivo se ativa causando dano colateral.
+SKILL_20151102_005543 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com explosivos. Ao acertar um alvo, a flecha explodirá após um tempo causando dano colateral.
 SKILL_20151102_005544 {#DD5500}{ol}[Projétil]{/}{/}{nl}Focaliza múltiplos tiros contra um inimigo.
 SKILL_20151102_005545 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara e é empurrado para trás com o coice.
 SKILL_20151102_005546 {#DD5500}{ol}[Projétil]{/}{/}{nl}Manobra rapidamente com sua montaria e ataca inimigos pela frente.
@@ -5560,8 +5560,8 @@ SKILL_20151102_005560 Gematria
 SKILL_20151102_005561 Notarikon
 SKILL_20151102_005562 Chance Dupla
 SKILL_20151102_005563 Reduzir Nível
-SKILL_20151102_005564 Furtivo
-SKILL_20151102_005565 Diminuiu velocidade de movimento.
+SKILL_20151102_005564 Furtividade
+SKILL_20151102_005565 Velocidade de movimento reduzida.
 SKILL_20151102_005566 Estigma.
 SKILL_20151102_005567 Invocação.
 SKILL_20151102_005568 Invocação: Entregar
@@ -5572,15 +5572,15 @@ SKILL_20151102_005572 Fumegar: Purificação
 SKILL_20151102_005573 Aumentado resistência a propriedade Veneno.
 SKILL_20151102_005574 Fumegar: Prevenção
 SKILL_20151102_005575 Aumentado chance de resistência de estados anormais de nível 3.
-SKILL_20151102_005576 Diminuiu Defesa Física.
-SKILL_20151102_005577 Diminuiu defesa física.
-SKILL_20151102_005578 Diminuiu Defesa Mágica.
-SKILL_20151102_005579 Diminuiu defesa mágica.
-SKILL_20151102_005580 Diminuiu Ataque Físico.
-SKILL_20151102_005581 Diminuiu ataque físico.
-SKILL_20151102_005582 Diminuiu Ataque Mágico.
-SKILL_20151102_005583 Diminuiu ataque mágico.
-SKILL_20151102_005584 Diminuiu velocidade de movimento.
+SKILL_20151102_005576 Defesa Física reduzida.
+SKILL_20151102_005577 defesa física reduzida.
+SKILL_20151102_005578 Defesa Mágica reduzida.
+SKILL_20151102_005579 defesa mágica reduzida.
+SKILL_20151102_005580 Ataque Físico reduzido.
+SKILL_20151102_005581 ataque físico reduzido.
+SKILL_20151102_005582 Ataque Mágico reduzido.
+SKILL_20151102_005583 ataque mágico reduzido.
+SKILL_20151102_005584 velocidade de movimento reduzida.
 SKILL_20151102_005585 Gae Bulg: Zona de Ataque
 SKILL_20151102_005586 Aumentado ataque físico e ataque mágico
 SKILL_20151102_005587 Gae Bulg: Zona de Defesa
@@ -5593,9 +5593,9 @@ SKILL_20151102_005593 Katon no Jutsu: Aprimorar
 SKILL_20151102_005594 Aumenta o dano causado a um inimigo com [Katon no Jutsu] em 1% por nível de atributo.
 SKILL_20151102_005595 Mijin no Jutsu: Aprimorar
 SKILL_20151102_005596 Aumenta o dano causado a um inimigo com [Mijin no Jutsu] em 1% por nível de atributo.
-SKILL_20151102_005597 Mijin no Jutsu: Furtivo
-SKILL_20151102_005598 Seu personagem vai se esconder por 5 segundos apos usar [Mijin no Jutsu]. Aumenta a duração no nível 2 em 1.5 segundos por nível de atributo.
-SKILL_20151102_005599 Katon no Jutsu: Furtivo
+SKILL_20151102_005597 Mijin no Jutsu: Furtividade
+SKILL_20151102_005598 Seu personagem vai se esconder por 5 segundos apos usar [Mijin no Jutsu]. Aumenta a partir do nível 2 a duração em 1,5 segundos por nível de atributo.
+SKILL_20151102_005599 Katon no Jutsu: Furtividade
 SKILL_20151102_005600 $Seu personagem vai se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
 SKILL_20151102_005601 $Bunshin no Jutsu: Resistência
 SKILL_20151102_005602 $Aumenta o tempo do ciclo para o custo da STA em 0,5 segundos por nível de atributo.
