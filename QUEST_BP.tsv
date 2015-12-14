@@ -193,61 +193,61 @@ QUEST_20150317_000192	$Pawnd
 QUEST_20150317_000193	$O que aconteceu?
 QUEST_20150317_000194	$Gesti nos disse para proteger este lugar.
 QUEST_20150317_000195	$Então o que eu faço agora?
-QUEST_20150317_000196 $Este é o lugar certo?
-QUEST_20150317_000197 $Explicando
-QUEST_20150317_000198 {memo X}Compartilhado os detalhes do fragmento da Revelação encontrados na Crystal Mine.
-QUEST_20150317_000199 {memo X}Eu não sei o quão grande você era no passado e também não me importo. {nl}Aqui, você segue as ordens do Exército Real, até mesmo você Cavaleiro de Kaliss. {nl}Aqui, nossa palavra é lei!
-QUEST_20150317_000200 $Ladrão de Túmulos Hubertas
-QUEST_20150317_000201 $Passear em volta dessas ruínas está me levando a loucura. {nl}Por que diabos ele veio aqui, de qualquer forma?
-QUEST_20150317_000202 $Ladrão de Túmulos Benjaminas
-QUEST_20150317_000203 {memo X}As pessoas nos chamam de ladrões de túmulos, mas preferimos nos chamar...arqueologistas, {nl}varrendo e fazendo uso destes itens que ninguém mais usa. {nl}Com certeza é melhor do que deixá-los apodrecer, certo?
-QUEST_20150317_000204 $Diário de um Cidadão
-QUEST_20150317_000205 {memo X}Já faz um ano que a guerra civil eclodiu. Os preços na cidade subiram dramaticamente. {nl}General Ruklys enviou ajuda, para restabelecer o fornecimento de suprimentos que se tornavam escassos na cidade. {nl}Já faz um tempo desde a última vez que tivemos alguma boa notícia. Há boatos sobre o Rei Kadumel indo atrás do General.
-QUEST_20150317_000206 $Relatório de uma Sentinela
-QUEST_20150317_000207 {memo X}Os postos de guarda foram reforçados em resposta aos movimentos das força do Rei Kadumel pela região. {nl}Foi confirmado que o Rei comanda um grande exército. {nl}Mas se o General Hayatin puder reunir soldados voluntários suficientes, o rei incompetente irá se render ou recuar.
-QUEST_20150317_000208 $Registro de um Comerciante
-QUEST_20150317_000209 {memo X}A cidade está ficando sem comida e suprimentos. {nl}(o resto é ilegível.)
-QUEST_20150317_000210 {memo X}Há rumores de que o General Ruklys ouviu sobre a situação severa dos cidadãos {nl}e está negociando com Kadumel pela anistia.
-QUEST_20150317_000211 $Ata de um Oficial
-QUEST_20150317_000212 {memo X}Primeiro Ministro está em negociação com General Ruklys. {nl}Poderemos ter de nos mover para a Grande Fortaleza de Terra e deixar que as forças reais reivindiquem a cidade. {nl}São boas notícias para nossos civis, ao menos. Apesar da cidade ser concedida, a Fortaleza não será tomada tão facilmente.
-QUEST_20150317_000213 {memo X}Rei Kadumel está interessado em perseguir as pessoas da cidade. {nl}O Primeiro Ministro está forçando o General Ruklys a negociar termos que assegurem que os civis estão protegidos de forças inimigas. {nl}Apesar das forças reais ocupando a cidade, ainda está por vir algum movimento ameaçador. 
-QUEST_20150317_000214 {memo X}Devemos esperar até Kostas chegar aqui. {nl}Temos muito o que fazer, então seria bom se ele chegasse logo.
-QUEST_20150317_000215 $Criomante Kostas
-QUEST_20150317_000216 {memo X}Tudo será resolvido quando o Símbolo da Seda for encontrado. {nl}Com isso, poderemos reviver a cidade.
-QUEST_20150317_000217 $Ladrão de Túmulos Rudolpas
-QUEST_20150317_000218 {memo X}Guarda Real e cavaleiros de Kaliss...eu acho que atingimos ouro. {nl}Ninguém mais está à nossa volta ou chamando este lugar de lar.
-QUEST_20150317_000219 $Ata de um Oficial Real.
-QUEST_20150317_000220 {memo X}Não houve progresso desde que o grupo de Ruklys recuou para a Grande Fortaleza de Terra. {nl}Os sacerdotes sob a direção de Maven estão relutantes para lutar, e o Rei está contratando magos pagando-lhes uma grande soma. {nl}Mas esperamos pouco ou nenhum progresso mesmo após suas participações.
-QUEST_20150317_000221 $Documento de uma Pessoa da Cidadeso
-QUEST_20150317_000222 {memo X}Como isso pode acontecer?! {nl}Lydia Schaffen está ajudando as forças de Kadumel!
-QUEST_20150317_000223 $Relatório de um Oficial do Exército
-QUEST_20150317_000224 {memo X}Lydia Schaffen, uma pessoa que só ouvi falar através de rumores, veio à cidade com seus seguidores. {nl}Os oficiais e soldados esperam que ela irá mudar a maré da batalha. {nl}Sua Majestade nos ordenou a dar suporte a ela com o melhor de nossas capacidades.
-QUEST_20150317_000225 $Testemunho de um Cidadão
-QUEST_20150317_000226 $A Grande Fortaleza de Terra caiu! Está tudo acabado...
-QUEST_20150317_000227 {memo X}O General Ruklys caiu em batalha, e a Grande Fortaleza de Terra foi tomada. {nl}Algumas pessoa dizem que o general morreu para uma flecha de Lydia Schaffen, outros dizem que ele morreu para as mágicas dos magos reais. {nl}É de fato uma notícia triste.
-QUEST_20150317_000228 {memo X}Em apoio aos Cavaleiros de Kaliss, eu fui destacado aqui pela sede de comando. {nl}Se você tem alguma dúvida visite o quartel general na Praça da Lamentação.
-QUEST_20150317_000229 {memo X}Os superiores dos Cavaleiros de Kaliss estão gastando muito neste lugar. Não estou certo sobre o que achar disto. {nl}Para piorar, ladrões de túmulos estão aqui, então estamos aguardando auxílio.
-QUEST_20150317_000230 {memo X}Até agora, só vi as figuras amaldiçoadas dos caídos. Agora que estou aqui, isto irá mudar.
-QUEST_20150317_000231 {memo X}Quebrar a maldição desta cidade traria os mortos de volta? {nl}Eu duvido disto, mas nossos senhores empreenderam grande esforço para retomar esta área. {nl}Eles fizeram tudo que puderam com este propósito. 
-QUEST_20150317_000232 $Ladrão de Túmulos Stephonas
-QUEST_20150317_000233 {memo X}Nós somos diferentes daqueles outros ladrões de túmulos arruaceiros. {nl}Eles não tem nenhum orgulho ou senso de negócios! {nl}Se você nos ajudar agora, nós retornaremos o favor em breve algum dia.
-QUEST_20150317_000234 $Exército Real Rofdel
-QUEST_20150317_000235 {memo X}Você pode ver todo tipo de coisa acontecendo desta torre de observação mesmo que seja como se o tempo na cidade tivesse parado. {nl}A poeira geralmente entra no caminho, mas você pode enxergar todo o trajeto para os caminhos de Ruklys quando chove. 
-QUEST_20150317_000236 {memo X}Nós trabalhamos por séculos para reviver estas ruínas. {nl}Com a sua ajuda poderemos aprender sobre aquele dia e finalmente suceder.
-QUEST_20150317_000237 $Bokor Edita
-QUEST_20150317_000238 {memo X}Definitivamente há uma maldição aqui. Eu tenho certeza disto.
-QUEST_20150317_000239 $Alquimista Saliamonas
-QUEST_20150317_000240 {memo X}Este lugar é verdadeiramente intrigante. Esta cidade é cheia de coisas para estudar e fazer experimentos.
-QUEST_20150317_000241 $Ladra de Túmulos Amanda
-QUEST_20150317_000242 $Nossa família é diferente daqueles ladrões de túmulos brutamontes. {nl}Podemos dobrar algumas regras para viver, mas ainda assim...
-QUEST_20150317_000243 {memo X}Os soldados já estão mortos? {nl}Eu nunca vi uma pedra congelada tão esquisita quanto esta antes. {nl}É como se todo mundo nesta cidade esteja tentando esconder alguma coisa revivendo aquele dia.
-QUEST_20150317_000244 $Movimento de Alta Velocidade
-QUEST_20150317_000245 $Carta Rasgada
-QUEST_20150317_000246 $Para meu amado Irmão em Fedimian...
-QUEST_20150317_000247 $Gesti percebeu isto. Mantenha-se calmo. Ainda não é a hora.
-QUEST_20150317_000248 $Soldado de Suprimentos Fora de Serviço
-QUEST_20150317_000249 $Eu não tenho idéia do que a Casa Real esteja fazendo. {nl}Eu até mesmo ouvi que os nobres já fugiram da cidade.
-QUEST_20150317_000250 $Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de suprimentos, mas este trabalho não é muito diferente do de um ferreiro.
+QUEST_20150317_000196	$Este é o lugar certo?
+QUEST_20150317_000197	$Explicando
+QUEST_20150317_000198	{memo X}Compartilhado os detalhes do fragmento da Revelação encontrados na Crystal Mine.
+QUEST_20150317_000199	{memo X}Eu não sei o quão grande você era no passado e também não me importo. {nl}Aqui, você segue as ordens do Exército Real, até mesmo você Cavaleiro de Kaliss. {nl}Aqui, nossa palavra é lei!
+QUEST_20150317_000200	$Ladrão de Túmulos Hubertas
+QUEST_20150317_000201	$Passear em volta dessas ruínas está me levando a loucura. {nl}Por que diabos ele veio aqui, de qualquer forma?
+QUEST_20150317_000202	$Ladrão de Túmulos Benjaminas
+QUEST_20150317_000203	{memo X}As pessoas nos chamam de ladrões de túmulos, mas preferimos nos chamar...arqueologistas, {nl}varrendo e fazendo uso destes itens que ninguém mais usa. {nl}Com certeza é melhor do que deixá-los apodrecer, certo?
+QUEST_20150317_000204	$Diário de um Cidadão
+QUEST_20150317_000205	{memo X}Já faz um ano que a guerra civil eclodiu. Os preços na cidade subiram dramaticamente. {nl}General Ruklys enviou ajuda, para restabelecer o fornecimento de suprimentos que se tornavam escassos na cidade. {nl}Já faz um tempo desde a última vez que tivemos alguma boa notícia. Há boatos sobre o Rei Kadumel indo atrás do General.
+QUEST_20150317_000206	$Relatório de uma Sentinela
+QUEST_20150317_000207	{memo X}Os postos de guarda foram reforçados em resposta aos movimentos das força do Rei Kadumel pela região. {nl}Foi confirmado que o Rei comanda um grande exército. {nl}Mas se o General Hayatin puder reunir soldados voluntários suficientes, o rei incompetente irá se render ou recuar.
+QUEST_20150317_000208	$Registro de um Comerciante
+QUEST_20150317_000209	{memo X}A cidade está ficando sem comida e suprimentos. {nl}(o resto é ilegível.)
+QUEST_20150317_000210	{memo X}Há rumores de que o General Ruklys ouviu sobre a situação severa dos cidadãos {nl}e está negociando com Kadumel pela anistia.
+QUEST_20150317_000211	$Ata de um Oficial
+QUEST_20150317_000212	{memo X}Primeiro Ministro está em negociação com General Ruklys. {nl}Poderemos ter de nos mover para a Grande Fortaleza de Terra e deixar que as forças reais reivindiquem a cidade. {nl}São boas notícias para nossos civis, ao menos. Apesar da cidade ser concedida, a Fortaleza não será tomada tão facilmente.
+QUEST_20150317_000213	{memo X}Rei Kadumel está interessado em perseguir as pessoas da cidade. {nl}O Primeiro Ministro está forçando o General Ruklys a negociar termos que assegurem que os civis estão protegidos de forças inimigas. {nl}Apesar das forças reais ocupando a cidade, ainda está por vir algum movimento ameaçador. 
+QUEST_20150317_000214	{memo X}Devemos esperar até Kostas chegar aqui. {nl}Temos muito o que fazer, então seria bom se ele chegasse logo.
+QUEST_20150317_000215	$Criomante Kostas
+QUEST_20150317_000216	{memo X}Tudo será resolvido quando o Símbolo da Seda for encontrado. {nl}Com isso, poderemos reviver a cidade.
+QUEST_20150317_000217	$Ladrão de Túmulos Rudolpas
+QUEST_20150317_000218	{memo X}Guarda Real e cavaleiros de Kaliss...eu acho que atingimos ouro. {nl}Ninguém mais está à nossa volta ou chamando este lugar de lar.
+QUEST_20150317_000219	$Ata de um Oficial Real.
+QUEST_20150317_000220	{memo X}Não houve progresso desde que o grupo de Ruklys recuou para a Grande Fortaleza de Terra. {nl}Os sacerdotes sob a direção de Maven estão relutantes para lutar, e o Rei está contratando magos pagando-lhes uma grande soma. {nl}Mas esperamos pouco ou nenhum progresso mesmo após suas participações.
+QUEST_20150317_000221	$Documento de uma Pessoa da Cidadeso
+QUEST_20150317_000222	{memo X}Como isso pode acontecer?! {nl}Lydia Schaffen está ajudando as forças de Kadumel!
+QUEST_20150317_000223	$Relatório de um Oficial do Exército
+QUEST_20150317_000224	{memo X}Lydia Schaffen, uma pessoa que só ouvi falar através de rumores, veio à cidade com seus seguidores. {nl}Os oficiais e soldados esperam que ela irá mudar a maré da batalha. {nl}Sua Majestade nos ordenou a dar suporte a ela com o melhor de nossas capacidades.
+QUEST_20150317_000225	$Testemunho de um Cidadão
+QUEST_20150317_000226	$A Grande Fortaleza de Terra caiu! Está tudo acabado...
+QUEST_20150317_000227	{memo X}O General Ruklys caiu em batalha, e a Grande Fortaleza de Terra foi tomada. {nl}Algumas pessoa dizem que o general morreu para uma flecha de Lydia Schaffen, outros dizem que ele morreu para as mágicas dos magos reais. {nl}É de fato uma notícia triste.
+QUEST_20150317_000228	{memo X}Em apoio aos Cavaleiros de Kaliss, eu fui destacado aqui pela sede de comando. {nl}Se você tem alguma dúvida visite o quartel general na Praça da Lamentação.
+QUEST_20150317_000229	{memo X}Os superiores dos Cavaleiros de Kaliss estão gastando muito neste lugar. Não estou certo sobre o que achar disto. {nl}Para piorar, ladrões de túmulos estão aqui, então estamos aguardando auxílio.
+QUEST_20150317_000230	{memo X}Até agora, só vi as figuras amaldiçoadas dos caídos. Agora que estou aqui, isto irá mudar.
+QUEST_20150317_000231	{memo X}Quebrar a maldição desta cidade traria os mortos de volta? {nl}Eu duvido disto, mas nossos senhores empreenderam grande esforço para retomar esta área. {nl}Eles fizeram tudo que puderam com este propósito. 
+QUEST_20150317_000232	$Ladrão de Túmulos Stephonas
+QUEST_20150317_000233	{memo X}Nós somos diferentes daqueles outros ladrões de túmulos arruaceiros. {nl}Eles não tem nenhum orgulho ou senso de negócios! {nl}Se você nos ajudar agora, nós retornaremos o favor em breve algum dia.
+QUEST_20150317_000234	$Exército Real Rofdel
+QUEST_20150317_000235	{memo X}Você pode ver todo tipo de coisa acontecendo desta torre de observação mesmo que seja como se o tempo na cidade tivesse parado. {nl}A poeira geralmente entra no caminho, mas você pode enxergar todo o trajeto para os caminhos de Ruklys quando chove. 
+QUEST_20150317_000236	{memo X}Nós trabalhamos por séculos para reviver estas ruínas. {nl}Com a sua ajuda poderemos aprender sobre aquele dia e finalmente suceder.
+QUEST_20150317_000237	$Bokor Edita
+QUEST_20150317_000238	{memo X}Definitivamente há uma maldição aqui. Eu tenho certeza disto.
+QUEST_20150317_000239	$Alquimista Saliamonas
+QUEST_20150317_000240	{memo X}Este lugar é verdadeiramente intrigante. Esta cidade é cheia de coisas para estudar e fazer experimentos.
+QUEST_20150317_000241	$Ladra de Túmulos Amanda
+QUEST_20150317_000242	$Nossa família é diferente daqueles ladrões de túmulos brutamontes. {nl}Podemos dobrar algumas regras para viver, mas ainda assim...
+QUEST_20150317_000243	{memo X}Os soldados já estão mortos? {nl}Eu nunca vi uma pedra congelada tão esquisita quanto esta antes. {nl}É como se todo mundo nesta cidade esteja tentando esconder alguma coisa revivendo aquele dia.
+QUEST_20150317_000244	$Movimento de Alta Velocidade
+QUEST_20150317_000245	$Carta Rasgada
+QUEST_20150317_000246	$Para meu amado Irmão em Fedimian...
+QUEST_20150317_000247	$Gesti percebeu isto. Mantenha-se calmo. Ainda não é a hora.
+QUEST_20150317_000248	$Soldado de Suprimentos Fora de Serviço
+QUEST_20150317_000249	$Eu não tenho idéia do que a Casa Real esteja fazendo. {nl}Eu até mesmo ouvi que os nobres já fugiram da cidade.
+QUEST_20150317_000250	$Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de suprimentos, mas este trabalho não é muito diferente do de um ferreiro.
 QUEST_20150317_000251
 QUEST_20150317_000252
 QUEST_20150317_000253
@@ -398,156 +398,156 @@ QUEST_20150317_000397
 QUEST_20150317_000398
 QUEST_20150317_000399
 QUEST_20150317_000400
-QUEST_20150317_000401 {memo X}Ajudar a reconstruir Fedimian pode até ser algo mais relevante do que trabalho em cerâmica. {nl} Mas as pessoas precisam de algo para abrandar seus corações.
-QUEST_20150317_000402 Às vezes também posiciono tabuletas de argila com os desejos das pessoas inscritos. {nl}É divertido ler os desejos dos mais velhos.
-QUEST_20150317_000403 Velha de Fedimian
-QUEST_20150317_000404 Me alivia ver o Distrito Sacro intacto. {nl}Tudo isso certamente é uma bênção da Deusa Zemyna.
-QUEST_20150317_000405 Receba o Símbolo do Treinamento do Intendente de Treinamento. {nl}Deixarei que entre para a nossa tropa se for capaz de passar pelo Treinamento.
-QUEST_20150317_000406 Você deve tomar responsabilidade pela segurança da tropa no Campo de Treinamentos. {nl}Não seria uma boa ideia deixar todos esses jovens exaltados sem nenhuma supervisão, não acha?
-QUEST_20150317_000407 Uska me contou sobre você. {nl}Porém todos os Reveladores que conheci até agora acaram por não ser mais úteis do que simples Kepas.
-QUEST_20150317_000408 Ajude os herboristas antes de começar o treinamento. {nl}Preciso primeiramente ver se você possui o que é necessário para proteger as tropas. O treinamento terá de esperar.
-QUEST_20150317_000409 Meu pai contou-me que Klaipeda também está se tornando um local difícil de se viver.
-QUEST_20150317_000410 Há muitas pessoas querendo comprar as mais diversas coisas, mas não é fácil conseguir o que eles querem. {nl}Por agora temos suprimentos de comida suficientes, mas isso não irá durar por muito tempo.
-QUEST_20150317_000411 Ouvi dizer que os homens da cidade não conseguem voltar por causa da presença de monstros. {nl}Temos comida, mas ela acabará em breve…
-QUEST_20150317_000412 Como viveremos se isso tudo continuar? {nl}Para onde foram todas as Deusas?
-QUEST_20150317_000413 É uma boa ideia vender os itens diversos que você pode obter na caça de monstros, {nl}mas usá-los na manufatura de novos equipamentos também não é má ideia.
-QUEST_20150317_000414 Mesmo que precisemos ser autossuficientes, coisas como receitas são mais simples de obter dos mercadores. {Nl}Você precisa saber exatamente como criar algo antes de tentar fazê-lo por conta própria.
-QUEST_20150317_000415 Esteja certo de eliminar todas as criaturas brilhantes com as quais se deparar. Você pode acabar por encontrar itens incríveis como recompensa. {nl}E o que acha de me comprar algo para beber para pagar pela boa informação que acabo de lhe dar?
-QUEST_20150317_000416 Se tiver perguntas, vá até o Laboratório da Mestra Piromante. {nl}Por sorte, há muitos livros lá que podem ser lidos de graça.
-QUEST_20150317_000417 {memo X}Se sabe que cada Estátua de Deusa possui habilidades especiais que variam com a Deusa que a estátua representa. {nl}O mais estranho, é que apesar de aquela estátua não representar a Deusa Vakarine, ela ainda assim tem o poder de lhe enviar para o local que desejar.
-QUEST_20150317_000418 Espírito do Aventureiro Varkis
-QUEST_20150317_000419 {memo X}Se eu apenas tivesse um pouco mais de tempo… {nl}As informações que obtive nas proximidades do cruzamento de Dykyne… Não posso abandonar isso…
-QUEST_20150317_000420 Agora posso partir sem nenhum arrependimento. {nl}Adeus. Tome cuidado com aquele homem…
-QUEST_20150317_000421 {memo X}Use este pergaminho para abrir uma ruptura no espaço e encontrar a Chave do Grande Rei. {nl}É difícil saber o que pode surgir dessa ruptura, então tenha cuidado.
-QUEST_20150317_000422 Capela Desmoronada
-QUEST_20150317_000423 Neste lugar houve no passado uma capela. {nl}A Estátua da Deusa Vakarine surge neste lugar uma vez ao dia.
-QUEST_20150317_000424 $Stamina pode ser recuperada ao destruir Cristais da Raiz.{nl}Eles são uma anomalia que surgiu após o Medzio Diena. {nl}Mas apesar disso, não se preocupe, já que todos os testes mostram que é perfeitamente seguro utilizá-los.
-QUEST_20150317_000425 Então Degil enviou-lhe … Aqui… Aqui está.
-QUEST_20150317_000426 {memo X}A Deusa nos ensinou a ajudar aos outros. {nl}Estou apenas seguindo os ensinamentos dela.
-QUEST_20150317_000427 Eu teria apenas ficado de pé aqui se não fosse pela sua ajuda. {nl}Meus braços ainda doem… {nl}Entendo que a situação não é normal.
-QUEST_20150317_000428 {memo X}A manhã surge após a noite partir. {nl}É a Deusa Ausrine que é responsável pela manhã. {nl}Não apenas isso, é ela também quem encontramos após a morte.
-QUEST_20150317_000429 Estátua Estranha da Deusa
-QUEST_20150317_000430 Venham, almas raivosas e cheias de rancor.
-QUEST_20150317_000431 {memo X}Soldado Recruta Bran
-QUEST_20150317_000432 {memo X}Você é aquele que nos ajudou há algum tempo.
-QUEST_20150317_000433 Intendente de Treinamento Alius
-QUEST_20150317_000434 {memo X}Pare!
-QUEST_20150317_000435 {memo X}Isso é terrível. {nl}Você estaria morto antes mesmo que pudesse ser de qualquer ajuda no campo de batalha.
-QUEST_20150317_000436 Se eu encontrar o escultor novamente, {nl}Pedirei a ele que o decore com penas roxas e verdes!
-QUEST_20150317_000437 Você não acha que ficaria ótimo? {nl}Roxas e verdes… Hehe.
-QUEST_20150317_000438 O escultor no criou com a Revelação da Deusa. {nl}Nós acolhemos as almas que ele acha devido.
-QUEST_20150317_000439 As almas são incríveis. Elas são como vaga-lumes ou besouros. {nl}É maravilhoso apenas de observar. Como onde o escultor está.
-QUEST_20150317_000440 Sequóia não pode mais ser aceita. {nl}Todas as nossas corujas serão destruídas se não fizermos nada a respeito. {nl}Quem então guiará todas as almas?
-QUEST_20150317_000441 Eu sempre observei a escuridão dessa floresta sagrada: coisas como o ódio e a ganância dos humanos.
-QUEST_20150317_000442 É lamentável que tivemos que nos livrar de um velho amigo… {nl}Mas não podemos ficar apenas sentados aqui o vendo praticar maldades.
-QUEST_20150317_000443 Eu quase me meti em problemas por causa da Sequóia, mas não posso parar de guiar as pobres almas. {nl}Quando é que essa tragédia terá um fim?
-QUEST_20150317_000444 Eu partirei quando a hora chegar. {nl}Mas até então, protegerei esse lugar.
-QUEST_20150317_000445 Há ainda tantas coisas para pesquisar…
-QUEST_20150317_000446 Onde estão os outros? {nl}Os mercadores? {nl}Os soldados? {nl}Onde estão os professores?
-QUEST_20150317_000447 Eu nunca vi uma Sequóia enlouquecer dessa forma. {nl}Seremos todos destruídos. Vamos virar pó!
-QUEST_20150317_000448 Há muito tempo, fiz amizade com muitos humanos. {nl}Não é muito agradável conhecer seus amigos novamente como almas.
-QUEST_20150317_000449 Não é bonitinho? {nl}Eu estava nervoso quando o vi pela primeira vez, mas ele se aproximou e se apegou a mim. {nl}É tão fofo. O levarei embora para casa comigo qualquer dia.
-QUEST_20150317_000450 Não é fácil trabalhar na mata, mas é melhor que aquele vale seco e desgastado. {nl}Ouvi dizer que os ventos lá são quentes. Não quero ir para lá.
-QUEST_20150317_000451 Sempre nos falta soldados, mas ao menos a disposição de nossos homens é mais que suficiente.
-QUEST_20150317_000452 Então qual é o problema? {nl}Nós criamos soldados, não caixões. {nl}É necessária força para partir para a guerra, mas o entusiasmo por si só apenas trará derrota.
-QUEST_20150317_000453 A Deusa também é indiferente… {nl}Ainda tenho tantas coisas que gostaria de fazer… Mas uma criatura me matou… {nl}Muitos outros também acabaram mortos, e seus pertences foram espalhados pela floresta.
-QUEST_20150317_000454 Não tenho muitas lembranças de quando eu era vivo. {nl}As criaturas invadiram quando a Estátua da Coruja estava prestes a me guiar, e então fui deixado só. {nl}Espero que não haverão mais outras almas como eu.
-QUEST_20150317_000455 Você é o escolhido. {nl}Não esqueça disso. {nl}A Revelação está preparada para você. {nl}Você terá de receber a Revelação e dar continuação aos desejos da Deusa.
-QUEST_20150317_000456 Que as bênçãos da Deusa estejam com você em sua jornada.
-QUEST_20150317_000457 {memo X}Você pode receber stamina ao destruir Cristais da Raiz. {nl}Eles crescem novamente depois de destruídos. Estranho, não?
-QUEST_20150317_000458 {memo X}Quando a Besta Divina assolou a capital com seu ódio, eu nasci.
-QUEST_20150317_000459 Estamos dispostos a aceitar novos pedidos, mas… {nl}Se algo assim acontecer sem ninguém perceber, então… Ufa…
-QUEST_20150317_000460 O Vacenin não é legal? {nl}Eu gostaria muito de me alistar no grupo dele, mas não consigo encontrar a oportunidade certa para isso.
-QUEST_20150317_000461 Bem… É melhor quando se conhece gente viva do que morta, entende?
-QUEST_20150317_000462 Eu estava esperando que a Estátua da Coruja me guiasse. {nl}Mas eu vi a criatura engolindo uma alma e me escondi. {nl}Eu consegui escapar, mas você precisa eliminar a criatura e salvar as almas aprisionadas.
-QUEST_20150317_000463 Não sei quanto às outras corujas, mas eu ainda tenho esperanças. {nl}A Deusa não nos abandonará. {nl}Vendo as Revelações deixadas no mundo, estou certo que ela tem planos para nós. {nl}Por favor junte as Revelações perdidas.
-QUEST_20150317_000464 Os subordinados de Bramble ainda estão soltos por aí. {nl}Mais pessoas morrerão se isso continuar. {nl}Por favor ajude os humanos que estão enfrentando as criaturas.
-QUEST_20150317_000465 {memo X}Bem… Por que ainda estou aqui? {nl}Talvez ainda não seja minha hora de partir. {nl}Ninguém sabe, nem a Estátua da Coruja, nem as outras almas. {nl}A não ser que tenha sido a Deusa que pode ver o futuro. Ninguém sabe de seu destino mesmo, não é?
-QUEST_20150317_000466 {memo X}Você já chegou a conhecer outros Reveladores?
-QUEST_20150317_000467 {memo X}Não sei muito sobre o Sonho da Deusa ou a Revelação… {nl}Mas se algo é certo é que há muitas pessoas como você.
-QUEST_20150317_000468 Eu o chamei de Spion. {nl}O motive desse nome é… Bem… Não soa legal?
-QUEST_20150317_000469 Aquele rapaz que está brincando com seu amigo felpudo é Pitt, meu amigo de longa data. {nl}Somos amigos desde que éramos muito jovens e emotivos. Nós realmente queríamos ser heróis.
-QUEST_20150317_000470 E enquanto ouvíamos histórias sobre Vacenin, acabamos por decidir entrar para o exército. {nl}Mas não é legal? Um dia desses entrarei para a tropa de Vacenin e serei um herói.
-QUEST_20150317_000471 São suas habilidades que provam sua competência. {nl}Se você tem algo a dizer, faça-o com resultados concretos!
-QUEST_20150317_000472 Apenas os melhores soldados são aceitos na tropa de Vacenin. {nl}É importante que você prove ser o melhor.
-QUEST_20150317_000473 Oh… Isso é estranho. Eu estava com tudo aqui não faz muito tempo…
-QUEST_20150317_000474 Metade dos suprimentos são transferidos de cada cidade e o resto são velharias que são consertadas ou que se sustentam por conta própria. {nl}Não dá para esperar que eles estejam muito motivados numa situação dessas.
-QUEST_20150317_000475 Eu vendo equipamentos para soldados que não possuem suprimentos. {nl}Mas também não posso dar tudo de graça. Tenho uma família para alimentar…
-QUEST_20150317_000476 Eu não consigo descansar mas nem um pouco por causa dos Vubbes.
-QUEST_20150317_000477 Você nunca sabe quando monstros podem surgir numa trilha dessas.
-QUEST_20150317_000478 Ainda tenho alguns antídotos. {nl}Leve tantos quanto precisar.
-QUEST_20150317_000479 Lamento não poder ser de muita ajuda.
-QUEST_20150317_000480 Antídoto? {nl}Claro que tenho alguns.
-QUEST_20150317_000481 Eu usei tudo o que eu tinha… {nl}Mas as pessoas adiante podem ter algum.
-QUEST_20150317_000482 Você veio sem antídotos? {nl}Aqui, leve isso.
-QUEST_20150317_000483 Estou sem nenhum. {nl}Talvez os outros tenham algum.
-QUEST_20150317_000484 Tenho antídotos. {nl}Desejarei pelo bem-estar de Dezek.
-QUEST_20150317_000485 Dezek está com sorte. {nl}Normalmente eles são apenas devorados.
-QUEST_20150317_000486 Você deve estar louco andando pelo desfiladeiro sem antídotos. {nl}Aqui, leve isso.
-QUEST_20150317_000487 Usei todos os que eu tinha já faz alguns dias. {nl}Talvez outras pessoas tenham algum.
-QUEST_20150317_000488 É um bom dia para o Scorpio aparecer. {nl}Úmido e escuro.
-QUEST_20150317_000489 Há muitos escorpiões aqui. {nl}Fico com arrepios no pescoço quando piso em qualquer coisa que faça algum barulho.
-QUEST_20150317_000490 Tenha cuidado em crepúsculos chuvosos como esse. {nl}É nesse horário que o Scorpio tende a aparecer.
-QUEST_20150317_000491 Os Scorpios se tornaram venenosos hoje em dia. {nl}Você deve ser cuidadoso.
-QUEST_20150317_000492 Chuva outra vez. {nl}Os Scorpios devem estar caminhando por aí nesse momento.
-QUEST_20150317_000493 {memo X}Inscrições Entalhadas
-QUEST_20150317_000494 {memo X}Eu preparei cinco dilemas para que nosso inimigo não possa colocar as mãos nele. {nl}Mas nenhum de vocês passará se não estiverem preparados.
-QUEST_20150317_000495 {memo X}Encontre-o. A estrada se abrirá quando estiver provado que você é o verdadeiro Revelador.
-QUEST_20150317_000496 O que faz com que você caminhe na direção da luz em um lugar tomado pela escuridão?
-QUEST_20150317_000497 Quanto mais arduamente você tentar encontrá-lo, mais forte você se torna, mas se não encontrá-lo, você se torna mais fraco. {nl}O que é ele?
-QUEST_20150317_000498 Aide de Camp Selina
-QUEST_20150317_000499 O número de dias em que precisamos permanecer autossuficientes está aumentando cada vez mais. {nl}Antes brincávamos de arar uma terra para plantio, {nl}mas hoje estamos de verdade pensando em colocar isso em prática.
-QUEST_20150317_000500 Observador
-QUEST_20150317_000501 $Veja se não é você...a pessoa que me fez libertar a Deusa Saule. {nl}Por que está colocando sua vida em risco?
-QUEST_20150317_000502 $Não há necessidade para todos estes problemas. {nl}Você deveria seguir o exemplo dos outros e mergulhar na paz, {nl}e orar para que a Deusa conceda-lhe seus desejos.
-QUEST_20150317_000503 $Eu lhe alertei, mas você simplesmente não quis ouvir.
-QUEST_20150317_000504 $Você deve pagar o preço de sua escolha.
-QUEST_20150317_000505 $Eu te subestimei.
-QUEST_20150317_000506 {memo X}Ainda não acabou! {nl}Eu estarei observando da [#pending Fallen Worry Forest].
-QUEST_20150317_000507 $Aviso
-QUEST_20150317_000508 $Estragado. Não usar!
-QUEST_20150317_000509 $Esta é a primeira Revelação que eu fiz. {nl}Para você, esta deve ser a terceira.
-QUEST_20150317_000510 $Minha força irá enfraquecer toda vez que eu colocar uma parte de mim em uma Revelação. {nl}Mais de mil anos terão se passado no momento em que a revelação chegar até você. {nl}E mesmo minha consciência terá deixado de existir. 
-QUEST_20150317_000511 $É por isso que eu precisei encontrar um guardião para proteger a Revelação. {nl}Infelizmente, minhas irmãs e eu não chegamos em um acordo sobre minha Revelação, {nl}e eu não fui capaz de deixar a Revelação com a maioria delas.
-QUEST_20150317_000512 $Somente Saule apoiou minha Revelação, então deixei-a com ela. {nl}E por um tempo muito longo, eu saí em uma jornada em busca de um guardião.
-QUEST_20150317_000513 $Quando pensei em humanos como você, uma idéia promissora me surgiu. {nl}Os demônios desprezam os humanos, então eles não poderiam nem imaginar que eu deixaria a Revelação com você.
-QUEST_20150317_000514 $Mas acima de tudo, eu confiei nos humanos. {nl}Você deve ter visto isto por si mesmo até agora. {nl}Apesar de passar por desastres como a Árvore do Desespero, {nl}humanos não perdem a esperença facilmente.
-QUEST_20150317_000515 $O guardião da próxima Revelação será aquele que une o Reino. {nl}Você poderá encontrar a próxima Revelação na parte mais profunda do Mausoléu Real aonde ele descansa.
-QUEST_20150317_000516 {memo X}O mausoléu fica na área do vale. {nl}Irei abrir um portal para você.
-QUEST_20150317_000517 $Alma Presa do Soldado
-QUEST_20150317_000518 $Por favor, me ajude.
-QUEST_20150317_000519 $Leve-me até a Deusa.
-QUEST_20150317_000520 $É tão doloroso
-QUEST_20150317_000521 $Parece estar dormindo.
-QUEST_20150317_000522 $Estátua da Coruja Enfurecida
-QUEST_20150317_000523 $Sem respostas.
-QUEST_20150317_000524 $Alma do Mercador Pesaroso
-QUEST_20150317_000525 $Se você não tiver dinheiro, você não é diferente de um homem morto.
-QUEST_20150317_000526 $Eu deveria ter ouvido minha esposa. {nl}Ela disse que é má sorte ser amigo de estudiosos... {nl}Eu estou realmente caindo fora dos negócios!
-QUEST_20150317_000527 $Eu poderia compensar a perda se recuperasse os itens...
-QUEST_20150317_000528 $Estátua da Coruja Adormecida
-QUEST_20150317_000529 $Ela parece estar em um sono muito profundo.
-QUEST_20150317_000530 $Não há absolutamente nenhum resposta.
-QUEST_20150317_000531 $Não há absolutamente nenhum movimento.
-QUEST_20150317_000532 $A escrita não é mais visível.
-QUEST_20150317_000533 $Têm o direito de receber a mensagem real secreta.
-QUEST_20150317_000534 $As letras não estão mais visíveis.
-QUEST_20150317_000535 {memo X}Parece que a função deixou de funcionar.
-QUEST_20150317_000536 {memo X}Sim...este é o melhor tempo para beber um rum.
-QUEST_20150317_000537 {memo X}Eu sou o pirata que perdeu seu derradeiro navio! {nl}Hmm..eu gosto de como isto soa.
-QUEST_20150317_000538 {memo X}Me prove sua competência.
-QUEST_20150317_000539 {memo X}Mesmo que as Deusas não estejam por perto, {nl} o Oráculo continua podendo enviar as mensagens delas para as pessoas.
-QUEST_20150317_000540 {memo X}Haha, obrigado. {nl}Lembre-se, deve ser a árvore na praça central.
-QUEST_20150317_000541 $Blaster Luina
-QUEST_20150317_000542 $Os Hogmas estão invadindo através de uma entrada que encontraram. {nl}Nos pediram para destruir a entrada para bloquear a sua invasão.
-QUEST_20150317_000543 $Mas depois de ser atacado, não tenho mais bombas.
-QUEST_20150317_000544 $Têm bombas boas para uso único dentro da caixa. {nl}Use-as para destruir a barricada que eles fizeram.
-QUEST_20150317_000545 $E pegue algo com eles que possa ser usado como explosivos.
-QUEST_20150317_000546 $Gerente do Mercado
-QUEST_20150317_000547 $Bem vindo! {nl}Você pode comprar ótimos itens por um preço barato se você procurar com cuidado. {nl}É claro, também é possível gastar uma grande quantia em algo que supostamente deve ser barato...
-QUEST_20150317_000548 $Cartão de Proposta
-QUEST_20150317_000549 $Rosas que ainda têm fragância. {nl}Embora elas parecem ter murchado com o tempo.
-QUEST_20150317_000550 $Idoso Benevolente
+QUEST_20150317_000401	{memo X}Ajudar a reconstruir Fedimian pode até ser algo mais relevante do que trabalho em cerâmica. {nl} Mas as pessoas precisam de algo para abrandar seus corações.
+QUEST_20150317_000402	Às vezes também posiciono tabuletas de argila com os desejos das pessoas inscritos. {nl}É divertido ler os desejos dos mais velhos.
+QUEST_20150317_000403	Velha de Fedimian
+QUEST_20150317_000404	Me alivia ver o Distrito Sacro intacto. {nl}Tudo isso certamente é uma bênção da Deusa Zemyna.
+QUEST_20150317_000405	Receba o Símbolo do Treinamento do Intendente de Treinamento. {nl}Deixarei que entre para a nossa tropa se for capaz de passar pelo Treinamento.
+QUEST_20150317_000406	Você deve tomar responsabilidade pela segurança da tropa no Campo de Treinamentos. {nl}Não seria uma boa ideia deixar todos esses jovens exaltados sem nenhuma supervisão, não acha?
+QUEST_20150317_000407	Uska me contou sobre você. {nl}Porém todos os Reveladores que conheci até agora acaram por não ser mais úteis do que simples Kepas.
+QUEST_20150317_000408	Ajude os herboristas antes de começar o treinamento. {nl}Preciso primeiramente ver se você possui o que é necessário para proteger as tropas. O treinamento terá de esperar.
+QUEST_20150317_000409	Meu pai contou-me que Klaipeda também está se tornando um local difícil de se viver.
+QUEST_20150317_000410	Há muitas pessoas querendo comprar as mais diversas coisas, mas não é fácil conseguir o que eles querem. {nl}Por agora temos suprimentos de comida suficientes, mas isso não irá durar por muito tempo.
+QUEST_20150317_000411	Ouvi dizer que os homens da cidade não conseguem voltar por causa da presença de monstros. {nl}Temos comida, mas ela acabará em breve…
+QUEST_20150317_000412	Como viveremos se isso tudo continuar? {nl}Para onde foram todas as Deusas?
+QUEST_20150317_000413	É uma boa ideia vender os itens diversos que você pode obter na caça de monstros, {nl}mas usá-los na manufatura de novos equipamentos também não é má ideia.
+QUEST_20150317_000414	Mesmo que precisemos ser autossuficientes, coisas como receitas são mais simples de obter dos mercadores. {Nl}Você precisa saber exatamente como criar algo antes de tentar fazê-lo por conta própria.
+QUEST_20150317_000415	Esteja certo de eliminar todas as criaturas brilhantes com as quais se deparar. Você pode acabar por encontrar itens incríveis como recompensa. {nl}E o que acha de me comprar algo para beber para pagar pela boa informação que acabo de lhe dar?
+QUEST_20150317_000416	Se tiver perguntas, vá até o Laboratório da Mestra Piromante. {nl}Por sorte, há muitos livros lá que podem ser lidos de graça.
+QUEST_20150317_000417	{memo X}Se sabe que cada Estátua de Deusa possui habilidades especiais que variam com a Deusa que a estátua representa. {nl}O mais estranho, é que apesar de aquela estátua não representar a Deusa Vakarine, ela ainda assim tem o poder de lhe enviar para o local que desejar.
+QUEST_20150317_000418	Espírito do Aventureiro Varkis
+QUEST_20150317_000419	{memo X}Se eu apenas tivesse um pouco mais de tempo… {nl}As informações que obtive nas proximidades do cruzamento de Dykyne… Não posso abandonar isso…
+QUEST_20150317_000420	Agora posso partir sem nenhum arrependimento. {nl}Adeus. Tome cuidado com aquele homem…
+QUEST_20150317_000421	{memo X}Use este pergaminho para abrir uma ruptura no espaço e encontrar a Chave do Grande Rei. {nl}É difícil saber o que pode surgir dessa ruptura, então tenha cuidado.
+QUEST_20150317_000422	Capela Desmoronada
+QUEST_20150317_000423	Neste lugar houve no passado uma capela. {nl}A Estátua da Deusa Vakarine surge neste lugar uma vez ao dia.
+QUEST_20150317_000424	$Stamina pode ser recuperada ao destruir Cristais da Raiz.{nl}Eles são uma anomalia que surgiu após o Medzio Diena. {nl}Mas apesar disso, não se preocupe, já que todos os testes mostram que é perfeitamente seguro utilizá-los.
+QUEST_20150317_000425	Então Degil enviou-lhe … Aqui… Aqui está.
+QUEST_20150317_000426	{memo X}A Deusa nos ensinou a ajudar aos outros. {nl}Estou apenas seguindo os ensinamentos dela.
+QUEST_20150317_000427	Eu teria apenas ficado de pé aqui se não fosse pela sua ajuda. {nl}Meus braços ainda doem… {nl}Entendo que a situação não é normal.
+QUEST_20150317_000428	{memo X}A manhã surge após a noite partir. {nl}É a Deusa Ausrine que é responsável pela manhã. {nl}Não apenas isso, é ela também quem encontramos após a morte.
+QUEST_20150317_000429	Estátua Estranha da Deusa
+QUEST_20150317_000430	Venham, almas raivosas e cheias de rancor.
+QUEST_20150317_000431	{memo X}Soldado Recruta Bran
+QUEST_20150317_000432	{memo X}Você é aquele que nos ajudou há algum tempo.
+QUEST_20150317_000433	Intendente de Treinamento Alius
+QUEST_20150317_000434	{memo X}Pare!
+QUEST_20150317_000435	{memo X}Isso é terrível. {nl}Você estaria morto antes mesmo que pudesse ser de qualquer ajuda no campo de batalha.
+QUEST_20150317_000436	Se eu encontrar o escultor novamente, {nl}Pedirei a ele que o decore com penas roxas e verdes!
+QUEST_20150317_000437	Você não acha que ficaria ótimo? {nl}Roxas e verdes… Hehe.
+QUEST_20150317_000438	O escultor no criou com a Revelação da Deusa. {nl}Nós acolhemos as almas que ele acha devido.
+QUEST_20150317_000439	As almas são incríveis. Elas são como vaga-lumes ou besouros. {nl}É maravilhoso apenas de observar. Como onde o escultor está.
+QUEST_20150317_000440	Sequóia não pode mais ser aceita. {nl}Todas as nossas corujas serão destruídas se não fizermos nada a respeito. {nl}Quem então guiará todas as almas?
+QUEST_20150317_000441	Eu sempre observei a escuridão dessa floresta sagrada: coisas como o ódio e a ganância dos humanos.
+QUEST_20150317_000442	É lamentável que tivemos que nos livrar de um velho amigo… {nl}Mas não podemos ficar apenas sentados aqui o vendo praticar maldades.
+QUEST_20150317_000443	Eu quase me meti em problemas por causa da Sequóia, mas não posso parar de guiar as pobres almas. {nl}Quando é que essa tragédia terá um fim?
+QUEST_20150317_000444	Eu partirei quando a hora chegar. {nl}Mas até então, protegerei esse lugar.
+QUEST_20150317_000445	Há ainda tantas coisas para pesquisar…
+QUEST_20150317_000446	Onde estão os outros? {nl}Os mercadores? {nl}Os soldados? {nl}Onde estão os professores?
+QUEST_20150317_000447	Eu nunca vi uma Sequóia enlouquecer dessa forma. {nl}Seremos todos destruídos. Vamos virar pó!
+QUEST_20150317_000448	Há muito tempo, fiz amizade com muitos humanos. {nl}Não é muito agradável conhecer seus amigos novamente como almas.
+QUEST_20150317_000449	Não é bonitinho? {nl}Eu estava nervoso quando o vi pela primeira vez, mas ele se aproximou e se apegou a mim. {nl}É tão fofo. O levarei embora para casa comigo qualquer dia.
+QUEST_20150317_000450	Não é fácil trabalhar na mata, mas é melhor que aquele vale seco e desgastado. {nl}Ouvi dizer que os ventos lá são quentes. Não quero ir para lá.
+QUEST_20150317_000451	Sempre nos falta soldados, mas ao menos a disposição de nossos homens é mais que suficiente.
+QUEST_20150317_000452	Então qual é o problema? {nl}Nós criamos soldados, não caixões. {nl}É necessária força para partir para a guerra, mas o entusiasmo por si só apenas trará derrota.
+QUEST_20150317_000453	A Deusa também é indiferente… {nl}Ainda tenho tantas coisas que gostaria de fazer… Mas uma criatura me matou… {nl}Muitos outros também acabaram mortos, e seus pertences foram espalhados pela floresta.
+QUEST_20150317_000454	Não tenho muitas lembranças de quando eu era vivo. {nl}As criaturas invadiram quando a Estátua da Coruja estava prestes a me guiar, e então fui deixado só. {nl}Espero que não haverão mais outras almas como eu.
+QUEST_20150317_000455	Você é o escolhido. {nl}Não esqueça disso. {nl}A Revelação está preparada para você. {nl}Você terá de receber a Revelação e dar continuação aos desejos da Deusa.
+QUEST_20150317_000456	Que as bênçãos da Deusa estejam com você em sua jornada.
+QUEST_20150317_000457	{memo X}Você pode receber stamina ao destruir Cristais da Raiz. {nl}Eles crescem novamente depois de destruídos. Estranho, não?
+QUEST_20150317_000458	{memo X}Quando a Besta Divina assolou a capital com seu ódio, eu nasci.
+QUEST_20150317_000459	Estamos dispostos a aceitar novos pedidos, mas… {nl}Se algo assim acontecer sem ninguém perceber, então… Ufa…
+QUEST_20150317_000460	O Vacenin não é legal? {nl}Eu gostaria muito de me alistar no grupo dele, mas não consigo encontrar a oportunidade certa para isso.
+QUEST_20150317_000461	Bem… É melhor quando se conhece gente viva do que morta, entende?
+QUEST_20150317_000462	Eu estava esperando que a Estátua da Coruja me guiasse. {nl}Mas eu vi a criatura engolindo uma alma e me escondi. {nl}Eu consegui escapar, mas você precisa eliminar a criatura e salvar as almas aprisionadas.
+QUEST_20150317_000463	Não sei quanto às outras corujas, mas eu ainda tenho esperanças. {nl}A Deusa não nos abandonará. {nl}Vendo as Revelações deixadas no mundo, estou certo que ela tem planos para nós. {nl}Por favor junte as Revelações perdidas.
+QUEST_20150317_000464	Os subordinados de Bramble ainda estão soltos por aí. {nl}Mais pessoas morrerão se isso continuar. {nl}Por favor ajude os humanos que estão enfrentando as criaturas.
+QUEST_20150317_000465	{memo X}Bem… Por que ainda estou aqui? {nl}Talvez ainda não seja minha hora de partir. {nl}Ninguém sabe, nem a Estátua da Coruja, nem as outras almas. {nl}A não ser que tenha sido a Deusa que pode ver o futuro. Ninguém sabe de seu destino mesmo, não é?
+QUEST_20150317_000466	{memo X}Você já chegou a conhecer outros Reveladores?
+QUEST_20150317_000467	{memo X}Não sei muito sobre o Sonho da Deusa ou a Revelação… {nl}Mas se algo é certo é que há muitas pessoas como você.
+QUEST_20150317_000468	Eu o chamei de Spion. {nl}O motive desse nome é… Bem… Não soa legal?
+QUEST_20150317_000469	Aquele rapaz que está brincando com seu amigo felpudo é Pitt, meu amigo de longa data. {nl}Somos amigos desde que éramos muito jovens e emotivos. Nós realmente queríamos ser heróis.
+QUEST_20150317_000470	E enquanto ouvíamos histórias sobre Vacenin, acabamos por decidir entrar para o exército. {nl}Mas não é legal? Um dia desses entrarei para a tropa de Vacenin e serei um herói.
+QUEST_20150317_000471	São suas habilidades que provam sua competência. {nl}Se você tem algo a dizer, faça-o com resultados concretos!
+QUEST_20150317_000472	Apenas os melhores soldados são aceitos na tropa de Vacenin. {nl}É importante que você prove ser o melhor.
+QUEST_20150317_000473	Oh… Isso é estranho. Eu estava com tudo aqui não faz muito tempo…
+QUEST_20150317_000474	Metade dos suprimentos são transferidos de cada cidade e o resto são velharias que são consertadas ou que se sustentam por conta própria. {nl}Não dá para esperar que eles estejam muito motivados numa situação dessas.
+QUEST_20150317_000475	Eu vendo equipamentos para soldados que não possuem suprimentos. {nl}Mas também não posso dar tudo de graça. Tenho uma família para alimentar…
+QUEST_20150317_000476	Eu não consigo descansar mas nem um pouco por causa dos Vubbes.
+QUEST_20150317_000477	Você nunca sabe quando monstros podem surgir numa trilha dessas.
+QUEST_20150317_000478	Ainda tenho alguns antídotos. {nl}Leve tantos quanto precisar.
+QUEST_20150317_000479	Lamento não poder ser de muita ajuda.
+QUEST_20150317_000480	Antídoto? {nl}Claro que tenho alguns.
+QUEST_20150317_000481	Eu usei tudo o que eu tinha… {nl}Mas as pessoas adiante podem ter algum.
+QUEST_20150317_000482	Você veio sem antídotos? {nl}Aqui, leve isso.
+QUEST_20150317_000483	Estou sem nenhum. {nl}Talvez os outros tenham algum.
+QUEST_20150317_000484	Tenho antídotos. {nl}Desejarei pelo bem-estar de Dezek.
+QUEST_20150317_000485	Dezek está com sorte. {nl}Normalmente eles são apenas devorados.
+QUEST_20150317_000486	Você deve estar louco andando pelo desfiladeiro sem antídotos. {nl}Aqui, leve isso.
+QUEST_20150317_000487	Usei todos os que eu tinha já faz alguns dias. {nl}Talvez outras pessoas tenham algum.
+QUEST_20150317_000488	É um bom dia para o Scorpio aparecer. {nl}Úmido e escuro.
+QUEST_20150317_000489	Há muitos escorpiões aqui. {nl}Fico com arrepios no pescoço quando piso em qualquer coisa que faça algum barulho.
+QUEST_20150317_000490	Tenha cuidado em crepúsculos chuvosos como esse. {nl}É nesse horário que o Scorpio tende a aparecer.
+QUEST_20150317_000491	Os Scorpios se tornaram venenosos hoje em dia. {nl}Você deve ser cuidadoso.
+QUEST_20150317_000492	Chuva outra vez. {nl}Os Scorpios devem estar caminhando por aí nesse momento.
+QUEST_20150317_000493	{memo X}Inscrições Entalhadas
+QUEST_20150317_000494	{memo X}Eu preparei cinco dilemas para que nosso inimigo não possa colocar as mãos nele. {nl}Mas nenhum de vocês passará se não estiverem preparados.
+QUEST_20150317_000495	{memo X}Encontre-o. A estrada se abrirá quando estiver provado que você é o verdadeiro Revelador.
+QUEST_20150317_000496	O que faz com que você caminhe na direção da luz em um lugar tomado pela escuridão?
+QUEST_20150317_000497	Quanto mais arduamente você tentar encontrá-lo, mais forte você se torna, mas se não encontrá-lo, você se torna mais fraco. {nl}O que é ele?
+QUEST_20150317_000498	Aide de Camp Selina
+QUEST_20150317_000499	O número de dias em que precisamos permanecer autossuficientes está aumentando cada vez mais. {nl}Antes brincávamos de arar uma terra para plantio, {nl}mas hoje estamos de verdade pensando em colocar isso em prática.
+QUEST_20150317_000500	Observador
+QUEST_20150317_000501	$Veja se não é você...a pessoa que me fez libertar a Deusa Saule. {nl}Por que está colocando sua vida em risco?
+QUEST_20150317_000502	$Não há necessidade para todos estes problemas. {nl}Você deveria seguir o exemplo dos outros e mergulhar na paz, {nl}e orar para que a Deusa conceda-lhe seus desejos.
+QUEST_20150317_000503	$Eu lhe alertei, mas você simplesmente não quis ouvir.
+QUEST_20150317_000504	$Você deve pagar o preço de sua escolha.
+QUEST_20150317_000505	$Eu te subestimei.
+QUEST_20150317_000506	{memo X}Ainda não acabou! {nl}Eu estarei observando da [#pending Fallen Worry Forest].
+QUEST_20150317_000507	$Aviso
+QUEST_20150317_000508	$Estragado. Não usar!
+QUEST_20150317_000509	$Esta é a primeira Revelação que eu fiz. {nl}Para você, esta deve ser a terceira.
+QUEST_20150317_000510	$Minha força irá enfraquecer toda vez que eu colocar uma parte de mim em uma Revelação. {nl}Mais de mil anos terão se passado no momento em que a revelação chegar até você. {nl}E mesmo minha consciência terá deixado de existir. 
+QUEST_20150317_000511	$É por isso que eu precisei encontrar um guardião para proteger a Revelação. {nl}Infelizmente, minhas irmãs e eu não chegamos em um acordo sobre minha Revelação, {nl}e eu não fui capaz de deixar a Revelação com a maioria delas.
+QUEST_20150317_000512	$Somente Saule apoiou minha Revelação, então deixei-a com ela. {nl}E por um tempo muito longo, eu saí em uma jornada em busca de um guardião.
+QUEST_20150317_000513	$Quando pensei em humanos como você, uma idéia promissora me surgiu. {nl}Os demônios desprezam os humanos, então eles não poderiam nem imaginar que eu deixaria a Revelação com você.
+QUEST_20150317_000514	$Mas acima de tudo, eu confiei nos humanos. {nl}Você deve ter visto isto por si mesmo até agora. {nl}Apesar de passar por desastres como a Árvore do Desespero, {nl}humanos não perdem a esperença facilmente.
+QUEST_20150317_000515	$O guardião da próxima Revelação será aquele que une o Reino. {nl}Você poderá encontrar a próxima Revelação na parte mais profunda do Mausoléu Real aonde ele descansa.
+QUEST_20150317_000516	{memo X}O mausoléu fica na área do vale. {nl}Irei abrir um portal para você.
+QUEST_20150317_000517	$Alma Presa do Soldado
+QUEST_20150317_000518	$Por favor, me ajude.
+QUEST_20150317_000519	$Leve-me até a Deusa.
+QUEST_20150317_000520	$É tão doloroso
+QUEST_20150317_000521	$Parece estar dormindo.
+QUEST_20150317_000522	$Estátua da Coruja Enfurecida
+QUEST_20150317_000523	$Sem respostas.
+QUEST_20150317_000524	$Alma do Mercador Pesaroso
+QUEST_20150317_000525	$Se você não tiver dinheiro, você não é diferente de um homem morto.
+QUEST_20150317_000526	$Eu deveria ter ouvido minha esposa. {nl}Ela disse que é má sorte ser amigo de estudiosos... {nl}Eu estou realmente caindo fora dos negócios!
+QUEST_20150317_000527	$Eu poderia compensar a perda se recuperasse os itens...
+QUEST_20150317_000528	$Estátua da Coruja Adormecida
+QUEST_20150317_000529	$Ela parece estar em um sono muito profundo.
+QUEST_20150317_000530	$Não há absolutamente nenhum resposta.
+QUEST_20150317_000531	$Não há absolutamente nenhum movimento.
+QUEST_20150317_000532	$A escrita não é mais visível.
+QUEST_20150317_000533	$Têm o direito de receber a mensagem real secreta.
+QUEST_20150317_000534	$As letras não estão mais visíveis.
+QUEST_20150317_000535	{memo X}Parece que a função deixou de funcionar.
+QUEST_20150317_000536	{memo X}Sim...este é o melhor tempo para beber um rum.
+QUEST_20150317_000537	{memo X}Eu sou o pirata que perdeu seu derradeiro navio! {nl}Hmm..eu gosto de como isto soa.
+QUEST_20150317_000538	{memo X}Me prove sua competência.
+QUEST_20150317_000539	{memo X}Mesmo que as Deusas não estejam por perto, {nl} o Oráculo continua podendo enviar as mensagens delas para as pessoas.
+QUEST_20150317_000540	{memo X}Haha, obrigado. {nl}Lembre-se, deve ser a árvore na praça central.
+QUEST_20150317_000541	$Blaster Luina
+QUEST_20150317_000542	$Os Hogmas estão invadindo através de uma entrada que encontraram. {nl}Nos pediram para destruir a entrada para bloquear a sua invasão.
+QUEST_20150317_000543	$Mas depois de ser atacado, não tenho mais bombas.
+QUEST_20150317_000544	$Têm bombas boas para uso único dentro da caixa. {nl}Use-as para destruir a barricada que eles fizeram.
+QUEST_20150317_000545	$E pegue algo com eles que possa ser usado como explosivos.
+QUEST_20150317_000546	$Gerente do Mercado
+QUEST_20150317_000547	$Bem vindo! {nl}Você pode comprar ótimos itens por um preço barato se você procurar com cuidado. {nl}É claro, também é possível gastar uma grande quantia em algo que supostamente deve ser barato...
+QUEST_20150317_000548	$Cartão de Proposta
+QUEST_20150317_000549	$Rosas que ainda têm fragância. {nl}Embora elas parecem ter murchado com o tempo.
+QUEST_20150317_000550	$Idoso Benevolente
 QUEST_20150317_000551
 QUEST_20150317_000552
 QUEST_20150317_000553
@@ -584,57 +584,57 @@ QUEST_20150317_000583
 QUEST_20150317_000584
 QUEST_20150317_000585
 QUEST_20150317_000586
-QUEST_20150317_000587 Peregrino
-QUEST_20150317_000588 Eu estou com tanta fome. {nl}Por favor, me dê algo para comer
-QUEST_20150317_000589 Isso não é o suficiente. {nl}Dê a ele mais carne.
-QUEST_20150317_000590 {memo X}Ele disse que está com tontura. {nl}O remédio não está funcionando?
-QUEST_20150317_000591 {memo X}Você ainda está com fome...?
-QUEST_20150317_000592 Ele parece apreensivo. {nl}Esses vasos são vendidos às vezes para peregrinos que vêm rezar. {nl}Os lucros são todos usados como doações para restaurar Fedimian.
-QUEST_20150317_000593 Trabalhador de Fedimian
-QUEST_20150317_000594 {memo X}Coloque seus desejos no vaso e eles podem se tornar realidade. {nl}Eu sei que é uma tradição, mas restaurar Fedimian é mais importante que cerâmica.
-QUEST_20150317_000595 Eu só sei fazer artersanato com prata, então isso é tudo que eu posso fazer para ajudar. {nl}Claro, eu gostaria de ajudar a restaurar a área do mercado se eu tivesse a força.
-QUEST_20150317_000596 Oleiro Velho
-QUEST_20150317_000597 A oficina foi destruída pelo terremoto em Medzio Diena. {nl}Faz quatro anos desde a última vez em que eu me preocupei em como viver.
-QUEST_20150317_000598 Eu costumava fazer artesanato com prata, mas agora eu estou usando todo o meu talento para fazer decorações de cerâmica. {nl}Pessoas de todo o reino se reúnem aqui para seus desejos.
-QUEST_20150317_000599 Transportador de Carroça
-QUEST_20150317_000600 Isso é um vaso para colocar seus desejos dentro. {nl}Olhe dentro dele e você verá barras de argila com desejos escritos nelas. {nl]Alguns deles são muito engraçados.
-QUEST_20150317_000601 Felizmente, trabalhadores de todas as áreas estão se reunindo para ajudar a restaurar Fedimian. {nl}Olhe a que ponto chegamos desde Medzio Diena. {nl}Eu realmente pensei que o mundo acabaria naquele dia.
-QUEST_20150317_000602 Guarda de Fedimian
-QUEST_20150317_000603 É impossível ver a estátua gigantesca da Deusa Zemyna inteira de uma vez só. {nl}Mesmo depois que sua metade de baixo foi enterrada em baixo da terra depois do enorme terremoto.
-QUEST_20150317_000604 {memo X}O quê? {nl}Como você subiu aqui?
-QUEST_20150317_000605 A Bandeira do Reino
-QUEST_20150317_000606 O Reino Eterno brilha intensamente. {nl}Zachariel sucedeu em unificar todas as terras em um só reino poderoso.
-QUEST_20150317_000607 O reino é o único na terra. Ele não precisa de um nome.
-QUEST_20150317_000608 A história do Milenário
-QUEST_20150317_000609 O festival para o milenário da fundação nacional acabou de começar.
-QUEST_20150317_000610 Todos estão bebendo Hidromel, dançando para a Deusa e rindo para valer.
-QUEST_20150317_000611 Festival Zensho
-QUEST_20150317_000612 Quando Zachariel fundou o Reino, ele construiu a capital em torno de uma árvore chamada Árvore Divina.
-QUEST_20150317_000613 O emperador, junto aos sacerdotes, abençoa essa árvore divina todo ano.
-QUEST_20150317_000614 Os registros de Medzio Diena
-QUEST_20150317_000615 No ano de 1091, nem ao menos 100 anos depois da celebração do milenário, {nl}a Árvore Divina de repente surgiu do chão e danificou muitas cidades no seu despertar.
-QUEST_20150317_000616 A árvore era tão alta que ela tocava o céu e ninguém conseguia medir suas dimensões.
-QUEST_20150317_000617 Flora
-QUEST_20150317_000618 Em Medzio Diena, muitas plantas e animais tornaram-se monstros violentos.
-QUEST_20150317_000619 Se você pudesse entender a natureza das mudanças, revertê-las seria possível.
-QUEST_20150317_000620 Declaração do Bispo-Sacerdote de Klaipeda
-QUEST_20150317_000621 Em Medzio Diena, o mercado de Klaipeda desapareceu e o rei faleceu. {nl}A maioria dos ministros e oficiais também faleceram, então nós não podemos esperar apoio da capital.
-QUEST_20150317_000622 Por isso, sob essas circunstâncias, eu declaro minha autonomia como o Bispo de Klaipeda. {nl} - Bispo Baek
-QUEST_20150317_000623 Biografia do Herói
-QUEST_20150317_000624 Se não fosse pelos quatro heróis, a maioria das cidades seriam destruídas. {nl}Suas armas sagradas eram uma vista para contemplar durante Medzio Diena.
-QUEST_20150317_000625 {memo X}Entre eles, o Mestre Paladino foi um herói que salvou muitas vidas na capital. {nl}Atualmente, ele foi para o Desfiladeiro de Silvestream para lutar contra um grande mal.
-QUEST_20150317_000626 História da Rebelião
-QUEST_20150317_000627 Quando o grande espadachim, Rukyls, completou a fortaleza, {nl}muitos daqueles que o admiravam se uniram sobre seu comando.
-QUEST_20150317_000628 Ao longo do tempo, o poder do seu grupo cresceu para aquele de uma cidade-estado,{nl}e foi suspeitado que a ambição de Rukyls crescera igualmente.
-QUEST_20150317_000629 A influência de Rukyls cresceu tanto que ele eventualmente se revoltou contra o Rei Kadumel.
-QUEST_20150317_000630 Foi uma rebelião gigantescsa. A cidade inteira participou. {nl}É por isso que alguns registram esse evento como uma guerra civíl.
-QUEST_20150317_000631 A rebelião inicialmente favoreceu a Rukyls, mas o curso mudou {nl}quando a melhor atiradora, Lydia Schaffen, entrou na guerra.
-QUEST_20150317_000632 Tudo acabou dois anos depois, quando Rukyls foi morto pelas mãos de Lydia Schaffen.
-QUEST_20150317_000633 Por causa da revolta, a cidade de Rukyls perdeu seu nome e caiu sobre uma maldição eterna.. {nl}Mesmo agora, a maldição transforma tudo em pedra.
-QUEST_20150317_000634 Nosso amigo
-QUEST_20150317_000635 Você é meu companheiro fofo. {nl}Você tem dentes assustadores e garras afiadas,{nl}mas eu não estou com medo! {nl}Você é meu companheiro fofo! 
-QUEST_20150317_000636 Você é meu bom-amigo companheiro. {nl}O mundo está cheio de monstros, {nl}mas eu não estou com medo. {nl}Você é meu bom-amigo companheiro.
-QUEST_20150317_000637 Estátua da Deusa de Klaipeda
+QUEST_20150317_000587	Peregrino
+QUEST_20150317_000588	Eu estou com tanta fome. {nl}Por favor, me dê algo para comer
+QUEST_20150317_000589	Isso não é o suficiente. {nl}Dê a ele mais carne.
+QUEST_20150317_000590	{memo X}Ele disse que está com tontura. {nl}O remédio não está funcionando?
+QUEST_20150317_000591	{memo X}Você ainda está com fome...?
+QUEST_20150317_000592	Ele parece apreensivo. {nl}Esses vasos são vendidos às vezes para peregrinos que vêm rezar. {nl}Os lucros são todos usados como doações para restaurar Fedimian.
+QUEST_20150317_000593	Trabalhador de Fedimian
+QUEST_20150317_000594	{memo X}Coloque seus desejos no vaso e eles podem se tornar realidade. {nl}Eu sei que é uma tradição, mas restaurar Fedimian é mais importante que cerâmica.
+QUEST_20150317_000595	Eu só sei fazer artersanato com prata, então isso é tudo que eu posso fazer para ajudar. {nl}Claro, eu gostaria de ajudar a restaurar a área do mercado se eu tivesse a força.
+QUEST_20150317_000596	Oleiro Velho
+QUEST_20150317_000597	A oficina foi destruída pelo terremoto em Medzio Diena. {nl}Faz quatro anos desde a última vez em que eu me preocupei em como viver.
+QUEST_20150317_000598	Eu costumava fazer artesanato com prata, mas agora eu estou usando todo o meu talento para fazer decorações de cerâmica. {nl}Pessoas de todo o reino se reúnem aqui para seus desejos.
+QUEST_20150317_000599	Transportador de Carroça
+QUEST_20150317_000600	Isso é um vaso para colocar seus desejos dentro. {nl}Olhe dentro dele e você verá barras de argila com desejos escritos nelas. {nl]Alguns deles são muito engraçados.
+QUEST_20150317_000601	Felizmente, trabalhadores de todas as áreas estão se reunindo para ajudar a restaurar Fedimian. {nl}Olhe a que ponto chegamos desde Medzio Diena. {nl}Eu realmente pensei que o mundo acabaria naquele dia.
+QUEST_20150317_000602	Guarda de Fedimian
+QUEST_20150317_000603	É impossível ver a estátua gigantesca da Deusa Zemyna inteira de uma vez só. {nl}Mesmo depois que sua metade de baixo foi enterrada em baixo da terra depois do enorme terremoto.
+QUEST_20150317_000604	{memo X}O quê? {nl}Como você subiu aqui?
+QUEST_20150317_000605	A Bandeira do Reino
+QUEST_20150317_000606	O Reino Eterno brilha intensamente. {nl}Zachariel sucedeu em unificar todas as terras em um só reino poderoso.
+QUEST_20150317_000607	O reino é o único na terra. Ele não precisa de um nome.
+QUEST_20150317_000608	A história do Milenário
+QUEST_20150317_000609	O festival para o milenário da fundação nacional acabou de começar.
+QUEST_20150317_000610	Todos estão bebendo Hidromel, dançando para a Deusa e rindo para valer.
+QUEST_20150317_000611	Festival Zensho
+QUEST_20150317_000612	Quando Zachariel fundou o Reino, ele construiu a capital em torno de uma árvore chamada Árvore Divina.
+QUEST_20150317_000613	O emperador, junto aos sacerdotes, abençoa essa árvore divina todo ano.
+QUEST_20150317_000614	Os registros de Medzio Diena
+QUEST_20150317_000615	No ano de 1091, nem ao menos 100 anos depois da celebração do milenário, {nl}a Árvore Divina de repente surgiu do chão e danificou muitas cidades no seu despertar.
+QUEST_20150317_000616	A árvore era tão alta que ela tocava o céu e ninguém conseguia medir suas dimensões.
+QUEST_20150317_000617	Flora
+QUEST_20150317_000618	Em Medzio Diena, muitas plantas e animais tornaram-se monstros violentos.
+QUEST_20150317_000619	Se você pudesse entender a natureza das mudanças, revertê-las seria possível.
+QUEST_20150317_000620	Declaração do Bispo-Sacerdote de Klaipeda
+QUEST_20150317_000621	Em Medzio Diena, o mercado de Klaipeda desapareceu e o rei faleceu. {nl}A maioria dos ministros e oficiais também faleceram, então nós não podemos esperar apoio da capital.
+QUEST_20150317_000622	Por isso, sob essas circunstâncias, eu declaro minha autonomia como o Bispo de Klaipeda. {nl} - Bispo Baek
+QUEST_20150317_000623	Biografia do Herói
+QUEST_20150317_000624	Se não fosse pelos quatro heróis, a maioria das cidades seriam destruídas. {nl}Suas armas sagradas eram uma vista para contemplar durante Medzio Diena.
+QUEST_20150317_000625	{memo X}Entre eles, o Mestre Paladino foi um herói que salvou muitas vidas na capital. {nl}Atualmente, ele foi para o Desfiladeiro de Silvestream para lutar contra um grande mal.
+QUEST_20150317_000626	História da Rebelião
+QUEST_20150317_000627	Quando o grande espadachim, Rukyls, completou a fortaleza, {nl}muitos daqueles que o admiravam se uniram sobre seu comando.
+QUEST_20150317_000628	Ao longo do tempo, o poder do seu grupo cresceu para aquele de uma cidade-estado,{nl}e foi suspeitado que a ambição de Rukyls crescera igualmente.
+QUEST_20150317_000629	A influência de Rukyls cresceu tanto que ele eventualmente se revoltou contra o Rei Kadumel.
+QUEST_20150317_000630	Foi uma rebelião gigantescsa. A cidade inteira participou. {nl}É por isso que alguns registram esse evento como uma guerra civíl.
+QUEST_20150317_000631	A rebelião inicialmente favoreceu a Rukyls, mas o curso mudou {nl}quando a melhor atiradora, Lydia Schaffen, entrou na guerra.
+QUEST_20150317_000632	Tudo acabou dois anos depois, quando Rukyls foi morto pelas mãos de Lydia Schaffen.
+QUEST_20150317_000633	Por causa da revolta, a cidade de Rukyls perdeu seu nome e caiu sobre uma maldição eterna.. {nl}Mesmo agora, a maldição transforma tudo em pedra.
+QUEST_20150317_000634	Nosso amigo
+QUEST_20150317_000635	Você é meu companheiro fofo. {nl}Você tem dentes assustadores e garras afiadas,{nl}mas eu não estou com medo! {nl}Você é meu companheiro fofo! 
+QUEST_20150317_000636	Você é meu bom-amigo companheiro. {nl}O mundo está cheio de monstros, {nl}mas eu não estou com medo. {nl}Você é meu bom-amigo companheiro.
+QUEST_20150317_000637	Estátua da Deusa de Klaipeda
 QUEST_20150317_000638
 QUEST_20150317_000639
 QUEST_20150317_000640
@@ -902,7 +902,7 @@ QUEST_20150317_000901	{memo X}É bom que a droga funcione…
 QUEST_20150317_000902	{memo X}Eles estão se sentido com náuseas? {nl}Não sei dizer se a droga está funcionando só vendo as reações deles.
 QUEST_20150317_000903	{memo X}Agora te darei a droga. {nl}Dê-a aos pilgrims.
 QUEST_20150317_000904	{memo X}Agora é melhor eu ir e enterrar o bispo.
-QUEST_20150317_000905 	{memo X}Obrigado por me ajidar a enterrar o bispo.
+QUEST_20150317_000905		{memo X}Obrigado por me ajidar a enterrar o bispo.
 QUEST_20150317_000906	Mármore Vermelho
 QUEST_20150317_000907	Está emitindo uma luz vermelha.
 QUEST_20150317_000908	Mármore Azul
@@ -1048,95 +1048,95 @@ QUEST_20150317_001047	Selecione o Início/Fim do Pedido
 QUEST_20150317_001048	{memo X}Empregado Ramda
 QUEST_20150317_001049	{memo X}Os pedidos que eu supervisiono são diferentes de outros. {nl}Lhe prometo que existem claras recompensas para você e os membros do seu grupo.
 QUEST_20150317_001050	Grande Mercador Gilliam
-QUEST_20150317_001051 $Você está pronto para começar o próximo estágio?
-QUEST_20150317_001052 {memo X}Oficial
-QUEST_20150317_001053 {memo X}Eu irei lhe guiar para onde acredito que suas habilidades são mais necessárias.
-QUEST_20150317_001054 {memo X}Teve um repentino aumento de monstros nos Bosques Ocidentais Siauliai. {nl}Precisamos de sua ajuda, urgentemente.
-QUEST_20150317_001055 {memo X}Vubbes estão saindo da Mina de Cristal. {nl}#pending a Vila dos Mineiros precisa de sua ajuda.
-QUEST_20150317_001056 {memo X}Uma aura perversa desceu sobre o #pending Desfiladeiro do Riacho de Prata (Silverstream Gorge), sinalizando uma invasão de demônios. {nl}Batedores e seguidores Paladinos estão bloqueando o avanço deles, mas precisam desesperadamente de sua ajuda.
-QUEST_20150317_001057 {memo X}Monstros estão atacando a #pending Capela do Dogma. {nl}Seguidores Paladinos estão bloqueando seus ataques, mas logo cairão se não houver ajuda.
-QUEST_20150317_001058 {memo X}Coisas estranhas estão ocorrendo no #pending Riacho da Grama (Grass[y?] Brookside). {nl}Todos os aldeões desapareceram e agora os monstros ocupam a vila.
-QUEST_20150317_001059 {memo X}Tem uma alma escura se formando na #pending Rota do Portão. {nl}Se não nos livrarmos daquela aura, videiras espinhosas cobrirão a floresta.
-QUEST_20150317_001060 {memo X}Por favor, ajude os historiadores na #pending Passagem do Grande Rei. {nl}Monstros estão os seguindo desde que encontraram pistas sobre o Medzio Diena.
-QUEST_20150317_001061 {memo X}Zachariel, o túmulo do Grande Rei está sendo arruinado por uma horda. {nl}O túmulo será destruído pelos demônios se você não enfrentá-los.
-QUEST_20150317_001062 {memo X}Monstros estão obstruindo a entrada da #pending Alta Estrada Tortuosa (High Crooked Road). Se não lidarmos com esses monstros, então as cidades e vilas ficarão isoladas.
-QUEST_20150317_001063 {memo X}Demônios invadiram a #pending Torre dos Magos. {nl}Precisamos da sua ajuda rapidamente.
-QUEST_20150317_001064 {memo X}Precisamos de auxílio na #pending Entrada da Foresta Kateen. {nl}Devemos ser capazes de retomar a floresta dos monstros, mas precisaremos de mais apoio e mão de obra.
-QUEST_20150317_001065 {memo X}Precisamos de auxílio para limpar o caminho entre o #pending Pico da Alma e a #pending Passagem do Grande Rei. {nl}Por favor, ajude-nos.
-QUEST_20150317_001066 {memo X}Houve um desastre no #pending Caminho do Demônio Faminto. {nl}Por favor, envie ajuda rapidamente.
-QUEST_20150317_001067 {memo X}A Grande Catedral está sendo arruinada por uma horda ameaçadora. {nl}A Catedral logo entrará em colapso sem a sua ajuda.
-QUEST_20150317_001068 {memo X}168 [Siauliai50_1, 47_4]
-QUEST_20150317_001069 {memo X}171 #pending [Campo Agrícola47] (Farmland)
-QUEST_20150317_001070 {memo X}178 #pending [Prisão do Demônio]
-QUEST_20150317_001071 {memo X}189 #pending [Campo Agrícola49] (Farmland)
-QUEST_20150317_001072 {memo X}196 #pending [Prisão do Demônio54_1]
-QUEST_20150317_001073 {memo X}198 [Siauliai46]
-QUEST_20150317_001074 {memo X}208 #pending [Floresta dos Espinhos39] (Thorn Forest)
-QUEST_20150317_001075 {memo X}217 #pending [Catacumba38_2, 04, 38_1, 02] (Catacomb)
-QUEST_20150317_001076 {memo X}226 [Área de Ruínas37_1, 2, 3] (Area of Ruins)
-QUEST_20150317_001077 {memo X}Monstros estão avançando sobre a amaldiçoada cidade de calcário. {nl}As tropas despachadas estão fazendo tudo que podem para resistir mas a maldição está tornando a situação terrível.
-QUEST_20150317_001078 {memo X}245 #pending [Forte da Terra] (Fort of Land)
-QUEST_20150317_001079 $Revelação da #pending Torre dos Magos
-QUEST_20150317_001080 $É uma antiga história de Fedimian antes da Estátua da Deusa.
-QUEST_20150317_001081 $Há muito tempo atrás, as pessoas de Fedimian eram comuns. {nl}- não muito diferentes das pessoas comuns do resto do mundo. {nl}No entanto, as pessoas de Fedimian diferiam de seus iguais pelo mundo em um aspecto.
-QUEST_20150317_001082 $As pessoas de Fedimian eram muito cautelosas. No sentido de que levavam a palavra 'cautelosos' de uma maneira muito mais séria. {nl}Estas pessoas eram tão cautelosas em volta do fogo quanto eram longe dele.
-QUEST_20150317_001083 $Os #pending Fedimians eram modestos sobre isto com os outros. {nl}Mesmo aqueles que ficavam em Fedimian por um tempo não adquiriam o traço.
-QUEST_20150317_001084 $Graças a este comportamento, as pessoas de Fedimian se saiam melhor durante tempos difíceis, como se eles pudessem sentir o perigo se aproximando.
-QUEST_20150317_001085 $Por causa disso, não são poucas as palavras que são ditas acerca da cautela do povo de Fedimian.
-QUEST_20150317_001086 $Em Fedimian, se alguém deixasse cair dinheiro no chão, ele sumia para sempre. Em um mundo onde dinheiro era principalmente moeda de prata, somente os credores saberiam exatamente quanto dinheiro fora perdido desta maneira.
-QUEST_20150317_001087 $O por quê o dinheiro desaparecia no chão de Fedimian continua incerto. {nl}Algumas pessoas acreditam que a Deusa Zemyna absorve o dinheiro que entra em contato com sua área. {nl}Mas a maioria das pessoas acredita que isto foi feito para reduzir a procura de moedas de prata dos credores.
-QUEST_20150317_001088 $Por acreditar que a própria Deusa pega o dinheiro, as pessoas achavam infrutífero tentar cavar por prata em seu solo. {nl} O fato de você poder oferecer moedas de prata em Fedimian em tributo à ela reinforça esta idéia.
-QUEST_20150317_001089 $De qualquer modo, o fato de que alguém poderia perder dinheiro deixando-o cair no solo de Fedimian fez dos #pending Fedimians muito cuidadosos ao manipularem seu dinheiro.
-QUEST_20150317_001090 $No entanto, por mais que alguém tente ser cauteloso, erros continuam a acontecer. {nl}Mais ainda no caso de jovens garotas. {nl}Um dia, aconteceu com uma garota chamada Aiste.
-QUEST_20150317_001091 $Normalmente, quando alguém deixa cair moedas de prata no chão, elas se espalhariam na estrada, e então desapareceriam sem deixar traços. {nl}#pending Fedimian normalmente praguejariam por sua própria falta de cuidado e seguiriam em frente, mas Aiste era diferente: ela se perguntou por que e como isso acontecia.
-QUEST_20150317_001092 $Para descobrir o que aconteceu, Aiste começou inspecionando a área em que ela perdeu as moedas. {nl}Em sua busca, ela se deparou com um mendigo ao lado da parte mais distante do canal.
-QUEST_20150317_001093 {memo X}Aiste perguntou ao mendigo idoso, {nl}'Você por um acaso pegou as moedas que deixei cair? Você as devolveria para mim? {nl}Eu trabalhei muito duro todos os dias por aquelas moedas e realmente preciso delas.'
-QUEST_20150317_001094 {memo X}O mendigo foi pego de surpresa. Aiste estava pedindo o impossível. Afinal, encontrar moedas derrubadas em Fedimian era impensável. {nl}O velho mendigo estava pronto para explicar isto para Aiste mas em vez disso comentou, {nl}'Eu também perdi moedas nessa área. Seria legal da sua parte se você procurasse pelas minhas enquanto procura pelas suas.' 
-QUEST_20150317_001095 $Quase imediatamente, o mendigo se sentiu culpado pela zombaria que deixou escapar. Ele pediu desculpas a Aiste.
-QUEST_20150317_001096 {memo X}'Por que você não vai até onde trabalha e explica o que aconteceu a eles? Certifique de parecer perdida'. O mendigo então complementou hesitante, {nl}'Enquanto isso, eu vou procurando por suas moedas de prata perdias aqui'.
-QUEST_20150317_001097 $Ao ouvir as palavras do mendigo, Aiste o agradeceu, e foi embora para seguir seu conselho. {nl}Através de seu ato altruísta, o mendigo sentiu reavivado seu senso de responsabilidade. Ele olhou para a silhueta de Aiste indo embora, e sentiu seu coração pesado e quente com a experiência.
-QUEST_20150317_001098 $Aiste foi para os pomares nos arredores de Fedimian, onde ela trabalhava. {nl}Lá, enquanto alguém colhia frutas das árvores, também era importante pegar as frutas que caiam no chão.
-QUEST_20150317_001099 $Mãos menores eram melhores para colher frutas, então jovens crianças também eram contratadas nos pomares. {nl}Alguns pomares tomaram um passo adiante: contratando macacos, cujas mãos eram menores do que as das crianças, para colher frutas. Macacos trabalhavam de maneira mais fetiva que crianças, mas as vezes comiam as frutas que colhiam. Assim, a maioria dos proprietários preferiam contratar crianças.
-QUEST_20150317_001100 $Voltando, Aiste visitou o pomar que trabalhava e explicou sua situação ao proprietário. {nl}Infelizmente, o proprietário não estava de bom humor, tendo acabado de brigar com sua esposa. {nl}Ele, como todos os outros #pending Fedimians, sabia do fenônemo, e não viu razão para dar mais dinheiro a Aiste.
-QUEST_20150317_001101 {memo X}E então ele disse, {nl}'Assim como você foi capaz de colher todas minhas frutas, você deve ser capaz de encontrar o dinheiro que perdeu em Fedimian, então não me diga para lhe dar um segundo pagamento.' {nl}As palavras frias do proprietário do pomar trouxeram lágrimas aos olhos da garota. {nl}A visão quebrou seu coração, mas mesmo assim, ele não queria dar a ela nenhum dinheiro a mais.
-QUEST_20150317_001102 {memo X}Ele logo foi tomado por culpa e disse, {nl}'Se você realmente precisa desse dinheiro, você deveria ir ao ourives.'
-QUEST_20150317_001103 $Aiste se dirigiu ao lugar que ficava o ourives assim que ouviu aquelas palavras. {nl}Infelizmente, a casa se localizava fora dos muros de Fedimian. {nl}Se fosse dentro, o ourives corria o risco de perder todo seu dinheiro e prataria para o solo.
-QUEST_20150317_001104 $É por essa razão ele vive nos arredores de Fedimian. {nl}Aiste bateu na porta da frente e explicou sua situação para ele assim que ele respondeu.
-QUEST_20150317_001105 {memo X}O ourives, depois de ouvir a história de Aiste, afirmou, {nl}'Mesmo para crianças é ser tão descuidado. Como você pode não saber que todo dinheiro que cai no solo de Fedimian desaparece, para nunca ser encontrado novamente?'
-QUEST_20150317_001106 {memo X}Aiste ficou surpresa pelo o que o ourives disse e ficou triste. {nl}Depois de um tempo, ela perguntou, {nl}'Então por que algo tão cruel assim acontece?'
-QUEST_20150317_001107 {memo X}Mesmo o ourives não sabia a verdadeira resposta, então improvisou, {nl}'A Deusa Zemyna deve estar pegando as moedas.'
-QUEST_20150317_001108 {memo X}Ouvindo estas palavras Aiste respondeu, {nl}'Então eu simplesmente terei que ir perguntar à Deusa.' {nl}O ourives ficou espantado e replicou, {nl}'Enquanto você está nesta, por que não pede a Deusa para retornar minha prataria?'
-QUEST_20150317_001109 $O ourives não levou suas próprias palavras a sério, mas Aiste sim. {nl} Ela imediatamente se propôs a fazer o que foi dito. O ourives sentiu pena de Aiste, {nl}mas não teve coragem de a chamar de volta enquanto ela sumia na distância.
-QUEST_20150317_001110 {memo X}Exausta, Aiste logou chegou na estátua da Deusa Zemyna. {nl}Ela se prostou à sua frente e rezou para a representaçao da Estátua da Deusa, sua cabeça completamente abaixada. {nl}Oh, Deusa. Por favor devolva minhas moedas de prata perdidas.' {nl}Logo, enquanto oferecia suas orações, Aiste não conseguia mais se segurar em sua tristeza e ela finalmente chorou.
-QUEST_20150317_001111 {memo X}Quanto tempo ela rezou chorando? {nl}Subitamente, Aiste ouviu uma voz dirigida a ela. {nl}'Minha criança, veio pegar de volta aquilo que você perdeu?'
-QUEST_20150317_001112 $Aiste sabia em seu coração que era a Deusa Zemyna que se diriga a ela. {nl}Ela parou de chorar, limpou a voz e respondeu.
-QUEST_20150317_001113 {memo X}A voz da Deusa foi ouvida novamente. {nl}'Aiste, o que você me pede não é um método que aprovo. Aonde eu reino não há colheita nem frutas para aqueles que não trabalham.'
-QUEST_20150317_001114 {memo X}'Mas eu trabalhei muito duro hoje!'
-QUEST_20150317_001115 {memo X}'Eu sei. Por isso, eu darei a você e aos outros uma chance. Olhe debaixo de seus pés.'
-QUEST_20150317_001116 $A voz da Deusa desapareceu com aquelas palavras, e Aiste encontrou moedas de prata debaixo de seus pés. {nl}Ela olhou para onde a Deusa tinha deixado suas moedas e descobriu que as lágrimas que derramou tinham se transformado em moedas. {nl}Aiste estava muito feliz, e fez questão de pegar toda prata antes de sair.
-QUEST_20150317_001117 {memo X}Depois de alguns passos, Aiste pensou sobre o ourives, {nl}e, novamente, foi até sua casa e bateu na porta. {nl}Como se o ourives já estivesse esperando pelo seu retorno, ele abriu a porta e disse imediatamente. {nl}Me desculpe, eu me arrependo de ter te mandado embora daquela forma. Eu irei lhe dar alguma prata. {nl} Desta vez, tenha cuidado para não deixar cair tudo e chegar em casa com segurança.'
-QUEST_20150317_001118 {memo X}Enquanto o ourives estendia suas moedas de prata, Aiste balançou a cabeça e disse, {nl}'Não obrigado, a Deusa devolveu todas as minhas moedas. Na verdade, ela me deu ainda mais. {nl}Eu lembro de você dizendo que você também perdeu prata, então eu vim aqui para lhe entregar minhas moedas extras. Você não precisa me dar as suas.'
-QUEST_20150317_001119 {memo X}De início, o ourives estava cético sobre as moedas serem devolvidas, {nl}então ele ficou surpreso quando Aiste lhe mostrou moedas genuínas. Depois de pensar por um tempo, o ourives disse, {nl}'Então que tal isto. Você me dá o que você quiser enquanto aceita o que eu estava prestes a lhe dar. {nl}Não é justo? Além disso, eu também lhe darei uma bolsa para carregar sua prata extra.'
-QUEST_20150317_001120 $Aiste agradeceu e deu suas moedas extras para o ourives. {nl}Depois disto, o ourives deu a Aiste sua bolsa de moedas.
-QUEST_20150317_001121 {memo X}Depois de deixar a casa do ourives, {nl}Aiste subitamente lembrou que o velho mendigo ainda deveria estar procurando por suas moedas e se preocupou com ele. {nl}Em seu caminho para encontrar o mendigo, ela encontrou o proprietário do pomar novamente. {nl}Ao ver Aiste, o proprietário do pomar estava radiante. {nl}'Eu estava procurando por você. Me desculpe por ter lhe mandado embora antes. Como um pedido de desculpas, eu irei lhe dar seu salário novamente. {nl} Por favor, tenha cuidado para não perder ele novamente.'
-QUEST_20150317_001122 {memo X}O proprietário do pomar pegou uma grande quantidade de moedas, mais do que o próprio salário de Aiste, e entregou a ela. [nl]No entanto, Aiste balançou sua cabeça e disse, {nl}'A Deusa Zemyna já me devolveu meu dinheiro. O ourives também me ajudou, então na verdade agora eu já tenho muito. {nl}Aqui, dê uma olhada.'
-QUEST_20150317_001123 $Dizendo isto, Aiste abriu a bolsa de moedas que ela conseguiu com o ourives e mostrou para o proprietário do pomar. {nl}Ele ficou extremamente surpreso, já que o montante de dinheiro que ela conseguiu da Deusa e do ourives ultrapassou a quantia que ele tinha.
-QUEST_20150317_001124 {memo X}Desconsiderando o montante que Aiste havia lhe mostrado, o proprietário do pomar disse, {nl}'Bem, mesmo assim, eu me sentiria envergonhado se não lhe entregasse minha contribuição, então por favor apenas pegue isto.' {nl}Depois de dizer isto, o proprietário do pomar enfiou suas moedas na bolsa de Aiste e foi embora. {nl}No tempo que Aiste conseguiu reunir energia para chamar pelo proprietário do pomar, ele já estava longe demais.
-QUEST_20150317_001125 {memo X}Ela hesitou por um momento mas então recolocou sua mente no mendigo. {nl}Depois de um pouco caminhar, Aiste chegou aonde eles tinham se encontrado. O velho mendigo a viu primeiro e correu para ela. {nl}Ele mostrou-lhe as moedas de prata que estava apertando junto a si e disse, 'Olhe! Eu encontrei sua prata perdida.' {nl}Aiste recebeu a prata do mendigo e então mostrou a ele sua bolsa e disse, {nl}Olhe, eu encontrei suas moedas de prata também.'
-QUEST_20150317_001126 $Embora o mendigo estivesse exausto, ele juntou suas mãos para receber suas moedas de volta. {nl}Vendo isto Aiste foi levada à beira das lágrimas. {nl}Ela imaginou quanto o mendigo teve de implorar e pedir para dar a ela suas moedas de volta. {nl}Com o coração pesado, Aiste deu ao mendigo as moedas.
-QUEST_20150317_001127 {memo X}Depois disto, Aiste também lhe entregou sua bolsa e disse, {nl}'Este é um presente como agradecimento por porcurar por minhas moedas. Eu recebi isto pelas graças da Deusa Zemyna.' {nl}Aiste então partiu antes que o mendigo pudesse descobrir como responder.
-QUEST_20150317_001128 $O mendigo olhou para a sombra distante de Aiste, e abriu a bolsa de presentes que Aiste havia lhe dado, {nl}curioso pelo que tinha dentro. Dentro, ele ficou surpreso de encontrar dúzias de moedas de prata. {nl}Agora ele entendia porque Aiste foi capaz de partir muito mais rápido do que quando havia chegado. Ela tinha aliviado sua carga, dando-lhe o excesso.
-QUEST_20150317_001129 $Para um mendigo, que havia sido mesquinho por uma única moeda de prata, o fato de Aiste ter simplesmente lhe doado várias dezenas de vezes aquela quantia o comoveu. {nl}O fato de Aiste, que saiu em busca e resolveu o mistério de Fedimian, voltar e lhe entregar o que realmente não tinha obrigação de entregar, fez o mendigo se sentir muito grato.
-QUEST_20150317_001130 $Quanto mais ele pensava, menos o mendigo conseguia segurar suas lágrimas. {nl}Enquanto chorava, ele notou algo esquisito - cada lágrima brilhante que tocou o solo transformadas em moedas de prata.
-QUEST_20150317_001131 $O mendigo não podia acreditar em seus olhos, mas rapidamente lembrou das palavras de Aiste sobre a benção da Deusa. {nl}Depois de um tempo, o mendigo parou de chorar, e foi colher suas moedas e colocá-las na bolsa que Aiste lhe deu.
-QUEST_20150317_001132 $Poucos dias depois, o mendigo foi até a estátua para qual Aiste rezou. Lá, ele pegou uma moeda da bolsa para manter consigo, e ofereceu o resto para a Estátua da Deusa. {nl}Ele então rezou para a Deusa do fundo do seu coração e partiu. Enquanto o dinheiro que ele ofereceu desaparecia, o mendigo novamente se derramou em lágrimas, mas esta é outra história.
-QUEST_20150317_001133 $Depois de alguns dias, um estranho rumor se espalhou por Fedimian. {nl}O rumor de que a prata não mais desapareciam ao cair no solo de Fedimian. {nl}O rumor não caiu bem de início com os mais velhos, pessoas experientes, mas alguns testaram o rumor com uma quantidade irrisória de prata, {nl}e acabou que era verdade. Todos concordaram que o misterioso fenônemo de Fedimian tinha chegado ao fim.
-QUEST_20150317_001134 $Depois de um tempo, palavras deste ocorrido chegaram ao Rei. Curioso do por que isto aconteceu, o Rei ordenou uma investigação. {nl}A verdade secreta veio à luz, e a história de Aiste ficou conhecida.
-QUEST_20150317_001135 $O Rei louvou as pessoas que causaram este milagre com seus corações caridosos. {nl}Adicionalmente, para honrar a graça da Deusa, ele decidiu utilizar o tesouro nacional para construir uma grande estátua dedicada a ela.
-QUEST_20150317_001136 $No dia que a estátua foi finalmente completada, {nl}alguma coisa miraculosa aconteceu enquanto o Rei e Aiste foram juntos fazer a primeira oferenda. {nl}Em volta da estátua brotaram moedas - todas as moedas que foram perdidas pelos #pending Fedimians até aquele momento.
-QUEST_20150317_001137 $Após um debate caloroso, o povo de Fedimian decidiram não acumular suas moedas perdidas. {nl}Em vez disso, eles pediram para o Rei coletar todas elas e distribuir entre os pobres do Reino. {nl}O Rei prontamente concordou, e deu a ordem para gravar este lindo evento na história do Reino.
-QUEST_20150317_001138 $Mesmo agora, ninguém sabe quando ou como o misterioso fenômeno de Fedimian começou, {nl}mas todos sabem quando, como, e quem ajudou a desvendar o mistério. {nl}Foi através da bondade de Aiste e das pessoas que a ajudaram, e também através da graça da Deusa, que o mistério chegou ao fim.
-QUEST_20150317_001139 
+QUEST_20150317_001051	$Você está pronto para começar o próximo estágio?
+QUEST_20150317_001052	{memo X}Oficial
+QUEST_20150317_001053	{memo X}Eu irei lhe guiar para onde acredito que suas habilidades são mais necessárias.
+QUEST_20150317_001054	{memo X}Teve um repentino aumento de monstros nos Bosques Ocidentais Siauliai. {nl}Precisamos de sua ajuda, urgentemente.
+QUEST_20150317_001055	{memo X}Vubbes estão saindo da Mina de Cristal. {nl}#pending a Vila dos Mineiros precisa de sua ajuda.
+QUEST_20150317_001056	{memo X}Uma aura perversa desceu sobre o #pending Desfiladeiro do Riacho de Prata (Silverstream Gorge), sinalizando uma invasão de demônios. {nl}Batedores e seguidores Paladinos estão bloqueando o avanço deles, mas precisam desesperadamente de sua ajuda.
+QUEST_20150317_001057	{memo X}Monstros estão atacando a #pending Capela do Dogma. {nl}Seguidores Paladinos estão bloqueando seus ataques, mas logo cairão se não houver ajuda.
+QUEST_20150317_001058	{memo X}Coisas estranhas estão ocorrendo no #pending Riacho da Grama (Grass[y?] Brookside). {nl}Todos os aldeões desapareceram e agora os monstros ocupam a vila.
+QUEST_20150317_001059	{memo X}Tem uma alma escura se formando na #pending Rota do Portão. {nl}Se não nos livrarmos daquela aura, videiras espinhosas cobrirão a floresta.
+QUEST_20150317_001060	{memo X}Por favor, ajude os historiadores na #pending Passagem do Grande Rei. {nl}Monstros estão os seguindo desde que encontraram pistas sobre o Medzio Diena.
+QUEST_20150317_001061	{memo X}Zachariel, o túmulo do Grande Rei está sendo arruinado por uma horda. {nl}O túmulo será destruído pelos demônios se você não enfrentá-los.
+QUEST_20150317_001062	{memo X}Monstros estão obstruindo a entrada da #pending Alta Estrada Tortuosa (High Crooked Road). Se não lidarmos com esses monstros, então as cidades e vilas ficarão isoladas.
+QUEST_20150317_001063	{memo X}Demônios invadiram a #pending Torre dos Magos. {nl}Precisamos da sua ajuda rapidamente.
+QUEST_20150317_001064	{memo X}Precisamos de auxílio na #pending Entrada da Foresta Kateen. {nl}Devemos ser capazes de retomar a floresta dos monstros, mas precisaremos de mais apoio e mão de obra.
+QUEST_20150317_001065	{memo X}Precisamos de auxílio para limpar o caminho entre o #pending Pico da Alma e a #pending Passagem do Grande Rei. {nl}Por favor, ajude-nos.
+QUEST_20150317_001066	{memo X}Houve um desastre no #pending Caminho do Demônio Faminto. {nl}Por favor, envie ajuda rapidamente.
+QUEST_20150317_001067	{memo X}A Grande Catedral está sendo arruinada por uma horda ameaçadora. {nl}A Catedral logo entrará em colapso sem a sua ajuda.
+QUEST_20150317_001068	{memo X}168 [Siauliai50_1, 47_4]
+QUEST_20150317_001069	{memo X}171 #pending [Campo Agrícola47] (Farmland)
+QUEST_20150317_001070	{memo X}178 #pending [Prisão do Demônio]
+QUEST_20150317_001071	{memo X}189 #pending [Campo Agrícola49] (Farmland)
+QUEST_20150317_001072	{memo X}196 #pending [Prisão do Demônio54_1]
+QUEST_20150317_001073	{memo X}198 [Siauliai46]
+QUEST_20150317_001074	{memo X}208 #pending [Floresta dos Espinhos39] (Thorn Forest)
+QUEST_20150317_001075	{memo X}217 #pending [Catacumba38_2, 04, 38_1, 02] (Catacomb)
+QUEST_20150317_001076	{memo X}226 [Área de Ruínas37_1, 2, 3] (Area of Ruins)
+QUEST_20150317_001077	{memo X}Monstros estão avançando sobre a amaldiçoada cidade de calcário. {nl}As tropas despachadas estão fazendo tudo que podem para resistir mas a maldição está tornando a situação terrível.
+QUEST_20150317_001078	{memo X}245 #pending [Forte da Terra] (Fort of Land)
+QUEST_20150317_001079	$Revelação da #pending Torre dos Magos
+QUEST_20150317_001080	$É uma antiga história de Fedimian antes da Estátua da Deusa.
+QUEST_20150317_001081	$Há muito tempo atrás, as pessoas de Fedimian eram comuns. {nl}- não muito diferentes das pessoas comuns do resto do mundo. {nl}No entanto, as pessoas de Fedimian diferiam de seus iguais pelo mundo em um aspecto.
+QUEST_20150317_001082	$As pessoas de Fedimian eram muito cautelosas. No sentido de que levavam a palavra 'cautelosos' de uma maneira muito mais séria. {nl}Estas pessoas eram tão cautelosas em volta do fogo quanto eram longe dele.
+QUEST_20150317_001083	$Os #pending Fedimians eram modestos sobre isto com os outros. {nl}Mesmo aqueles que ficavam em Fedimian por um tempo não adquiriam o traço.
+QUEST_20150317_001084	$Graças a este comportamento, as pessoas de Fedimian se saiam melhor durante tempos difíceis, como se eles pudessem sentir o perigo se aproximando.
+QUEST_20150317_001085	$Por causa disso, não são poucas as palavras que são ditas acerca da cautela do povo de Fedimian.
+QUEST_20150317_001086	$Em Fedimian, se alguém deixasse cair dinheiro no chão, ele sumia para sempre. Em um mundo onde dinheiro era principalmente moeda de prata, somente os credores saberiam exatamente quanto dinheiro fora perdido desta maneira.
+QUEST_20150317_001087	$O por quê o dinheiro desaparecia no chão de Fedimian continua incerto. {nl}Algumas pessoas acreditam que a Deusa Zemyna absorve o dinheiro que entra em contato com sua área. {nl}Mas a maioria das pessoas acredita que isto foi feito para reduzir a procura de moedas de prata dos credores.
+QUEST_20150317_001088	$Por acreditar que a própria Deusa pega o dinheiro, as pessoas achavam infrutífero tentar cavar por prata em seu solo. {nl} O fato de você poder oferecer moedas de prata em Fedimian em tributo à ela reinforça esta idéia.
+QUEST_20150317_001089	$De qualquer modo, o fato de que alguém poderia perder dinheiro deixando-o cair no solo de Fedimian fez dos #pending Fedimians muito cuidadosos ao manipularem seu dinheiro.
+QUEST_20150317_001090	$No entanto, por mais que alguém tente ser cauteloso, erros continuam a acontecer. {nl}Mais ainda no caso de jovens garotas. {nl}Um dia, aconteceu com uma garota chamada Aiste.
+QUEST_20150317_001091	$Normalmente, quando alguém deixa cair moedas de prata no chão, elas se espalhariam na estrada, e então desapareceriam sem deixar traços. {nl}#pending Fedimian normalmente praguejariam por sua própria falta de cuidado e seguiriam em frente, mas Aiste era diferente: ela se perguntou por que e como isso acontecia.
+QUEST_20150317_001092	$Para descobrir o que aconteceu, Aiste começou inspecionando a área em que ela perdeu as moedas. {nl}Em sua busca, ela se deparou com um mendigo ao lado da parte mais distante do canal.
+QUEST_20150317_001093	{memo X}Aiste perguntou ao mendigo idoso, {nl}'Você por um acaso pegou as moedas que deixei cair? Você as devolveria para mim? {nl}Eu trabalhei muito duro todos os dias por aquelas moedas e realmente preciso delas.'
+QUEST_20150317_001094	{memo X}O mendigo foi pego de surpresa. Aiste estava pedindo o impossível. Afinal, encontrar moedas derrubadas em Fedimian era impensável. {nl}O velho mendigo estava pronto para explicar isto para Aiste mas em vez disso comentou, {nl}'Eu também perdi moedas nessa área. Seria legal da sua parte se você procurasse pelas minhas enquanto procura pelas suas.' 
+QUEST_20150317_001095	$Quase imediatamente, o mendigo se sentiu culpado pela zombaria que deixou escapar. Ele pediu desculpas a Aiste.
+QUEST_20150317_001096	{memo X}'Por que você não vai até onde trabalha e explica o que aconteceu a eles? Certifique de parecer perdida'. O mendigo então complementou hesitante, {nl}'Enquanto isso, eu vou procurando por suas moedas de prata perdias aqui'.
+QUEST_20150317_001097	$Ao ouvir as palavras do mendigo, Aiste o agradeceu, e foi embora para seguir seu conselho. {nl}Através de seu ato altruísta, o mendigo sentiu reavivado seu senso de responsabilidade. Ele olhou para a silhueta de Aiste indo embora, e sentiu seu coração pesado e quente com a experiência.
+QUEST_20150317_001098	$Aiste foi para os pomares nos arredores de Fedimian, onde ela trabalhava. {nl}Lá, enquanto alguém colhia frutas das árvores, também era importante pegar as frutas que caiam no chão.
+QUEST_20150317_001099	$Mãos menores eram melhores para colher frutas, então jovens crianças também eram contratadas nos pomares. {nl}Alguns pomares tomaram um passo adiante: contratando macacos, cujas mãos eram menores do que as das crianças, para colher frutas. Macacos trabalhavam de maneira mais fetiva que crianças, mas as vezes comiam as frutas que colhiam. Assim, a maioria dos proprietários preferiam contratar crianças.
+QUEST_20150317_001100	$Voltando, Aiste visitou o pomar que trabalhava e explicou sua situação ao proprietário. {nl}Infelizmente, o proprietário não estava de bom humor, tendo acabado de brigar com sua esposa. {nl}Ele, como todos os outros #pending Fedimians, sabia do fenônemo, e não viu razão para dar mais dinheiro a Aiste.
+QUEST_20150317_001101	{memo X}E então ele disse, {nl}'Assim como você foi capaz de colher todas minhas frutas, você deve ser capaz de encontrar o dinheiro que perdeu em Fedimian, então não me diga para lhe dar um segundo pagamento.' {nl}As palavras frias do proprietário do pomar trouxeram lágrimas aos olhos da garota. {nl}A visão quebrou seu coração, mas mesmo assim, ele não queria dar a ela nenhum dinheiro a mais.
+QUEST_20150317_001102	{memo X}Ele logo foi tomado por culpa e disse, {nl}'Se você realmente precisa desse dinheiro, você deveria ir ao ourives.'
+QUEST_20150317_001103	$Aiste se dirigiu ao lugar que ficava o ourives assim que ouviu aquelas palavras. {nl}Infelizmente, a casa se localizava fora dos muros de Fedimian. {nl}Se fosse dentro, o ourives corria o risco de perder todo seu dinheiro e prataria para o solo.
+QUEST_20150317_001104	$É por essa razão ele vive nos arredores de Fedimian. {nl}Aiste bateu na porta da frente e explicou sua situação para ele assim que ele respondeu.
+QUEST_20150317_001105	{memo X}O ourives, depois de ouvir a história de Aiste, afirmou, {nl}'Mesmo para crianças é ser tão descuidado. Como você pode não saber que todo dinheiro que cai no solo de Fedimian desaparece, para nunca ser encontrado novamente?'
+QUEST_20150317_001106	{memo X}Aiste ficou surpresa pelo o que o ourives disse e ficou triste. {nl}Depois de um tempo, ela perguntou, {nl}'Então por que algo tão cruel assim acontece?'
+QUEST_20150317_001107	{memo X}Mesmo o ourives não sabia a verdadeira resposta, então improvisou, {nl}'A Deusa Zemyna deve estar pegando as moedas.'
+QUEST_20150317_001108	{memo X}Ouvindo estas palavras Aiste respondeu, {nl}'Então eu simplesmente terei que ir perguntar à Deusa.' {nl}O ourives ficou espantado e replicou, {nl}'Enquanto você está nesta, por que não pede a Deusa para retornar minha prataria?'
+QUEST_20150317_001109	$O ourives não levou suas próprias palavras a sério, mas Aiste sim. {nl} Ela imediatamente se propôs a fazer o que foi dito. O ourives sentiu pena de Aiste, {nl}mas não teve coragem de a chamar de volta enquanto ela sumia na distância.
+QUEST_20150317_001110	{memo X}Exausta, Aiste logou chegou na estátua da Deusa Zemyna. {nl}Ela se prostou à sua frente e rezou para a representaçao da Estátua da Deusa, sua cabeça completamente abaixada. {nl}Oh, Deusa. Por favor devolva minhas moedas de prata perdidas.' {nl}Logo, enquanto oferecia suas orações, Aiste não conseguia mais se segurar em sua tristeza e ela finalmente chorou.
+QUEST_20150317_001111	{memo X}Quanto tempo ela rezou chorando? {nl}Subitamente, Aiste ouviu uma voz dirigida a ela. {nl}'Minha criança, veio pegar de volta aquilo que você perdeu?'
+QUEST_20150317_001112	$Aiste sabia em seu coração que era a Deusa Zemyna que se diriga a ela. {nl}Ela parou de chorar, limpou a voz e respondeu.
+QUEST_20150317_001113	{memo X}A voz da Deusa foi ouvida novamente. {nl}'Aiste, o que você me pede não é um método que aprovo. Aonde eu reino não há colheita nem frutas para aqueles que não trabalham.'
+QUEST_20150317_001114	{memo X}'Mas eu trabalhei muito duro hoje!'
+QUEST_20150317_001115	{memo X}'Eu sei. Por isso, eu darei a você e aos outros uma chance. Olhe debaixo de seus pés.'
+QUEST_20150317_001116	$A voz da Deusa desapareceu com aquelas palavras, e Aiste encontrou moedas de prata debaixo de seus pés. {nl}Ela olhou para onde a Deusa tinha deixado suas moedas e descobriu que as lágrimas que derramou tinham se transformado em moedas. {nl}Aiste estava muito feliz, e fez questão de pegar toda prata antes de sair.
+QUEST_20150317_001117	{memo X}Depois de alguns passos, Aiste pensou sobre o ourives, {nl}e, novamente, foi até sua casa e bateu na porta. {nl}Como se o ourives já estivesse esperando pelo seu retorno, ele abriu a porta e disse imediatamente. {nl}Me desculpe, eu me arrependo de ter te mandado embora daquela forma. Eu irei lhe dar alguma prata. {nl} Desta vez, tenha cuidado para não deixar cair tudo e chegar em casa com segurança.'
+QUEST_20150317_001118	{memo X}Enquanto o ourives estendia suas moedas de prata, Aiste balançou a cabeça e disse, {nl}'Não obrigado, a Deusa devolveu todas as minhas moedas. Na verdade, ela me deu ainda mais. {nl}Eu lembro de você dizendo que você também perdeu prata, então eu vim aqui para lhe entregar minhas moedas extras. Você não precisa me dar as suas.'
+QUEST_20150317_001119	{memo X}De início, o ourives estava cético sobre as moedas serem devolvidas, {nl}então ele ficou surpreso quando Aiste lhe mostrou moedas genuínas. Depois de pensar por um tempo, o ourives disse, {nl}'Então que tal isto. Você me dá o que você quiser enquanto aceita o que eu estava prestes a lhe dar. {nl}Não é justo? Além disso, eu também lhe darei uma bolsa para carregar sua prata extra.'
+QUEST_20150317_001120	$Aiste agradeceu e deu suas moedas extras para o ourives. {nl}Depois disto, o ourives deu a Aiste sua bolsa de moedas.
+QUEST_20150317_001121	{memo X}Depois de deixar a casa do ourives, {nl}Aiste subitamente lembrou que o velho mendigo ainda deveria estar procurando por suas moedas e se preocupou com ele. {nl}Em seu caminho para encontrar o mendigo, ela encontrou o proprietário do pomar novamente. {nl}Ao ver Aiste, o proprietário do pomar estava radiante. {nl}'Eu estava procurando por você. Me desculpe por ter lhe mandado embora antes. Como um pedido de desculpas, eu irei lhe dar seu salário novamente. {nl} Por favor, tenha cuidado para não perder ele novamente.'
+QUEST_20150317_001122	{memo X}O proprietário do pomar pegou uma grande quantidade de moedas, mais do que o próprio salário de Aiste, e entregou a ela. [nl]No entanto, Aiste balançou sua cabeça e disse, {nl}'A Deusa Zemyna já me devolveu meu dinheiro. O ourives também me ajudou, então na verdade agora eu já tenho muito. {nl}Aqui, dê uma olhada.'
+QUEST_20150317_001123	$Dizendo isto, Aiste abriu a bolsa de moedas que ela conseguiu com o ourives e mostrou para o proprietário do pomar. {nl}Ele ficou extremamente surpreso, já que o montante de dinheiro que ela conseguiu da Deusa e do ourives ultrapassou a quantia que ele tinha.
+QUEST_20150317_001124	{memo X}Desconsiderando o montante que Aiste havia lhe mostrado, o proprietário do pomar disse, {nl}'Bem, mesmo assim, eu me sentiria envergonhado se não lhe entregasse minha contribuição, então por favor apenas pegue isto.' {nl}Depois de dizer isto, o proprietário do pomar enfiou suas moedas na bolsa de Aiste e foi embora. {nl}No tempo que Aiste conseguiu reunir energia para chamar pelo proprietário do pomar, ele já estava longe demais.
+QUEST_20150317_001125	{memo X}Ela hesitou por um momento mas então recolocou sua mente no mendigo. {nl}Depois de um pouco caminhar, Aiste chegou aonde eles tinham se encontrado. O velho mendigo a viu primeiro e correu para ela. {nl}Ele mostrou-lhe as moedas de prata que estava apertando junto a si e disse, 'Olhe! Eu encontrei sua prata perdida.' {nl}Aiste recebeu a prata do mendigo e então mostrou a ele sua bolsa e disse, {nl}Olhe, eu encontrei suas moedas de prata também.'
+QUEST_20150317_001126	$Embora o mendigo estivesse exausto, ele juntou suas mãos para receber suas moedas de volta. {nl}Vendo isto Aiste foi levada à beira das lágrimas. {nl}Ela imaginou quanto o mendigo teve de implorar e pedir para dar a ela suas moedas de volta. {nl}Com o coração pesado, Aiste deu ao mendigo as moedas.
+QUEST_20150317_001127	{memo X}Depois disto, Aiste também lhe entregou sua bolsa e disse, {nl}'Este é um presente como agradecimento por porcurar por minhas moedas. Eu recebi isto pelas graças da Deusa Zemyna.' {nl}Aiste então partiu antes que o mendigo pudesse descobrir como responder.
+QUEST_20150317_001128	$O mendigo olhou para a sombra distante de Aiste, e abriu a bolsa de presentes que Aiste havia lhe dado, {nl}curioso pelo que tinha dentro. Dentro, ele ficou surpreso de encontrar dúzias de moedas de prata. {nl}Agora ele entendia porque Aiste foi capaz de partir muito mais rápido do que quando havia chegado. Ela tinha aliviado sua carga, dando-lhe o excesso.
+QUEST_20150317_001129	$Para um mendigo, que havia sido mesquinho por uma única moeda de prata, o fato de Aiste ter simplesmente lhe doado várias dezenas de vezes aquela quantia o comoveu. {nl}O fato de Aiste, que saiu em busca e resolveu o mistério de Fedimian, voltar e lhe entregar o que realmente não tinha obrigação de entregar, fez o mendigo se sentir muito grato.
+QUEST_20150317_001130	$Quanto mais ele pensava, menos o mendigo conseguia segurar suas lágrimas. {nl}Enquanto chorava, ele notou algo esquisito - cada lágrima brilhante que tocou o solo transformadas em moedas de prata.
+QUEST_20150317_001131	$O mendigo não podia acreditar em seus olhos, mas rapidamente lembrou das palavras de Aiste sobre a benção da Deusa. {nl}Depois de um tempo, o mendigo parou de chorar, e foi colher suas moedas e colocá-las na bolsa que Aiste lhe deu.
+QUEST_20150317_001132	$Poucos dias depois, o mendigo foi até a estátua para qual Aiste rezou. Lá, ele pegou uma moeda da bolsa para manter consigo, e ofereceu o resto para a Estátua da Deusa. {nl}Ele então rezou para a Deusa do fundo do seu coração e partiu. Enquanto o dinheiro que ele ofereceu desaparecia, o mendigo novamente se derramou em lágrimas, mas esta é outra história.
+QUEST_20150317_001133	$Depois de alguns dias, um estranho rumor se espalhou por Fedimian. {nl}O rumor de que a prata não mais desapareciam ao cair no solo de Fedimian. {nl}O rumor não caiu bem de início com os mais velhos, pessoas experientes, mas alguns testaram o rumor com uma quantidade irrisória de prata, {nl}e acabou que era verdade. Todos concordaram que o misterioso fenônemo de Fedimian tinha chegado ao fim.
+QUEST_20150317_001134	$Depois de um tempo, palavras deste ocorrido chegaram ao Rei. Curioso do por que isto aconteceu, o Rei ordenou uma investigação. {nl}A verdade secreta veio à luz, e a história de Aiste ficou conhecida.
+QUEST_20150317_001135	$O Rei louvou as pessoas que causaram este milagre com seus corações caridosos. {nl}Adicionalmente, para honrar a graça da Deusa, ele decidiu utilizar o tesouro nacional para construir uma grande estátua dedicada a ela.
+QUEST_20150317_001136	$No dia que a estátua foi finalmente completada, {nl}alguma coisa miraculosa aconteceu enquanto o Rei e Aiste foram juntos fazer a primeira oferenda. {nl}Em volta da estátua brotaram moedas - todas as moedas que foram perdidas pelos #pending Fedimians até aquele momento.
+QUEST_20150317_001137	$Após um debate caloroso, o povo de Fedimian decidiram não acumular suas moedas perdidas. {nl}Em vez disso, eles pediram para o Rei coletar todas elas e distribuir entre os pobres do Reino. {nl}O Rei prontamente concordou, e deu a ordem para gravar este lindo evento na história do Reino.
+QUEST_20150317_001138	$Mesmo agora, ninguém sabe quando ou como o misterioso fenômeno de Fedimian começou, {nl}mas todos sabem quando, como, e quem ajudou a desvendar o mistério. {nl}Foi através da bondade de Aiste e das pessoas que a ajudaram, e também através da graça da Deusa, que o mistério chegou ao fim.
+QUEST_20150317_001139	
 QUEST_20150317_001140
 QUEST_20150317_001141
 QUEST_20150317_001142
