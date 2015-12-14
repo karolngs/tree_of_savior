@@ -3,33 +3,33 @@ QUEST_LV_0100_20150317_000002	$Se escolher ir para Klaipeda, recomendo tomar a S
 QUEST_LV_0100_20150317_000003	$Homem Escondido
 QUEST_LV_0100_20150317_000004	$Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? Ei... Ainda há Vubbes lá fora?
 QUEST_LV_0100_20150317_000005	$Ugh. Vá embora! Não fale comigo! Seremos pegos pelos Vubbes!{nl}Esse é meu lugar, então saia!
-QUEST_LV_0100_20150317_000006	$O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!	$O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!
-QUEST_LV_0100_20150317_000007	$Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? O que está olhando? Feche a tampa e se mova!{nl}
+QUEST_LV_0100_20150317_000006	$O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!
+QUEST_LV_0100_20150317_000007	$Fi... Finalmente! A ajuda chegou?{nl}Hã?! É só uma criança? O que está olhando? Feche a tampa e se mova!{nl}
 QUEST_LV_0100_20150317_000008	$O que é esse papel que está segurando? Parece familiar...{nl}Deixe-me vê-lo! O que está fazendo? Ei, tem um adulto falando com você!
 QUEST_LV_0100_20150317_000009	$Esse papel é meu! Nunca vou entregá-lo novamente!!{nl}Não... não é algo que você precisa - Vou apenas rasgá-lo. Aí.
-QUEST_LV_0100_20150317_000010	$Sheesh, isso é chato...
-QUEST_LV_0100_20150317_000011	$Depois que todas as Deusas desapareceram, esses sonhos foram as primeiras coisas que surgiram.{nl}Talvez uma dessas pessoas seja aquela que trará as Deusas de volta.
+QUEST_LV_0100_20150317_000010	$Aff, isso é chato...
+QUEST_LV_0100_20150317_000011	$Depois que todas as Deusas desapareceram, esses sonhos foram as primeiras coisas que{nl}surgiram.Talvez uma dessas pessoas seja aquela que trará as Deusas de volta.
 QUEST_LV_0100_20150317_000012	$Soldado Blak
-QUEST_LV_0100_20150317_000013	$Esteja avisado!{nl}Monstros estão atacando, então todos os civis devem evacuar!{nl}Porque esses civis estão na zona militar de qualquer forma?{nl}
-QUEST_LV_0100_20150317_000014	$Ah, então você é o Revelator! Me desculpe, não o reconheci.{nl}Monstros estão atacando a base de suprimentos no momento.{nl}Eu preciso pegar algumas provisões importantes da base. Por favor me ajude!  
-QUEST_LV_0100_20150317_000015	$Era pacífico há não muito tempo, mas agora eles estão vindo em grupos.{nl}O que está acontecendo exatamente?
-QUEST_LV_0100_20150317_000016	$Mesmo assim, me senti inquieto...{nl}Quem iria saber que eles atacariam de uma maneira tão absurda?
-QUEST_LV_0100_20150317_000017	$As rações estão no First Supply Warehouse, no qual você pode chegar usando a estrada no lado superior.{nl}Traga por mais que sejam sobras que encontrar...
-QUEST_LV_0100_20150317_000018	$Eu escrevi quem é Sparnas. Talvez seja útil no futuro.{nl}Ainda que possa não parecer agora, eu era um biólogo há quatro anos.
-QUEST_LV_0100_20150317_000019	$Por favor passe esse relatório para Luders.{nl}Ele provavelmente está no Center Supply Camp.
+QUEST_LV_0100_20150317_000013	$Esteja avisado!{nl}Monstros estão atacando, então todos os civis devem evacuar!{nl}Por que esses civis estão na zona militar de qualquer forma?
+QUEST_LV_0100_20150317_000014	$Ah, então você é o #pending Revelador! Me desculpe, não o reconheci.{nl}Monstros estão atacando a base de suprimentos no momento.{nl}Eu preciso pegar alguns mantimentos importantes em nossa base. Por favor me ajude!  
+QUEST_LV_0100_20150317_000015	$Era pacífico há não muito tempo, mas agora eles estão vindo em grupos.{nl}O que exatamente está acontecendo?
+QUEST_LV_0100_20150317_000016	$Mesmo assim, me senti inquieto...{nl}Quem imaginaria que eles atacariam de uma maneira tão absurda?
+QUEST_LV_0100_20150317_000017	$Os mantimentos estão no Primeiro Armazém de Suprimentos, no qual você pode chegar {nl}usando a estrada no lado superior.{nl}Mas traga as sobras que encontrar...
+QUEST_LV_0100_20150317_000018	$Eu escrevi quem é Sparnas. Talvez seja útil no futuro.{nl}Talvez não pareça, mas eu fui um biólogo quatro anos atrás.
+QUEST_LV_0100_20150317_000019	$Por favor passe esse relatório para Luders.{nl}Ele provavelmente está no Campo de Abastecimento Central.
 QUEST_LV_0100_20150317_000020	$Oficial Luders
-QUEST_LV_0100_20150317_000021	$Ah, você deve ser o chamado #pending Revelator. Prazer em conhecê-lo.{nl}Esse é o relatório de Block?{nl}
-QUEST_LV_0100_20150317_000022	$Hum... É assim mesmo?{nl}Eles apenas destruíram os suprimentos e fugiram. Mesmo que os Chupacabras tenham asas, tenho certeza de que eles não podem fazer algo como aquilo.{nl}
+QUEST_LV_0100_20150317_000021	$Ah, você deve ser o tal #pending Revelador. Prazer em conhecê-lo.{nl}Esse é o relatório de Block?{nl}
+QUEST_LV_0100_20150317_000022	$Hum... Então foi assim?{nl}Eles apenas destruíram os suprimentos e fugiram. Mesmo que os Chupacabras tivessem asas, {nl}tenho certeza de que eles não podem fazer algo como aquilo.{nl}
 QUEST_LV_0100_20150317_000023	$Isso não é o suficiente.{nl}Me desculpe, mas por favor nos traga o relatório de Moody do #pending Amzina Curved Path.
 QUEST_LV_0100_20150317_000024	$Me sinto melhor já que Luders está aqui.
 QUEST_LV_0100_20150317_000025	$Soldado York
 QUEST_LV_0100_20150317_000026	$Shaulems estão cruzando a estrada.{nl}Eu mesmo estou em pânico e não sei o que fazer.{nl}Tenho certeza de que Luders não deixará isso acontecer... O que devemos fazer?
-QUEST_LV_0100_20150317_000027	$Você acha que o problema erá resolvido apenas derrotando Sparnas?
+QUEST_LV_0100_20150317_000027	$Você acha que o problema será resolvido apenas derrotando Sparnas?
 QUEST_LV_0100_20150317_000028	$Obrigado pela sua ajuda, eu acho que posso me segurar.{nl}Mas... esse tipo de coisa não acontecerá de novo? O que eu deveria fazer então...?
-QUEST_LV_0100_20150317_000029	$Sparnas? Nós não temos uma resposta clara sobre isso.{nl}Apenas apareceu do céu sem qualquer sinal e destruiu todos os suprimentos que tínhamos. Então, desapareceu rapidamente.{nl}Nós temos dor de cabeça apenas ouvindo seu choro.
-QUEST_LV_0100_20150317_000030	$O lugar que eu recém falei sobre é o #pending Second Supply Warehouse.{nl}É deprimente pensar como esses tipos de coisas serão recorrentes no futuro.
-QUEST_LV_0100_20150317_000031	$Pegue. Eu fiz algumas iscas de grãos velhos nos suprimentos.{nl}Irei atraí-lo de lá, então você fica aqui.{nl}Sparanas definitivamente aparecerá em um desses dois locais. Não o deixe escapar. Destrua-o com certeza.{nl}
-QUEST_LV_0100_20150317_000032	$Nós podemos não obter uma segunda chance se não derrotá-lo dessa vez.{nl}Não parece que eles são idiotas.
+QUEST_LV_0100_20150317_000029	$Sparnas? Nós não temos uma resposta clara sobre isso.{nl}Apenas apareceu do céu sem qualquer sinal e destruiu todos os suprimentos que tínhamos.{nl}Então, desapareceu rapidamente. Nós temos dor de cabeça apenas ouvindo seu choro.
+QUEST_LV_0100_20150317_000030	$O lugar que eu acabei de mencionar é o #pending Segundo Armazém de Suprimentos.{nl}É deprimente pensar como esses tipos de coisas serão recorrentes no futuro.
+QUEST_LV_0100_20150317_000031	$Pegue. Eu fiz algumas iscas de grãos velhos nos suprimentos.{nl}Irei atraí-lo de lá, então fique aqui.{nl}Sparnas definitivamente aparecerá em um desses dois locais. Não o deixe escapar. Destrua-o com certeza.{nl}
+QUEST_LV_0100_20150317_000032	$Talvez não tenhamos uma segunda chance se nós não o derrotá-lo dessa vez.{nl}Não parece que eles são idiotas.
 QUEST_LV_0100_20150317_000033	${memo X}Ouvi o som da luta, então vim depressa. Você o derrotou?{nl}Eu apenas avistei Shaulems do meu lugar.{nl}Obrigado. Você realizou um feito meritório.
 QUEST_LV_0100_20150317_000034	$#pending Adjutant General Paulina
 QUEST_LV_0100_20150317_000035	$Nós devemos recuperar os suprimentos roubados.{nl}Não podemos nos chamar de soldados do reino se não fizermos nada sobre isso.{nl}
@@ -81,7 +81,7 @@ QUEST_LV_0100_20150317_000080	$Soldados de hoje em dia, falta-lhes coragem.{nl}E
 QUEST_LV_0100_20150317_000081	$Está claro que iremos ganhar essa batalha.{nl}Por quê? Porque as Corujas estão ajudando.
 QUEST_LV_0100_20150317_000082	$Os #pendig Kepa Raiders estão perto da #pending Ianutis Waterfall.{nl}Para derrotar Gaigalas, nós certamente precisaremos deles.
 QUEST_LV_0100_20150317_000083	$Soldado Weiz
-QUEST_LV_0100_20150317_000084 $Ei, novato, você está tirando uma folga?{nl}Consiga um pouco de gordura dps #pending Duckys em #pending Lengvas Garden.
+QUEST_LV_0100_20150317_000084 $Ei, novato, você está tirando uma folga?{nl}Consiga um pouco de gordura dps #pending Duckys em #pending Lengvas Garden.	
 QUEST_LV_0100_20150317_000085	$Atrairemos Gaigalas usando #pending Ducky Fat.{nl}Ei novato, não vadie.
 QUEST_LV_0100_20150317_000086	$Hoje será o último dia para Gaigalas.{nl}Você está pronto, novato?
 QUEST_LV_0100_20150317_000087	$Em seguida, arranjaremos couro dos #pending Cronewts em #pending Lengvas Garden.{nl}Depressa, soldado.
@@ -117,7 +117,7 @@ QUEST_LV_0100_20150317_000116	${memo X}Esse bonde só pode ser utilizado por aqu
 QUEST_LV_0100_20150317_000117	${memo X}Entretanto, se derrotar os monstros importunos ao redor dessa área, pensarei sobre isso.
 QUEST_LV_0100_20150317_000118	${memo X}Não é melhor usar o bonde do que se ferir passando pelos monstros? É claro, isso se você pode utilizar o bonde.
 QUEST_LV_0100_20150317_000119	${memo X}Muito melhor do que esperava.{nl}Eu quero propor um acordo para você.
-QUEST_LV_0100_20150317_000120	${memo X}	
+QUEST_LV_0100_20150317_000120	${memo X}
 QUEST_LV_0100_20150317_000121	${memo X}
 QUEST_LV_0100_20150317_000122	$Aquela barreira... Hmm. Quando ela se formou?{nl}Ela tem estado lá por um bom tempo agora, mas não consigo lembrar exatamente há quanto.{nl}
 QUEST_LV_0100_20150317_000123	$Tenho certeza que aquela barreira foi responsável por aumentar o número de monstros ultimamente.{nl}
@@ -216,26 +216,26 @@ QUEST_LV_0100_20150317_000215	$Moça Farmacêutica
 QUEST_LV_0100_20150317_000216	$Obrigado por sua ajuda última vez.{nl}Sem você, eu nunca teria conseguido tantos ingredientes.
 QUEST_LV_0100_20150317_000217	${memo X}Talvez a pessoa que a Deusa enviou seja você.{nl}Você é a pessoa mais misericordiosa que eu já vi entre os Reveladores. 
 QUEST_LV_0100_20150317_000218	$Soldado Jace
-QUEST_LV_0100_20150317_000219	${memo X} Eu vou protegerei essa vila pelos meus camaradas mortos.
+QUEST_LV_0100_20150317_000219	${memo X}Eu protegerei essa vila pelos meus camaradas mortos.
 QUEST_LV_0100_20150317_000220	$Até se o mundo mudar, eu nunca perdoarei os Vubbes.
 QUEST_LV_0100_20150317_000221	$Soldado Edgar
-QUEST_LV_0100_20150317_000222	$Esses são as rações que pegamos do Bosque Oriental Siauliai.{nl}Eu nunca mais, vou perde-las de novo. Nunca.
+QUEST_LV_0100_20150317_000222	$Esses são os mantimentos que recuperamos do Bosque Oriental Siauliai.{nl}Eu nunca mais vou perdê-los de novo. Nunca.
 QUEST_LV_0100_20150317_000223	$Graças a você, eu recebi esse tanto de comida.{nl}Estou aliviado.
 QUEST_LV_0100_20150317_000224	$Cavalheiro Comandante Uska
 QUEST_LV_0100_20150317_000225	$Essa ardósia é evidencia da salvação?{nl}Só parece uma pedra velha pra mim.
-QUEST_LV_0100_20150317_000226	{memo X}$Pergunte o prefeito da #pending Vila dos Mineradores sobre um caminho para #pending Leaf Veil Plateau.{nl}Eu vou mandar a mensagem para o Paladino mestre antes.{nl}Que as bençãos da Deusa estejam com você.
-QUEST_LV_0100_20150317_000227	$Seria bom bom perguntar a mestre Bokor para interpretar essa ardósia.{nl}Ela vive no final da Área Residencial #pending de Klaipeda vá vista-la. 
-QUEST_LV_0100_20150317_000228	{memo X}$Use seu tempo sabiamente.{nl}Ninguém mais sabe seu futuro completo.
-QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que a mestre Bokor lhe disse?
-QUEST_LV_0100_20150317_000230	{memo X}$Também estou curioso sobre a garota que quebrou o selo.{nl}Esse não é um selo que pode ser facilmente quebrado.
-QUEST_LV_0100_20150317_000231	{memo X}$Se a mestre Bokor lhe disse que eu saberia...{nl}Tem um lugar que me vem a cabeça.{nl}
-QUEST_LV_0100_20150317_000232	{memo X}$Os #pending High Gardens que a Deusa mencionou podem ser uma área dentro do #pending Leaf Veil Plateau. Eu ouvi que o mestre paladino esta lá, fazendo uma promessa de longo prazo.
+QUEST_LV_0100_20150317_000226	${memo X}$Pergunte ao prefeito da #pending Vila dos Mineradores sobre um caminho para {nl}#pending Leaf Veil Plateau.{nl}Mandarei a mensagem para o Mestre Paladino antes.{nl}Que as bençãos da Deusa estejam com você.
+QUEST_LV_0100_20150317_000227	$Seria bom perguntar a Mestra Bokor para interpretar essa ardósia.{nl}Ela vive no final da Área Residencial #pending de Klaipeda, vá vista-la. 
+QUEST_LV_0100_20150317_000228	${memo X}$Use seu tempo sabiamente.{nl}Ninguém mais sabe seu futuro todo.
+QUEST_LV_0100_20150317_000229	$Então você finalmente retornou.{nl}O que a Mestra Bokor lhe disse?
+QUEST_LV_0100_20150317_000230	${memo X}$Também estou curioso sobre a garota que quebrou o selo.{nl}Esse não é um selo que pode ser quebrado facilmente.
+QUEST_LV_0100_20150317_000231	${memo X}$Se a Mestra Bokor lhe disse que eu saberia...{nl}Tem um lugar que me vem a cabeça.{nl}
+QUEST_LV_0100_20150317_000232	${memo X}$Os #pending High Gardens que a Deusa mencionou podem ser uma área dentro do {nl}#pending Leaf Veil Plateau. Eu ouvi que o Mestre Paladino esta lá, fazendo uma promessa de{nl}longo prazo.
 QUEST_LV_0100_20150317_000233	$Prefeito da #pending Vila dos Mineiradores
 QUEST_LV_0100_20150317_000234	$Bem vindo. Não é você o salvador da nossa cidade?{nl}
-QUEST_LV_0100_20150317_000235	{memo X}$#pending Leaf Veil Plateau hum? Se você pegar o caminho no meio das pontes abaixo, você vai{nl}chegar em #pending Silverstram Gorge
-QUEST_LV_0100_20150317_000236	{memo X}$Então essa Revelação é da Deusa Laima e nós temos que coletar todas essas daí para que a Deusa{nl}recupere seus poderes?{nl}Isso é incrível. 
-QUEST_LV_0100_20150317_000237	$Oh, por favor não revele o fato que a revelação foi encontrada a menos que absolutamente{nl}necessário. Contar só vai criar confusão se os rumores se espalharem.
-QUEST_LV_0100_20150317_000238	$Ah, sim o relatório.{nl}No começo, aqueles #pending Siaulagos fizeram algo estranho nos suprimentos, mas eles fugiram{nl}um pouco depois que os Sparnas chegaram.{nl}
+QUEST_LV_0100_20150317_000235	${memo X}$#pending Leaf Veil Plateau, né? Se você pegar o caminho entre as duas pontes abaixo, {nl}você vai chegar em #pending Silverstram Gorge
+QUEST_LV_0100_20150317_000236	${memo X}$Então essa Revelação é da Deusa Laima e nós temos que coletar todas essas daí para{nl}que a Deusa recupere seus poderes?{nl}Isso é incrível. 
+QUEST_LV_0100_20150317_000237	$Oh, por favor não revele o fato de que a revelação foi encontrada a menos que seja{nl}absolutamente necessário. Contar só vai criar confusão se os rumores se espalharem.
+QUEST_LV_0100_20150317_000238	$Ah, você quer dizer o relatório.{nl}No começo, aqueles #pending Siaulagos fizeram algo estranho com os suprimentos, mas{nl}eles fugiram depois de um tempo, quando Sparnas chegou.
 QUEST_LV_0100_20150317_000239	$Eu fui visto por aqueles Siaulagos enquanto eles estavam fugindo, então lutei contra eles...{nl}Sim... Como pode ver, eu perdi. O relatório claro.{nl}Não são uns cretinos!?
 QUEST_LV_0100_20150317_000240	$Quando você achar o relatório, por favor entregue-o pro Luders imediatamente.{nl}Estou aterrorizado em pensar no que os cretinos fizeram com nossos suprimentos.
 QUEST_LV_0100_20150317_000241	$Sim. Depois que vi o relatório do Moody, tenho certeza que eles colocaram algo nos nossos{nl}suprimentos para atrair Sparnas.{nl}Assim como pássaros são enlouquecidos por grãos velhos
