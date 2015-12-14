@@ -6,7 +6,7 @@ QUEST_20150317_000005	$Por favor selecione um item.
 QUEST_20150317_000006	$Selecione Grupo 
 QUEST_20150317_000007	$Por favor, selecione um grupo de início.
 QUEST_20150317_000008	$Selecione Zona
-QUEST_20150317_000009 $Por favor, selecione uma zona de início. 
+QUEST_20150323_000009	$Por favor, selecione uma zona de início. 
 QUEST_20150317_000010	$Selecione Progresso.
 QUEST_20150317_000011	$Por favor, selecione uma classe.
 QUEST_20150317_000012	$Mestre Bokor
@@ -25,9 +25,9 @@ QUEST_20150317_000024	$Eu passei a próxima Revelação para o primeiro Paladino
 QUEST_20150317_000025	{memo X}A aura escura é realmente desagradável... {nl}Mas se esta mensagem é verdadeiramente da Deusa Laima, então eu vou apenas reverenciá-la.
 QUEST_20150317_000026	{memo X}Bem, você deve se apressar e ir encontrar Sir Uska. {nl}Ele irá lhe dizer aonde ir em seguida. {nl}Que a Deusa abençoe seu destino...
 QUEST_20150317_000027	$Por favor selecione a Smart Gen preferível.
-QUEST_20150317_000028 $William
-QUEST_20150317_000029 {memo X}A taxa é de 100 moedas de pratas. {nl}É mais barato do que cortar caminho através dos monstros.
-QUEST_20150317_000030 $Cyneburg
+QUEST_20150323_000028	$William
+QUEST_20150323_000029	{memo X}A taxa é de 100 moedas de pratas. {nl}É mais barato do que cortar caminho através dos monstros.
+QUEST_20150323_000030	$Cyneburg
 QUEST_20150317_000031	{memo X}Isto custará 100 moedas de prata. {nl}Isto irá cobrir as operações, trabalho, e outros gastos
 QUEST_20150317_000032	{memo X}Hey, espere um minuto. {nl}Você sabe que precisa mais do que isto...
 QUEST_20150317_000033	{memo X}Isso não é bom! {nl}Eu não posso trabalhar por nada, mesmo para um Redentor.
@@ -72,8 +72,8 @@ QUEST_20150317_000071	$Estou impressionado. {nl}Você é a primeira pessoa que e
 QUEST_20150317_000072	$Eu irei lhe mostrar o que eu vi.
 QUEST_20150317_000073	{memo X}Por favor, esqueça sobre mim e apenas vá embora. {nl}As flores parecem estar chegando de maneira deslumbrante.
 QUEST_20150317_000074	$Lena
-QUEST_20150317_000075 $Por favor, me conte sua história de vida. {nl}Nós seguimos a vontade de Vibora e gravamos tudo que está neste mundo.
-QUEST_20150317_000076 $Henryka
+QUEST_20150323_000075	$Por favor, me conte sua história de vida. {nl}Nós seguimos a vontade de Vibora e gravamos tudo que está neste mundo.
+QUEST_20150323_000076	$Henryka
 QUEST_20150317_000077	$Olá! {nl}Bem vindo a filial de Klaipeda da Sociedade dos Magos. {nl}Nós nos especializamos em estudar os estranhos fenômenos que acontecem quando itens especiais são combinados.
 QUEST_20150317_000078	$Não há nada para ver aqui a não ser vapor e Vubbes. {nlEspere, o que é aquela coisa com uma cara grande que está se aproximando?!
 QUEST_20150317_000079	$A terra precisa de nossa atenção também. {nl}O mundo ainda não foi arruinado...correto?
@@ -149,50 +149,50 @@ QUEST_20150317_000148	Mestre Doppelsoeldner
 QUEST_20150317_000149	Coisas que valem a pensa sempre carregam riscos. {nl}Natural, para grandes recompensas, você deve enfrentar grandes perigos.
 QUEST_20150317_000150	Mestre Corsário
 QUEST_20150317_000151	{memo X}Não ajudarei ninguém em apuros se eu não for recompensado por isso.
-QUEST_20150317_000152 $Pedra
-QUEST_20150317_000153 $Uma grande pedra está bloqueando o caminho.
-QUEST_20150317_000154 $Isto precisa ser reparado.
-QUEST_20150317_000155 {memo X}Uma pedra bloqueia o caminho.
-QUEST_20150317_000156 $Material de Pesquisa Mágico
-QUEST_20150317_000157 $Parecem ser as notas de pesquisa de alguém da Torre do Mago {nl}Isto deve ser copiado?
-QUEST_20150317_000158 {memo X}Se esconder e se esgueirar não irá resolver todos os seus problemas. {nl}Um verdadeiro Batedor também precisa estar pronto para lutar.
-QUEST_20150317_000159 {memo X}Você irá precisar de muitas coisas ao viajar. {nl}Certifique-se de estocar suas provisões com antecedência.
-QUEST_20150317_000160 $Se a magia de controle for dissipada, as mensagens divinas não estarão protegidas.
-QUEST_20150317_000161 $Cenotáfio do Ladrão Esquecido
-QUEST_20150317_000162 $Eu, Zubeck, deixo este epitáfio. {nl}Pela honra de ser o maior ladrão da história, eu desafiei uma poderosa feiticeira.
-QUEST_20150317_000163 $Mas poderia eu, um mero ladrão, reivindicar vitória por meramente ter roubado dela? {nl}Talvez, se eu pudesse roubar o maior arquimago cego.
-QUEST_20150317_000164 $No entanto, eu não poderia. {nl}Eu queria ser o maior ladrão de toda história, não apenas hoje.
-QUEST_20150317_000165 $Eu ao menos descobri um meio de entrar na Torre do Mago. {nl}Para isso, alguém tem de concentrar poder mágico em um local específico. {nl}Agora, eu só preciso tomar mais um passo decisivo. 
-QUEST_20150317_000166 $Então, meu dispositivo especial irá ativar. {nl}Se você fizer como eu fiz, você será capaz de entrar na torre também.
-QUEST_20150317_000167 $Depois disso, você também poderá mostrar para aqueles magos estúpidos algumas coisinhas. Haha!
-QUEST_20150317_000168 $Monumento do Comando
-QUEST_20150317_000169 {memo X}Os ladrões que entraram nessa torre foram queimados vivos. {nl}Eu deixo este monumento como alerta aos transgressores. {nl}- Agailla Flurry
-QUEST_20150317_000170 $Rainha Demoníaca Gesti
-QUEST_20150317_000171 $Humanos insolentes.
-QUEST_20150317_000172 $Apenas esperem. Este não é o fim. {nl}Rezem com seus corações para que Laima salve este mundo.
-QUEST_20150317_000173 $Oficial de Klaipeda
-QUEST_20150317_000174 {memo X}Bem vindo, bem vindo. {nl}Sir Uska está esperando na praça central de Klaipeda. {nl}Oh, você precisa de alguma coisa, primeiro?
-QUEST_20150317_000175 $Você quer ir para o portão de Klaipeda imediatamente?
-QUEST_20150317_000176 $Operador Temporário
-QUEST_20150317_000177 $Por favor mude a condição deste personagem.
-QUEST_20150317_000178 $Ocultar/Revelar configuração de NPC
-QUEST_20150317_000179 $Seguidor Algis
-QUEST_20150317_000180 $Este é o momento que a Deusa predisse ao primeiro Paladino. {nl}Venha, me pergunte o que quiser.
-QUEST_20150317_000181 $Há muito, muito tempo atrás, haviam nômades que sofreram de uma praga amaldiçoada. {nl}O honorável primeiro Paladino removeu a maldição com uma Relíquia Sagrada.
-QUEST_20150317_000182 $Os Observadores são descendentes daqueles nômades. {nl}No entanto, a Relíquia Sagrada não era para ser usada para curar aquelas pessoas.
-QUEST_20150317_000183 $O primeiro Paladino recebeu um pedido da Deusa, um dia, em uma Revelação divina. {nl}Enquanto ele pensava em como manter este segredo, os nômades surgiram com sua maldição.
-QUEST_20150317_000184 $Eles e o primeiro Paladino fizeram três promessas antes de quebrar a maldição.
-QUEST_20150317_000185 $Construir a Tenet Chapel. {nl}Esconder a Relíquia Sagrada nesta terra e zelar por ela. {nl}Lutar juntos sempre que o perigo se aproximasse.
-QUEST_20150317_000186 $Tudo isso, era para proteger a Revelação sagrada no santuário da Tenet Chapel.
-QUEST_20150317_000187 $A Relíquia Sagrada foi originalmente feita para proteger esta mensagem. {nl}Ela foi concebida para atrair a Rainha Demoníaca e destruí-la.
-QUEST_20150317_000188 $Tudo pode acontecer, no entanto. {nl}Se este plano falhar, então é muito provável que a batalha final irá ocorrer aqui, na capela.
-QUEST_20150317_000189 $Pawndel
-QUEST_20150317_000190 $E aí?
-QUEST_20150317_000191 $Mesmo?
-QUEST_20150317_000192 $Pawnd
-QUEST_20150317_000193 $O que aconteceu?
-QUEST_20150317_000194 $Gesti nos disse para proteger este lugar.
-QUEST_20150317_000195 $Então o que eu faço agora?
+QUEST_20150323_000152	$Pedra
+QUEST_20150323_000153	$Uma grande pedra está bloqueando o caminho.
+QUEST_20150323_000154	$Isto precisa ser reparado.
+QUEST_20150323_000155	{memo X}Uma pedra bloqueia o caminho.
+QUEST_20150323_000156	$Material de Pesquisa Mágico
+QUEST_20150323_000157	$Parecem ser as notas de pesquisa de alguém da Torre do Mago {nl}Isto deve ser copiado?
+QUEST_20150323_000158	{memo X}Se esconder e se esgueirar não irá resolver todos os seus problemas. {nl}Um verdadeiro Batedor também precisa estar pronto para lutar.
+QUEST_20150323_000159	{memo X}Você irá precisar de muitas coisas ao viajar. {nl}Certifique-se de estocar suas provisões com antecedência.
+QUEST_20150323_000160	$Se a magia de controle for dissipada, as mensagens divinas não estarão protegidas.
+QUEST_20150323_000161	$Cenotáfio do Ladrão Esquecido
+QUEST_20150323_000162	$Eu, Zubeck, deixo este epitáfio. {nl}Pela honra de ser o maior ladrão da história, eu desafiei uma poderosa feiticeira.
+QUEST_20150323_000163	$Mas poderia eu, um mero ladrão, reivindicar vitória por meramente ter roubado dela? {nl}Talvez, se eu pudesse roubar o maior arquimago cego.
+QUEST_20150323_000164	$No entanto, eu não poderia. {nl}Eu queria ser o maior ladrão de toda história, não apenas hoje.
+QUEST_20150323_000165	$Eu ao menos descobri um meio de entrar na Torre do Mago. {nl}Para isso, alguém tem de concentrar poder mágico em um local específico. {nl}Agora, eu só preciso tomar mais um passo decisivo. 
+QUEST_20150323_000166	$Então, meu dispositivo especial irá ativar. {nl}Se você fizer como eu fiz, você será capaz de entrar na torre também.
+QUEST_20150323_000167	$Depois disso, você também poderá mostrar para aqueles magos estúpidos algumas coisinhas. Haha!
+QUEST_20150323_000168	$Monumento do Comando
+QUEST_20150323_000169	{memo X}Os ladrões que entraram nessa torre foram queimados vivos. {nl}Eu deixo este monumento como alerta aos transgressores. {nl}- Agailla Flurry
+QUEST_20150323_000170	$Rainha Demoníaca Gesti
+QUEST_20150323_000171	$Humanos insolentes.
+QUEST_20150323_000172	$Apenas esperem. Este não é o fim. {nl}Rezem com seus corações para que Laima salve este mundo.
+QUEST_20150323_000173	$Oficial de Klaipeda
+QUEST_20150323_000174	{memo X}Bem vindo, bem vindo. {nl}Sir Uska está esperando na praça central de Klaipeda. {nl}Oh, você precisa de alguma coisa, primeiro?
+QUEST_20150323_000175	$Você quer ir para o portão de Klaipeda imediatamente?
+QUEST_20150323_000176	$Operador Temporário
+QUEST_20150323_000177	$Por favor mude a condição deste personagem.
+QUEST_20150323_000178	$Ocultar/Revelar configuração de NPC
+QUEST_20150323_000179	$Seguidor Algis
+QUEST_20150323_000180	$Este é o momento que a Deusa predisse ao primeiro Paladino. {nl}Venha, me pergunte o que quiser.
+QUEST_20150323_000181	$Há muito, muito tempo atrás, haviam nômades que sofreram de uma praga amaldiçoada. {nl}O honorável primeiro Paladino removeu a maldição com uma Relíquia Sagrada.
+QUEST_20150323_000182	$Os Observadores são descendentes daqueles nômades. {nl}No entanto, a Relíquia Sagrada não era para ser usada para curar aquelas pessoas.
+QUEST_20150323_000183	$O primeiro Paladino recebeu um pedido da Deusa, um dia, em uma Revelação divina. {nl}Enquanto ele pensava em como manter este segredo, os nômades surgiram com sua maldição.
+QUEST_20150323_000184	$Eles e o primeiro Paladino fizeram três promessas antes de quebrar a maldição.
+QUEST_20150323_000185	$Construir a Tenet Chapel. {nl}Esconder a Relíquia Sagrada nesta terra e zelar por ela. {nl}Lutar juntos sempre que o perigo se aproximasse.
+QUEST_20150323_000186	$Tudo isso, era para proteger a Revelação sagrada no santuário da Tenet Chapel.
+QUEST_20150323_000187	$A Relíquia Sagrada foi originalmente feita para proteger esta mensagem. {nl}Ela foi concebida para atrair a Rainha Demoníaca e destruí-la.
+QUEST_20150323_000188	$Tudo pode acontecer, no entanto. {nl}Se este plano falhar, então é muito provável que a batalha final irá ocorrer aqui, na capela.
+QUEST_20150323_000189	$Pawndel
+QUEST_20150323_000190	$E aí?
+QUEST_20150323_000191	$Mesmo?
+QUEST_20150323_000192	$Pawnd
+QUEST_20150323_000193	$O que aconteceu?
+QUEST_20150323_000194	$Gesti nos disse para proteger este lugar.
+QUEST_20150323_000195	$Então o que eu faço agora?
 QUEST_20150317_000196 $Este é o lugar certo?
 QUEST_20150317_000197 $Explicando
 QUEST_20150317_000198 {memo X}Compartilhado os detalhes do fragmento da Revelação encontrados na Crystal Mine.
