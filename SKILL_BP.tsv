@@ -5527,14 +5527,14 @@ SKILL_20151102_005527 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que s
 SKILL_20151102_005528 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha em espiral causando múltiplos acertos no alvo.
 SKILL_20151102_005529 {#DD5500}{ol}[Projétil]{/}{/}{nl}Pula para trás enquanto dispara múltiplas flechas.
 SKILL_20151102_005530 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma bala de pedra que empurra o alvo. O alvo tem chance de ser atordoado.
-SKILL_20151102_005531 {#DD5500}{ol}[Projétil]{/}{/}{nl}Carrega múltiplos setas em sua besta e então os dispara em rápida sucessão em um inimigo.
-SKILL_20151102_005532 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Sopra uma flecha toxica que inflige dano por um longo período de tempo.
+SKILL_20151102_005531 {#DD5500}{ol}[Projétil]{/}{/}{nl}Carrega múltiplas setas em sua besta e então as dispara em rápida sucessão em um inimigo.
+SKILL_20151102_005532 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Sopra uma flecha tóxica que inflige dano por um longo período de tempo.
 SKILL_20151102_005533 {#DD5500}{ol}[Projétil] - [Veneno]{/}{/}{nl}Dispara uma flecha com veneno contagioso. Sempre que o alvo for atacado ele espalhará veneno aos inimigos próximos.
 SKILL_20151102_005534 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha barulhenta. Inimigos próximos ao alvo são infligidos com Medo.
 SKILL_20151102_005535 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara um sinalizador na área designada, ao atingir o chão o sinalizador explode em faíscas que causam dano aos inimigos próximos.
-SKILL_20151102_005536 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo rebate e atinge dois inimigos mais próximos.
+SKILL_20151102_005536 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir o alvo rebate e atinge mais dois inimigos próximos.
 SKILL_20151102_005537 {#DD5500}{ol}[Projétil]{/}{/}{nl}Se o alvo morrer com este ataque ele explode. Membros do grupo ganham força por um período de tempo.
-SKILL_20151102_005538 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com ponteira grande e larga. Inimigos atingidos sao infligidos com Sangramento.
+SKILL_20151102_005538 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com ponteira grande e larga. Inimigos atingidos são infligidos com Sangramento.
 SKILL_20151102_005539 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha altamente perfurante em um inimigo. Abaixa a defesa de inimigos atingidos e anula qualquer magia protetiva.
 SKILL_20151102_005540 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha farpada. O número de acertos depende do tipo de defesa do alvo.
 SKILL_20151102_005541 {#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha que ao atingir um inimigo cria uma explosão em forma de cruz.
