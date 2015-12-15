@@ -280,7 +280,7 @@ UI_20150317_000279
 UI_20150317_000280	{@st59}Procurar{/}
 UI_20150317_000281
 UI_20150317_000282
-UI_20150317_000283
+UI_20150317_000283	{@st59}Fechar Interface de Reparo de Item{/}
 UI_20150317_000284
 UI_20150317_000285
 UI_20150317_000286
@@ -496,8 +496,8 @@ UI_20150317_000495
 UI_20150317_000496
 UI_20150317_000497
 UI_20150317_000498
-UI_20150317_000499
-UI_20150317_000500
+UI_20150317_000499	Clique novamente para desselecionar tudo
+UI_20150317_000500	{memo X}Fabricando
 UI_20150317_000501	{memo X}misturar, mixar e misturar
 UI_20150317_000502	{@st43}Categoria{/}
 UI_20150317_000503	{@st43}Eu{/}
@@ -507,8 +507,8 @@ UI_20150317_000506	{@st43}Prata{/}
 UI_20150317_000507	{@st43}Grau{/}
 UI_20150317_000508	{@st43}Taxa de vitórias PvP{/}
 UI_20150317_000509	{@st59}Fechar Janela{/}
-UI_20150317_000510	{@sti5}Total da compra : %s{/}
-UI_20150317_000511	{@sti5}Quantidade total : %s{/}
+UI_20150317_000510	{@sti5}Total da Compra : %s{/}
+UI_20150317_000511	{@sti5}Quantidade Total : %s{/}
 UI_20150317_000512	{@st41b} Comprar
 UI_20150317_000513	{memo X}{@st43} Adquiriu ingredientes para fabricar itens!
 UI_20150317_000514	{@st43}Magnum Opus{/}
@@ -590,8 +590,8 @@ UI_20150317_000589	Selecionar tudo
 UI_20150317_000590	{Gr gradation1}Reparar{/}
 UI_20150317_000591	{@st43}Reparar{/}
 UI_20150317_000592	{memo X}Lista de itens para reparo
-UI_20150317_000593	{@st41b}Custo do reparo{/}
-UI_20150317_000594	{@st41b}Balanço esperado{/}
+UI_20150317_000593	{@st41b}Custo do Reparo{/}
+UI_20150317_000594	{@st41b}Saldo Parcial{/}
 UI_20150317_000595	{@st41b}Reparar equipamento{/}
 UI_20150317_000596	Reparar o equipamento selecionado.
 UI_20150317_000597	{@st59}Fechar reparo de item{/}
@@ -1568,7 +1568,7 @@ UI_20150714_001566
 UI_20150714_001567	{@st59b}Equipamentos {nl}{@st59s} - Cabelo/#pending Costume : Alterar aparencia do personagem {nl} - Armas : Armas de uma ou duas mãos {nl}    (Sub-Armas/Escudos pode ser usados em uma das mãos) {nl} - Equipamentos : Topo, Calças, Luvas, Sapatos {nl} - Accessórios : 1 Colar e 2 Braceletes {nl} {/}
 UI_20150714_001568
 UI_20150714_001569
-UI_20150714_001570
+UI_20150714_001570	{@st66}Selecionar Tudo
 UI_20150714_001571
 UI_20150714_001572
 UI_20150714_001573
@@ -1619,7 +1619,7 @@ UI_20150714_001617
 UI_20150714_001618
 UI_20150714_001619
 UI_20150714_001620
-UI_20150714_001621
+UI_20150714_001621	{@st66}Itens precisando de reparos
 UI_20150714_001622
 UI_20150714_001623
 UI_20150714_001624
@@ -1651,7 +1651,7 @@ UI_20150714_001649	{@st66b}Aplicar Partícula Macia{/}
 UI_20150714_001650	{@st66b}Aplicar Textura de Alta Qualidade{/}
 UI_20150714_001651	{@st66b}Sinc Vertical On{/}
 UI_20150714_001652	{@st66b}Sinc Vertical Off{/}
-UI_20150714_001653	{@st66b} %s prata é consumida quando você usa o armazem.{/}
+UI_20150714_001653	{@st66b} %s prata é consumida quando você usa o armazém.{/}
 UI_20150714_001654
 UI_20150714_001655
 UI_20150714_001656
