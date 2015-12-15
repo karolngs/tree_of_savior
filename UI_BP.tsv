@@ -138,22 +138,22 @@ UI_20150317_000137
 UI_20150317_000138
 UI_20150317_000139
 UI_20150317_000140
-UI_20150317_000141
-UI_20150317_000142
-UI_20150317_000143
-UI_20150317_000144
-UI_20150317_000145
-UI_20150317_000146
-UI_20150317_000147
-UI_20150317_000148
-UI_20150317_000149
-UI_20150317_000150
-UI_20150317_000151
+UI_20150317_000141	{@st49}Close{/}
+UI_20150317_000142	{@st43}Adotar Mascote
+UI_20150317_000143	{@st59}Insira o nome do seu novo Mascote {/}
+UI_20150317_000144	{@st41b}Nome{/}
+UI_20150317_000145	{@st41b}Preço %s{/}
+UI_20150317_000146	{@st59}Fechar a Janela de Adoção do Mascote{/}
+UI_20150317_000147	{@st41b}Adotar
+UI_20150317_000148	{@st59}Confirmar adoção {/}
+UI_20150317_000149	{@st43}Loja de Mascotes
+UI_20150317_000150	{@st59}Fechar Loja de Mascotes{/}
+UI_20150317_000151	{@st43}Outras Informações de Personagem{/}{@st42}
 UI_20150317_000152	{@st59}Fechar a Informação do Personagem{/}
-UI_20150317_000153
-UI_20150317_000154
-UI_20150317_000155
-UI_20150317_000156
+UI_20150317_000153	{@st41b}Informação
+UI_20150317_000154	{@st41b}Gravar
+UI_20150317_000155	Nome do Time
+UI_20150317_000156	Nome do Personagem
 UI_20150317_000157
 UI_20150317_000158
 UI_20150317_000159
@@ -181,7 +181,7 @@ UI_20150317_000180
 UI_20150317_000181
 UI_20150317_000182
 UI_20150317_000183	Informações da Missão
-UI_20150317_000184
+UI_20150317_000184	{@st59}Cancelar Negociação{/}
 UI_20150317_000185
 UI_20150317_000186
 UI_20150317_000187
@@ -473,29 +473,29 @@ UI_20150317_000472
 UI_20150317_000473
 UI_20150317_000474
 UI_20150317_000475
-UI_20150317_000476
-UI_20150317_000477
-UI_20150317_000478
-UI_20150317_000479
-UI_20150317_000480
-UI_20150317_000481
-UI_20150317_000482
-UI_20150317_000483
-UI_20150317_000484
-UI_20150317_000485
-UI_20150317_000486
-UI_20150317_000487
-UI_20150317_000488
-UI_20150317_000489
-UI_20150317_000490
-UI_20150317_000491
-UI_20150317_000492
-UI_20150317_000493
-UI_20150317_000494
-UI_20150317_000495
-UI_20150317_000496
-UI_20150317_000497
-UI_20150317_000498
+UI_20150317_000476	{@st43}Informação do Mascote
+UI_20150317_000477	{@st59b}Informação do Mascote{nl}{@st59s} - Você pode configurar seu mascote para o modo Ativo ou Descanso usando o botão abaixo.{nl} - Os atributos e equipamentos do seu mascote podem ser personalizados.{/}
+UI_20150317_000478	{@st59}Fechar Informação do Mascote{/}
+UI_20150317_000479	{@st41b}Nome : {@sti9}%s{/}
+UI_20150317_000480	Amizade{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000481	EXP {@st41b} {/}
+UI_20150317_000482	{@st41b}Estamina{/}
+UI_20150317_000483	Intimidade {@st41b} {/}
+UI_20150317_000484	{@st41b}Atributos e Informações
+UI_20150317_000485	{@st43}Mascote{/}
+UI_20150317_000486	{@st59b}Mascote{nl}{@st59s}- Clique em um item na lista para ver mais informações.{/}
+UI_20150317_000487	{@st59}Fechar Mascote{/}
+UI_20150317_000488	{@st59}Fechar Janela de Ajuda{/}
+UI_20150317_000489	{@st59}Ajuda{nl} - Veja informações detalhadas e dicas. {nl} - Veja outros tópicos da Lista de Ajuda{/}
+UI_20150317_000490	{@st43}Ajuda{/}
+UI_20150317_000491	Tópicos de Ajuda
+UI_20150317_000492	{ol}{#AAAA00}{s16}Tempo Decorrido : %s
+UI_20150317_000493	{@st43}Jarro de Veneno{/}
+UI_20150317_000494	{@st59}Fechar Interface do Jarro de Veneno{/}
+UI_20150317_000495	{@st59}Precisa escrever{/}
+UI_20150317_000496	Quantidade de Veneno: %s
+UI_20150317_000497	Itens que podem ser utilizados para fabricar veneno
+UI_20150317_000498	Selecionar Todos
 UI_20150317_000499	Clique novamente para desselecionar tudo
 UI_20150317_000500	{memo X}Fabricando
 UI_20150317_000501	{memo X}misturar, mixar e misturar
@@ -733,7 +733,7 @@ UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
 UI_20150317_000734	{@st59}Mascote (F9) {/}
 UI_20150317_000735	{@st59}Ajuda (F10) {/}
-UI_20150317_000736	{@st59}Menu do sistema (Esc){/}
+UI_20150317_000736	{@st59}Menu do Sistema (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
 UI_20150317_000738	Ajuda(F1)
 UI_20150317_000739	Conteúdo
@@ -1745,8 +1745,8 @@ UI_20150729_001743	{@st41}Opções de Recrutamento do Grupo
 UI_20150729_001744	{@st42}Função de Localização de Grupos{/}
 UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a mensagem [Jogador Encontrado!] será mostrada.
 UI_20150729_001746	{@st41b}Jogadores Recomendados{/}
-UI_20150729_001747	{@st41}Informações dos atributos
-UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
+UI_20150729_001747	{@st41}Informação dos Atributos
+UI_20150729_001748	{@st59}Cancelar Aprimoramento{/}
 UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de missão podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
 UI_20150729_001750	{memo X}{#000000}{s22}Fila do Servidor
 UI_20150729_001751	{memo X}{#000000}{s22}Servidor cheio. Entrando na Fila.
