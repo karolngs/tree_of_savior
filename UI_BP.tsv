@@ -516,25 +516,25 @@ UI_20150317_000515	{@st41}Excluir tudo
 UI_20150317_000516	{memo X}{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combinação
 UI_20150317_000518	{@st43}Missão{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone 'Retornar' irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
+UI_20150317_000519	{@st59b}Missões{nl}{@st59s} - Quando você estiver numa nova missão, ela será adicionada ao registro de missões. {nl} - As missões principais aparecerão em amarelo, enquanto uma sub-missões aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da missão. {nl} - Se você completar uma missão, um ícone 'Retornar' irá aparecer no registro de missões. {nl} (Teleporta você para o NPC da missão através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova missões no registro de missões marcando ou desmarcando a caixa na frente do nome da missão. {/}
 UI_20150317_000520	{@st41b}Em Progresso{/}
 UI_20150317_000521	{@st41b}Abandonar{/}
-UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
+UI_20150317_000522	{@st43}{s22}Informações da Missão{/}
 UI_20150317_000523	Missão Completa
 UI_20150317_000524	{@st41}Completo{/}
-UI_20150317_000525	Informações de Progressão da quest
-UI_20150317_000526	{s18}{ol}Informações da Quest
+UI_20150317_000525	Informações de Progressão da missão
+UI_20150317_000526	{s18}{ol}Informações da Missão
 UI_20150317_000527	{S16}Tempo restante
-UI_20150317_000528	Usar item de quest
-UI_20150317_000529	Dica da quest
+UI_20150317_000528	Usar item de missão
+UI_20150317_000529	Dica da missão
 UI_20150317_000530	{@st41}OK{/}
-UI_20150317_000531	{@st43}{s22}Quest Completa{/}
+UI_20150317_000531	{@st43}{s22}Missão Completa{/}
 UI_20150317_000532	{@st41b}Completo {/}
 UI_20150317_000533	{@st41}Aceitar{/}
 UI_20150317_000534	{@st41}Recusar{/}
 UI_20150317_000535	{@st44}Voltar{/}
-UI_20150317_000536	Para qual quest você gostaria de voltar?
-UI_20150317_000537	{memo X}{@st41b}Nome da classe da quest{/}
+UI_20150317_000536	Para qual missão você gostaria de voltar?
+UI_20150317_000537	{memo X}{@st41b}Nome da classe da missão{/}
 UI_20150317_000538	{@st59}Expandir slot {/}
 UI_20150317_000539	{@st59}Reduzir slot{/}
 UI_20150317_000540	{memo X}{@st59}Invocar Mascote{/}
@@ -606,7 +606,7 @@ UI_20150317_000605	{memo X}{@st41b}Você está {/}{s20}{#cc6600}{ol} incapaz de 
 UI_20150317_000606	{memo X}{@st41b}Renascer no ponto de retorno mais próximo{/}
 UI_20150317_000607	{memo X}{@st41b} Renascer aqui (%s Moedas necessárias) {/}
 UI_20150317_000608	{memo X}{@st41b}Voltar ao campo{/}
-UI_20150317_000609	{memo X}{@st41b}Abandonar quest e recomeçar{/}
+UI_20150317_000609	{memo X}{@st41b}Abandonar missão e recomeçar{/}
 UI_20150317_000610	{memo X}{@st41b}Tentar novamente{/}
 UI_20150317_000611	Santuário da Ressurreição (70031)
 UI_20150317_000612	O item necessário está faltando.
@@ -743,7 +743,7 @@ UI_20150317_000742	{@st43}Jogo{/}
 UI_20150317_000743	{memo X}{@st41b}Mostrar EXP adquirida{/}
 UI_20150317_000744	{memo X}{@st41b}Mostrar nome do personagem{/}
 UI_20150317_000745	{memo X}{@st41b} Mostrar apenas o nome do time {/}
-UI_20150317_000746	{memo X}{@st41b}Mostrar guia de quests{/}
+UI_20150317_000746	{memo X}{@st41b}Mostrar guia de missões{/}
 UI_20150317_000747	{@st43}Tela{/}
 UI_20150317_000748	{@st43}Gráficos{/}
 UI_20150317_000749	{memo X}{@st41b}Tela cheia{/}
@@ -1272,11 +1272,11 @@ UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Criação
 UI_20150317_001272	{@St41b}Preço : %s{/}
 UI_20150317_001273	{@Sti5}Preço : %s{/}
-UI_20150317_001274	{@Sti9} Quest de Grupo (%s){/}
+UI_20150317_001274	{@Sti9} Missão de Grupo (%s){/}
 UI_20150317_001275	{@st41_yellow} Média Explorada %s% {/}
 UI_20150317_001276	{@st41_yellow} Pontos %s {/}
 UI_20150317_001277	{@st42b}{b}Taxa de conquistas{/}
-UI_20150317_001278	{@st59}Juntar-se a quest de grupo{/}
+UI_20150317_001278	{@st59}Juntar-se a missão de grupo{/}
 UI_20150317_001279	Janelas
 UI_20150317_001280	Status
 UI_20150317_001281	Aba
@@ -1521,7 +1521,7 @@ UI_20150428_001519	{@st59}Use o Teclado ou Joypad Para controlar a UI
 UI_20150428_001520	Usar procura de Grupos
 UI_20150428_001521	Quando um jogador corresponder às condições do seu grupo, a mensagem [Grupo correspondente encontrado!] será mostrada.
 UI_20150428_001522	{@st41}Estilo de Jogo{/}
-UI_20150428_001523	Quest
+UI_20150428_001523	Missão
 UI_20150428_001524	Caça
 UI_20150428_001525	Eventos
 UI_20150428_001526	{@st41}Diferença de Level{/}
@@ -1720,7 +1720,7 @@ UI_20150717_001718	{memo X}{@st41b}Lista de Personagens Recomendados{/}
 UI_20150717_001719	{@st41b}Receber Recomendação
 UI_20150717_001720	Pode ser usado apenas por lideres de grupo.
 UI_20150717_001721	Você precisa usar a função de recomendação de membros para grupo.
-UI_20150717_001722	{@st66b}Quest Classe Nome{/}
+UI_20150717_001722	{@st66b}Missão Classe Nome{/}
 UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Botão direito do mouse e entre a quantidade que deseja comprar/vender{nl} - Pressione o botão direito do mouse duas vezes para vender todos os itens{/}
 UI_20150717_001724	{@st59}Informações do Mouse{/}
 UI_20150717_001725	{@st66b}Organizar
@@ -1747,7 +1747,7 @@ UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a m
 UI_20150729_001746	{@st41b}Jogadores Recomendados{/}
 UI_20150729_001747	{@st41}Informações dos atributos
 UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
-UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de quest podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
+UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de missão podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
 UI_20150729_001750	{memo X}{#000000}{s22}Fila do Servidor
 UI_20150729_001751	{memo X}{#000000}{s22}Servidor cheio. Entrando na Fila.
 UI_20150729_001752	{memo X}{#000000}{s22}Posição atual : %s
@@ -1798,7 +1798,7 @@ UI_20150918_001796	{@st66b}{s20}Você se tornou {/}{s20}{#cc6600}{ol}Incapaz de 
 UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais próximo{/}
 UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s iCoins){/}
 UI_20150918_001799	{@st66b}Retornar ao campo{/}
-UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}
+UI_20150918_001800	{@st66b}Abandonar a missão e tentar novamente{/}
 UI_20150918_001801	{@st66b}Tentar denovo{/}
 UI_20150918_001802	{@st66b}Itens Vendidos{/}
 UI_20150918_001803	{@st53}Pontos do Rank : %s
