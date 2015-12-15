@@ -438,7 +438,7 @@ UI_20150317_000437	{@st59b}Informação de Grupo {nl}{@st59s} - Clique em "criar
 UI_20150317_000438	{@st43}Informações do Grupo{/}
 UI_20150317_000439	{@st41b}Membros{/}
 UI_20150317_000440	{@st41b}Eventos do Grupo{/}
-UI_20150317_000441	{@st41b}Configs{/}
+UI_20150317_000441	{@st41b}Config{/}
 UI_20150317_000442
 UI_20150317_000443
 UI_20150317_000444
@@ -457,8 +457,8 @@ UI_20150317_000456
 UI_20150317_000457
 UI_20150317_000458	{@st41b}Criar Grupo
 UI_20150317_000459	{@st43}Lista de Grupos Públicos{/}
-UI_20150317_000460
-UI_20150317_000461
+UI_20150317_000460	{@st59b}Lista de Grupos Públicos{nl}{@st59s}- Procure por grupos que você queira se juntar{nl}- Personalise a pesquisa para pesquisar pelo grupo que quer {/}
+UI_20150317_000461	{@st59}Fechar Lista de Grupos{/}
 UI_20150317_000462	Usar Procura
 UI_20150317_000463	Compart. de Missão
 UI_20150317_000464	Distribuição de Exp
