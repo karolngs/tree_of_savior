@@ -105,130 +105,130 @@ QUEST_JOBSTEP_20150317_000104	$Você procura o segundo livro de Lydia Schaffen? 
 QUEST_JOBSTEP_20150317_000105	$Acho que 5000 moedas de prata é um bom valor. {nl}Ouvi dizer que esse é o valor do livro.
 QUEST_JOBSTEP_20150317_000106	{memo X}Ah, você veio na hora certa!{nl}Se você puder levar [#pending Merog leather] ao Mestre Besteiro, ele fará uma cópia do próximo volume à você.
 QUEST_JOBSTEP_20150317_000107	{memo X}Este [#pending Merog leather] veio do Mestre Arqueiro?
-QUEST_JOBSTEP_20150317_000108 	{memo X}você encontrará Merogs na [#pending Fallen Worry Forest].{nl}Eu levarei esses para ao Mestre Besteiro em Klaipeda.
-QUEST_JOBSTEP_20150317_000109 	$A qualidade é boa o bastante. O Mestre Arqueiro ficará satisfeito. {nl}Aqui, preparei uma cópia do livro, pode ficar. 
-QUEST_JOBSTEP_20150317_000110 	$Agora só falta um livro.. {nl}Dê essa bolsa ao Mestre Sentinela e pegue o livro. {nl}
-QUEST_JOBSTEP_20150317_000111 	$O Arqueiro Mestre mandou você? {nl}Bem, bom trabalho. Lhe darei o livro como prometido.
-QUEST_JOBSTEP_20150317_000112 	$O livro não está pronto ainda? {nl}Eu quero ver todos os livros da Lydia Schaffen o mais breve possível...
-QUEST_JOBSTEP_20150317_000113 	{memo X}$Finalmente, todos os livros estão aqui. {nl}Lhe ensinarei novas habilidades como prometido.
-QUEST_JOBSTEP_20150317_000114 	{memo X}$Estou procurando alguns livros. Eles são livros de Lydia Schaffen's. {nl}Eu lhe ensinarei novas habilidades se você pegar os livros para mim, o que acha?
-QUEST_JOBSTEP_20150317_000115 	$O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
-QUEST_JOBSTEP_20150317_000116 	$Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
-QUEST_JOBSTEP_20150317_000117 	{memo X}O problema é a Mestra Caçadora. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
-QUEST_JOBSTEP_20150317_000118 	$Você se refere a esse livro? {nl}Bem... certo! Dou ele para você por 5000 moedas de prata.
-QUEST_JOBSTEP_20150317_000119 	{memo X}Acho que 5000 moedas de prata será o suficiente. {nl}Você tem isso?
-QUEST_JOBSTEP_20150317_000120 	{memo X}Você veio na hora certa.{nl}O Mestre Besteiro disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
-QUEST_JOBSTEP_20150317_000121 	{memo X}A Mestre Sentinela não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
-QUEST_JOBSTEP_20150317_000122 	{memo X}$Merogs se encontram na [#pending Fallen Worry Forest] e o Mestre Besteiro está em Klaipeda. {nl}Alguém poderia ir até lá e pegar o livro antes de você, então vá depressa.
-QUEST_JOBSTEP_20150317_000123 	$O livro está em boas condições.{nl}Agora leve-o ao Mestre Arqueiro. {nl}
-QUEST_JOBSTEP_20150317_000124 	$O Mestre Arqueiro em Klaipeda tem o último livro. {nl}Ouvi dizer que ele está consertado a muralha, então talvez essa informaçãp possa lhe ajudar.
-QUEST_JOBSTEP_20150317_000125 	$Soube de uma rocha que pode ser útil para consertar a muralha na Vila Mineiradora. {nl}Traga a rocha ao Mestre Arqueiro como presente.
-QUEST_JOBSTEP_20150317_000126 	$A Mestra Caçadora disse para você trazer isso? {nl}Se você está aqui pelo livro da Lydia Schaffen, era só ter pedido. Mas obrigado mesmo assim. 
-QUEST_JOBSTEP_20150317_000127 	{memo X}$Você finalmente conseguiu todos os livros, Bom trabalho. {nl}Vou lhe ensinar novas habilidades como prometido, mas é seu trabalho manter o rítmo e seguir minhas instruções.
-QUEST_JOBSTEP_20150317_000128 	$Você conseguiu couro de boa qualidade. {nl}Leve ao Mestre Besteiro. 
-QUEST_JOBSTEP_20150317_000129 	$Por que você trouxe isso para mim? Leve ao Mestre Arqueiro rápido.
-QUEST_JOBSTEP_20150317_000130 	$Escultor Tesla
-QUEST_JOBSTEP_20150317_000131 {memo X}O talento de um escultor é importante, assim como ter um olho para ver materiais importantes. {nl}Ajudarei você a aprender minhas habilidades se você me trouxer os cristais azuis que estou procurando.
-QUEST_JOBSTEP_20150317_000132 $Esse é o problema. {nl}O Yekub o engoliu logo que foi encontrado no 2º Andar da Vila dos Mineradores.
-QUEST_JOBSTEP_20150317_000133 $Oh, é isso. {nl}Eu tenho muito tempo, então vou lhe ensinar minuciosamente.
-QUEST_JOBSTEP_20150317_000134 {memo X}Você quer aprender a arte da espada de um Highlander comigo? {nl}Vou considerar se você conseguir cooperação dos Pelstastas.
-QUEST_JOBSTEP_20150317_000135 {memo X}Como compensação por buscar cooperação, apenas apoie 5 tábuas do tipo broquel de madeira.{nl}Derrotar Upents no [#pending Indigo Trees Plateau] será suficiente.
-QUEST_JOBSTEP_20150317_000136 $Obrigado pelos suprimentos, mas o Mestre Highlander não o teria mandado apenas para isso. {nl}Diga-me o que você quer. {nl}  
-QUEST_JOBSTEP_20150317_000137 $Uma cooperação geral entre os Mestres? Certamente. {nl}Diga a ele que os Peltastas vão cooperar.
-QUEST_JOBSTEP_20150317_000138 {memo X}Se os Mestres se unirem, não demorará até que o reino se ergua novamente. {nl}Você fez um bom trabalho. Eu vou lhe ensinar minha arte da espada.
-QUEST_JOBSTEP_20150317_000139 $Isso deve ser suficiente. {nl}Agora vá buscar a cooperação da Mestra Peltasta.
-QUEST_JOBSTEP_20150317_000140 {memo X}$Nós Peltastas prometemos aos Highlanders emprestar nossa força para reconstruir o reino.{nl}Então se você deseja aprender comigo, também deve ser responsável.{nl}
-QUEST_JOBSTEP_20150317_000141 {memo X}Encontre Uska e empreste sua força.
-QUEST_JOBSTEP_20150317_000142 {memo X}Então você veio aqui a pedido da Mestra Peltasta.{nl}O Mestre Highlander uma vez garantiu que conseguiria apoio dos outros mestres. {nl}
-QUEST_JOBSTEP_20150317_000143 {memo X}Nós, Peltastas, consideramos nossos deveres como humanos como sendo os mais importantes.
-QUEST_JOBSTEP_20150317_000144 {memo x}Nós, Peltastas, consideramos nossos deveres como humanos como sendo os mais importantes.
-QUEST_JOBSTEP_20150317_000145 {memo x}Eu estava prestes a pedir ajuda na busca. {nl}
-QUEST_JOBSTEP_20150317_000146 {memo X}Eu mandei 4 batedores até a [#pending Spine Heart Dale], mas todos desapareceram.{nl}Talvez eles não tenham pensado que a [#pending Thorn Forest] fosse tão perigosa... Por favor os encontre.
-QUEST_JOBSTEP_20150317_000147 {memo X}$Algum problema pode ter aparecido.{nl}Por favor vá até a [#pending Spine Heart Dale] rapidamente.
-QUEST_JOBSTEP_20150317_000148 {memo X}Estes...eram seus pertences. {nl}Nós podemos ao menos dar os pertences às famílias deles. Obrigado. {nl}
-QUEST_JOBSTEP_20150317_000149 {memo X}Eu mesmo direi ao Mestre Highlander, então retorne por favor. {nl}Bom trabalho.
-QUEST_JOBSTEP_20150317_000150 {memo X}Pode não ser uma sensação agradável, mas é bom o suficiente. {nl}Vou permitir que você aprenda a forma dos Peltasta como prometido.
-QUEST_JOBSTEP_20150317_000151 {memo X}Preciso reunir a energia do fogo para minha pesquisa, mas simplesmente não tenho tempo. {nl}Se você coletar para mim, eu lhe ajudarei a aprender a magia dos Piromantes.
-QUEST_JOBSTEP_20150317_000152 $Tome cuidado. O jarro irá quebrar se você não prestar atenção nele.
-QUEST_JOBSTEP_20150317_000153 {memo X}Por favor coloque este jarro no chão quando você for ao [#pending Descended Tree Garden].{nl}Depois disso, quando você derrotar os inimigos próximos, as energias serão acumuladas no jarro.
-QUEST_JOBSTEP_20150317_000154 {memo X}Há um livro importante que estou procurando. {nl}Se você pegar esse livro para mim, eu lhe ajudo a aprender a magia dos Criomantes.
-QUEST_JOBSTEP_20150317_000155 $Você disse que encontrará o livro? {nl}Desculpe, mas você está atrasado.
-QUEST_JOBSTEP_20150317_000156 $Ouvi rumores de que está na Vila dos Mineradores, mas não sei a localização exata. {nl}Talvez o Prefeito saberia...
-QUEST_JOBSTEP_20150317_000157 $Os Vubbes levaram todos os livros quando atacaram. {nl}Talvez eles o usem para fogo no seu campo.
-QUEST_JOBSTEP_20150317_000158 Se existisse algo como isso, nós teríamos resolvido. {nl}Você pode ir e tentar procurar.
-QUEST_JOBSTEP_20150317_000159 $Você o encontrou. Ótimo trabalho. {nl}Você terá que se esforçar muito para seguir meu treinamento.
-QUEST_JOBSTEP_20150317_000160 $Ouvi que o livro foi visto pela última vez na Vila dos Mineradores. {nl}É um livro muito importante, então talvez o Prefeito saiba algo sobre ele.
-QUEST_JOBSTEP_20150317_000161 Você deve ter encontrado o livro. Não sei como, mas parabéns. {nl}Por que você não retorna para quem está esperando por esse livro?
-QUEST_JOBSTEP_20150317_000162 Mestre Krivis
-QUEST_JOBSTEP_20150317_000163 {memo X}Um Krivis deve ser livre das restrições humanas e se dedicar ao clero. {nl}Isso é feito oferecendo orações de devoção para todas as Estátuas da Deusa em Siauliai. {nl}
-QUEST_JOBSTEP_20150317_000164 Arrependa-se. {nl}Peça à Deusa por perdão e nasça novamente. 
-QUEST_JOBSTEP_20150317_000165 {memo X}$Posso sentir que você está cheio das bençãos da Deusa. {nl}Bem-vindo à sua nova vida como um Krivis.
-QUEST_JOBSTEP_20150317_000166 Mestre Espadachim
-QUEST_JOBSTEP_20150317_000167 {memo X}Um velho ditado diz, lute até a morte e você sobreviverá. {nl}Eu poderei lhe ensinar se você perceber o que isso significa.
-QUEST_JOBSTEP_20150317_000168 $Você não percebeu o que significa. {nl}Lute um pouco mais.
-QUEST_JOBSTEP_20150317_000169 $Certo...Agora você entende? {nl}Lembre-se que você é um Espadachim e dedique-se a ser um.
-QUEST_JOBSTEP_20150317_000170 {memo X}Então lute contra Mentiwoods na [#pending Seven Hues Mesa]. {nl}Você aprender algo fazendo isso.
-QUEST_JOBSTEP_20150317_000171 {memo X}A coisa mais importante para um Sacerdote é acreditar na Deusa, e provar isso. {nl}Exorcise os soldados possuídos por maus espíritos em nome da Deusa.
-QUEST_JOBSTEP_20150317_000172 O soldado está sendo cuidado na Vila dos Mineradores . {nl}Sua sinceridade será sua força.
-QUEST_JOBSTEP_20150317_000173 Sua sinceridade foi provada. {nl}Nós andaremos juntos em nome da Deusa.
-QUEST_JOBSTEP_20150317_000174 {memo X}Aprender magia comigo vem depois de ajudar minha pesquisa. {nl}Falaremos sobre o problema de talento depois.
-QUEST_JOBSTEP_20150317_000175 {memo X}$Primeiro pegue [#pending Skins of Grolls] da [#pending Spine Heart Dale], [#pending Feelers of Chafperors] da [#pending Fallen Worry Forest], {nl}e por útlimo, os núcleos do Jukopus. Estou contando com você.
-QUEST_JOBSTEP_20150317_000176 Você coletou tudo. {nl}Agora vamos ao próximo passo.
-QUEST_JOBSTEP_20150317_000177 $Klaipeda é longe da capital e foi pouco atacada por monstros. {nl}Prestei atenção nesse ponto e estou estudando para fazer um grande círculo mágico.{nl}
-QUEST_JOBSTEP_20150317_000178 E para isso, preciso reunir informações. {nl}Você pode usar este pergaminho ao redor da cidade?
-QUEST_JOBSTEP_20150317_000179 Eu marquei no mapa onde você precisa instalar ele. {nl}Você precisa usá-lo em cada um dos pontos.
-QUEST_JOBSTEP_20150317_000180 {memo X}Bom trabalho. Reuni informações úteis com sua ajuda. {nl}Minha pesquisa está completa então você pode vir treinar a qualquer hora.
-QUEST_JOBSTEP_20150317_000181 {memo X}Você deve ter vindo para aprender a fé dos Clérigos. {nl}Eu lhe ensinarei se você ajudar tratando os soldados feridos da Vila dos Mineradores.
-QUEST_JOBSTEP_20150317_000182 $A Mestra Clériga emite luz sobre tantos em uma idade tão nova. {nl}Pegue esta água benta e vá até os pacientes rapidamente.
-QUEST_JOBSTEP_20150317_000183 $Você precisa de água benta para tratar eles. {nl}Você deve pegar água benta do Mestre Sacerdote e do Mestre Krivis primeiro.
-QUEST_JOBSTEP_20150317_000184 {memo X}Se é pela Mestra Clériga, pegue tanta água benta quanto você precisar. {nl}Ela tem um lindo coração que até mesmo este velho sacerdote invejaria.
-QUEST_JOBSTEP_20150317_000185 $Por favor mande meus cumprimentos à Mestra Clériga. {nl}Que as bençãos da Deusa estejam com você.
-QUEST_JOBSTEP_20150317_000186 {memo X}Por favor mande meus cumpriemntos a eles enquanto você pega água benta com os mestres.
-QUEST_JOBSTEP_20150317_000187 $Serviço é o que você faz pelos outros, mas é também uma forma de limpar sua própria reflexão. {nl}Espero que sua alma errante seja limpa conforme você trata pacientes.
-QUEST_JOBSTEP_20150317_000188 {memo X}Bom trabalho. {nl}Vou lhe ensinar a fé dos Clérigos, como prometido.
-QUEST_JOBSTEP_20150317_000189 $Acho que talvez você não tenha uma grande lança no momento, {nl}mas você deve ter uma lança à qual você é fortemente ligado. {nl}O que você acha?
-QUEST_JOBSTEP_20150317_000190 $Lanças são o orgulho de Hoplitas. {nl}Uma lança forte é algo de que Hoplitas podem vangloriar-se, como seu nome.
-QUEST_JOBSTEP_20150317_000191 {memo X}Isso é ótimo. {nl}Tudo bem. Você tem o necessário para aprender a arte da lança comigo.
-QUEST_JOBSTEP_20150317_000192 {memo X}Tudo bem. {nl}Se você quer meu reconhecimento, mostre-me uma lança melhorada até o nível 6.{nl}
-QUEST_JOBSTEP_20150317_000193 {memo X}$A realidade muda conforme você pensa. E apenas pensamentos a tornam possível.{nl}Isso é chamado poder sobrenatural. {nl}E a intensidade dele vai variar baseada no quanto alguém confia em si mesmo...{nl}
-QUEST_JOBSTEP_20150317_000194 {memo X}$Ah, eu apenas lhe disse coisas entediantes.{nl}Você quer ser um Psiônico, certo?{nl}Se você me ajudar um pouco, então eu lhe ajudarei a libertar o forte poder sobrenatural que está oculto dentro de você.
-QUEST_JOBSTEP_20150317_000195 {memo X}Vá até [#pending Nardymo Twin Waterfall] no Jardim Ancestral da Deusa. {nl}Por favor traga a [#pending Essence of Demons] de lá.{nl}Okay...estou contando com você.
-QUEST_JOBSTEP_20150317_000196 {memo X}Okay. É isso.{nl}Olhando sua cor, posso ver que está cheia de poder demoníaco.{nl}Haha! Eu lhe ensinarei o verdadeiro poder de um Psiônico de agora em diante, então se prepare!
-QUEST_JOBSTEP_20150317_000197 {memo X}Você quer aprender habilidades de Besteiro comigo? {nl}Bem na hora. Eu também estava procurando alguém para me ajudar.
-QUEST_JOBSTEP_20150317_000198 $Você foi enviado pelo Mestre Besteiro, certo? {nl}Você deve encontrar um mapa. Um mapa escondido com os segredos do Flecheiro.
-QUEST_JOBSTEP_20150317_000199 $O [#pending Sapper Master] disse que encontrou algumas informações sobre o livro que estou procurando. {nl}Vá até os Bosques Orientais Siauliai e encontre ele.
-QUEST_JOBSTEP_20150317_000200 {memo X}O meu colega que se esgueirou na Torre dos Magos há algum tempo disse que ele viu um mapa estranho.{nl}Acho que o mapa é o que estou procurando.
-QUEST_JOBSTEP_20150317_000201 {memo X}Ele me disse que um [#pending Minotaur] o tem em algum lugar do 3º andar.{nl}Ele teve problemas por causa daquele monstro, então você deveria se preparar bem.
-QUEST_JOBSTEP_20150317_000202 {memo X}Oh, este é o mapa? Bom trabalho. {nl}Vou lhe ensinar minhas habilidades como prometido.
-QUEST_JOBSTEP_20150317_000203 $Este é o mapa? Eu realmente não sei dizer. {nl}Leve ele até o Mestre Besteiro.
-QUEST_JOBSTEP_20150317_000204 Então você veio aprender mais habilidades comigo. {nl}Então vá ajudar o Mestre Rodelero em Fedimian. Vou lhe avaliar baseado nisso.
-QUEST_JOBSTEP_20150317_000205 {memo X}O Mestre Arqueiro lhe enviou?{nl}Klaipeda está ficando estável, mas Fedimian ainda corre risco.
-QUEST_JOBSTEP_20150317_000206 Ouvi que a maioria de Fedimian, além do [#pending Holy District], está enterrada e precisando de nossa ajuda.
-QUEST_JOBSTEP_20150317_000207 {memo X}Quero que você derrote o monstro chefe na Torre dos Magos. {nl}Monstros estão saindo da torre {nl}e nós já estamos tendo problemas reconstruindo Fedimian.
-QUEST_JOBSTEP_20150317_000208 {memo X}De acordo com o batedor que conseguiu entrar, havia um [#pending Minotaur] no 3º Andar da Torre dos Magos. {nl}Derrotá-lo será bom o suficiente para servir de aviso.
-QUEST_JOBSTEP_20150317_000209 {memo X}Muito bem. Graças a você, os monstros foram afugentados. {nl}Estenda minha gratidão ao Mestre Arqueiro também.
-QUEST_JOBSTEP_20150317_000210 Muito bem. {nl}Vou lhe treinar para ser mais forte como prometido.
-QUEST_JOBSTEP_20150317_000211 {memo X}Você quer aprender a habilidade de um Sentinela comigo? {nl}Okay. Se você me ajudar, vou considerar dependendo de como você se sair.
-QUEST_JOBSTEP_20150317_000212 {memo X}Evoniphon. {nl}Parece que o Mestre Sentinela ainda tem alguns arrependimentos.{nl}
-QUEST_JOBSTEP_20150317_000213 {memo X}Eu vi o Mestre Elementalista falando com o homem de capuz.{nl}Não posso garantir que aquele era ele, mas não consigo esquecer aquela fragrância única.
-QUEST_JOBSTEP_20150317_000214 Ouvi que você está procurando por alguém que usa capuz e tem um aroma único. {nl}
-QUEST_JOBSTEP_20150317_000215 Claro que eu lembro. Era um homem com um aroma perigoso. {nl}Ele perguntou sobre materiais que não muitas pessoas conhecem então pensei que ele fosse estranho. {nl}
-QUEST_JOBSTEP_20150317_000216 Evoniphon...eu nunca vou esquecer.
-QUEST_JOBSTEP_20150317_000217 {memo X}Depois de falar com o Mestre Elementalista brevemente, ele desapareceu na escuridão.{nl}Por favor vá vê-lo.
-QUEST_JOBSTEP_20150317_000218 {memo X}Como eu poderia saber seu paradeiro. {nl}Ele perguntou sobre materiais que eu não tinha então eu falei onde ele poderia conseguir.
-QUEST_JOBSTEP_20150317_000219 {memo X}Eu falei que ele poderia escapar pelo 3º Andar da Torre dos Magos.{nl}Esse é mesmo o lugar de onde o famoso esquadrão de busca de Rodeleros fugiu.
-QUEST_JOBSTEP_20150317_000220 {memo X}Esse aroma...sim, é de Evoniphon.{nl}Isso será suficiente. Vou lhe ensinar minhas habilidades como prometido.
-QUEST_JOBSTEP_20150317_000221 Sim, este é o aroma. {nl}Era muito único então eu não poderia esquecer nem se quisesse. {nl}
-QUEST_JOBSTEP_20150317_000222 {memo X}Estou procurando por sinais de um homem. Seu nome é Evoniphon.{nl}Eu ouvi que o [#pending Squire Master] tem informações sobre ele então por favor vá vê-lo.
-QUEST_JOBSTEP_20150317_000223 {memo X}Ei, se você veio aqui para ser mais forte, você veio ao lugar certo. {nl}Mas você não pode conseguir isso por nada. você tem que me fazer um favor.{nl}
-QUEST_JOBSTEP_20150317_000224 {memo X}Não é uma grande tarefa. Quero que você ajude um dos meus experimentos...{nl}Primeiro derrote [#pending Drakes] no 1º Andar da Torre dos Magos e colete catalisadores de chama.
-QUEST_JOBSTEP_20150317_000225 {memo X}[#pending Drakes] na verdade não são nada, mas o problema é que os monstros por perto são mais perigosos.{nl}Umm...anime-se!
-QUEST_JOBSTEP_20150317_000226 Oh, certo. Você deveria ser capaz de fazer isso facilmente se quer se tornar um Sapador. {nl}Agora você só tem que ajudar com o experimento.
-QUEST_JOBSTEP_20150317_000227 Bem, é bem simples. {nl}Veja o quanto esta bomba é efetiva nos monstros dos Bosques Orientais Siauliai.
-QUEST_JOBSTEP_20150317_000228 Espero que funcione desta vez...
-QUEST_JOBSTEP_20150317_000229 Eles caíram para trás sem muito dano? {nl}Hmm, qual poderia ser o problema...vou precisar ver desde o início de novo.{nl}
-QUEST_JOBSTEP_20150317_000230 {memo X}De qualquer forma, obrigado. {nl}Você pode voltar a qualquer hora se quiser aprender minhas habilidades.
-QUEST_JOBSTEP_20150317_000231 {memo X}Você quer aprender sobre os Bokors? {nl}Então primeiro, pegue uma carta de um monstro poderoso para mim.
+QUEST_JOBSTEP_20150317_000108	{memo X}você encontrará Merogs na [#pending Fallen Worry Forest].{nl}Eu levarei esses para ao Mestre Besteiro em Klaipeda.
+QUEST_JOBSTEP_20150317_000109	$A qualidade é boa o bastante. O Mestre Arqueiro ficará satisfeito. {nl}Aqui, preparei uma cópia do livro, pode ficar. 
+QUEST_JOBSTEP_20150317_000110	$Agora só falta um livro.. {nl}Dê essa bolsa ao Mestre Sentinela e pegue o livro. {nl}
+QUEST_JOBSTEP_20150317_000111	$O Arqueiro Mestre mandou você? {nl}Bem, bom trabalho. Lhe darei o livro como prometido.
+QUEST_JOBSTEP_20150317_000112	$O livro não está pronto ainda? {nl}Eu quero ver todos os livros da Lydia Schaffen o mais breve possível...
+QUEST_JOBSTEP_20150317_000113	{memo X}$Finalmente, todos os livros estão aqui. {nl}Lhe ensinarei novas habilidades como prometido.
+QUEST_JOBSTEP_20150317_000114	{memo X}$Estou procurando alguns livros. Eles são livros de Lydia Schaffen's. {nl}Eu lhe ensinarei novas habilidades se você pegar os livros para mim, o que acha?
+QUEST_JOBSTEP_20150317_000115	$O primeiro livro estava na Vila Mineradora, mas desapareceu depois do Vubbes atacarem. {nl}Eu suponho que o livro talvez esteja no posto avançado dos Vubbes agora.
+QUEST_JOBSTEP_20150317_000116	$Oh, isso é ótimo. {nl}Será de grande ajuda para você ler também.
+QUEST_JOBSTEP_20150317_000117	{memo X}O problema é a Mestra Caçadora. Eu não quero olhar na cara dela. {nl}Então vá você e pegue o livro com ela.
+QUEST_JOBSTEP_20150317_000118	$Você se refere a esse livro? {nl}Bem... certo! Dou ele para você por 5000 moedas de prata.
+QUEST_JOBSTEP_20150317_000119	{memo X}Acho que 5000 moedas de prata será o suficiente. {nl}Você tem isso?
+QUEST_JOBSTEP_20150317_000120	{memo X}Você veio na hora certa.{nl}O Mestre Besteiro disse que você poderia trazer [#pending Merog leather], se trouxer, ele fará uma cópia do próximo volume para você.
+QUEST_JOBSTEP_20150317_000121	{memo X}A Mestre Sentinela não disse nada a você?{nl}Eu pedi por [#pending Merog leather].
+QUEST_JOBSTEP_20150317_000122	{memo X}$Merogs se encontram na [#pending Fallen Worry Forest] e o Mestre Besteiro está em Klaipeda. {nl}Alguém poderia ir até lá e pegar o livro antes de você, então vá depressa.
+QUEST_JOBSTEP_20150317_000123	$O livro está em boas condições.{nl}Agora leve-o ao Mestre Arqueiro. {nl}
+QUEST_JOBSTEP_20150317_000124	$O Mestre Arqueiro em Klaipeda tem o último livro. {nl}Ouvi dizer que ele está consertado a muralha, então talvez essa informaçãp possa lhe ajudar.
+QUEST_JOBSTEP_20150317_000125	$Soube de uma rocha que pode ser útil para consertar a muralha na Vila Mineiradora. {nl}Traga a rocha ao Mestre Arqueiro como presente.
+QUEST_JOBSTEP_20150317_000126	$A Mestra Caçadora disse para você trazer isso? {nl}Se você está aqui pelo livro da Lydia Schaffen, era só ter pedido. Mas obrigado mesmo assim. 
+QUEST_JOBSTEP_20150317_000127	{memo X}$Você finalmente conseguiu todos os livros, Bom trabalho. {nl}Vou lhe ensinar novas habilidades como prometido, mas é seu trabalho manter o rítmo e seguir minhas instruções.
+QUEST_JOBSTEP_20150317_000128	$Você conseguiu couro de boa qualidade. {nl}Leve ao Mestre Besteiro. 
+QUEST_JOBSTEP_20150317_000129	$Por que você trouxe isso para mim? Leve ao Mestre Arqueiro rápido.
+QUEST_JOBSTEP_20150317_000130	$Escultor Tesla
+QUEST_JOBSTEP_20150317_000131	{memo X}O talento de um escultor é importante, assim como ter um olho para ver materiais importantes. {nl}Ajudarei você a aprender minhas habilidades se você me trouxer os cristais azuis que estou procurando.
+QUEST_JOBSTEP_20150317_000132	$Esse é o problema. {nl}O Yekub o engoliu logo que foi encontrado no 2º Andar da Vila dos Mineradores.
+QUEST_JOBSTEP_20150317_000133	$Oh, é isso. {nl}Eu tenho muito tempo, então vou lhe ensinar minuciosamente.
+QUEST_JOBSTEP_20150317_000134	{memo X}Você quer aprender a arte da espada de um Highlander comigo? {nl}Vou considerar se você conseguir cooperação dos Pelstastas.
+QUEST_JOBSTEP_20150317_000135	{memo X}Como compensação por buscar cooperação, apenas apoie 5 tábuas do tipo broquel de madeira.{nl}Derrotar Upents no [#pending Indigo Trees Plateau] será suficiente.
+QUEST_JOBSTEP_20150317_000136	$Obrigado pelos suprimentos, mas o Mestre Highlander não o teria mandado apenas para isso. {nl}Diga-me o que você quer. {nl}  
+QUEST_JOBSTEP_20150317_000137	$Uma cooperação geral entre os Mestres? Certamente. {nl}Diga a ele que os Peltastas vão cooperar.
+QUEST_JOBSTEP_20150317_000138	{memo X}Se os Mestres se unirem, não demorará até que o reino se ergua novamente. {nl}Você fez um bom trabalho. Eu vou lhe ensinar minha arte da espada.
+QUEST_JOBSTEP_20150317_000139	$Isso deve ser suficiente. {nl}Agora vá buscar a cooperação da Mestra Peltasta.
+QUEST_JOBSTEP_20150317_000140	{memo X}$Nós Peltastas prometemos aos Highlanders emprestar nossa força para reconstruir o reino.{nl}Então se você deseja aprender comigo, também deve ser responsável.{nl}
+QUEST_JOBSTEP_20150317_000141	{memo X}Encontre Uska e empreste sua força.
+QUEST_JOBSTEP_20150317_000142	{memo X}Então você veio aqui a pedido da Mestra Peltasta.{nl}O Mestre Highlander uma vez garantiu que conseguiria apoio dos outros mestres. {nl}
+QUEST_JOBSTEP_20150317_000143	{memo X}Nós, Peltastas, consideramos nossos deveres como humanos como sendo os mais importantes.
+QUEST_JOBSTEP_20150317_000144	{memo x}Nós, Peltastas, consideramos nossos deveres como humanos como sendo os mais importantes.
+QUEST_JOBSTEP_20150317_000145	{memo x}Eu estava prestes a pedir ajuda na busca. {nl}
+QUEST_JOBSTEP_20150317_000146	{memo X}Eu mandei 4 batedores até a [#pending Spine Heart Dale], mas todos desapareceram.{nl}Talvez eles não tenham pensado que a [#pending Thorn Forest] fosse tão perigosa... Por favor os encontre.
+QUEST_JOBSTEP_20150317_000147	{memo X}$Algum problema pode ter aparecido.{nl}Por favor vá até a [#pending Spine Heart Dale] rapidamente.
+QUEST_JOBSTEP_20150317_000148	{memo X}Estes...eram seus pertences. {nl}Nós podemos ao menos dar os pertences às famílias deles. Obrigado. {nl}
+QUEST_JOBSTEP_20150317_000149	{memo X}Eu mesmo direi ao Mestre Highlander, então retorne por favor. {nl}Bom trabalho.
+QUEST_JOBSTEP_20150317_000150	{memo X}Pode não ser uma sensação agradável, mas é bom o suficiente. {nl}Vou permitir que você aprenda a forma dos Peltasta como prometido.
+QUEST_JOBSTEP_20150317_000151	{memo X}Preciso reunir a energia do fogo para minha pesquisa, mas simplesmente não tenho tempo. {nl}Se você coletar para mim, eu lhe ajudarei a aprender a magia dos Piromantes.
+QUEST_JOBSTEP_20150317_000152	$Tome cuidado. O jarro irá quebrar se você não prestar atenção nele.
+QUEST_JOBSTEP_20150317_000153	{memo X}Por favor coloque este jarro no chão quando você for ao [#pending Descended Tree Garden].{nl}Depois disso, quando você derrotar os inimigos próximos, as energias serão acumuladas no jarro.
+QUEST_JOBSTEP_20150317_000154	{memo X}Há um livro importante que estou procurando. {nl}Se você pegar esse livro para mim, eu lhe ajudo a aprender a magia dos Criomantes.
+QUEST_JOBSTEP_20150317_000155	$Você disse que encontrará o livro? {nl}Desculpe, mas você está atrasado.
+QUEST_JOBSTEP_20150317_000156	$Ouvi rumores de que está na Vila dos Mineradores, mas não sei a localização exata. {nl}Talvez o Prefeito saberia...
+QUEST_JOBSTEP_20150317_000157	$Os Vubbes levaram todos os livros quando atacaram. {nl}Talvez eles o usem para fogo no seu campo.
+QUEST_JOBSTEP_20150317_000158	Se existisse algo como isso, nós teríamos resolvido. {nl}Você pode ir e tentar procurar.
+QUEST_JOBSTEP_20150317_000159	$Você o encontrou. Ótimo trabalho. {nl}Você terá que se esforçar muito para seguir meu treinamento.
+QUEST_JOBSTEP_20150317_000160	$Ouvi que o livro foi visto pela última vez na Vila dos Mineradores. {nl}É um livro muito importante, então talvez o Prefeito saiba algo sobre ele.
+QUEST_JOBSTEP_20150317_000161	Você deve ter encontrado o livro. Não sei como, mas parabéns. {nl}Por que você não retorna para quem está esperando por esse livro?
+QUEST_JOBSTEP_20150317_000162	Mestre Krivis
+QUEST_JOBSTEP_20150317_000163	{memo X}Um Krivis deve ser livre das restrições humanas e se dedicar ao clero. {nl}Isso é feito oferecendo orações de devoção para todas as Estátuas da Deusa em Siauliai. {nl}
+QUEST_JOBSTEP_20150317_000164	Arrependa-se. {nl}Peça à Deusa por perdão e nasça novamente. 
+QUEST_JOBSTEP_20150317_000165	{memo X}$Posso sentir que você está cheio das bençãos da Deusa. {nl}Bem-vindo à sua nova vida como um Krivis.
+QUEST_JOBSTEP_20150317_000166	Mestre Espadachim
+QUEST_JOBSTEP_20150317_000167	{memo X}Um velho ditado diz, lute até a morte e você sobreviverá. {nl}Eu poderei lhe ensinar se você perceber o que isso significa.
+QUEST_JOBSTEP_20150317_000168	$Você não percebeu o que significa. {nl}Lute um pouco mais.
+QUEST_JOBSTEP_20150317_000169	$Certo...Agora você entende? {nl}Lembre-se que você é um Espadachim e dedique-se a ser um.
+QUEST_JOBSTEP_20150317_000170	{memo X}Então lute contra Mentiwoods na [#pending Seven Hues Mesa]. {nl}Você aprender algo fazendo isso.
+QUEST_JOBSTEP_20150317_000171	{memo X}A coisa mais importante para um Sacerdote é acreditar na Deusa, e provar isso. {nl}Exorcise os soldados possuídos por maus espíritos em nome da Deusa.
+QUEST_JOBSTEP_20150317_000172	O soldado está sendo cuidado na Vila dos Mineradores . {nl}Sua sinceridade será sua força.
+QUEST_JOBSTEP_20150317_000173	Sua sinceridade foi provada. {nl}Nós andaremos juntos em nome da Deusa.
+QUEST_JOBSTEP_20150317_000174	{memo X}Aprender magia comigo vem depois de ajudar minha pesquisa. {nl}Falaremos sobre o problema de talento depois.
+QUEST_JOBSTEP_20150317_000175	{memo X}$Primeiro pegue [#pending Skins of Grolls] da [#pending Spine Heart Dale], [#pending Feelers of Chafperors] da [#pending Fallen Worry Forest], {nl}e por útlimo, os núcleos do Jukopus. Estou contando com você.
+QUEST_JOBSTEP_20150317_000176	Você coletou tudo. {nl}Agora vamos ao próximo passo.
+QUEST_JOBSTEP_20150317_000177	$Klaipeda é longe da capital e foi pouco atacada por monstros. {nl}Prestei atenção nesse ponto e estou estudando para fazer um grande círculo mágico.{nl}
+QUEST_JOBSTEP_20150317_000178	E para isso, preciso reunir informações. {nl}Você pode usar este pergaminho ao redor da cidade?
+QUEST_JOBSTEP_20150317_000179	Eu marquei no mapa onde você precisa instalar ele. {nl}Você precisa usá-lo em cada um dos pontos.
+QUEST_JOBSTEP_20150317_000180	{memo X}Bom trabalho. Reuni informações úteis com sua ajuda. {nl}Minha pesquisa está completa então você pode vir treinar a qualquer hora.
+QUEST_JOBSTEP_20150317_000181	{memo X}Você deve ter vindo para aprender a fé dos Clérigos. {nl}Eu lhe ensinarei se você ajudar tratando os soldados feridos da Vila dos Mineradores.
+QUEST_JOBSTEP_20150317_000182	$A Mestra Clériga emite luz sobre tantos em uma idade tão nova. {nl}Pegue esta água benta e vá até os pacientes rapidamente.
+QUEST_JOBSTEP_20150317_000183	$Você precisa de água benta para tratar eles. {nl}Você deve pegar água benta do Mestre Sacerdote e do Mestre Krivis primeiro.
+QUEST_JOBSTEP_20150317_000184	{memo X}Se é pela Mestra Clériga, pegue tanta água benta quanto você precisar. {nl}Ela tem um lindo coração que até mesmo este velho sacerdote invejaria.
+QUEST_JOBSTEP_20150317_000185	$Por favor mande meus cumprimentos à Mestra Clériga. {nl}Que as bençãos da Deusa estejam com você.
+QUEST_JOBSTEP_20150317_000186	{memo X}Por favor mande meus cumpriemntos a eles enquanto você pega água benta com os mestres.
+QUEST_JOBSTEP_20150317_000187	$Serviço é o que você faz pelos outros, mas é também uma forma de limpar sua própria reflexão. {nl}Espero que sua alma errante seja limpa conforme você trata pacientes.
+QUEST_JOBSTEP_20150317_000188	{memo X}Bom trabalho. {nl}Vou lhe ensinar a fé dos Clérigos, como prometido.
+QUEST_JOBSTEP_20150317_000189	$Acho que talvez você não tenha uma grande lança no momento, {nl}mas você deve ter uma lança à qual você é fortemente ligado. {nl}O que você acha?
+QUEST_JOBSTEP_20150317_000190	$Lanças são o orgulho de Hoplitas. {nl}Uma lança forte é algo de que Hoplitas podem vangloriar-se, como seu nome.
+QUEST_JOBSTEP_20150317_000191	{memo X}Isso é ótimo. {nl}Tudo bem. Você tem o necessário para aprender a arte da lança comigo.
+QUEST_JOBSTEP_20150317_000192	{memo X}Tudo bem. {nl}Se você quer meu reconhecimento, mostre-me uma lança melhorada até o nível 6.{nl}
+QUEST_JOBSTEP_20150317_000193	{memo X}$A realidade muda conforme você pensa. E apenas pensamentos a tornam possível.{nl}Isso é chamado poder sobrenatural. {nl}E a intensidade dele vai variar baseada no quanto alguém confia em si mesmo...{nl}
+QUEST_JOBSTEP_20150317_000194	{memo X}$Ah, eu apenas lhe disse coisas entediantes.{nl}Você quer ser um Psiônico, certo?{nl}Se você me ajudar um pouco, então eu lhe ajudarei a libertar o forte poder sobrenatural que está oculto dentro de você.
+QUEST_JOBSTEP_20150317_000195	{memo X}Vá até [#pending Nardymo Twin Waterfall] no Jardim Ancestral da Deusa. {nl}Por favor traga a [#pending Essence of Demons] de lá.{nl}Okay...estou contando com você.
+QUEST_JOBSTEP_20150317_000196	{memo X}Okay. É isso.{nl}Olhando sua cor, posso ver que está cheia de poder demoníaco.{nl}Haha! Eu lhe ensinarei o verdadeiro poder de um Psiônico de agora em diante, então se prepare!
+QUEST_JOBSTEP_20150317_000197	{memo X}Você quer aprender habilidades de Besteiro comigo? {nl}Bem na hora. Eu também estava procurando alguém para me ajudar.
+QUEST_JOBSTEP_20150317_000198	$Você foi enviado pelo Mestre Besteiro, certo? {nl}Você deve encontrar um mapa. Um mapa escondido com os segredos do Flecheiro.
+QUEST_JOBSTEP_20150317_000199	$O [#pending Sapper Master] disse que encontrou algumas informações sobre o livro que estou procurando. {nl}Vá até os Bosques Orientais Siauliai e encontre ele.
+QUEST_JOBSTEP_20150317_000200	{memo X}O meu colega que se esgueirou na Torre dos Magos há algum tempo disse que ele viu um mapa estranho.{nl}Acho que o mapa é o que estou procurando.
+QUEST_JOBSTEP_20150317_000201	{memo X}Ele me disse que um [#pending Minotaur] o tem em algum lugar do 3º andar.{nl}Ele teve problemas por causa daquele monstro, então você deveria se preparar bem.
+QUEST_JOBSTEP_20150317_000202	{memo X}Oh, este é o mapa? Bom trabalho. {nl}Vou lhe ensinar minhas habilidades como prometido.
+QUEST_JOBSTEP_20150317_000203	$Este é o mapa? Eu realmente não sei dizer. {nl}Leve ele até o Mestre Besteiro.
+QUEST_JOBSTEP_20150317_000204	Então você veio aprender mais habilidades comigo. {nl}Então vá ajudar o Mestre Rodelero em Fedimian. Vou lhe avaliar baseado nisso.
+QUEST_JOBSTEP_20150317_000205	{memo X}O Mestre Arqueiro lhe enviou?{nl}Klaipeda está ficando estável, mas Fedimian ainda corre risco.
+QUEST_JOBSTEP_20150317_000206	Ouvi que a maioria de Fedimian, além do [#pending Holy District], está enterrada e precisando de nossa ajuda.
+QUEST_JOBSTEP_20150317_000207	{memo X}Quero que você derrote o monstro chefe na Torre dos Magos. {nl}Monstros estão saindo da torre {nl}e nós já estamos tendo problemas reconstruindo Fedimian.
+QUEST_JOBSTEP_20150317_000208	{memo X}De acordo com o batedor que conseguiu entrar, havia um [#pending Minotaur] no 3º Andar da Torre dos Magos. {nl}Derrotá-lo será bom o suficiente para servir de aviso.
+QUEST_JOBSTEP_20150317_000209	{memo X}Muito bem. Graças a você, os monstros foram afugentados. {nl}Estenda minha gratidão ao Mestre Arqueiro também.
+QUEST_JOBSTEP_20150317_000210	Muito bem. {nl}Vou lhe treinar para ser mais forte como prometido.
+QUEST_JOBSTEP_20150317_000211	{memo X}Você quer aprender a habilidade de um Sentinela comigo? {nl}Okay. Se você me ajudar, vou considerar dependendo de como você se sair.
+QUEST_JOBSTEP_20150317_000212	{memo X}Evoniphon. {nl}Parece que o Mestre Sentinela ainda tem alguns arrependimentos.{nl}
+QUEST_JOBSTEP_20150317_000213	{memo X}Eu vi o Mestre Elementalista falando com o homem de capuz.{nl}Não posso garantir que aquele era ele, mas não consigo esquecer aquela fragrância única.
+QUEST_JOBSTEP_20150317_000214	Ouvi que você está procurando por alguém que usa capuz e tem um aroma único. {nl}
+QUEST_JOBSTEP_20150317_000215	Claro que eu lembro. Era um homem com um aroma perigoso. {nl}Ele perguntou sobre materiais que não muitas pessoas conhecem então pensei que ele fosse estranho. {nl}
+QUEST_JOBSTEP_20150317_000216	Evoniphon...eu nunca vou esquecer.
+QUEST_JOBSTEP_20150317_000217	{memo X}Depois de falar com o Mestre Elementalista brevemente, ele desapareceu na escuridão.{nl}Por favor vá vê-lo.
+QUEST_JOBSTEP_20150317_000218	{memo X}Como eu poderia saber seu paradeiro. {nl}Ele perguntou sobre materiais que eu não tinha então eu falei onde ele poderia conseguir.
+QUEST_JOBSTEP_20150317_000219	{memo X}Eu falei que ele poderia escapar pelo 3º Andar da Torre dos Magos.{nl}Esse é mesmo o lugar de onde o famoso esquadrão de busca de Rodeleros fugiu.
+QUEST_JOBSTEP_20150317_000220	{memo X}Esse aroma...sim, é de Evoniphon.{nl}Isso será suficiente. Vou lhe ensinar minhas habilidades como prometido.
+QUEST_JOBSTEP_20150317_000221	Sim, este é o aroma. {nl}Era muito único então eu não poderia esquecer nem se quisesse. {nl}
+QUEST_JOBSTEP_20150317_000222	{memo X}Estou procurando por sinais de um homem. Seu nome é Evoniphon.{nl}Eu ouvi que o [#pending Squire Master] tem informações sobre ele então por favor vá vê-lo.
+QUEST_JOBSTEP_20150317_000223	{memo X}Ei, se você veio aqui para ser mais forte, você veio ao lugar certo. {nl}Mas você não pode conseguir isso por nada. você tem que me fazer um favor.{nl}
+QUEST_JOBSTEP_20150317_000224	{memo X}Não é uma grande tarefa. Quero que você ajude um dos meus experimentos...{nl}Primeiro derrote [#pending Drakes] no 1º Andar da Torre dos Magos e colete catalisadores de chama.
+QUEST_JOBSTEP_20150317_000225	{memo X}[#pending Drakes] na verdade não são nada, mas o problema é que os monstros por perto são mais perigosos.{nl}Umm...anime-se!
+QUEST_JOBSTEP_20150317_000226	Oh, certo. Você deveria ser capaz de fazer isso facilmente se quer se tornar um Sapador. {nl}Agora você só tem que ajudar com o experimento.
+QUEST_JOBSTEP_20150317_000227	Bem, é bem simples. {nl}Veja o quanto esta bomba é efetiva nos monstros dos Bosques Orientais Siauliai.
+QUEST_JOBSTEP_20150317_000228	Espero que funcione desta vez...
+QUEST_JOBSTEP_20150317_000229	Eles caíram para trás sem muito dano? {nl}Hmm, qual poderia ser o problema...vou precisar ver desde o início de novo.{nl}
+QUEST_JOBSTEP_20150317_000230	{memo X}De qualquer forma, obrigado. {nl}Você pode voltar a qualquer hora se quiser aprender minhas habilidades.
+QUEST_JOBSTEP_20150317_000231	{memo X}Você quer aprender sobre os Bokors? {nl}Então primeiro, pegue uma carta de um monstro poderoso para mim.
 QUEST_JOBSTEP_20150317_000232
 QUEST_JOBSTEP_20150317_000233
 QUEST_JOBSTEP_20150317_000234

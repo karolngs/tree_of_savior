@@ -1,34 +1,34 @@
-﻿QUEST_LV_0300_20150323_000001 Nos fomos enviados para cá para ajudar os Cavaleiros de Kaliss.{nl} Se você quiser saber mais, vá para o nosso Quartel General em Verkti Square.
-QUEST_LV_0300_20150323_000002 Eu sempre fui um mercador.Depois de Medzio Dieno, esse pareceu ser o lugar mais seguro,então me estabeleci aqui..Mas  acho que estava errado.
-QUEST_LV_0300_20150323_000003 Conheci muitos Revelators durante minhas viajens.{nl} Pessoalmente.. tem algo especial sobre eles, e não é que eles são fortes.
-QUEST_LV_0300_20150323_000004 Não estou culpando a Deusa e seus sacerdotes.{nl} Mas acho que é demais quando nos falam para acreditar neles e esperar.
-QUEST_LV_0300_20150323_000005 Os selos dessa vila deveriam estar selados - por isso são chamados selos,então qual o problema?{nl} Os sacerdotes só querem nos assustar sem motivo.
-QUEST_LV_0300_20150323_000006 Os sacerdotes não querem que todos saibam quão importantes os selos são.{nl} Eles acham que podem carregar esse fardo sozinhos, e que então tudo ficará bem.
-QUEST_LV_0300_20150323_000007 Alguns dos sacerdotes querem ser confiaveis e explicar tudo aos aldeões.{nl}Nesse ritmo,se algo realmente ruim acontecer..
-QUEST_LV_0300_20150323_000008 $A energia maléfica esta fazendo essa floresta decair para um lugar sem vida.{nl}É facilmente o maior problema que essa vila enfrenta.
-QUEST_LV_0300_20150323_000009 $Deusa...{nl}Por favor diga-me que o selo da vila está realmente bem...
-QUEST_LV_0300_20150323_000010 Demônios continuarão alvejando o selo e atacando infinitamente.{nl}Sem a Deusa Austeja,por quanto tempo aguentaremos...
-QUEST_LV_0300_20150323_000011 Foi um erro nosso tentar cuidar disso sozinho.{nl}A partir de agora, falaremos aos aldeões toda a verdade e os incluiremos em discussões para descobrir como cuidar do problema.
-QUEST_LV_0300_20150717_000012 Cheque a Funcionalidade do Detector (1)
-QUEST_LV_0300_20150717_000013 Demônios,Deusas, e a Cidade Petrificada (1)
-QUEST_LV_0300_20150717_000014 Cheque a Funcionalidade do Detector (2)
-QUEST_LV_0300_20150717_000015 Demônios,Deusas, e a Cidade Petrificada (2)
-QUEST_LV_0300_20150717_000016 Cheque a Funcionalidade do Detector (3)
-QUEST_LV_0300_20150717_000017 Cheque a Funcionalidade do Detector (4)
-QUEST_LV_0300_20150717_000018 Sobre as Orientações das Almas
-QUEST_LV_0300_20150717_000019 Repare o Detector de Petrificação
-QUEST_LV_0300_20150717_000020 Reparando/MAKING/3/TRACK_AFTER/None
-QUEST_LV_0300_20150717_000021 Cheque a Funcionalidade do Detector (5)
-QUEST_LV_0300_20150717_000022 Reparando/MAKING/3/TRACK_BEFORE
-QUEST_LV_0300_20150717_000023 Notice/!/Uma das partes não está apertada bem{nl}Você precisará de algo como uma linha para amarra-lá no lugar!#5
-QUEST_LV_0300_20150717_000024 Notice/!/Você precisará encontrar uma linha#5
-QUEST_LV_0300_20150717_000025 Pela  Orientações das Almas
-QUEST_LV_0300_20150717_000026 Agora você pode relaxar
-QUEST_LV_0300_20150717_000027 Examinando o Device/LOOK/2/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000028 Notice/!/Quando você toca o dispositivo, você sento como se sua alma fosse sugada!{nl}Você se sente mais e mais fraco!
-QUEST_LV_0300_20150717_000029 Notice/Agora você se sente reenergizado#5
-QUEST_LV_0300_20150717_000030 Seu Único Desejo (1)
-QUEST_LV_0300_20150717_000031 
+﻿QUEST_LV_0300_20150323_000001	Nos fomos enviados para cá para ajudar os Cavaleiros de Kaliss.{nl} Se você quiser saber mais, vá para o nosso Quartel General em Verkti Square.
+QUEST_LV_0300_20150323_000002	Eu sempre fui um mercador.Depois de Medzio Dieno, esse pareceu ser o lugar mais seguro,então me estabeleci aqui..Mas  acho que estava errado.
+QUEST_LV_0300_20150323_000003	Conheci muitos Revelators durante minhas viajens.{nl} Pessoalmente.. tem algo especial sobre eles, e não é que eles são fortes.
+QUEST_LV_0300_20150323_000004	Não estou culpando a Deusa e seus sacerdotes.{nl} Mas acho que é demais quando nos falam para acreditar neles e esperar.
+QUEST_LV_0300_20150323_000005	Os selos dessa vila deveriam estar selados - por isso são chamados selos,então qual o problema?{nl} Os sacerdotes só querem nos assustar sem motivo.
+QUEST_LV_0300_20150323_000006	Os sacerdotes não querem que todos saibam quão importantes os selos são.{nl} Eles acham que podem carregar esse fardo sozinhos, e que então tudo ficará bem.
+QUEST_LV_0300_20150323_000007	Alguns dos sacerdotes querem ser confiaveis e explicar tudo aos aldeões.{nl}Nesse ritmo,se algo realmente ruim acontecer..
+QUEST_LV_0300_20150323_000008	$A energia maléfica esta fazendo essa floresta decair para um lugar sem vida.{nl}É facilmente o maior problema que essa vila enfrenta.
+QUEST_LV_0300_20150323_000009	$Deusa...{nl}Por favor diga-me que o selo da vila está realmente bem...
+QUEST_LV_0300_20150323_000010	Demônios continuarão alvejando o selo e atacando infinitamente.{nl}Sem a Deusa Austeja,por quanto tempo aguentaremos...
+QUEST_LV_0300_20150323_000011	Foi um erro nosso tentar cuidar disso sozinho.{nl}A partir de agora, falaremos aos aldeões toda a verdade e os incluiremos em discussões para descobrir como cuidar do problema.
+QUEST_LV_0300_20150717_000012	Cheque a Funcionalidade do Detector (1)
+QUEST_LV_0300_20150717_000013	Demônios,Deusas, e a Cidade Petrificada (1)
+QUEST_LV_0300_20150717_000014	Cheque a Funcionalidade do Detector (2)
+QUEST_LV_0300_20150717_000015	Demônios,Deusas, e a Cidade Petrificada (2)
+QUEST_LV_0300_20150717_000016	Cheque a Funcionalidade do Detector (3)
+QUEST_LV_0300_20150717_000017	Cheque a Funcionalidade do Detector (4)
+QUEST_LV_0300_20150717_000018	Sobre as Orientações das Almas
+QUEST_LV_0300_20150717_000019	Repare o Detector de Petrificação
+QUEST_LV_0300_20150717_000020	Reparando/MAKING/3/TRACK_AFTER/None
+QUEST_LV_0300_20150717_000021	Cheque a Funcionalidade do Detector (5)
+QUEST_LV_0300_20150717_000022	Reparando/MAKING/3/TRACK_BEFORE
+QUEST_LV_0300_20150717_000023	Notice/!/Uma das partes não está apertada bem{nl}Você precisará de algo como uma linha para amarra-lá no lugar!#5
+QUEST_LV_0300_20150717_000024	Notice/!/Você precisará encontrar uma linha#5
+QUEST_LV_0300_20150717_000025	Pela  Orientações das Almas
+QUEST_LV_0300_20150717_000026	Agora você pode relaxar
+QUEST_LV_0300_20150717_000027	Examinando o Device/LOOK/2/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000028	Notice/!/Quando você toca o dispositivo, você sento como se sua alma fosse sugada!{nl}Você se sente mais e mais fraco!
+QUEST_LV_0300_20150717_000029	Notice/Agora você se sente reenergizado#5
+QUEST_LV_0300_20150717_000030	Seu Único Desejo (1)
+QUEST_LV_0300_20150717_000031	
 QUEST_LV_0300_20150717_000032
 QUEST_LV_0300_20150717_000033
 QUEST_LV_0300_20150717_000034
