@@ -1435,7 +1435,7 @@ UI_20150401_001433	{@st41}Descrição do Grupo :
 UI_20150401_001434	{s20}Quantidade de Veneno {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materiais para Veneno
 UI_20150401_001436	{@st41b}Selecionar tudo{/}
-UI_20150401_001437	{@st59}Descelecionar tudo quando clicar denovo{/}
+UI_20150401_001437	{@st59}desselecionar tudo quando clicar de novo{/}
 UI_20150401_001438	{@st41b}Criar{/}
 UI_20150401_001439	{@st59}Mistura, mistura, vira e mistura{/}
 UI_20150401_001440	{@st41b}Conquistas{/}
@@ -1799,7 +1799,7 @@ UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais pr
 UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s iCoins){/}
 UI_20150918_001799	{@st66b}Retornar ao campo{/}
 UI_20150918_001800	{@st66b}Abandonar a missão e tentar novamente{/}
-UI_20150918_001801	{@st66b}Tentar denovo{/}
+UI_20150918_001801	{@st66b}Tentar novamente{/}
 UI_20150918_001802	{@st66b}Itens Vendidos{/}
 UI_20150918_001803	{@st53}Pontos do Rank : %s
 UI_20150918_001804	Total Inegociável : %s
