@@ -149,7 +149,7 @@ UI_20150317_000148
 UI_20150317_000149
 UI_20150317_000150
 UI_20150317_000151
-UI_20150317_000152
+UI_20150317_000152	{@st59}Fechar a Informação do Personagem{/}
 UI_20150317_000153
 UI_20150317_000154
 UI_20150317_000155
@@ -180,7 +180,7 @@ UI_20150317_000179
 UI_20150317_000180
 UI_20150317_000181
 UI_20150317_000182
-UI_20150317_000183
+UI_20150317_000183	Informações da Missão
 UI_20150317_000184
 UI_20150317_000185
 UI_20150317_000186
@@ -261,8 +261,8 @@ UI_20150317_000260
 UI_20150317_000261
 UI_20150317_000262
 UI_20150317_000263
-UI_20150317_000264
-UI_20150317_000265
+UI_20150317_000264	{@st43}Inventário{/}
+UI_20150317_000265	{@st59}Fechar Inventário{/}
 UI_20150317_000266
 UI_20150317_000267
 UI_20150317_000268
@@ -522,7 +522,7 @@ UI_20150317_000521	{@st41b}Abandonar{/}
 UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
 UI_20150317_000523	Missão Completa
 UI_20150317_000524	{@st41}Completo{/}
-UI_20150317_000525	Informações de progressão da quest
+UI_20150317_000525	Informações de Progressão da quest
 UI_20150317_000526	{s18}{ol}Informações da Quest
 UI_20150317_000527	{S16}Tempo restante
 UI_20150317_000528	Usar item de quest
@@ -619,18 +619,18 @@ UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}
 UI_20150317_000619	Por favor selecione um item
 UI_20150317_000620	{memo X}{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
 UI_20150317_000621	{@st59}Fechar loja{/}
-UI_20150317_000622	{@st59}Primeira página{/}
-UI_20150317_000623	{@st59}Próxima página{/}
-UI_20150317_000624	{@st59}Última página{/}
+UI_20150317_000622	{@st59}Primeira Página{/}
+UI_20150317_000623	{@st59}Próxima Página{/}
+UI_20150317_000624	{@st59}Última Página{/}
 UI_20150317_000625	{@st41b}Resetar{/}
-UI_20150317_000626	{@st59}Resetar carrinho de compras{/}
+UI_20150317_000626	{@st59}Resetar o Carrinho de Compras{/}
 UI_20150317_000627	{@st41b}Confirmar{/}
-UI_20150317_000628	{@st59}Confirmar transação{/}
+UI_20150317_000628	{@st59}Confirmar Transação{/}
 UI_20150317_000629	{@st43}Loja{/}
-UI_20150317_000630	{@st41b}Itens à comprar{/}
-UI_20150317_000631	{@st41b}Itens à vender{/}
+UI_20150317_000630	{@st41b}Itens Comprados{/}
+UI_20150317_000631	{@st41b}Itens Vendidos{/}
 UI_20150317_000632	{memo X}{@st41b}Preço{/}
-UI_20150317_000633	{memo X}{@st41b}Balanço{/}
+UI_20150317_000633	{memo X}{@st41b}Total{/}
 UI_20150317_000634	{memo X}{@st41b}Meus itens vendidos{/}
 UI_20150317_000635	{@st41}Espaços vazios{/}
 UI_20150317_000636	{@st43}Total{/}
@@ -710,7 +710,7 @@ UI_20150317_000709	{@st59b}Minhas informações{nl}{@st59s}- Atributos : Ganhe p
 UI_20150317_000710	{@st41b}Informação{/}
 UI_20150317_000711	{memo X}{@st41b}Título{/}
 UI_20150317_000712	Mostrar classe
-UI_20150317_000713	Mostrar nome de personagem
+UI_20150317_000713	Mostrar Nome de Personagem
 UI_20150317_000714	{@st59}Mudar nome do personagem{/}
 UI_20150317_000715	{memo X}{@st41b}Aplicar
 UI_20150317_000716	{@st59}Usar pontos de atributos{/}
@@ -723,7 +723,7 @@ UI_20150317_000722	{@st43}Efeitos de ataque{/}
 UI_20150317_000723	{@st43}Efeitos de defesa{/}
 UI_20150317_000724	{@st43}Status{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Informação do personagem (F1){/}
+UI_20150317_000726	{@st59}Informação do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classe e Habilidades (F3){/}
 UI_20150317_000729	{@st59}Jornal do Aventureiro (F4){/}
@@ -752,7 +752,7 @@ UI_20150317_000751	{@st43}Som{/}
 UI_20150317_000752	{memo X}{@st41b}Volume dos efeitos sonoros (%s){/}
 UI_20150317_000753	{memo X}{@st41b}Volume da música (%s){/}
 UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}
-UI_20150317_000755	{@ St43}{b}             Selecione o idioma {/}{/}
+UI_20150317_000755	{@st43}{b}Selecionar Idioma{/}
 UI_20150317_000756	{@st59}Fechar configurações{/}
 UI_20150317_000757	{memo X}Menor modo {@st41b} {/}
 UI_20150317_000758	{@st41b}Ver{/}
@@ -941,10 +941,10 @@ UI_20150317_000940
 UI_20150317_000941
 UI_20150317_000942
 UI_20150317_000943
-UI_20150317_000944
-UI_20150317_000945
-UI_20150317_000946
-UI_20150317_000947
+UI_20150317_000944	{@St59}Seleção de Personagem{/}
+UI_20150317_000945	{@St59}Sair{/}
+UI_20150317_000946	{@St59}Configurações{/}
+UI_20150317_000947	{@St59}Fechar{/}
 UI_20150317_000948
 UI_20150317_000949
 UI_20150317_000950
@@ -1326,7 +1326,7 @@ UI_20150323_001324	INT
 UI_20150323_001325	DEX
 UI_20150323_001326	CRT
 UI_20150323_001327	{@st43}Colocar Loja{/}
-UI_20150323_001328	{@st41b}Configurações
+UI_20150323_001328	{@st41b}Configurar
 UI_20150323_001329	Preço por Unidade
 UI_20150323_001330	{@st41b}Lista de Materiais
 UI_20150323_001331	{@st43}Polir Gema{/}
@@ -1354,9 +1354,9 @@ UI_20150323_001352	{@st43}Seleção de Modo da UI{/}
 UI_20150323_001353	{@st43}Loja de Compras
 UI_20150323_001354	Nome da Loja
 UI_20150323_001355	{@st41b}Abrir Loja
-UI_20150323_001356	{@st59}Iniciar loja de compras{/}
+UI_20150323_001356	{@st59}Iniciar Loja de Compras{/}
 UI_20150323_001357	{@st59}Cancelar{/}
-UI_20150323_001358	{@st59}Fechar loja de compras{/}
+UI_20150323_001358	{@st59}Fechar Loja de Compras{/}
 UI_20150323_001359	Requisitar compra
 UI_20150323_001360	{@st59}Fechar loja de compras
 UI_20150323_001361	{@st59}Loja de compras{nl} - Troque seus itens por prata
@@ -1393,11 +1393,11 @@ UI_20150323_001391	{@st45ty}Cumprimentos do Personagem{/}
 UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Alterar
 UI_20150323_001394	{@st59}Alterar cumprimentos do personagem{/}
-UI_20150323_001395	{@st59}Colocar Loja de compras{/}
-UI_20150323_001396	Comprar quantidade. : %s{/}
+UI_20150323_001395	{@st59}Colocar Loja de Compras{/}
+UI_20150323_001396	Comprar Quantidade : %s{/}
 UI_20150323_001397	Procurar itens para compra
 UI_20150323_001398	Quantidade
-UI_20150323_001399	Preço unitário
+UI_20150323_001399	Preço Unit.
 UI_20150323_001400	{@sti5}%s cada{/}
 UI_20150323_001401	{@st41}Comer
 UI_20150323_001402	{@st41}Criar
@@ -1535,7 +1535,7 @@ UI_20150428_001533	{@st45ty}Cor do Penteado
 UI_20150428_001534	{@st45ty}Titulo Disponível
 UI_20150428_001535	{@st41_yellow}Auxiliar de Habilidades
 UI_20150428_001536	{@st41b}Mostrar o nome de outros personagens{/}
-UI_20150428_001537	{@st43}Modo da UI{/}
+UI_20150428_001537	{@st43}Modo da Tela{/}
 UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Joypad{/}
 UI_20150428_001540	{@st41b}Teclado{/}
@@ -1543,7 +1543,7 @@ UI_20150428_001541	Joypad
 UI_20150428_001542	{@st59}Info do Joypad{/}
 UI_20150428_001543	Teclado
 UI_20150428_001544	{@st59}Info do Teclado{/}
-UI_20150428_001545	{@st43}Configurações Gráficas{/}
+UI_20150428_001545	{@st43}Conf Gráficas{/}
 UI_20150428_001546	{@st43}Performance{/}
 UI_20150428_001547	{@st41b}Modo de Baixa Performance{/}
 UI_20150428_001548	{@st41b}Auto Ajustar{/}
@@ -1625,32 +1625,32 @@ UI_20150714_001623
 UI_20150714_001624
 UI_20150714_001625
 UI_20150714_001626
-UI_20150714_001627
+UI_20150714_001627	Curtidas Recebidas: %s
 UI_20150714_001628
-UI_20150714_001629
-UI_20150714_001630
-UI_20150714_001631
-UI_20150714_001632
-UI_20150714_001633
-UI_20150714_001634
-UI_20150714_001635
-UI_20150714_001636
-UI_20150714_001637
-UI_20150714_001638
-UI_20150714_001639
-UI_20150714_001640
-UI_20150714_001641
-UI_20150714_001642
-UI_20150714_001643
-UI_20150714_001644
-UI_20150714_001645
-UI_20150714_001646
-UI_20150714_001647
-UI_20150714_001648
-UI_20150714_001649
-UI_20150714_001650
-UI_20150714_001651
-UI_20150714_001652
+UI_20150714_001629	{@st66b}Mostrar Nome do Personagem{/}
+UI_20150714_001630	{@st66b}Mostrar apenas Nome do Time{/}
+UI_20150714_001631	{@st66b}Mostrar Nome de Jogadores{/}
+UI_20150714_001632	{@st66b}Auto{/}
+UI_20150714_001633	{@st66b}Controle{/}
+UI_20150714_001634	{@st66b}Teclado{/}
+UI_20150714_001635	{@st66b}Mouse{/}
+UI_20150714_001636	{@st66b}Tela Cheia{/}
+UI_20150714_001637	{@st66b}Modo Janela{/}
+UI_20150714_001638	{@st66b}Volume dos Efeitos Sonoros (%s){/}
+UI_20150714_001639	{@st66b}Volume BGM (%s){/}
+UI_20150714_001640	{@st66b}Volume (%s){/}
+UI_20150714_001641	{@st66b}Baixa Performance{/}
+UI_20150714_001642	{@st66b}Automático{/}
+UI_20150714_001643	{@st66b}Não Use{/}
+UI_20150714_001644	{@st66b}Aplicar Bloom{/}
+UI_20150714_001645	{@st66b}Aplicar Vinheta{/}
+UI_20150714_001646	{@st66b}Aplicar FXAA{/}
+UI_20150714_001647	{@st66b}Aplicar Brilho{/}
+UI_20150714_001648	{@st66b}Aplicar Profundidade{/}
+UI_20150714_001649	{@st66b}Aplicar Partícula Macia{/}
+UI_20150714_001650	{@st66b}Aplicar Textura de Alta Qualidade{/}
+UI_20150714_001651	{@st66b}Sinc Vertical On{/}
+UI_20150714_001652	{@st66b}Sinc Vertical Off{/}
 UI_20150714_001653
 UI_20150714_001654
 UI_20150714_001655
@@ -1686,8 +1686,8 @@ UI_20150714_001684
 UI_20150714_001685
 UI_20150714_001686
 UI_20150714_001687
-UI_20150714_001688
-UI_20150714_001689
+UI_20150714_001688	Cumprimento do Personagem
+UI_20150714_001689	Loja de Compra
 UI_20150714_001690
 UI_20150714_001691
 UI_20150714_001692
@@ -1800,9 +1800,9 @@ UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s iCoins){/}
 UI_20150918_001799	{@st66b}Retornar ao campo{/}
 UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}
 UI_20150918_001801	{@st66b}Tentar denovo{/}
-UI_20150918_001802	{@st66b}Itens vendidos{/}
-UI_20150918_001803	{@st53}Pontos do rank : %s
-UI_20150918_001804	Total inegociável : %s
+UI_20150918_001802	{@st66b}Itens Vendidos{/}
+UI_20150918_001803	{@st53}Pontos do Rank : %s
+UI_20150918_001804	Total Inegociável : %s
 UI_20150918_001805	{@st42b}Checar Diálogo{/}
 UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}
 UI_20150918_001807	{@st41b}Alterar título
