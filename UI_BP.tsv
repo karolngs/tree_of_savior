@@ -17,7 +17,7 @@ UI_20150317_000016	{@st43}Casa de Leilões{/}
 UI_20150317_000017	{@st59}Fechar Casa de Leilões{/}
 UI_20150317_000018	{memo X}{@st41b}Itens vendidos : ×%s, Itens Mantidos : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Leilão de Itens{/}
-UI_20150317_000020	{@st59}Fechar informação da Missão{/}
+UI_20150317_000020	{@st59}Fechar Informação da Missão{/}
 UI_20150317_000021	Availest
 UI_20150317_000022	{@st41b}Tempo Restante
 UI_20150317_000023	3 horas 16 minutos
@@ -101,13 +101,13 @@ UI_20150317_000100
 UI_20150317_000101
 UI_20150317_000102
 UI_20150317_000103
-UI_20150317_000104
-UI_20150317_000105
-UI_20150317_000106
-UI_20150317_000107
-UI_20150317_000108
-UI_20150317_000109
-UI_20150317_000110
+UI_20150317_000104	{@st43}Macro{/}
+UI_20150317_000105	{@st59b}Macro {nl}{@st59s} - Como usar: {nl} 1. Registre o ícone de gesto nos slots de gesto abaixo {nl} 2. Escreva sua frase e salve {nl} 3. Use a tecla de atalho para falar a frase e fazer o gesto ao mesmo tempo {/}
+UI_20150317_000106	{@st59}Fechar Macro{/}
+UI_20150317_000107	{@st41b}Salvar{/}
+UI_20150317_000108	{@st59}Salvar modificações{/}
+UI_20150317_000109	{@st41b}Cancelar{/}
+UI_20150317_000110	{@st59}Cancelar suas modificações{/}
 UI_20150317_000111
 UI_20150317_000112
 UI_20150317_000113
@@ -213,9 +213,9 @@ UI_20150317_000212	{@st59b} Amigo{nl} {@st59s} - Faça amizade com outros jogado
 UI_20150317_000213	{@st41b}Mostrar Amigos Online{/}
 UI_20150317_000214	{@st41b}Lista
 UI_20150317_000215	{@st41b}Gerenciar
-UI_20150317_000216	{@st41b}Solicitação de Amizade
+UI_20150317_000216	{@st41b}Adicionar Amigo
 UI_20150317_000217	{@st41b}Bloquear
-UI_20150317_000218
+UI_20150317_000218	{@st59}Procurar{/}
 UI_20150317_000219
 UI_20150317_000220
 UI_20150317_000221
@@ -248,10 +248,10 @@ UI_20150317_000247
 UI_20150317_000248
 UI_20150317_000249
 UI_20150317_000250
-UI_20150317_000251
-UI_20150317_000252
-UI_20150317_000253
-UI_20150317_000254
+UI_20150317_000251	{@st41b}Confirmar
+UI_20150317_000252	{@st59}Confirmar{/}
+UI_20150317_000253	{@st41b}Fechar
+UI_20150317_000254	{@st59}Cancelar {/}
 UI_20150317_000255
 UI_20150317_000256
 UI_20150317_000257
@@ -433,12 +433,12 @@ UI_20150317_000432
 UI_20150317_000433
 UI_20150317_000434
 UI_20150317_000435
-UI_20150317_000436
-UI_20150317_000437
-UI_20150317_000438
-UI_20150317_000439
-UI_20150317_000440
-UI_20150317_000441
+UI_20150317_000436	{@st59}Fechar Informações do Grupo{/}
+UI_20150317_000437	{@st59b}Informação de Grupo {nl}{@st59s} - Clique em "criar grupo" abaixo para criar seu próprio grupo {nl} - Clique com o botão direito nos outros jogadores para convidá-los {nl} - Mude as configurações do grupo na aba configurações {nl} - Aplicar condições para pesquisar por membros na Lista de Grupos Pública{/}
+UI_20150317_000438	{@st43}Informações do Grupo{/}
+UI_20150317_000439	{@st41b}Membros{/}
+UI_20150317_000440	{@st41b}Eventos do Grupo{/}
+UI_20150317_000441	{@st41b}Configs{/}
 UI_20150317_000442
 UI_20150317_000443
 UI_20150317_000444
@@ -455,14 +455,14 @@ UI_20150317_000454
 UI_20150317_000455
 UI_20150317_000456
 UI_20150317_000457
-UI_20150317_000458
-UI_20150317_000459
+UI_20150317_000458	{@st41b}Criar Grupo
+UI_20150317_000459	{@st43}Lista de Grupos Públicos{/}
 UI_20150317_000460
 UI_20150317_000461
-UI_20150317_000462
-UI_20150317_000463
-UI_20150317_000464
-UI_20150317_000465
+UI_20150317_000462	Usar Procura
+UI_20150317_000463	Compart. de Missão
+UI_20150317_000464	Distribuição de Exp
+UI_20150317_000465	Distribuição de Item
 UI_20150317_000466
 UI_20150317_000467
 UI_20150317_000468
@@ -515,7 +515,7 @@ UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Excluir tudo
 UI_20150317_000516	{memo X}{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combinação
-UI_20150317_000518	{@st43}Quest{/}
+UI_20150317_000518	{@st43}Missão{/}
 UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone 'Retornar' irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
 UI_20150317_000520	{@st41b}Em Progresso{/}
 UI_20150317_000521	{@st41b}Abandonar{/}
@@ -727,12 +727,12 @@ UI_20150317_000726	{@st59}Informação do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classe e Habilidades (F3){/}
 UI_20150317_000729	{@st59}Jornal do Aventureiro (F4){/}
-UI_20150317_000730	{@st59}Quest (F5){/}
+UI_20150317_000730	{@st59}Missão (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
-UI_20150317_000733	{@st59} Macro (F8) {/}
-UI_20150317_000734	{@st59} Mascote (F9) {/}
-UI_20150317_000735	{@st59} Ajuda (F10) {/}
+UI_20150317_000733	{@st59}Macro (F8) {/}
+UI_20150317_000734	{@st59}Mascote (F9) {/}
+UI_20150317_000735	{@st59}Ajuda (F10) {/}
 UI_20150317_000736	{@st59}Menu do sistema (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
 UI_20150317_000738	Ajuda(F1)
@@ -937,12 +937,12 @@ UI_20150317_000936
 UI_20150317_000937
 UI_20150317_000938
 UI_20150317_000939
-UI_20150317_000940
-UI_20150317_000941
-UI_20150317_000942
-UI_20150317_000943
+UI_20150317_000940	{@st59}Editar Propriedade{/}
+UI_20150317_000941	{@st42}Salvar{/}
+UI_20150317_000942	{@st59}Salvar{/}
+UI_20150317_000943	{@st44}Editar Propriedades de Tela{/}
 UI_20150317_000944	{@St59}Seleção de Personagem{/}
-UI_20150317_000945	{@St59}Sair{/}
+UI_20150317_000945	{@St59}Deslogar{/}
 UI_20150317_000946	{@St59}Configurações{/}
 UI_20150317_000947	{@St59}Fechar{/}
 UI_20150317_000948
@@ -1131,8 +1131,8 @@ UI_20150317_001130
 UI_20150317_001131
 UI_20150317_001132
 UI_20150317_001133
-UI_20150317_001134
-UI_20150317_001135
+UI_20150317_001134	Inegóciavel
+UI_20150317_001135	Não Aprimorável
 UI_20150317_001136
 UI_20150317_001137
 UI_20150317_001138
@@ -1167,7 +1167,7 @@ UI_20150317_001166
 UI_20150317_001167
 UI_20150317_001168
 UI_20150317_001169
-UI_20150317_001170
+UI_20150317_001170	{@St41b}Mensagens{/}
 UI_20150317_001171
 UI_20150317_001172
 UI_20150317_001173
@@ -1215,7 +1215,7 @@ UI_20150317_001214
 UI_20150317_001215
 UI_20150317_001216
 UI_20150317_001217
-UI_20150317_001218
+UI_20150317_001218	{@St42b}Reiniciar{/}
 UI_20150317_001219
 UI_20150317_001220
 UI_20150317_001221
@@ -1612,7 +1612,7 @@ UI_20150714_001610
 UI_20150714_001611
 UI_20150714_001612
 UI_20150714_001613
-UI_20150714_001614
+UI_20150714_001614	{@st59}Procurar por Nome ou Descrição do Grupo{/}
 UI_20150714_001615
 UI_20150714_001616
 UI_20150714_001617
@@ -1623,7 +1623,7 @@ UI_20150714_001621
 UI_20150714_001622
 UI_20150714_001623
 UI_20150714_001624
-UI_20150714_001625
+UI_20150714_001625	{@st43}Habilidades & Atributos{/}
 UI_20150714_001626
 UI_20150714_001627	Curtidas Recebidas: %s
 UI_20150714_001628
@@ -1662,16 +1662,16 @@ UI_20150714_001660
 UI_20150714_001661
 UI_20150714_001662
 UI_20150714_001663
-UI_20150714_001664
-UI_20150714_001665
-UI_20150714_001666
-UI_20150714_001667
-UI_20150714_001668
+UI_20150714_001664	{@st41b}Retorne a zona em apenas %s segundos...{/}
+UI_20150714_001665	{@st59}Abrir a caixa de mensagem{/}
+UI_20150714_001666	{@st42}Alterar Alojamento{/}
+UI_20150714_001667	{@st42}Conf. Alojamento{/}
+UI_20150714_001668	{@st65}% Pontos{/}
 UI_20150714_001669
 UI_20150714_001670
 UI_20150714_001671
 UI_20150714_001672
-UI_20150714_001673
+UI_20150714_001673	{#000000}%s segs
 UI_20150714_001674
 UI_20150714_001675
 UI_20150714_001676
@@ -1713,9 +1713,9 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42}{b}A classe espadachim e suas evoluções podem correr ao pressionar duas vezes as setas de movimento{/}
-UI_20150717_001715	{@st42}Nome e descrição do Grupo{/}
-UI_20150717_001716	{@st42}Inserir tag do grupo
-UI_20150717_001717	{@st41b}Lista pública de grupos{/}
+UI_20150717_001715	{@st42}Nome e Descrição do Grupo{/}
+UI_20150717_001716	{@st42}Inserir Marcação de Convite
+UI_20150717_001717	{@st41b}Lista de Grupos Públicos{/}
 UI_20150717_001718	{memo X}{@st41b}Lista de Personagens Recomendados{/}
 UI_20150717_001719	{@st41b}Receber Recomendação
 UI_20150717_001720	Pode ser usado apenas por lideres de grupo.
@@ -1740,11 +1740,11 @@ UI_20150729_001738	{@st59b}Criação de itens{nl}{@st59s} - Você pode criar ite
 UI_20150729_001739	{@st59}Fechar criação de flechas.{/}
 UI_20150729_001740	{memo X}Fragmentos Necessários : Mutante %s / Besta %s / Planta %s
 UI_20150729_001741	{@st42b}Espadachins e evoluções podem correr clicando duas vezes nas setas.{/}
-UI_20150729_001742	{@st41}Opções de grupo
-UI_20150729_001743	{@st41}Opções de recrutamento do grupo
-UI_20150729_001744	{@st42}Função de localização de grupos{/}
+UI_20150729_001742	{@st41}Opções de Grupo
+UI_20150729_001743	{@st41}Opções de Recrutamento do Grupo
+UI_20150729_001744	{@st42}Função de Localização de Grupos{/}
 UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a mensagem [Jogador Encontrado!] será mostrada.
-UI_20150729_001746	{@st41b}Lista de jogadores recomendados{/}
+UI_20150729_001746	{@st41b}Jogadores Recomendados{/}
 UI_20150729_001747	{@st41}Informações dos atributos
 UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
 UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de quest podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
