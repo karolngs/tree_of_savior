@@ -627,8 +627,8 @@ UI_20150317_000626	{@st59}Resetar o Carrinho de Compras{/}
 UI_20150317_000627	{@st41b}Confirmar{/}
 UI_20150317_000628	{@st59}Confirmar Transação{/}
 UI_20150317_000629	{@st43}Loja{/}
-UI_20150317_000630	{@st41b}Itens Comprados{/}
-UI_20150317_000631	{@st41b}Itens Vendidos{/}
+UI_20150317_000630	{@st41b}Itens à Comprar{/}
+UI_20150317_000631	{@st41b}Itens à Vender{/}
 UI_20150317_000632	{memo X}{@st41b}Preço{/}
 UI_20150317_000633	{memo X}{@st41b}Total{/}
 UI_20150317_000634	{memo X}{@st41b}Meus itens vendidos{/}
