@@ -268,7 +268,7 @@ UI_20150317_000267	{@st59}Acessório da Cabeça 1{/}
 UI_20150317_000268	{@st59}Acessório da Cabeça 2{/}
 UI_20150317_000269	{@st59}Colar{/}
 UI_20150317_000270	{@st59}#pending Costume{/}
-UI_20150317_000271	{@st59}Armadura{/}
+UI_20150317_000271	{@st59}Vestimenta{/}
 UI_20150317_000272	{@st59}Luvas{/}
 UI_20150317_000273	{@st59}Calças{/}
 UI_20150317_000274	{@st59}Sapatos{/}
@@ -706,7 +706,7 @@ UI_20150317_000705	{@st41} Todos {/}
 UI_20150317_000706	{@st41} Grupo {/}
 UI_20150317_000707	{@st41} Monstro {/}
 UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Pontos de atributos restantes ▶ {@st46}%s
-UI_20150317_000709	{@st59b}Minhas informações{nl}{@st59s}- Atributos : Ganhe pontos subindo de level e os use para aprimorar 5 atributos. {nl}- Informação : Informação baseada nos atributos e equipamentos atuais {nl}- Título : Pode ser adquirido completando missões {nl} {/}
+UI_20150317_000709	{@st59b}Minhas Informações{nl}{@st59s}- Atributos : Ganhe pontos subindo de level e os use para aprimorar 5 atributos. {nl}- Informação : Informação baseada nos atributos e equipamentos atuais {nl}- Título : Pode ser adquirido completando missões {nl} {/}
 UI_20150317_000710	{@st41b}Informação{/}
 UI_20150317_000711	{memo X}{@st41b}Título{/}
 UI_20150317_000712	Mostrar classe
@@ -1256,7 +1256,7 @@ UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relação com o %s
-UI_20150317_001258	{#FFFF33}%s{/} quer ser seu(ua) amigo(a){/}
+UI_20150317_001258	{#FFFF33}%s{/} quer ser seu/sua amigo(a){/}
 UI_20150317_001259	{@St41b}Aceitar
 UI_20150317_001260	{@St41b}Recusar
 UI_20150317_001261	{@St53b}Carregando a sua lista de amigos.
