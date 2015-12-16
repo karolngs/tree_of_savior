@@ -86,19 +86,19 @@ UI_20150317_000085
 UI_20150317_000086
 UI_20150317_000087
 UI_20150317_000088
-UI_20150317_000089
-UI_20150317_000090
+UI_20150317_000089	{@sti7}{s14} Personagem {/}
+UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091
 UI_20150317_000092
 UI_20150317_000093
-UI_20150317_000094
-UI_20150317_000095
-UI_20150317_000096
-UI_20150317_000097
-UI_20150317_000098
-UI_20150317_000099
-UI_20150317_000100
-UI_20150317_000101
+UI_20150317_000094	{@st41}Chat Geral{/}
+UI_20150317_000095	{@59}Fechar{/}
+UI_20150317_000096	{@59}Convidar{/}
+UI_20150317_000097	{@st59}Geral{/}
+UI_20150317_000098	{@st59}Normal (/s mensagem){/}
+UI_20150317_000099	{@st59}Gritar (/y mensagem){/}
+UI_20150317_000100	{@st59}Grupo (/p mensagem){/}
+UI_20150317_000101	{@st59}Mensagem Privada (/w nome do time mensagem){/}
 UI_20150317_000102
 UI_20150317_000103
 UI_20150317_000104	{@st43}Macro{/}
@@ -108,11 +108,11 @@ UI_20150317_000107	{@st41b}Salvar{/}
 UI_20150317_000108	{@st59}Salvar modificações{/}
 UI_20150317_000109	{@st41b}Cancelar{/}
 UI_20150317_000110	{@st59}Cancelar suas modificações{/}
-UI_20150317_000111
-UI_20150317_000112
-UI_20150317_000113
-UI_20150317_000114
-UI_20150317_000115
+UI_20150317_000111	{@st42}Configuração de Mensagens
+UI_20150317_000112	{@st42}Transparência
+UI_20150317_000113	Mostrar Caixa de Diálogo
+UI_20150317_000114	Mostrar gritos no topo
+UI_20150317_000115	{@st43}Lista de Códigos{/}
 UI_20150317_000116
 UI_20150317_000117
 UI_20150317_000118
@@ -263,25 +263,25 @@ UI_20150317_000262
 UI_20150317_000263
 UI_20150317_000264	{@st43}Inventário{/}
 UI_20150317_000265	{@st59}Fechar Inventário{/}
-UI_20150317_000266
-UI_20150317_000267
-UI_20150317_000268
-UI_20150317_000269
-UI_20150317_000270
-UI_20150317_000271
-UI_20150317_000272
-UI_20150317_000273
-UI_20150317_000274
-UI_20150317_000275
-UI_20150317_000276
-UI_20150317_000277
-UI_20150317_000278
-UI_20150317_000279
+UI_20150317_000266	Equipamentos {@st59b} {nl} {@st59s}-Cabelo/Roupas: equipe para mudar o visual do personagem {nl} -Armas: Pode usar armas de uma ou duas mãos {nl} (sub-arma/escudo podem ser utilizados com armas de uma mão) {nl} -Armadura: Tronco, Pernas, Luvas, Sapatos {nl} -Acessórios: Pode usar 1 colar e 2 braceletes {nl} {/}
+UI_20150317_000267	{@st59}Acessório da Cabeça 1{/}
+UI_20150317_000268	{@st59}Acessório da Cabeça 2{/}
+UI_20150317_000269	{@st59}Colar{/}
+UI_20150317_000270	{@st59}#pending Costume{/}
+UI_20150317_000271	{@st59}Armadura{/}
+UI_20150317_000272	{@st59}Luvas{/}
+UI_20150317_000273	{@st59}Calças{/}
+UI_20150317_000274	{@st59}Sapatos{/}
+UI_20150317_000275	{@st59}Mão Esquerda{/}
+UI_20150317_000276	{@st59}Mão Direita{/}
+UI_20150317_000277	{@st59}Bracelete 1{/}
+UI_20150317_000278	{@st59}Bracelete 2{/}
+UI_20150317_000279	{@st59}Braçadeira{/}
 UI_20150317_000280	{@st59}Procurar{/}
-UI_20150317_000281
-UI_20150317_000282
+UI_20150317_000281	Peso
+UI_20150317_000282	{memo X}{@st43}Melhoramento do Equip.{/}
 UI_20150317_000283	{@st59}Fechar Interface do Reparo de Item{/}
-UI_20150317_000284
+UI_20150317_000284	{memo X}{@st42}Melhoramento Disponível
 UI_20150317_000285
 UI_20150317_000286
 UI_20150317_000287
@@ -744,7 +744,7 @@ UI_20150317_000743	{memo X}{@st41b}Mostrar EXP adquirida{/}
 UI_20150317_000744	{memo X}{@st41b}Mostrar nome do personagem{/}
 UI_20150317_000745	{memo X}{@st41b} Mostrar apenas o nome do time {/}
 UI_20150317_000746	{memo X}{@st41b}Mostrar guia de missões{/}
-UI_20150317_000747	{@st43}Tela{/}
+UI_20150317_000747	{@st43}Resolução{/}
 UI_20150317_000748	{@st43}Gráficos{/}
 UI_20150317_000749	{memo X}{@st41b}Tela cheia{/}
 UI_20150317_000750	{memo X}{@st41b}Modo janela{/}
@@ -945,10 +945,10 @@ UI_20150317_000944	{@St59}Seleção de Personagem{/}
 UI_20150317_000945	{@St59}Deslogar{/}
 UI_20150317_000946	{@St59}Configurações{/}
 UI_20150317_000947	{@St59}Fechar{/}
-UI_20150317_000948
+UI_20150317_000948	{@st43}Conf. do Alojamento{/}
 UI_20150317_000949
 UI_20150317_000950
-UI_20150317_000951	{@st59}Coloque o nome do time {/}
+UI_20150317_000951	{@st59}Coloque o nome do Time{/}
 UI_20150317_000952	{memo X}{@st59}Salvar nome do time{/}
 UI_20150317_000953	Esclusão provisória
 UI_20150317_000954	{@St59}Fechar Decoração da Barraca{/}
@@ -961,7 +961,7 @@ UI_20150317_000960	{@St41b}Status
 UI_20150317_000961	{@St44}Novo personagem{/}
 UI_20150317_000962	{@St41b}{s22}Selecione a classe do personagem{/}
 UI_20150317_000963	{@St41b}Voltar{/}
-UI_20150317_000964	{@St59}Voltar para o alojamento
+UI_20150317_000964	{@St59}Voltar para o Alojamento sem criar um personagem
 UI_20150317_000965	Mudar personagem
 UI_20150317_000966	{@St41}Personagem{/}
 UI_20150317_000967	{@St59}Rotação horária{/}
@@ -1139,9 +1139,9 @@ UI_20150317_001138
 UI_20150317_001139
 UI_20150317_001140
 UI_20150317_001141
-UI_20150317_001142
-UI_20150317_001143
-UI_20150317_001144
+UI_20150317_001142	Nome do Item
+UI_20150317_001143	Preço de Venda : %s prata(s)
+UI_20150317_001144	Quanto
 UI_20150317_001145
 UI_20150317_001146
 UI_20150317_001147
@@ -1256,7 +1256,7 @@ UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relação com o %s
-UI_20150317_001258	{#FFFF33}%s{/} quer ser seu amigo(a){/}
+UI_20150317_001258	{#FFFF33}%s{/} quer ser seu(ua) amigo(a){/}
 UI_20150317_001259	{@St41b}Aceitar
 UI_20150317_001260	{@St41b}Recusar
 UI_20150317_001261	{@St53b}Carregando a sua lista de amigos.
@@ -1381,18 +1381,18 @@ UI_20150323_001379	{@sti6}Colocar ou retirar itens do armazém custa %s prata.{/
 UI_20150323_001380	{@st59}Alt+Z para trocar de arma{/}
 UI_20150323_001381	{@st59}Salvar configurações do Alojamento{/}
 UI_20150323_001382	Alterar alojamento
-UI_20150323_001383	{@st59}Fechar Janela do alojamento
+UI_20150323_001383	{@st59}Fechar Janela do Alojamento
 UI_20150323_001384	{@st59}Alterar alojamento{nl} - Altere o alojamento para alterar o mapa e expandir slots.
 UI_20150323_001385	{@st41}Cacelar Pré-Visualização
 UI_20150323_001386	{@st46}Minhas Moedas : %s{/}
 UI_20150323_001387	{@st41b}Alterar Alojamento{/}
-UI_20150323_001388	{@st59}Decorar alojamento{/}
+UI_20150323_001388	{@st59}Decorar Alojamento{/}
 UI_20150323_001389	{@st41b}Configurações do alojamento{/}
-UI_20150323_001390	{@st59}Alterar configurações do alojamento {/}
-UI_20150323_001391	{@st45ty}Cumprimentos do Personagem{/}
+UI_20150323_001390	{@st59}Alterar configurações do Alojamento{/}
+UI_20150323_001391	{@st45ty}Saudações do Personagem{/}
 UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Alterar
-UI_20150323_001394	{@st59}Alterar cumprimentos do personagem{/}
+UI_20150323_001394	{@st59}Alterar Saudação do personagem{/}
 UI_20150323_001395	{@st59}Colocar Loja de Compras{/}
 UI_20150323_001396	Comprar Quantidade : %s{/}
 UI_20150323_001397	Procurar itens para compra
@@ -1614,15 +1614,15 @@ UI_20150714_001612
 UI_20150714_001613
 UI_20150714_001614	{@st59}Procurar por Nome ou Descrição do Grupo{/}
 UI_20150714_001615
-UI_20150714_001616
-UI_20150714_001617
-UI_20150714_001618
+UI_20150714_001616	{@st43}Caixa de Mensagem
+UI_20150714_001617	{@st41b}Todas
+UI_20150714_001618	{@st41b}Não Lidas
 UI_20150714_001619
 UI_20150714_001620
 UI_20150714_001621	{@st66}Itens precisando de reparos
 UI_20150714_001622
 UI_20150714_001623
-UI_20150714_001624
+UI_20150714_001624	{@st59}Fechar Habilidades & Atributos{/}
 UI_20150714_001625	{@st43}Habilidades & Atributos{/}
 UI_20150714_001626
 UI_20150714_001627	Curtidas Recebidas: %s
@@ -1641,7 +1641,7 @@ UI_20150714_001639	{@st66b}Volume BGM (%s){/}
 UI_20150714_001640	{@st66b}Volume (%s){/}
 UI_20150714_001641	{@st66b}Baixo Desempenho{/}
 UI_20150714_001642	{@st66b}Automático{/}
-UI_20150714_001643	{@st66b}Não Use{/}
+UI_20150714_001643	{@st66b}Não Usar{/}
 UI_20150714_001644	{@st66b}Aplicar Bloom{/}
 UI_20150714_001645	{@st66b}Aplicar Vinheta{/}
 UI_20150714_001646	{@st66b}Aplicar FXAA{/}
@@ -1698,7 +1698,7 @@ UI_20150717_001696
 UI_20150717_001697
 UI_20150717_001698
 UI_20150717_001699
-UI_20150717_001700
+UI_20150717_001700	Seu movimento diminui quando você não tem {@st59}#pending STA{/} suficiente{/}
 UI_20150717_001701	{@st59}Organizar Inventário{/}
 UI_20150717_001702	{memo X}Organizar
 UI_20150717_001703	{@st59}Fechar informações de controle do Joypad.{/}
@@ -1740,7 +1740,7 @@ UI_20150729_001738	{@st59b}Criação de itens{nl}{@st59s} - Você pode criar ite
 UI_20150729_001739	{@st59}Fechar criação de flechas.{/}
 UI_20150729_001740	{memo X}Fragmentos Necessários : Mutante %s / Besta %s / Planta %s
 UI_20150729_001741	{@st42b}Espadachins e evoluções podem correr clicando duas vezes nas setas.{/}
-UI_20150729_001742	{@st41}Opções de Grupo
+UI_20150729_001742	{@st41}Opções do Grupo
 UI_20150729_001743	{@st41}Opções de Recrutamento do Grupo
 UI_20150729_001744	{@st42}Função de Localização de Grupos{/}
 UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a mensagem [Jogador Encontrado!] será mostrada.
@@ -1814,9 +1814,9 @@ UI_20151001_001812	{@st45tw2}Categoria
 UI_20151001_001813	Ação
 UI_20151001_001814	Restaurar padrões
 UI_20151016_001815	{@st59}O item selecionado será bloqueado{/}
-UI_20151016_001816	{@st59}Você pode escolher e avaliar outros tipos de alojamentos antes de compra-los.
-UI_20151016_001817	%s Personagens{/}
-UI_20151016_001818	{@st42b}Checar
+UI_20151016_001816	{@st59}Você pode mudar o tema do seu alojamento e visualizá-lo.
+UI_20151016_001817	%s Person.{/}
+UI_20151016_001818	{@st42b}Visualizar
 UI_20151016_001819	{@st42b}Voltar
 UI_20151016_001820	{@st42b}Comprar
 UI_20151016_001821	{@st42b}Aplicar
