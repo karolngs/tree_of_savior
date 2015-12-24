@@ -1389,7 +1389,7 @@ UI_20150323_001387	{@st41b}Alterar Alojamento{/}
 UI_20150323_001388	{@st59}Decorar Alojamento{/}
 UI_20150323_001389	{@st41b}Configurações do alojamento{/}
 UI_20150323_001390	{@st59}Alterar configurações do Alojamento{/}
-UI_20150323_001391	{@st45ty}Saudações do Personagem{/}
+UI_20150323_001391	{@st45ty}Saudação do Personagem{/}
 UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Alterar
 UI_20150323_001394	{@st59}Alterar Saudação do personagem{/}
@@ -1535,7 +1535,7 @@ UI_20150428_001533	{@st45ty}Cor do Penteado
 UI_20150428_001534	{@st45ty}Titulo Disponível
 UI_20150428_001535	{@st41_yellow}Auxiliar de Habilidades
 UI_20150428_001536	{@st41b}Mostrar o nome de outros personagens{/}
-UI_20150428_001537	{@st43}Modo da Tela{/}
+UI_20150428_001537	{@st43}Modo da Interface{/}
 UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Joypad{/}
 UI_20150428_001540	{@st41b}Teclado{/}
