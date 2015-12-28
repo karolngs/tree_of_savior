@@ -28,75 +28,75 @@ QUEST_LV_0300_20150717_000027	Examinando o Device/LOOK/2/TRACK_BEFORE/None
 QUEST_LV_0300_20150717_000028	Notice/!/Quando você toca o dispositivo, você sento como se sua alma fosse sugada!{nl}Você se sente mais e mais fraco!
 QUEST_LV_0300_20150717_000029	Notice/Agora você se sente reenergizado#5
 QUEST_LV_0300_20150717_000030	Seu Único Desejo (1)
-QUEST_LV_0300_20150717_000031 O porquê de seu desejo de morte
-QUEST_LV_0300_20150717_000032 Seu Único Desejo (2)
-QUEST_LV_0300_20150717_000033 Seu Único Desejo (2)
-QUEST_LV_0300_20150717_000034 Vá até o Mestre Clérigo
-QUEST_LV_0300_20150717_000035 Agora vocês não podem trabalhar juntos
-QUEST_LV_0300_20150717_000036 Destrua o Terminal (1)
-QUEST_LV_0300_20150717_000037
-QUEST_LV_0300_20150717_000038 Evite os ataques dos monstros e destrua o terminal!#5
-QUEST_LV_0300_20150717_000039 Destrua o Terminal (2)
-QUEST_LV_0300_20150717_000040 $Incendeie a pólvora explosiva/FIRE/2/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000041 $Notice/O Terminal foi destruido na explosão!#5
-QUEST_LV_0300_20150717_000042 $Destrua o Terminal (3)
-QUEST_LV_0300_20150717_000043 $O Eterno Repouso (1)
-QUEST_LV_0300_20150717_000044 Se você tiver algum últma palavra
-QUEST_LV_0300_20150717_000045 $O Eterno Repouso (2)
-QUEST_LV_0300_20150717_000046 $Colocando a Orbe/MAKING/3/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000047 $O Eterno Repouso (3)
-QUEST_LV_0300_20150717_000048 $Saudações
-QUEST_LV_0300_20150717_000049 $Notice/parece que o desejo de Svitrigaila foi concedido#5
-QUEST_LV_0300_20150717_000050 $Inspecione o Detector
-QUEST_LV_0300_20150717_000051 $Fale com Kupole Meile
-QUEST_LV_0300_20150717_000052 $Talk to Kupole, que você salvou de Stone Frost
-QUEST_LV_0300_20150717_000053 $Examine os Detectores de Petrificação
-QUEST_LV_0300_20150717_000054 $Cheque os detectores nas áreas que você ainda não esteve para ajudar Kupole Meile a guiar as almas com segurança de Stone Frost.
-QUEST_LV_0300_20150717_000055 $Retorne a Kupole Meile
-QUEST_LV_0300_20150717_000056 $Você checou todos os 4 detectores exceto o da entrada. Agora retorne a Kupole Meile.
-QUEST_LV_0300_20150717_000057 $Você tem algo para falar sobre reativar o detector enguiçado.Fale com Kupole Meile de novo.
-QUEST_LV_0300_20150717_000058 $Encontre a Guarda do Exército do Reino Retia
-QUEST_LV_0300_20150717_000059 $Kupole disse que o Exército do Reino instalou os detectores de petrificação.Encontre a Guarda do Exército do Reino Retia em Verkti Square.
-QUEST_LV_0300_20150717_000060 Fale mais com a Guarda do Exército do Reino Retia sobre o mau funcionamento do detector de Coastal Fortress.
-QUEST_LV_0300_20150717_000061
-QUEST_LV_0300_20150717_000062
-QUEST_LV_0300_20150717_000063
-QUEST_LV_0300_20150717_000064
-QUEST_LV_0300_20150717_000065
-QUEST_LV_0300_20150717_000066
-QUEST_LV_0300_20150717_000067
-QUEST_LV_0300_20150717_000068
-QUEST_LV_0300_20150717_000069
-QUEST_LV_0300_20150717_000070
-QUEST_LV_0300_20150717_000071
-QUEST_LV_0300_20150717_000072
-QUEST_LV_0300_20150717_000073
-QUEST_LV_0300_20150717_000074
-QUEST_LV_0300_20150717_000075
-QUEST_LV_0300_20150717_000076
-QUEST_LV_0300_20150717_000077
-QUEST_LV_0300_20150717_000078
-QUEST_LV_0300_20150717_000079
-QUEST_LV_0300_20150717_000080
-QUEST_LV_0300_20150717_000081
-QUEST_LV_0300_20150717_000082
-QUEST_LV_0300_20150717_000083
-QUEST_LV_0300_20150717_000084
-QUEST_LV_0300_20150717_000085
-QUEST_LV_0300_20150717_000086
-QUEST_LV_0300_20150717_000087
-QUEST_LV_0300_20150717_000088
-QUEST_LV_0300_20150717_000089
-QUEST_LV_0300_20150717_000090
-QUEST_LV_0300_20150717_000091
-QUEST_LV_0300_20150717_000092
-QUEST_LV_0300_20150717_000093
-QUEST_LV_0300_20150717_000094
-QUEST_LV_0300_20150717_000095
-QUEST_LV_0300_20150717_000096
-QUEST_LV_0300_20150717_000097
-QUEST_LV_0300_20150717_000098
-QUEST_LV_0300_20150717_000099
+QUEST_LV_0300_20150717_000031	Sobre a Razão por trás de seu Desejo de Morte
+QUEST_LV_0300_20150717_000032	Seu Único desejo (3)
+QUEST_LV_0300_20150717_000033	Seu Único desejo (2)
+QUEST_LV_0300_20150717_000034	Vá falar com a Mestra dos Clérigos
+QUEST_LV_0300_20150717_000035	Agora você é incapaz de trabalhar junto
+QUEST_LV_0300_20150717_000036	Destrua o Terminal (1)
+QUEST_LV_0300_20150717_000037	Sobre a Estrutura Principal e o Terminal
+QUEST_LV_0300_20150717_000038	Evite o ataque dos monstros e destrua o terminal!#5
+QUEST_LV_0300_20150717_000039	Destrua o Terminal (2)
+QUEST_LV_0300_20150717_000040	Acendendo os explosivos/FIRE/2/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000041	Notice/O terminal foi destruído na explosão!#5
+QUEST_LV_0300_20150717_000042	Destrua o Terminal (3)
+QUEST_LV_0300_20150717_000043	Eterno Descanso (1)
+QUEST_LV_0300_20150717_000044	Se você tiver algumas últimas palavras
+QUEST_LV_0300_20150717_000045	Eterno Descanso (2)
+QUEST_LV_0300_20150717_000046	Colocando a Orbe/MAKING/3/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000047	Eterno Descanso (3)
+QUEST_LV_0300_20150717_000048	Saudações
+QUEST_LV_0300_20150717_000049	Notice/Parece que o desejo de Svitrigaila  foi concedido#5
+QUEST_LV_0300_20150717_000050	Inspecione o Detector
+QUEST_LV_0300_20150717_000051	Fale com Kupole Meile
+QUEST_LV_0300_20150717_000052	Fale com Kupole, aquele que você salvou da Stone Frost.
+QUEST_LV_0300_20150717_000053	Examine os Detectores de Petrificação
+QUEST_LV_0300_20150717_000054	Verifique os detectores em áreas que você não esteve ainda para ajudar Kupole Meile a guiar as almas com segurança a partir do Stone Frost.
+QUEST_LV_0300_20150717_000055	Retorne para Kupole Meile
+QUEST_LV_0300_20150717_000056	Você verificadou todos os 4 detectores, exceto aquele na entrada. Agora volte para Kupole Meile.
+QUEST_LV_0300_20150717_000057	Você tem algo a dizer sobre reativar o detector com defeito. Fale com Kupole Meile novamente.
+QUEST_LV_0300_20150717_000058	Fale com o Vigia do Exército do Reino Retia
+QUEST_LV_0300_20150717_000059	Kupole disse que os soldados do Exército do Reino instalaram os detectores de petrificação. Fale com Retia em Verkti Square.
+QUEST_LV_0300_20150717_000060	Converse um pouco mais com a Vigia do Reino Retia sobre o detector com defeito na Coastal Fortress.
+QUEST_LV_0300_20150717_000061	Encontre a peça do detector de petrificação
+QUEST_LV_0300_20150717_000062	Escute o que a Vigia do Reino Retia disse e procure por soldados que foram despachados para Coastal Fortress. Se algo aconteceu com eles, você vai ter que recuperar a parte do detector de seus cadáveres. E também tentar caçar os monstros na área.
+QUEST_LV_0300_20150717_000063	Fale com Kupole Meile
+QUEST_LV_0300_20150717_000064	Infelizmente, os soldados do Exército do Reino não sobreviveram, mas você foi capaz de coletar todas as peças necessárias para o detector. Agora, vá falar para Kupole o que aconteceu, depois vá reparar o detector de petrificação.
+QUEST_LV_0300_20150717_000065	Antes de ir para reparar o detector de petrificação, fale com Kupole Meile sobre a situação.
+QUEST_LV_0300_20150717_000066	Repare o Detector de Petrificação
+QUEST_LV_0300_20150717_000067	Repare o primeiro detector de petrificação que não está funcionando.
+QUEST_LV_0300_20150717_000068	Você derrotou todos os monstros que começaram a atacar quando você tentou reparar o detector de petrificação. Agora você pode voltar a reparar o detector de petrificação em paz.
+QUEST_LV_0300_20150717_000069	Repare o Terceiro Detector de Petrificação
+QUEST_LV_0300_20150717_000070	Agora vá reparar o terceiro detector de petrificação.
+QUEST_LV_0300_20150717_000071	Encontre Cordas de Amarrar
+QUEST_LV_0300_20150717_000072	Você vai precisar de algumas cordas para amarrar a parte ao detector. Tente achar algumas caçando monstros.
+QUEST_LV_0300_20150717_000073	Você coletou cordas suficientes para amarrar e prender a parte ao detector. Agora repare o terceiro detector de petrificação.
+QUEST_LV_0300_20150717_000074	Cace monstros e colete %s
+QUEST_LV_0300_20150717_000075	Cace monstros e colete Cordas
+QUEST_LV_0300_20150717_000076	Diga à Kupole Miele que você reparou todos os detectores de petrificação.
+QUEST_LV_0300_20150717_000077	Examine o Dispositivo Misterioso
+QUEST_LV_0300_20150717_000078	Ao se aproximar do dispositivo misterioso, você se sente estranhamente atraído por ele. O que poderia ser este dispositivo? Talvez você descubra se você tentar tocá-lo?
+QUEST_LV_0300_20150717_000079	Encontre Svitrigaila
+QUEST_LV_0300_20150717_000080	Você começa a se sentir cada vez mais fraco, como se sua alma estivesse sendo drenada de seu corpo.	Encontre alguém que possa ajudá-lo a sair desta situação.
+QUEST_LV_0300_20150717_000081	Seu Único Desejo
+QUEST_LV_0300_20150717_000082	Fale com Svitrigaila
+QUEST_LV_0300_20150717_000083	Parece que você vai ter que ouvir a história de Svitrigaila.
+QUEST_LV_0300_20150717_000084	Junte Ervas Venenosas
+QUEST_LV_0300_20150717_000085	Svitrigaila diz para você que, como um Revelador, não seria ruim se você se o ajudasse a cometer suicídio, ele pede para você reunir algumas ervas venenosas para ele.
+QUEST_LV_0300_20150717_000086	Entregue as Ervas Venenosas para Svitrigaila
+QUEST_LV_0300_20150717_000087	Você recolheu todas as ervas venenosas que Svitrigaila te pediu. Agora volte para Svitrigaila e entregue as ervas venenosas que você coletou.
+QUEST_LV_0300_20150717_000088	Fale com o Cleric Master para obter a água benta que Svitrigaila precisa.
+QUEST_LV_0300_20150717_000089	Retorne para Svitrigaila
+QUEST_LV_0300_20150717_000090	A Cleric Master recusou o seu pedido. Isso é lamentável. De qualquer forma, vá falar com Svitrigaila sobre o que aconteceu.
+QUEST_LV_0300_20150717_000091	Você deu as ervas venenosas para Svitrigaila, ele às comeu, mas você não vê qualquer mudança nele. Tente falar com ele novamente.
+QUEST_LV_0300_20150717_000092	Vendo que não houve efeito sobre Svitrigaila quando ele comeu as ervas venenosas, pode ser que ele precise misturá-los com água benta primeiro, e depois comê-las para obter o resultado desejado. Encontre a Cleric Master e obtenha água benta.
+QUEST_LV_0300_20150717_000093	Destrua o Terminal
+QUEST_LV_0300_20150717_000094	Converse com Svitrigaila mais um pouco.	
+QUEST_LV_0300_20150717_000095	Destrua o Soul Compactor Terminal
+QUEST_LV_0300_20150717_000096	Para ajudar Svitrigaila, você vai ter que destruir o Soul Compaction Device. Você precisará reunir algumas ferramentas para ajudá-lo a destruir o Soul Compaction Device, e em seguida sua estrutura principal, antecipadamente. Primeiro de tudo, destrua o primeiro terminal.
+QUEST_LV_0300_20150717_000097	Informe Svitrigaila
+QUEST_LV_0300_20150717_000098	Você destruiu o terminal. E você recuperou o núcleo do terminal com sucesso. Dê o núcleo para Svitrigaila.
+QUEST_LV_0300_20150717_000099	Destrua o Terminal e recupere o seu Núcleo
 QUEST_LV_0300_20150717_000100
 QUEST_LV_0300_20150717_000101
 QUEST_LV_0300_20150717_000102
