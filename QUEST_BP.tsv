@@ -248,107 +248,107 @@ QUEST_20150317_000247	$Gesti percebeu isto. Mantenha-se calmo. Ainda não é a h
 QUEST_20150317_000248	$Soldado de Suprimentos Fora de Serviço
 QUEST_20150317_000249	$Eu não tenho idéia do que a Casa Real esteja fazendo. {nl}Eu até mesmo ouvi que os nobres já fugiram da cidade.
 QUEST_20150317_000250	$Em tempos como este, é bom produzir e usar suas próprias coisas ao invés de comprá-las. {nl}Originalmente eu era um soldado de suprimentos, mas este trabalho não é muito diferente do de um ferreiro.
-QUEST_20150317_000251
-QUEST_20150317_000252
-QUEST_20150317_000253
-QUEST_20150317_000254
-QUEST_20150317_000255
-QUEST_20150317_000256
-QUEST_20150317_000257
-QUEST_20150317_000258
-QUEST_20150317_000259
-QUEST_20150317_000260
-QUEST_20150317_000261
-QUEST_20150317_000262
-QUEST_20150317_000263
-QUEST_20150317_000264
-QUEST_20150317_000265
-QUEST_20150317_000266
-QUEST_20150317_000267
-QUEST_20150317_000268
-QUEST_20150317_000269
-QUEST_20150317_000270
-QUEST_20150317_000271
-QUEST_20150317_000272
-QUEST_20150317_000273
-QUEST_20150317_000274
-QUEST_20150317_000275
-QUEST_20150317_000276
-QUEST_20150317_000277
-QUEST_20150317_000278
-QUEST_20150317_000279
-QUEST_20150317_000280
-QUEST_20150317_000281
-QUEST_20150317_000282
-QUEST_20150317_000283
-QUEST_20150317_000284
-QUEST_20150317_000285
-QUEST_20150317_000286
-QUEST_20150317_000287
-QUEST_20150317_000288
-QUEST_20150317_000289
-QUEST_20150317_000290
-QUEST_20150317_000291
-QUEST_20150317_000292
-QUEST_20150317_000293
-QUEST_20150317_000294
-QUEST_20150317_000295
-QUEST_20150317_000296
-QUEST_20150317_000297
-QUEST_20150317_000298
-QUEST_20150317_000299
-QUEST_20150317_000300
-QUEST_20150317_000301
-QUEST_20150317_000302
-QUEST_20150317_000303
-QUEST_20150317_000304
-QUEST_20150317_000305
-QUEST_20150317_000306
-QUEST_20150317_000307
-QUEST_20150317_000308
-QUEST_20150317_000309
-QUEST_20150317_000310
-QUEST_20150317_000311
-QUEST_20150317_000312
-QUEST_20150317_000313
-QUEST_20150317_000314
-QUEST_20150317_000315
-QUEST_20150317_000316
-QUEST_20150317_000317
-QUEST_20150317_000318
-QUEST_20150317_000319
-QUEST_20150317_000320
-QUEST_20150317_000321
-QUEST_20150317_000322
-QUEST_20150317_000323
-QUEST_20150317_000324
-QUEST_20150317_000325
-QUEST_20150317_000326
-QUEST_20150317_000327
-QUEST_20150317_000328
-QUEST_20150317_000329
-QUEST_20150317_000330
-QUEST_20150317_000331
-QUEST_20150317_000332
-QUEST_20150317_000333
-QUEST_20150317_000334
-QUEST_20150317_000335
-QUEST_20150317_000336
-QUEST_20150317_000337
-QUEST_20150317_000338
-QUEST_20150317_000339
-QUEST_20150317_000340
-QUEST_20150317_000341
-QUEST_20150317_000342
-QUEST_20150317_000343
-QUEST_20150317_000344
-QUEST_20150317_000345
-QUEST_20150317_000346
-QUEST_20150317_000347
-QUEST_20150317_000348
-QUEST_20150317_000349
-QUEST_20150317_000350
-QUEST_20150317_000351
+QUEST_20150317_000251 Seguidora Norma
+QUEST_20150317_000252 Eu não sabia que era você quem havia aceito nosso pedido, [#pending Revelator]. {nl}É uma verdadeira honra.
+QUEST_20150317_000253 Os demônios de Gesti continuam atacando sem parar. {nl}Sua influência sombria chegou aos Panto que vivem aqui.
+QUEST_20150317_000254 Os Panto já foram dóceis, mas agora avançam e atacam imediatamente.
+QUEST_20150317_000255 Há uma árvore aqui que os Panto adoram. {nl}Se isto está acontecendo, essa árvore quase certamente foi corrompida por um poder sombrio.
+QUEST_20150317_000256 Por favor proteja a barreira Romuvan no topo do vale. {nl}Nós tomaremos conta do resto quando nossos irmão chegarem.
+QUEST_20150317_000257 {memo X}Que a Deusa lhe abençoe.
+QUEST_20150317_000258 {memo X}Eu quero um pouco de ação. {nl}Não vejo uma luta há muito tempo.
+QUEST_20150317_000259 Ainda estamos nos preparando. {nl}Por favor aguarde um pouco mais.
+QUEST_20150317_000260 Antares
+QUEST_20150317_000261 O que? Você ainda tenta perturbar meus experimentos? {nl}Não permitirei isso!
+QUEST_20150317_000262 {memo X}Tome cuidado! Tenho certeza que isto é trabalho de Antares. Explodirá se você chegar muito perto. {nl}É melhor você atrair os monstros e remover eles um de cada vez.
+QUEST_20150317_000263 Quando eu soltar esta válvula, meu grande experimento será concluído e você terá uma vista espetacular!
+QUEST_20150317_000264 {memo X}Não me interrompa enquanto estabilizo as [#pending Jewels of Prominence].
+QUEST_20150317_000265 Você ainda não entende? Se não fosse por Antares, eu estaria passando minha vida como humano. {nl}Isso mesmo. Sou um demônio.
+QUEST_20150317_000266 {memo X}De fato...as [#pending Jewels of Prominence] foram difíceis de fazer, e seria bom ver o produto final uma vez. {nl}É naturalmente meu favorito, mas não sei sobre você. Hahaha...
+QUEST_20150317_000267 Você sabe sobre o Lorde Demônio, Helgasercle? {nl}Eu li que ela atacou a Torre dos Magos várias vezes no passado.
+QUEST_20150317_000268 Ela continuará a ficar mais forte até que sua inveja diminua. {nl}Mas ela foi derrotada todas as vezes que veio, então me pergunto se ela teve sucesso dessa vez.
+QUEST_20150317_000269 Cuidado! Atrás de você!
+QUEST_20150317_000270 Eu espero que esta Revelação chegue até você sob as bençãos do fogo. {nl}Estes são os desastres que previ em sua era.
+QUEST_20150317_000271 Desde o início do tempo, a Árvore do Mundo cresceu embaixo da terra, soprando vida aos seres. {nl}É a raiz de todas as coisas.
+QUEST_20150317_000272 Giltine está preparando o palco para um desastre ao tornar a essência da Árvore do Mundo contra ela mesma. {nl}Ao reverter o fluxo da energia da vida, a Árvore da Vida a toma novamente e cresce a uma escala tremenda.
+QUEST_20150317_000273 A furiosa Árvore do Mundo irá rasgar pela terra, trazendo desastre a todos. {nl}De fato, a Árvore Divina que você vê no seu tempo é na verdade a Árvore do Mundo.
+QUEST_20150317_000274 A catástrofe não terminará aqui. {nl}Você certamente viu os Cristais de Raiz.
+QUEST_20150317_000275 Os demônios os transformaram para consumir os espíritos facilmente e auxiliar no crescimento da Árvore. {nl}Por causa disso, muitos novos monstros nascerão, armados com ferocidade ainda maior. 
+QUEST_20150317_000276 Quando eu descobri tudo isso, minha força restante não conseguiu lidar com a grande calamidade. {nl}A profecia enviada a Zachariel sobre a morte da capital foi esquecida, por causa das conspirações dos demônios.
+QUEST_20150317_000277 A Árvore do Mundo continuará a crescer. {nl}Para que fim...é além do meu controle.
+QUEST_20150317_000278 Contudo, duvido que os males que vi sejam os limites de tudo que irá acontecer. {nl}Acredito que as sementes da mudançã virão de você.
+QUEST_20150317_000279 Terminarei minha longa história aqui. O sábio Maven terá a próxima Revelação. {nl}Eu aguardo quietamente pelo dia que você chegará à [#pending Great Cathedral].
+QUEST_20150317_000280 Deusa Gabija
+QUEST_20150317_000281 {memo X}Eu lhe agradeço, [#pending Savior]. {nl}Se eu tivesse escutado Laima, não estaria me arrependendo por este dia.
+QUEST_20150317_000282 {memo X}Graças a você, eu recuperei minhas forças, mas isso apenas começou. {nl}Em retorno, eu afastarei os demônios com uma falsa Revelação na torre.
+QUEST_20150317_000283 {memo X}Antes disso, tenho algo a lhe dizer: a história de Laima.
+QUEST_20150317_000284 Leiloeiro
+QUEST_20150317_000285 Não é fácil conseguir as coisas boas. {nl}Mercadores têm repensado suas rotas graças aos monstros ao redor de Klaipeda.
+QUEST_20150317_000286 O leilão começou! {nl}Nós passamos por muitos problemas para lhes trazer esses itens listados. {nl}Vamos começar os lances!
+QUEST_20150317_000287 Esses são os Bosques Ocidentais Siauliai. {nl}Nós deveríamos dar uma certa quantidade quando os aldeões cuidam dos memoriais, certo?
+QUEST_20150317_000288 Então o Mestre Taumaturgo lhe mandou. {nl}Uma pergunta, primeiro. O centro de Fedimian tem uma estátua de que Deusa?
+QUEST_20150317_000289 Aqui está o questionário, então ouça bem! {nl}Qual o nome do grupo que Lydia Schaffen fez para recuperar a Revelação da Deusa?
+QUEST_20150317_000290 Você leu algum livro no 1º Lote da Mina de Cristal, 2ª Galeria? {nl}Qual o nome do prisioneiro que não foi capaz de escapar depois de aprisionar Mirtis cavando na Mina de Cristal?
+QUEST_20150317_000291 {memo X}Tome. Eu não preciso mais...ugh... {nl}Depois que eu terminar essa bebida, vou procurar meu irmão de novo...heh...
+QUEST_20150317_000292 {memo X}O que? Meu irmão está morto? {nl}De que besteira você está falando, huh? Saia daqui! *sniff*
+QUEST_20150317_000293 Coruja Sensitiva
+QUEST_20150317_000294 A coruja uiva...
+QUEST_20150317_000295 A coruja uiva...parece muito triste, uivando sozinha.
+QUEST_20150317_000296 Está certo. Bom trabalho!
+QUEST_20150317_000297 Essa foi perto. Tente sua sorte de novo.
+QUEST_20150317_000298 Excelente. Está certo!
+QUEST_20150317_000299 Não. Tente de novo.
+QUEST_20150317_000300 Bom. Muito bom!
+QUEST_20150317_000301 Você errou. {nl}Por que não tenta de novo?
+QUEST_20150317_000302 O lugar no andar de cima é o local divino onde a gigante Estátua da Deusa, o símbolo de Fedimian, está localizada. {nl}Todos os fiéis, ordenem-se e adorem silenciosamente.
+QUEST_20150317_000303 {memo X}Fedimian nem sempre foi assim... {nl}Uma vez ela foi uma linda e vibrante cidade. {nl}Felizmente, o distrito divino, onde a Estátua da Deusa central está localizada, ainda está bem.
+QUEST_20150317_000304 {memo X}Fedimian foi originalmente dividida em dois distritos, o distrito comercial e o distrito divino. {nl}Mas um incidente quatro anos atrás deixou o distrito comercial completamente destruído e Fedimian logo mudou para pior...
+QUEST_20150317_000305 {memo X}Misericordiosamente, o distrito divino ainda permanece hoje graças à benção da Deusa.
+QUEST_20150317_000306 {memo X}Sou só um homem velho ordinário em Fedimian. {nl}Se você quer saber mais, então me traga alguns bolinhos de batata...
+QUEST_20150317_000307 {memo X}A comida em Fedimian é horrível. {nl}Antes que eu morra, será possível experimentar todas as comidas deliciosas no mundo?
+QUEST_20150317_000308 Este é o [#pending Holy District] de Fedimian. {nl}Que a Deusa o abençoe no futuro.
+QUEST_20150317_000309 Agora mesmo, o [#pending Market District] está fechado para reconstrução. {nl}Por favor não entre naquele distrito.
+QUEST_20150317_000310 O [#pending Holy District] de Fedimian lhe dá as boas-vindas.
+QUEST_20150317_000311 Muito obrigado pelos seus esforços. Nós vamos investigar aqui mais uma vez. {nl}Anime-se!
+QUEST_20150317_000312 Já acabou? {nl}Incrível! Não se esperaria nada menos de um [#pending Revelator]!
+QUEST_20150317_000313 É dito que se alguém receber muito ouro, ele começa a acreditar que é seu direito. {nl}Talvez tenhamos confiado demais à Deusa.
+QUEST_20150317_000314 Soldado Pitt
+QUEST_20150317_000315 Você é o [#pending Revelator]? {nl}É uma grande honra lhe conhecer!
+QUEST_20150317_000316 Soldado Bran
+QUEST_20150317_000317 Desde que eu era uma criança, tem sido meu sonho lutar na linha de frente!
+QUEST_20150317_000318 Soldado em treinamento Malt
+QUEST_20150317_000319 O número de monstros não está diminuindo mesmo depois do [#pending Revelator] se esforçar tanto...
+QUEST_20150317_000320 Comandante Raimondas
+QUEST_20150317_000321 Muitas pessoas que dizem serem [#pending Revelators] vêm até aqui. {nl}Você é uma delas?
+QUEST_20150317_000322 Eu conheci muitos [#pending Revelators], mas nunca vi um como você. {nl}Muito bem. Espero que nos encontremos de novo outro dia.
+QUEST_20150317_000323 Corretor de ervas
+QUEST_20150317_000324 Você precisa de algo?
+QUEST_20150317_000325 O que você vê aqui não é tudo que tenha para venda. Hehe...
+QUEST_20150317_000326 Instrutor Nicker
+QUEST_20150317_000327 Se um soldado quebra uma regra, pode colocar em perigo todo o exército. {nl}Por isso temos de ser muito estritos.
+QUEST_20150317_000328 Acho que vou admitir agora. Você, o [#pending Revelator], segue os sonhos da Deusa. {nl}Não será fácil, mas acredito que você fará bem.
+QUEST_20150317_000329 Você é o [#pending Revelator]? Bom trabalho, {nl}mas ainda não tenho certeza de que consigo confiar em você.
+QUEST_20150317_000330 Funcionário Particular
+QUEST_20150317_000331 Para sobreviver neste mundo caótico, você precisará de alguns truques sujos às vezes. {nl}Você não deveria se sentir mal por isso.
+QUEST_20150317_000332 Se você quer um trabalho feito rápido, faça você mesmo. {nl}Por isso virei um soldado.
+QUEST_20150317_000333 Eu ouvi muitas histórias de heróis que lutaram por justiça na minha infância, {nl}mas sempre achei que fossem apenas histórias...{nl}Agora acho que heróis podem existir.
+QUEST_20150317_000334 York
+QUEST_20150317_000335 A Deusa pode ter nos abandonado, mas nos sentimos seguros com o [#pending Revelator] aqui conosco.
+QUEST_20150317_000336 Quero voltar para minha cidade natal... {nl}Não posso esperar por suprimentos por mais tempo. {nl}Também não há final à vista para essa situação. *suspiro*
+QUEST_20150317_000337 Há momentos em que quero apenas sair sem o uniforme e as botas. {nl}Faço isso apenas pela segurança da minha família.
+QUEST_20150317_000338 Não sou um poeta então não consigo dizer com certeza...mas você parece diferente. {nl}De qualquer forma, espero poder ouvir sobre você mesmo se você estiver distante.
+QUEST_20150317_000339 Vendedor de rua
+QUEST_20150317_000340 Nós temos tudo aqui. {nl}Mas como pode ver, estamos temporariamente fechados.
+QUEST_20150317_000341 Epitáfio
+QUEST_20150317_000342 {memo X}Não é possível ler nada.
+QUEST_20150317_000343 Você pensa sobre Smid a qualquer hora que vê esta cópia esfregada.
+QUEST_20150317_000344 Notícia
+QUEST_20150317_000345 Rei Zachariel está enterrado aqui.
+QUEST_20150317_000346 Este é o [#pending Holy District] de Fedimian protegido pela Deusa Zemyna.
+QUEST_20150317_000347 $Por favor não entre; sua segurança não é garantida. {nl}Para outras perguntas, por favor veja o Oficial da Articulação Niels.
+QUEST_20150317_000348 Lápide
+QUEST_20150317_000349 Está ilegível. {nl}Vamos perguntar ao aldeão que está por perto.
+QUEST_20150317_000350 O Diário de um Soldado
+QUEST_20150317_000351 Achou o diário de um soldado na mochila do exército.
 QUEST_20150317_000352	Bravo Protetor de Zachariel
 QUEST_20150317_000353	{memo X}Correto. {nl}Eu abrirei o selo.
 QUEST_20150317_000354	Errado. {nl}Mas, eu te darei mais uma chance.
