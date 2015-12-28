@@ -12,12 +12,12 @@ UI_20150317_000011	{@st41}Tem certeza que quer fazer este tipo de flecha?{/}
 UI_20150317_000012	{@st41b}Uma{/}
 UI_20150317_000013	{@st41b}Todos{/}
 UI_20150317_000014	{@st41b}Pausar{/}
-UI_20150317_000015	{@st43}Jornal de Aventuras{/}
+UI_20150317_000015	{@st43}Diário de Aventuras{/}
 UI_20150317_000016	{@st43}Casa de Leilões{/}
 UI_20150317_000017	{@st59}Fechar Casa de Leilões{/}
 UI_20150317_000018	{memo X}{@st41b}Itens vendidos : ×%s, Itens Mantidos : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Leilão de Itens{/}
-UI_20150317_000020	{@st59}Fechar informação da Missão{/}
+UI_20150317_000020	{@st59}Fechar Informação da Missão{/}
 UI_20150317_000021	Availest
 UI_20150317_000022	{@st41b}Tempo Restante
 UI_20150317_000023	3 horas 16 minutos
@@ -86,33 +86,33 @@ UI_20150317_000085
 UI_20150317_000086
 UI_20150317_000087
 UI_20150317_000088
-UI_20150317_000089
-UI_20150317_000090
+UI_20150317_000089	{@sti7}{s14} Personagem {/}
+UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091
 UI_20150317_000092
 UI_20150317_000093
-UI_20150317_000094
-UI_20150317_000095
-UI_20150317_000096
-UI_20150317_000097
-UI_20150317_000098
-UI_20150317_000099
-UI_20150317_000100
-UI_20150317_000101
+UI_20150317_000094	{@st41}Chat Geral{/}
+UI_20150317_000095	{@59}Fechar{/}
+UI_20150317_000096	{@59}Convidar{/}
+UI_20150317_000097	{@st59}Geral{/}
+UI_20150317_000098	{@st59}Normal (/s mensagem){/}
+UI_20150317_000099	{@st59}Gritar (/y mensagem){/}
+UI_20150317_000100	{@st59}Grupo (/p mensagem){/}
+UI_20150317_000101	{@st59}Mensagem Privada (/w nome do time mensagem){/}
 UI_20150317_000102
 UI_20150317_000103
-UI_20150317_000104
-UI_20150317_000105
-UI_20150317_000106
-UI_20150317_000107
-UI_20150317_000108
-UI_20150317_000109
-UI_20150317_000110
-UI_20150317_000111
-UI_20150317_000112
-UI_20150317_000113
-UI_20150317_000114
-UI_20150317_000115
+UI_20150317_000104	{@st43}Macro{/}
+UI_20150317_000105	{@st59b}Macro {nl}{@st59s} - Como usar: {nl} 1. Registre o ícone de gesto nos slots de gesto abaixo {nl} 2. Escreva sua frase e salve {nl} 3. Use a tecla de atalho para falar a frase e fazer o gesto ao mesmo tempo {/}
+UI_20150317_000106	{@st59}Fechar Macro{/}
+UI_20150317_000107	{@st41b}Salvar{/}
+UI_20150317_000108	{@st59}Salvar modificações{/}
+UI_20150317_000109	{@st41b}Cancelar{/}
+UI_20150317_000110	{@st59}Cancelar suas modificações{/}
+UI_20150317_000111	{@st42}Configuração de Mensagens
+UI_20150317_000112	{@st42}Transparência
+UI_20150317_000113	Mostrar Caixa de Diálogo
+UI_20150317_000114	Mostrar gritos no topo
+UI_20150317_000115	{@st43}Lista de Códigos{/}
 UI_20150317_000116
 UI_20150317_000117
 UI_20150317_000118
@@ -138,22 +138,22 @@ UI_20150317_000137
 UI_20150317_000138
 UI_20150317_000139
 UI_20150317_000140
-UI_20150317_000141
-UI_20150317_000142
-UI_20150317_000143
-UI_20150317_000144
-UI_20150317_000145
-UI_20150317_000146
-UI_20150317_000147
-UI_20150317_000148
-UI_20150317_000149
-UI_20150317_000150
-UI_20150317_000151
-UI_20150317_000152
-UI_20150317_000153
-UI_20150317_000154
-UI_20150317_000155
-UI_20150317_000156
+UI_20150317_000141	{@st49}Close{/}
+UI_20150317_000142	{@st43}Adotar Mascote
+UI_20150317_000143	{@st59}Insira o nome do seu novo Mascote {/}
+UI_20150317_000144	{@st41b}Nome{/}
+UI_20150317_000145	{@st41b}Preço %s{/}
+UI_20150317_000146	{@st59}Fechar a Janela de Adoção do Mascote{/}
+UI_20150317_000147	{@st41b}Adotar
+UI_20150317_000148	{@st59}Confirmar adoção {/}
+UI_20150317_000149	{@st43}Loja de Mascotes
+UI_20150317_000150	{@st59}Fechar Loja de Mascotes{/}
+UI_20150317_000151	{@st43}Outras Informações de Personagem{/}{@st42}
+UI_20150317_000152	{@st59}Fechar a Informação do Personagem{/}
+UI_20150317_000153	{@st41b}Informação
+UI_20150317_000154	{@st41b}Gravar
+UI_20150317_000155	Nome do Time
+UI_20150317_000156	Nome do Personagem
 UI_20150317_000157
 UI_20150317_000158
 UI_20150317_000159
@@ -180,8 +180,8 @@ UI_20150317_000179
 UI_20150317_000180
 UI_20150317_000181
 UI_20150317_000182
-UI_20150317_000183
-UI_20150317_000184
+UI_20150317_000183	Informações da Missão
+UI_20150317_000184	{@st59}Cancelar Negociação{/}
 UI_20150317_000185
 UI_20150317_000186
 UI_20150317_000187
@@ -207,15 +207,15 @@ UI_20150317_000206
 UI_20150317_000207
 UI_20150317_000208
 UI_20150317_000209
-UI_20150317_000210
-UI_20150317_000211
-UI_20150317_000212
-UI_20150317_000213
-UI_20150317_000214
-UI_20150317_000215
-UI_20150317_000216
-UI_20150317_000217
-UI_20150317_000218
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Fechar Lista de Amigos{/}
+UI_20150317_000212	{@st59b} Amigo{nl} {@st59s} - Faça amizade com outros jogadores {nl} - Confira o status de seus amigos na aba Lista {nl} - Na aba Gerenciar, você pode convidar, recusar ou bloquear seus amigos{/}
+UI_20150317_000213	{@st41b}Mostrar Amigos Online{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Gerenciar
+UI_20150317_000216	{@st41b}Adicionar Amigo
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Procurar{/}
 UI_20150317_000219
 UI_20150317_000220
 UI_20150317_000221
@@ -239,49 +239,49 @@ UI_20150317_000238
 UI_20150317_000239
 UI_20150317_000240
 UI_20150317_000241
-UI_20150317_000242
-UI_20150317_000243
-UI_20150317_000244
-UI_20150317_000245
-UI_20150317_000246
-UI_20150317_000247
-UI_20150317_000248
-UI_20150317_000249
-UI_20150317_000250
-UI_20150317_000251
-UI_20150317_000252
-UI_20150317_000253
-UI_20150317_000254
-UI_20150317_000255
-UI_20150317_000256
-UI_20150317_000257
-UI_20150317_000258
-UI_20150317_000259
+UI_20150317_000242	{@st43}Lista de Ajuda{/}
+UI_20150317_000243	{@st59}Fechar janela da Lista de Ajuda{/}
+UI_20150317_000244	{@st59b}Lista de ajuda{nl}{@st59s}- Ler os tópicos novamente {nl}- Selecione um tópico para exibir detalhes {/}
+UI_20150317_000245	{@st43}{s22}Ajuda{/}
+UI_20150317_000246	{@st47_b}{b}Tópicos de Ajuda{/}
+UI_20150317_000247	{@st42b}Conteúdos de Ajuda Simples{/}
+UI_20150317_000248	{@st59}Ver detalhes{/}
+UI_20150317_000249	Por favor insira a quantidade
+UI_20150317_000250	{@st59}Insira o conteúdo{/}
+UI_20150317_000251	{@st41b}Confirmar
+UI_20150317_000252	{@st59}Confirmar{/}
+UI_20150317_000253	{@st41b}Fechar
+UI_20150317_000254	{@st59}Cancelar {/}
+UI_20150317_000255	{@st43}Teleportar{/}
+UI_20150317_000256	{@st59}Fechar Janela de Teleporte{/}
+UI_20150317_000257	{@st59b}Teleporte{nl}{@st59s}- Sistema que pode teleportar o usuário para outras regiões{nl}- É necessário que ao menos duas estátuas estejam ativas para usar essa função{nl}{/}
+UI_20150317_000258	{@st41}Localização Atual : %s{/}
+UI_20150317_000259	{@st43}{s22}Teleportar{/}
 UI_20150317_000260
 UI_20150317_000261
 UI_20150317_000262
 UI_20150317_000263
-UI_20150317_000264
-UI_20150317_000265
-UI_20150317_000266
-UI_20150317_000267
-UI_20150317_000268
-UI_20150317_000269
-UI_20150317_000270
-UI_20150317_000271
-UI_20150317_000272
-UI_20150317_000273
-UI_20150317_000274
-UI_20150317_000275
-UI_20150317_000276
-UI_20150317_000277
-UI_20150317_000278
-UI_20150317_000279
-UI_20150317_000280
-UI_20150317_000281
-UI_20150317_000282
-UI_20150317_000283
-UI_20150317_000284
+UI_20150317_000264	{@st43}Inventário{/}
+UI_20150317_000265	{@st59}Fechar Inventário{/}
+UI_20150317_000266	Equipamentos {@st59b} {nl} {@st59s}-Cabelo/Roupas: equipe para mudar o visual do personagem {nl} -Armas: Pode usar armas de uma ou duas mãos {nl} (sub-arma/escudo podem ser utilizados com armas de uma mão) {nl} -Armadura: Tronco, Pernas, Luvas, Sapatos {nl} -Acessórios: Pode usar 1 colar e 2 braceletes {nl} {/}
+UI_20150317_000267	{@st59}Acessório da Cabeça 1{/}
+UI_20150317_000268	{@st59}Acessório da Cabeça 2{/}
+UI_20150317_000269	{@st59}Colar{/}
+UI_20150317_000270	{@st59}#pending Costume{/}
+UI_20150317_000271	{@st59}Vestimenta{/}
+UI_20150317_000272	{@st59}Luvas{/}
+UI_20150317_000273	{@st59}Calças{/}
+UI_20150317_000274	{@st59}Sapatos{/}
+UI_20150317_000275	{@st59}Mão Esquerda{/}
+UI_20150317_000276	{@st59}Mão Direita{/}
+UI_20150317_000277	{@st59}Bracelete 1{/}
+UI_20150317_000278	{@st59}Bracelete 2{/}
+UI_20150317_000279	{@st59}Braçadeira{/}
+UI_20150317_000280	{@st59}Procurar{/}
+UI_20150317_000281	Peso
+UI_20150317_000282	{memo X}{@st43}Melhoramento do Equip.{/}
+UI_20150317_000283	{@st59}Fechar Interface do Reparo de Item{/}
+UI_20150317_000284	{memo X}{@st42}Melhoramento Disponível
 UI_20150317_000285
 UI_20150317_000286
 UI_20150317_000287
@@ -300,36 +300,36 @@ UI_20150317_000299
 UI_20150317_000300
 UI_20150317_000301
 UI_20150317_000302
-UI_20150317_000303
-UI_20150317_000304
-UI_20150317_000305
-UI_20150317_000306
-UI_20150317_000307
-UI_20150317_000308
-UI_20150317_000309
-UI_20150317_000310
-UI_20150317_000311
-UI_20150317_000312
-UI_20150317_000313
-UI_20150317_000314
-UI_20150317_000315
-UI_20150317_000316
-UI_20150317_000317
-UI_20150317_000318
-UI_20150317_000319
-UI_20150317_000320
-UI_20150317_000321
-UI_20150317_000322
-UI_20150317_000323
-UI_20150317_000324
-UI_20150317_000325
-UI_20150317_000326
-UI_20150317_000327
-UI_20150317_000328
-UI_20150317_000329
-UI_20150317_000330
+UI_20150317_000303	{@sti7}{s22}{ds}Conquistas{/}
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Pts{/}
+UI_20150317_000305	{@st42b} Média / %s Pts {/}
+UI_20150317_000306	1° / %s Pontos
+UI_20150317_000307	Rank %s
+UI_20150317_000308	%s Pontos
+UI_20150317_000309	Profissão
+UI_20150317_000310	Time
+UI_20150317_000311	{@st59}Fechar Diário de Aventuras{/}
+UI_20150317_000312	{@st43}Rankings do Diário de Aventuras{/}
+UI_20150317_000313	{@st43}{s22}Rank
+UI_20150317_000314	{@st43}{s22}Nome
+UI_20150317_000315	{@st43}{s22}Pontuação
+UI_20150317_000316	{@st41}Detalhes{/}
+UI_20150317_000317	{@st43}Começar Fabricação{/}
+UI_20150317_000318	{@st59}Começar a fabricar item.{/}
+UI_20150317_000319	{@st44}Teclado{/}
+UI_20150317_000320	{@st42}Tempo Limite
+UI_20150317_000321	{@st56}Kill{/}
+UI_20150317_000322	{@st56}Overkill{/}
+UI_20150317_000323	{@st56}Atingido{/}
+UI_20150317_000324	{@st56}Morto{/}
+UI_20150317_000325	Poder Mágico
+UI_20150317_000326	Defesa
+UI_20150317_000327	Reistência Mágica
+UI_20150317_000328	Taxa de Crítico
+UI_20150317_000329	{@st43}#pending Soquete{/}
+UI_20150317_000330	{@st59}Fehcar o Gerenciador de #pending Sockets{/}
 UI_20150317_000331
-UI_20150317_000332
+UI_20150317_000332	Potencial
 UI_20150317_000333
 UI_20150317_000334
 UI_20150317_000335
@@ -353,27 +353,27 @@ UI_20150317_000352
 UI_20150317_000353
 UI_20150317_000354
 UI_20150317_000355
-UI_20150317_000356
-UI_20150317_000357
-UI_20150317_000358
-UI_20150317_000359
-UI_20150317_000360
-UI_20150317_000361
-UI_20150317_000362
-UI_20150317_000363
-UI_20150317_000364
-UI_20150317_000365
-UI_20150317_000366
-UI_20150317_000367
-UI_20150317_000368
-UI_20150317_000369
-UI_20150317_000370
-UI_20150317_000371
-UI_20150317_000372
-UI_20150317_000373
-UI_20150317_000374
-UI_20150317_000375
-UI_20150317_000376
+UI_20150317_000356	{@st43}{s22}Mercado{/}
+UI_20150317_000357	{@st43}{s24}Mercado{/}
+UI_20150317_000358	{@st42b}Filtrar{/}
+UI_20150317_000359	{@st42b}Tipo{/}
+UI_20150317_000360	{@st42b}Lv Req.{/}
+UI_20150317_000361	{@st42b}Lv do Apri.{/}
+UI_20150317_000362	{@st42b}Nome
+UI_20150317_000363	{@st41b}Itens à receber%s
+UI_20150317_000364	{@st41b}Vender
+UI_20150317_000365	{@st41b}Pesquisar
+UI_20150317_000366	{@st59}Fechar Janela do Mercado{/}
+UI_20150317_000367	{@st42b}Org. por
+UI_20150317_000368	{@st41b}Itens à Venda
+UI_20150317_000369	{@st41b}Itens à Venda
+UI_20150317_000370	{@st41b}Receber Tudo
+UI_20150317_000371	{@st41b}Itens à receber
+UI_20150317_000372	{@st43}{s22}Vender
+UI_20150317_000373	{@st42b}Qtd.
+UI_20150317_000374	{@st42b}Preço
+UI_20150317_000375	{@st42b}Ocultar Nome do Vendedor{/}
+UI_20150317_000376	{@st41b}Adicionar
 UI_20150317_000377
 UI_20150317_000378
 UI_20150317_000379
@@ -387,9 +387,9 @@ UI_20150317_000386
 UI_20150317_000387
 UI_20150317_000388
 UI_20150317_000389
-UI_20150317_000390
-UI_20150317_000391
-UI_20150317_000392
+UI_20150317_000390	{@st59}Mais Zoom{/}
+UI_20150317_000391	{@st59}Menos Zoom{/}
+UI_20150317_000392	{@st59}Mapa (M){/}
 UI_20150317_000393
 UI_20150317_000394
 UI_20150317_000395
@@ -433,12 +433,12 @@ UI_20150317_000432
 UI_20150317_000433
 UI_20150317_000434
 UI_20150317_000435
-UI_20150317_000436
-UI_20150317_000437
-UI_20150317_000438
-UI_20150317_000439
-UI_20150317_000440
-UI_20150317_000441
+UI_20150317_000436	{@st59}Fechar Informações do Grupo{/}
+UI_20150317_000437	{@st59b}Informação de Grupo {nl}{@st59s} - Clique em "criar grupo" abaixo para criar seu próprio grupo {nl} - Clique com o botão direito nos outros jogadores para convidá-los {nl} - Mude as configurações do grupo na aba configurações {nl} - Aplicar condições para pesquisar por membros na Lista de Grupos Pública{/}
+UI_20150317_000438	{@st43}Informações do Grupo{/}
+UI_20150317_000439	{@st41b}Membros{/}
+UI_20150317_000440	{@st41b}Eventos do Grupo{/}
+UI_20150317_000441	{@st41b}Config{/}
 UI_20150317_000442
 UI_20150317_000443
 UI_20150317_000444
@@ -455,14 +455,14 @@ UI_20150317_000454
 UI_20150317_000455
 UI_20150317_000456
 UI_20150317_000457
-UI_20150317_000458
-UI_20150317_000459
-UI_20150317_000460
-UI_20150317_000461
-UI_20150317_000462
-UI_20150317_000463
-UI_20150317_000464
-UI_20150317_000465
+UI_20150317_000458	{@st41b}Criar Grupo
+UI_20150317_000459	{@st43}Lista de Grupos Públicos{/}
+UI_20150317_000460	{@st59b}Lista de Grupos Públicos{nl}{@st59s}- Procure por grupos que você queira se juntar{nl}- Personalise a pesquisa para pesquisar pelo grupo que quer {/}
+UI_20150317_000461	{@st59}Fechar Lista de Grupos{/}
+UI_20150317_000462	Usar Procura
+UI_20150317_000463	Compart. de Missão
+UI_20150317_000464	Distribuição de Exp
+UI_20150317_000465	Distribuição de Item
 UI_20150317_000466
 UI_20150317_000467
 UI_20150317_000468
@@ -473,31 +473,31 @@ UI_20150317_000472
 UI_20150317_000473
 UI_20150317_000474
 UI_20150317_000475
-UI_20150317_000476
-UI_20150317_000477
-UI_20150317_000478
-UI_20150317_000479
-UI_20150317_000480
-UI_20150317_000481
-UI_20150317_000482
-UI_20150317_000483
-UI_20150317_000484
-UI_20150317_000485
-UI_20150317_000486
-UI_20150317_000487
-UI_20150317_000488
-UI_20150317_000489
-UI_20150317_000490
-UI_20150317_000491
-UI_20150317_000492
-UI_20150317_000493
-UI_20150317_000494
-UI_20150317_000495
-UI_20150317_000496
-UI_20150317_000497
-UI_20150317_000498
-UI_20150317_000499
-UI_20150317_000500
+UI_20150317_000476	{@st43}Informação do Mascote
+UI_20150317_000477	{@st59b}Informação do Mascote{nl}{@st59s} - Você pode configurar seu mascote para o modo Ativo ou Descanso usando o botão abaixo.{nl} - Os atributos e equipamentos do seu mascote podem ser personalizados.{/}
+UI_20150317_000478	{@st59}Fechar Informação do Mascote{/}
+UI_20150317_000479	{@st41b}Nome : {@sti9}%s{/}
+UI_20150317_000480	Amizade{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000481	EXP {@st41b} {/}
+UI_20150317_000482	{@st41b}Estamina{/}
+UI_20150317_000483	Intimidade {@st41b} {/}
+UI_20150317_000484	{@st41b}Atributos e Informações
+UI_20150317_000485	{@st43}Mascote{/}
+UI_20150317_000486	{@st59b}Mascote{nl}{@st59s}- Clique em um item na lista para ver mais informações.{/}
+UI_20150317_000487	{@st59}Fechar Mascote{/}
+UI_20150317_000488	{@st59}Fechar Janela de Ajuda{/}
+UI_20150317_000489	{@st59}Ajuda{nl} - Veja informações detalhadas e dicas. {nl} - Veja outros tópicos da Lista de Ajuda{/}
+UI_20150317_000490	{@st43}Ajuda{/}
+UI_20150317_000491	Tópicos de Ajuda
+UI_20150317_000492	{ol}{#AAAA00}{s16}Tempo Decorrido : %s
+UI_20150317_000493	{@st43}Jarro de Veneno{/}
+UI_20150317_000494	{@st59}Fechar Interface do Jarro de Veneno{/}
+UI_20150317_000495	{@st59}Precisa escrever{/}
+UI_20150317_000496	Quantidade de Veneno: %s
+UI_20150317_000497	Itens que podem ser utilizados para fabricar veneno
+UI_20150317_000498	Selecionar Todos
+UI_20150317_000499	Clique novamente para desselecionar tudo
+UI_20150317_000500	{memo X}Fabricando
 UI_20150317_000501	{memo X}misturar, mixar e misturar
 UI_20150317_000502	{@st43}Categoria{/}
 UI_20150317_000503	{@st43}Eu{/}
@@ -507,34 +507,34 @@ UI_20150317_000506	{@st43}Prata{/}
 UI_20150317_000507	{@st43}Grau{/}
 UI_20150317_000508	{@st43}Taxa de vitórias PvP{/}
 UI_20150317_000509	{@st59}Fechar Janela{/}
-UI_20150317_000510	{@sti5}Total da compra : %s{/}
-UI_20150317_000511	{@sti5}Quantidade total : %s{/}
+UI_20150317_000510	{@sti5}Total da Compra : %s{/}
+UI_20150317_000511	{@sti5}Quantidade Total : %s{/}
 UI_20150317_000512	{@st41b} Comprar
 UI_20150317_000513	{memo X}{@st43} Adquiriu ingredientes para fabricar itens!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Excluir tudo
 UI_20150317_000516	{memo X}{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combinação
-UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Quando você estiver numa nova quest, ela será adicionada ao registro de quests. {nl} - As quests principais aparecerão em amarelo, enquanto uma subquest aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da quest. {nl} - Se você completar uma quest, um ícone 'Retornar' irá aparecer no registro de quests. {nl} (Teleporta você para o NPC da quest através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova quests no registro de quest marcando ou desmarcando a caixa na frente do nome da quest. {/}
+UI_20150317_000518	{@st43}Missão{/}
+UI_20150317_000519	{@st59b}Missões{nl}{@st59s} - Quando você estiver numa nova missão, ela será adicionada ao registro de missões. {nl} - As missões principais aparecerão em amarelo, enquanto uma sub-missões aparecerá em azul. {nl} - A seta nos pés do personagem direcionará para o local da missão. {nl} - Se você completar uma missão, um ícone 'Retornar' irá aparecer no registro de missões. {nl} (Teleporta você para o NPC da missão através da tecla Backspace ou de um clique do mouse) {nl} - Adicione ou remova missões no registro de missões marcando ou desmarcando a caixa na frente do nome da missão. {/}
 UI_20150317_000520	{@st41b}Em Progresso{/}
 UI_20150317_000521	{@st41b}Abandonar{/}
-UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
+UI_20150317_000522	{@st43}{s22}Informações da Missão{/}
 UI_20150317_000523	Missão Completa
 UI_20150317_000524	{@st41}Completo{/}
-UI_20150317_000525	Informações de progressão da quest
-UI_20150317_000526	{s18}{ol}Informações da Quest
+UI_20150317_000525	Informações de Progressão da missão
+UI_20150317_000526	{s18}{ol}Informações da Missão
 UI_20150317_000527	{S16}Tempo restante
-UI_20150317_000528	Usar item de quest
-UI_20150317_000529	Dica da quest
+UI_20150317_000528	Usar item de missão
+UI_20150317_000529	Dica da missão
 UI_20150317_000530	{@st41}OK{/}
-UI_20150317_000531	{@st43}{s22}Quest Completa{/}
+UI_20150317_000531	{@st43}{s22}Missão Completa{/}
 UI_20150317_000532	{@st41b}Completo {/}
 UI_20150317_000533	{@st41}Aceitar{/}
 UI_20150317_000534	{@st41}Recusar{/}
 UI_20150317_000535	{@st44}Voltar{/}
-UI_20150317_000536	Para qual quest você gostaria de voltar?
-UI_20150317_000537	{memo X}{@st41b}Nome da classe da quest{/}
+UI_20150317_000536	Para qual missão você gostaria de voltar?
+UI_20150317_000537	{memo X}{@st41b}Nome da classe da missão{/}
 UI_20150317_000538	{@st59}Expandir slot {/}
 UI_20150317_000539	{@st59}Reduzir slot{/}
 UI_20150317_000540	{memo X}{@st59}Invocar Mascote{/}
@@ -590,8 +590,8 @@ UI_20150317_000589	Selecionar tudo
 UI_20150317_000590	{Gr gradation1}Reparar{/}
 UI_20150317_000591	{@st43}Reparar{/}
 UI_20150317_000592	{memo X}Lista de itens para reparo
-UI_20150317_000593	{@st41b}Custo do reparo{/}
-UI_20150317_000594	{@st41b}Balanço esperado{/}
+UI_20150317_000593	{@st41b}Custo do Reparo{/}
+UI_20150317_000594	{@st41b}Saldo Restante{/}
 UI_20150317_000595	{@st41b}Reparar equipamento{/}
 UI_20150317_000596	Reparar o equipamento selecionado.
 UI_20150317_000597	{@st59}Fechar reparo de item{/}
@@ -606,7 +606,7 @@ UI_20150317_000605	{memo X}{@st41b}Você está {/}{s20}{#cc6600}{ol} incapaz de 
 UI_20150317_000606	{memo X}{@st41b}Renascer no ponto de retorno mais próximo{/}
 UI_20150317_000607	{memo X}{@st41b} Renascer aqui (%s Moedas necessárias) {/}
 UI_20150317_000608	{memo X}{@st41b}Voltar ao campo{/}
-UI_20150317_000609	{memo X}{@st41b}Abandonar quest e recomeçar{/}
+UI_20150317_000609	{memo X}{@st41b}Abandonar missão e recomeçar{/}
 UI_20150317_000610	{memo X}{@st41b}Tentar novamente{/}
 UI_20150317_000611	Santuário da Ressurreição (70031)
 UI_20150317_000612	O item necessário está faltando.
@@ -619,18 +619,18 @@ UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}
 UI_20150317_000619	Por favor selecione um item
 UI_20150317_000620	{memo X}{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e entre com a quantidade para comprar mais de uma unidade {nl} - Clique com o botão direito duas vezes para vender tudo de uma vez{/}
 UI_20150317_000621	{@st59}Fechar loja{/}
-UI_20150317_000622	{@st59}Primeira página{/}
-UI_20150317_000623	{@st59}Próxima página{/}
-UI_20150317_000624	{@st59}Última página{/}
+UI_20150317_000622	{@st59}Primeira Página{/}
+UI_20150317_000623	{@st59}Próxima Página{/}
+UI_20150317_000624	{@st59}Última Página{/}
 UI_20150317_000625	{@st41b}Resetar{/}
-UI_20150317_000626	{@st59}Resetar carrinho de compras{/}
+UI_20150317_000626	{@st59}Resetar o Carrinho de Compras{/}
 UI_20150317_000627	{@st41b}Confirmar{/}
-UI_20150317_000628	{@st59}Confirmar transação{/}
+UI_20150317_000628	{@st59}Confirmar Transação{/}
 UI_20150317_000629	{@st43}Loja{/}
-UI_20150317_000630	{@st41b}Itens à comprar{/}
-UI_20150317_000631	{@st41b}Itens à vender{/}
+UI_20150317_000630	{@st41b}Itens à Comprar{/}
+UI_20150317_000631	{@st41b}Itens à Vender{/}
 UI_20150317_000632	{memo X}{@st41b}Preço{/}
-UI_20150317_000633	{memo X}{@st41b}Balanço{/}
+UI_20150317_000633	{memo X}{@st41b}Saldo Restante{/}
 UI_20150317_000634	{memo X}{@st41b}Meus itens vendidos{/}
 UI_20150317_000635	{@st41}Espaços vazios{/}
 UI_20150317_000636	{@st43}Total{/}
@@ -706,12 +706,12 @@ UI_20150317_000705	{@st41} Todos {/}
 UI_20150317_000706	{@st41} Grupo {/}
 UI_20150317_000707	{@st41} Monstro {/}
 UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Pontos de atributos restantes ▶ {@st46}%s
-UI_20150317_000709	{@st59b}Minhas informações{nl}{@st59s}- Atributos : Ganhe pontos subindo de level e os use para aprimorar 5 atributos. {nl}- Informação : Informação baseada nos atributos e equipamentos atuais {nl}- Título : Pode ser adquirido completando missões {nl} {/}
+UI_20150317_000709	{@st59b}Minhas Informações{nl}{@st59s}- Atributos : Ganhe pontos subindo de level e os use para aprimorar 5 atributos. {nl}- Informação : Informação baseada nos atributos e equipamentos atuais {nl}- Título : Pode ser adquirido completando missões {nl} {/}
 UI_20150317_000710	{@st41b}Informação{/}
 UI_20150317_000711	{memo X}{@st41b}Título{/}
 UI_20150317_000712	Mostrar classe
-UI_20150317_000713	Mostrar nome de personagem
-UI_20150317_000714	{@st59}Mudar nome do personagem{/}
+UI_20150317_000713	Mostrar Nome de Personagem
+UI_20150317_000714	{@st59}Mudar Nome do Personagem{/}
 UI_20150317_000715	{memo X}{@st41b}Aplicar
 UI_20150317_000716	{@st59}Usar pontos de atributos{/}
 UI_20150317_000717	{@st41b}Cancelar
@@ -723,17 +723,17 @@ UI_20150317_000722	{@st43}Efeitos de ataque{/}
 UI_20150317_000723	{@st43}Efeitos de defesa{/}
 UI_20150317_000724	{@st43}Status{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Informação do personagem (F1){/}
+UI_20150317_000726	{@st59}Informação do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classe e Habilidades (F3){/}
-UI_20150317_000729	{@st59}Jornal do Aventureiro (F4){/}
-UI_20150317_000730	{@st59}Quest (F5){/}
+UI_20150317_000729	{@st59}Diário do Aventureiro (F4){/}
+UI_20150317_000730	{@st59}Missão (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
-UI_20150317_000733	{@st59} Macro (F8) {/}
-UI_20150317_000734	{@st59} Mascote (F9) {/}
-UI_20150317_000735	{@st59} Ajuda (F10) {/}
-UI_20150317_000736	{@st59}Menu do sistema (Esc){/}
+UI_20150317_000733	{@st59}Macro (F8) {/}
+UI_20150317_000734	{@st59}Mascote (F9) {/}
+UI_20150317_000735	{@st59}Ajuda (F10) {/}
+UI_20150317_000736	{@st59}Menu do Sistema (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
 UI_20150317_000738	Ajuda(F1)
 UI_20150317_000739	Conteúdo
@@ -743,8 +743,8 @@ UI_20150317_000742	{@st43}Jogo{/}
 UI_20150317_000743	{memo X}{@st41b}Mostrar EXP adquirida{/}
 UI_20150317_000744	{memo X}{@st41b}Mostrar nome do personagem{/}
 UI_20150317_000745	{memo X}{@st41b} Mostrar apenas o nome do time {/}
-UI_20150317_000746	{memo X}{@st41b}Mostrar guia de quests{/}
-UI_20150317_000747	{@st43}Tela{/}
+UI_20150317_000746	{memo X}{@st41b}Mostrar guia de missões{/}
+UI_20150317_000747	{@st43}Resolução{/}
 UI_20150317_000748	{@st43}Gráficos{/}
 UI_20150317_000749	{memo X}{@st41b}Tela cheia{/}
 UI_20150317_000750	{memo X}{@st41b}Modo janela{/}
@@ -752,7 +752,7 @@ UI_20150317_000751	{@st43}Som{/}
 UI_20150317_000752	{memo X}{@st41b}Volume dos efeitos sonoros (%s){/}
 UI_20150317_000753	{memo X}{@st41b}Volume da música (%s){/}
 UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}
-UI_20150317_000755	{@ St43}{b}             Selecione o idioma {/}{/}
+UI_20150317_000755	{@st43}{b}Selecionar Idioma{/}
 UI_20150317_000756	{@st59}Fechar configurações{/}
 UI_20150317_000757	{memo X}Menor modo {@st41b} {/}
 UI_20150317_000758	{@st41b}Ver{/}
@@ -778,7 +778,7 @@ UI_20150317_000777	{@st53}- Clique no nome para assistir{nl}- Botão direito par
 UI_20150317_000778	Meu personagem como câmera
 UI_20150317_000779	{@st55_a}Parabéns!
 UI_20150317_000780	{@st42}Mudar câmera
-UI_20150317_000781	{@st44}Jornal do Aventureiro{/}
+UI_20150317_000781	{@st44}Diário do Aventureiro{/}
 UI_20150317_000782	{@st59}Mudar configurações de visualização{/}
 UI_20150317_000783	{@st41} Estatísticas {/}
 UI_20150317_000784	{@st41 }Fabricar {/}
@@ -937,18 +937,18 @@ UI_20150317_000936
 UI_20150317_000937
 UI_20150317_000938
 UI_20150317_000939
-UI_20150317_000940
-UI_20150317_000941
-UI_20150317_000942
-UI_20150317_000943
-UI_20150317_000944
-UI_20150317_000945
-UI_20150317_000946
-UI_20150317_000947
-UI_20150317_000948
+UI_20150317_000940	{@st59}Editar Propriedade{/}
+UI_20150317_000941	{@st42}Salvar{/}
+UI_20150317_000942	{@st59}Salvar{/}
+UI_20150317_000943	{@st44}Editar Propriedades de Tela{/}
+UI_20150317_000944	{@St59}Seleção de Personagem{/}
+UI_20150317_000945	{@St59}Deslogar{/}
+UI_20150317_000946	{@St59}Configurações{/}
+UI_20150317_000947	{@St59}Fechar{/}
+UI_20150317_000948	{@st43}Conf. do Alojamento{/}
 UI_20150317_000949
 UI_20150317_000950
-UI_20150317_000951	{@st59}Coloque o nome do time {/}
+UI_20150317_000951	{@st59}Coloque o nome do Time{/}
 UI_20150317_000952	{memo X}{@st59}Salvar nome do time{/}
 UI_20150317_000953	Esclusão provisória
 UI_20150317_000954	{@St59}Fechar Decoração da Barraca{/}
@@ -961,7 +961,7 @@ UI_20150317_000960	{@St41b}Status
 UI_20150317_000961	{@St44}Novo personagem{/}
 UI_20150317_000962	{@St41b}{s22}Selecione a classe do personagem{/}
 UI_20150317_000963	{@St41b}Voltar{/}
-UI_20150317_000964	{@St59}Voltar para o alojamento
+UI_20150317_000964	{@St59}Voltar para o Alojamento sem criar um personagem
 UI_20150317_000965	Mudar personagem
 UI_20150317_000966	{@St41}Personagem{/}
 UI_20150317_000967	{@St59}Rotação horária{/}
@@ -1127,21 +1127,21 @@ UI_20150317_001126
 UI_20150317_001127
 UI_20150317_001128
 UI_20150317_001129
-UI_20150317_001130
+UI_20150317_001130	Peso : %s
 UI_20150317_001131
 UI_20150317_001132
 UI_20150317_001133
-UI_20150317_001134
-UI_20150317_001135
+UI_20150317_001134	Inegóciavel
+UI_20150317_001135	Imutável
 UI_20150317_001136
 UI_20150317_001137
 UI_20150317_001138
 UI_20150317_001139
 UI_20150317_001140
 UI_20150317_001141
-UI_20150317_001142
-UI_20150317_001143
-UI_20150317_001144
+UI_20150317_001142	Nome do Item
+UI_20150317_001143	Preço de Venda : %s prata(s)
+UI_20150317_001144	Quanto
 UI_20150317_001145
 UI_20150317_001146
 UI_20150317_001147
@@ -1167,7 +1167,7 @@ UI_20150317_001166
 UI_20150317_001167
 UI_20150317_001168
 UI_20150317_001169
-UI_20150317_001170
+UI_20150317_001170	{@St41b}Mensagens{/}
 UI_20150317_001171
 UI_20150317_001172
 UI_20150317_001173
@@ -1215,7 +1215,7 @@ UI_20150317_001214
 UI_20150317_001215
 UI_20150317_001216
 UI_20150317_001217
-UI_20150317_001218
+UI_20150317_001218	{@St42b}Reiniciar{/}
 UI_20150317_001219
 UI_20150317_001220
 UI_20150317_001221
@@ -1256,7 +1256,7 @@ UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relação com o %s
-UI_20150317_001258	{#FFFF33}%s{/} quer ser seu amigo(a){/}
+UI_20150317_001258	{#FFFF33}%s{/} quer ser seu/sua amigo(a){/}
 UI_20150317_001259	{@St41b}Aceitar
 UI_20150317_001260	{@St41b}Recusar
 UI_20150317_001261	{@St53b}Carregando a sua lista de amigos.
@@ -1272,11 +1272,11 @@ UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Criação
 UI_20150317_001272	{@St41b}Preço : %s{/}
 UI_20150317_001273	{@Sti5}Preço : %s{/}
-UI_20150317_001274	{@Sti9} Quest de Grupo (%s){/}
+UI_20150317_001274	{@Sti9} Missão de Grupo (%s){/}
 UI_20150317_001275	{@st41_yellow} Média Explorada %s% {/}
 UI_20150317_001276	{@st41_yellow} Pontos %s {/}
 UI_20150317_001277	{@st42b}{b}Taxa de conquistas{/}
-UI_20150317_001278	{@st59}Juntar-se a quest de grupo{/}
+UI_20150317_001278	{@st59}Juntar-se a missão de grupo{/}
 UI_20150317_001279	Janelas
 UI_20150317_001280	Status
 UI_20150317_001281	Aba
@@ -1326,7 +1326,7 @@ UI_20150323_001324	INT
 UI_20150323_001325	DEX
 UI_20150323_001326	CRT
 UI_20150323_001327	{@st43}Colocar Loja{/}
-UI_20150323_001328	{@st41b}Configurações
+UI_20150323_001328	{@st41b}Configurar
 UI_20150323_001329	Preço por Unidade
 UI_20150323_001330	{@st41b}Lista de Materiais
 UI_20150323_001331	{@st43}Polir Gema{/}
@@ -1354,9 +1354,9 @@ UI_20150323_001352	{@st43}Seleção de Modo da UI{/}
 UI_20150323_001353	{@st43}Loja de Compras
 UI_20150323_001354	Nome da Loja
 UI_20150323_001355	{@st41b}Abrir Loja
-UI_20150323_001356	{@st59}Iniciar loja de compras{/}
+UI_20150323_001356	{@st59}Iniciar Loja de Compras{/}
 UI_20150323_001357	{@st59}Cancelar{/}
-UI_20150323_001358	{@st59}Fechar loja de compras{/}
+UI_20150323_001358	{@st59}Fechar Loja de Compras{/}
 UI_20150323_001359	Requisitar compra
 UI_20150323_001360	{@st59}Fechar loja de compras
 UI_20150323_001361	{@st59}Loja de compras{nl} - Troque seus itens por prata
@@ -1381,23 +1381,23 @@ UI_20150323_001379	{@sti6}Colocar ou retirar itens do armazém custa %s prata.{/
 UI_20150323_001380	{@st59}Alt+Z para trocar de arma{/}
 UI_20150323_001381	{@st59}Salvar configurações do Alojamento{/}
 UI_20150323_001382	Alterar alojamento
-UI_20150323_001383	{@st59}Fechar Janela do alojamento
+UI_20150323_001383	{@st59}Fechar Janela do Alojamento
 UI_20150323_001384	{@st59}Alterar alojamento{nl} - Altere o alojamento para alterar o mapa e expandir slots.
 UI_20150323_001385	{@st41}Cacelar Pré-Visualização
 UI_20150323_001386	{@st46}Minhas Moedas : %s{/}
 UI_20150323_001387	{@st41b}Alterar Alojamento{/}
-UI_20150323_001388	{@st59}Decorar alojamento{/}
+UI_20150323_001388	{@st59}Decorar Alojamento{/}
 UI_20150323_001389	{@st41b}Configurações do alojamento{/}
-UI_20150323_001390	{@st59}Alterar configurações do alojamento {/}
-UI_20150323_001391	{@st45ty}Cumprimentos do Personagem{/}
+UI_20150323_001390	{@st59}Alterar configurações do Alojamento{/}
+UI_20150323_001391	{@st45ty}Saudação do Personagem{/}
 UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Alterar
-UI_20150323_001394	{@st59}Alterar cumprimentos do personagem{/}
-UI_20150323_001395	{@st59}Colocar Loja de compras{/}
-UI_20150323_001396	Comprar quantidade. : %s{/}
+UI_20150323_001394	{@st59}Alterar Saudação do personagem{/}
+UI_20150323_001395	{@st59}Colocar Loja de Compras{/}
+UI_20150323_001396	Comprar Quantidade : %s{/}
 UI_20150323_001397	Procurar itens para compra
 UI_20150323_001398	Quantidade
-UI_20150323_001399	Preço unitário
+UI_20150323_001399	Preço Unit.
 UI_20150323_001400	{@sti5}%s cada{/}
 UI_20150323_001401	{@st41}Comer
 UI_20150323_001402	{@st41}Criar
@@ -1426,7 +1426,7 @@ UI_20150401_001424	{@st41}Vender tudo
 UI_20150401_001425	{@st43}Caixa de Ofertas
 UI_20150401_001426	Oferta
 UI_20150401_001427	Finalizar Transação
-UI_20150401_001428	Balanço estimado
+UI_20150401_001428	Total Estimado
 UI_20150401_001429	{@st45tw}Caixa de Ofertas
 UI_20150401_001430	{@st41}Vazio
 UI_20150401_001431	{@st43}Lista de usuários na Zona{/}
@@ -1435,13 +1435,13 @@ UI_20150401_001433	{@st41}Descrição do Grupo :
 UI_20150401_001434	{s20}Quantidade de Veneno {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materiais para Veneno
 UI_20150401_001436	{@st41b}Selecionar tudo{/}
-UI_20150401_001437	{@st59}Descelecionar tudo quando clicar denovo{/}
+UI_20150401_001437	{@st59}Desselecionar tudo quando clicar denovo{/}
 UI_20150401_001438	{@st41b}Criar{/}
 UI_20150401_001439	{@st59}Mistura, mistura, vira e mistura{/}
 UI_20150401_001440	{@st41b}Conquistas{/}
 UI_20150401_001441	Cor do Penteado
 UI_20150401_001442	Títulos Disponíveis
-UI_20150401_001443	{@st41b}Modo Interface{/}
+UI_20150401_001443	{@st41b}Modo Interface do Controle{/}
 UI_20150401_001444	{@st41}{#ffffcc}Nome
 UI_20150401_001445	{@st41}{#ffffcc}Preço
 UI_20150401_001446	{@st41}{#ffffcc}Status
@@ -1475,8 +1475,8 @@ UI_20150406_001473	{@st41b}Itens Disponíveis{/}
 UI_20150406_001474	{@st41b}Vendas Totais
 UI_20150406_001475	{@st41b}Vender
 UI_20150406_001476	{@st59}Vender o(s) Item(s) que você adicionou.{/}
-UI_20150406_001477	{@st59}Fechar Armazem{/}
-UI_20150406_001478	{@st41b} %s prata é consumida quando você usa o armazem.{/}
+UI_20150406_001477	{@st59}Fechar Armazém{/}
+UI_20150406_001478	{@st41b} %s prata é consumida quando você usa o armazém.{/}
 UI_20150406_001479	{@st41b}Quantidade
 UI_20150414_001480	{@st42b}A duração do seu acampamento pode ser aumentada.{nl} Custa %s Pratas .
 UI_20150414_001481	{@st41b}Tipo {@sti7}%s{/}
@@ -1521,7 +1521,7 @@ UI_20150428_001519	{@st59}Use o Teclado ou Joypad Para controlar a UI
 UI_20150428_001520	Usar procura de Grupos
 UI_20150428_001521	Quando um jogador corresponder às condições do seu grupo, a mensagem [Grupo correspondente encontrado!] será mostrada.
 UI_20150428_001522	{@st41}Estilo de Jogo{/}
-UI_20150428_001523	Quest
+UI_20150428_001523	Missão
 UI_20150428_001524	Caça
 UI_20150428_001525	Eventos
 UI_20150428_001526	{@st41}Diferença de Level{/}
@@ -1535,7 +1535,7 @@ UI_20150428_001533	{@st45ty}Cor do Penteado
 UI_20150428_001534	{@st45ty}Titulo Disponível
 UI_20150428_001535	{@st41_yellow}Auxiliar de Habilidades
 UI_20150428_001536	{@st41b}Mostrar o nome de outros personagens{/}
-UI_20150428_001537	{@st43}Modo da UI{/}
+UI_20150428_001537	{@st43}Modo da Interface{/}
 UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Joypad{/}
 UI_20150428_001540	{@st41b}Teclado{/}
@@ -1543,9 +1543,9 @@ UI_20150428_001541	Joypad
 UI_20150428_001542	{@st59}Info do Joypad{/}
 UI_20150428_001543	Teclado
 UI_20150428_001544	{@st59}Info do Teclado{/}
-UI_20150428_001545	{@st43}Configurações Gráficas{/}
-UI_20150428_001546	{@st43}Performance{/}
-UI_20150428_001547	{@st41b}Modo de Baixa Performance{/}
+UI_20150428_001545	{@st43}Conf Gráficas{/}
+UI_20150428_001546	{@st43}Desempenho{/}
+UI_20150428_001547	{@st41b}Modo de Baixo Desempenho{/}
 UI_20150428_001548	{@st41b}Auto Ajustar{/}
 UI_20150428_001549	{@st41b}Não usar{/}
 UI_20150428_001550	FAQ do Jogo
@@ -1565,10 +1565,10 @@ UI_20150714_001563
 UI_20150714_001564
 UI_20150714_001565
 UI_20150714_001566
-UI_20150714_001567
+UI_20150714_001567	{@st59b}Equipamentos {nl}{@st59s} - Cabelo/#pending Costume : Alterar aparencia do personagem {nl} - Armas : Armas de uma ou duas mãos {nl}    (Sub-Armas/Escudos pode ser usados em uma das mãos) {nl} - Equipamentos : Topo, Calças, Luvas, Sapatos {nl} - Accessórios : 1 Colar e 2 Braceletes {nl} {/}
 UI_20150714_001568
 UI_20150714_001569
-UI_20150714_001570
+UI_20150714_001570	{@st66}Selecionar Tudo
 UI_20150714_001571
 UI_20150714_001572
 UI_20150714_001573
@@ -1584,27 +1584,27 @@ UI_20150714_001582
 UI_20150714_001583
 UI_20150714_001584
 UI_20150714_001585
-UI_20150714_001586
-UI_20150714_001587
-UI_20150714_001588
-UI_20150714_001589
-UI_20150714_001590
-UI_20150714_001591
-UI_20150714_001592
-UI_20150714_001593
-UI_20150714_001594
-UI_20150714_001595
-UI_20150714_001596
-UI_20150714_001597
-UI_20150714_001598
-UI_20150714_001599
-UI_20150714_001600
-UI_20150714_001601
-UI_20150714_001602
-UI_20150714_001603
-UI_20150714_001604
-UI_20150714_001605
-UI_20150714_001606
+UI_20150714_001586	{@st42}Dif. de lvl{/}
+UI_20150714_001587	Qualquer
+UI_20150714_001588	{memo X}{@st42}Tipo da Classe{/}
+UI_20150714_001589	{memo X}{@st42}Nome do Grupo : %s{/}
+UI_20150714_001590	{memo X}{@st42}Descrição{/}
+UI_20150714_001591	{memo X}{@st42}Entrar{/}
+UI_20150714_001592	{@st42}Prioridade do Item
+UI_20150714_001593	{@st42}Prioridade da EXP
+UI_20150714_001594	EXP Individual
+UI_20150714_001595	EXP Igual
+UI_20150714_001596	Por Level
+UI_20150714_001597	{@st42}Compartilhamento da Missão
+UI_20150714_001598	Desabilitado
+UI_20150714_001599	{@st42}Grupo Público{/}
+UI_20150714_001600	{memo X}Level
+UI_20150714_001601	{@st42}Usar 'Grupo Recomendado'{/}
+UI_20150714_001602	Por Distância
+UI_20150714_001603	Por Classe
+UI_20150714_001604	Por Level
+UI_20150714_001605	Por Missão
+UI_20150714_001606	Por Proximidade
 UI_20150714_001607
 UI_20150714_001608
 UI_20150714_001609
@@ -1612,46 +1612,46 @@ UI_20150714_001610
 UI_20150714_001611
 UI_20150714_001612
 UI_20150714_001613
-UI_20150714_001614
+UI_20150714_001614	{@st59}Procurar por Nome ou Descrição do Grupo{/}
 UI_20150714_001615
-UI_20150714_001616
-UI_20150714_001617
-UI_20150714_001618
+UI_20150714_001616	{@st43}Caixa de Mensagem
+UI_20150714_001617	{@st41b}Todas
+UI_20150714_001618	{@st41b}Não Lidas
 UI_20150714_001619
 UI_20150714_001620
-UI_20150714_001621
+UI_20150714_001621	{@st66}Itens precisando de reparos
 UI_20150714_001622
 UI_20150714_001623
-UI_20150714_001624
-UI_20150714_001625
+UI_20150714_001624	{@st59}Fechar Habilidades & Atributos{/}
+UI_20150714_001625	{@st43}Habilidades & Atributos{/}
 UI_20150714_001626
-UI_20150714_001627
+UI_20150714_001627	Curtidas Recebidas: %s
 UI_20150714_001628
-UI_20150714_001629
-UI_20150714_001630
-UI_20150714_001631
-UI_20150714_001632
-UI_20150714_001633
-UI_20150714_001634
-UI_20150714_001635
-UI_20150714_001636
-UI_20150714_001637
-UI_20150714_001638
-UI_20150714_001639
-UI_20150714_001640
-UI_20150714_001641
-UI_20150714_001642
-UI_20150714_001643
-UI_20150714_001644
-UI_20150714_001645
-UI_20150714_001646
-UI_20150714_001647
-UI_20150714_001648
-UI_20150714_001649
-UI_20150714_001650
-UI_20150714_001651
-UI_20150714_001652
-UI_20150714_001653
+UI_20150714_001629	{@st66b}Mostrar Nome do Personagem{/}
+UI_20150714_001630	{@st66b}Mostrar apenas Nome do Time{/}
+UI_20150714_001631	{@st66b}Mostrar Nome de Jogadores{/}
+UI_20150714_001632	{@st66b}Auto{/}
+UI_20150714_001633	{@st66b}Controle{/}
+UI_20150714_001634	{@st66b}Teclado{/}
+UI_20150714_001635	{@st66b}Mouse{/}
+UI_20150714_001636	{@st66b}Tela Cheia{/}
+UI_20150714_001637	{@st66b}Modo Janela{/}
+UI_20150714_001638	{@st66b}Volume dos Efeitos Sonoros (%s){/}
+UI_20150714_001639	{@st66b}Volume BGM (%s){/}
+UI_20150714_001640	{@st66b}Volume (%s){/}
+UI_20150714_001641	{@st66b}Baixo Desempenho{/}
+UI_20150714_001642	{@st66b}Automático{/}
+UI_20150714_001643	{@st66b}Não Usar{/}
+UI_20150714_001644	{@st66b}Aplicar Bloom{/}
+UI_20150714_001645	{@st66b}Aplicar Vinheta{/}
+UI_20150714_001646	{@st66b}Aplicar FXAA{/}
+UI_20150714_001647	{@st66b}Aplicar Brilho{/}
+UI_20150714_001648	{@st66b}Aplicar Profundidade{/}
+UI_20150714_001649	{@st66b}Aplicar Partícula Macia{/}
+UI_20150714_001650	{@st66b}Aplicar Textura de Alta Qualidade{/}
+UI_20150714_001651	{@st66b}Sinc Vertical On{/}
+UI_20150714_001652	{@st66b}Sinc Vertical Off{/}
+UI_20150714_001653	{@st66b} %s prata é consumida quando você usa o armazém.{/}
 UI_20150714_001654
 UI_20150714_001655
 UI_20150714_001656
@@ -1662,16 +1662,16 @@ UI_20150714_001660
 UI_20150714_001661
 UI_20150714_001662
 UI_20150714_001663
-UI_20150714_001664
-UI_20150714_001665
-UI_20150714_001666
-UI_20150714_001667
-UI_20150714_001668
+UI_20150714_001664	{@st41b}Retorne a zona em apenas %s segundos...{/}
+UI_20150714_001665	{@st59}Abrir a caixa de mensagem{/}
+UI_20150714_001666	{@st42}Alterar Alojamento{/}
+UI_20150714_001667	{@st42}Conf. Alojamento{/}
+UI_20150714_001668	{@st65}% Pontos{/}
 UI_20150714_001669
 UI_20150714_001670
 UI_20150714_001671
 UI_20150714_001672
-UI_20150714_001673
+UI_20150714_001673	{#000000}%s segs
 UI_20150714_001674
 UI_20150714_001675
 UI_20150714_001676
@@ -1686,10 +1686,10 @@ UI_20150714_001684
 UI_20150714_001685
 UI_20150714_001686
 UI_20150714_001687
-UI_20150714_001688
-UI_20150714_001689
-UI_20150714_001690
-UI_20150714_001691
+UI_20150714_001688	Saudação do Personagem
+UI_20150714_001689	Loja de Compra
+UI_20150714_001690	×%s
+UI_20150714_001691	{@41b}Condições
 UI_20150714_001692
 UI_20150714_001693
 UI_20150717_001694
@@ -1698,7 +1698,7 @@ UI_20150717_001696
 UI_20150717_001697
 UI_20150717_001698
 UI_20150717_001699
-UI_20150717_001700
+UI_20150717_001700	Seu movimento diminui quando você não tem {@st59}#pending STA{/} suficiente{/}
 UI_20150717_001701	{@st59}Organizar Inventário{/}
 UI_20150717_001702	{memo X}Organizar
 UI_20150717_001703	{@st59}Fechar informações de controle do Joypad.{/}
@@ -1713,14 +1713,14 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42}{b}A classe espadachim e suas evoluções podem correr ao pressionar duas vezes as setas de movimento{/}
-UI_20150717_001715	{@st42}Nome e descrição do Grupo{/}
-UI_20150717_001716	{@st42}Inserir tag do grupo
-UI_20150717_001717	{@st41b}Lista pública de grupos{/}
+UI_20150717_001715	{@st42}Nome e Descrição do Grupo{/}
+UI_20150717_001716	{@st42}Inserir Marcação de Convite
+UI_20150717_001717	{@st41b}Lista de Grupos Públicos{/}
 UI_20150717_001718	{memo X}{@st41b}Lista de Personagens Recomendados{/}
 UI_20150717_001719	{@st41b}Receber Recomendação
 UI_20150717_001720	Pode ser usado apenas por lideres de grupo.
 UI_20150717_001721	Você precisa usar a função de recomendação de membros para grupo.
-UI_20150717_001722	{@st66b}Quest Classe Nome{/}
+UI_20150717_001722	{@st66b}Missão Classe Nome{/}
 UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Botão direito do mouse e entre a quantidade que deseja comprar/vender{nl} - Pressione o botão direito do mouse duas vezes para vender todos os itens{/}
 UI_20150717_001724	{@st59}Informações do Mouse{/}
 UI_20150717_001725	{@st66b}Organizar
@@ -1740,14 +1740,14 @@ UI_20150729_001738	{@st59b}Criação de itens{nl}{@st59s} - Você pode criar ite
 UI_20150729_001739	{@st59}Fechar criação de flechas.{/}
 UI_20150729_001740	{memo X}Fragmentos Necessários : Mutante %s / Besta %s / Planta %s
 UI_20150729_001741	{@st42b}Espadachins e evoluções podem correr clicando duas vezes nas setas.{/}
-UI_20150729_001742	{@st41}Opções de grupo
-UI_20150729_001743	{@st41}Opções de recrutamento do grupo
-UI_20150729_001744	{@st42}Função de localização de grupos{/}
+UI_20150729_001742	{@st41}Opções do Grupo
+UI_20150729_001743	{@st41}Opções de Recrutamento do Grupo
+UI_20150729_001744	{@st42}Função de Localização de Grupos{/}
 UI_20150729_001745	Quando um jogador corresponde os critérios determinados, a mensagem [Jogador Encontrado!] será mostrada.
-UI_20150729_001746	{@st41b}Lista de jogadores recomendados{/}
-UI_20150729_001747	{@st41}Informações dos atributos
-UI_20150729_001748	{@st59}Cancelar aprimoramento{/}
-UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de quest podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
+UI_20150729_001746	{@st41b}Jogadores Recomendados{/}
+UI_20150729_001747	{@st41}Informação dos Atributos
+UI_20150729_001748	{@st59}Cancelar Aprimoramento{/}
+UI_20150729_001749	{@st59b}Aprimoramento de Gema/Carta{nl}{@st59s} - Selecione Gema ou Carta para aprimorar no seu inventário{nl} - Todos os itens exceto itens de missão podem ser usados como material de criação{nl} (Mais efetivo quando usando gemas como material){nl} - Cartas só podem ser aprimoradas usando outras cartas{/}
 UI_20150729_001750	{memo X}{#000000}{s22}Fila do Servidor
 UI_20150729_001751	{memo X}{#000000}{s22}Servidor cheio. Entrando na Fila.
 UI_20150729_001752	{memo X}{#000000}{s22}Posição atual : %s
@@ -1776,7 +1776,7 @@ UI_20150807_001774	{memo X}
 UI_20150918_001775	Duração do acampamento
 UI_20150918_001776	Efeito
 UI_20150918_001777	A duração do acampamento aumenta quando é renovado{nl} Requer %s moedas de prata.
-UI_20150918_001778	Armazem pessoal
+UI_20150918_001778	Armazém pessoal
 UI_20150918_001779	{@st41b}Tipo : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Dificuldade : {@sti7}%s{/}
 UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Jogadores parecidos com este personagem
@@ -1798,11 +1798,11 @@ UI_20150918_001796	{@st66b}{s20}Você se tornou {/}{s20}{#cc6600}{ol}Incapaz de 
 UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais próximo{/}
 UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s iCoins){/}
 UI_20150918_001799	{@st66b}Retornar ao campo{/}
-UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}
-UI_20150918_001801	{@st66b}Tentar denovo{/}
-UI_20150918_001802	{@st66b}Itens vendidos{/}
-UI_20150918_001803	{@st53}Pontos do rank : %s
-UI_20150918_001804	Total inegociável : %s
+UI_20150918_001800	{@st66b}Abandonar a missão e tentar novamente{/}
+UI_20150918_001801	{@st66b}Tentar novamente{/}
+UI_20150918_001802	{@st66b}Itens Vendidos Recentemente{/}
+UI_20150918_001803	{@st53}Pontos do Rank : %s
+UI_20150918_001804	Inegociáveis : %s
 UI_20150918_001805	{@st42b}Checar Diálogo{/}
 UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}
 UI_20150918_001807	{@st41b}Alterar título
@@ -1814,9 +1814,9 @@ UI_20151001_001812	{@st45tw2}Categoria
 UI_20151001_001813	Ação
 UI_20151001_001814	Restaurar padrões
 UI_20151016_001815	{@st59}O item selecionado será bloqueado{/}
-UI_20151016_001816	{@st59}Você pode escolher e avaliar outros tipos de alojamentos antes de compra-los.
-UI_20151016_001817	%s Personagens{/}
-UI_20151016_001818	{@st42b}Checar
+UI_20151016_001816	{@st59}Você pode mudar o tema do seu alojamento e visualizá-lo.
+UI_20151016_001817	%s Person.{/}
+UI_20151016_001818	{@st42b}Visualizar
 UI_20151016_001819	{@st42b}Voltar
 UI_20151016_001820	{@st42b}Comprar
 UI_20151016_001821	{@st42b}Aplicar
