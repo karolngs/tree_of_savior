@@ -1499,28 +1499,28 @@ SKILL_20150317_001498	{memo X}{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na
 SKILL_20150317_001499	{memo X}Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
 SKILL_20150317_001500	{memo X}Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
 SKILL_20150317_001501	
-SKILL_20150317_001502
-SKILL_20150317_001503
+SKILL_20150317_001502 Estátua da Deusa Zemyna
+SKILL_20150317_001503 Esculpe a estátua da Deusa Zemyna. O consumo de SP dos membros do grupo diminuí quando próximo a estátua.
 SKILL_20150317_001504
-SKILL_20150317_001505
-SKILL_20150317_001506
-SKILL_20150317_001507
-SKILL_20150317_001508
-SKILL_20150317_001509
-SKILL_20150317_001510
-SKILL_20150317_001511
-SKILL_20150317_001512
-SKILL_20150317_001513
-SKILL_20150317_001514
-SKILL_20150317_001515
-SKILL_20150317_001516
-SKILL_20150317_001517
-SKILL_20150317_001518
-SKILL_20150317_001519
-SKILL_20150317_001520
-SKILL_20150317_001521
-SKILL_20150317_001522
-SKILL_20150317_001523
+SKILL_20150317_001505 Estátua da Deusa Laima
+SKILL_20150317_001506 Esculpe a estátua da Deusa Laima. O Splash dos membros do grupo ao redor da estátua é aumentado.
+SKILL_20150317_001507 Splash +#{CaptionRatio}# {nl}30 segundos de duração da estátua {nl} Usa 5 madeiras de cedro
+SKILL_20150317_001508 Esculpe
+SKILL_20150317_001509 {#DD5500}{ol}[Físico] - [Perfura]{/}{/}{nl}Ataca o alvo usando o Estilete. Monstros tipo planta recebem bônus de dano adicional e podem soltam materiais da estátua.
+SKILL_20150317_001510 Ataque #{SkillAtkAdd}#{nl}Dano Adicional +#{CaptionRatio}#
+SKILL_20150317_001511 Esculpe a Coruja
+SKILL_20150317_001512 {#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Invoca a estátua da coruja para atacar alvos localizados à frente.
+SKILL_20150317_001513 Ataque #{SkillAtkAdd}#{nl}Defesa #{CaptionRatio}# vezes{nl}Duração #{CaptionTime}# segundos{nl} Usa 2 carvalhos
+SKILL_20150317_001514 Esculpe a Árvore do Mundo
+SKILL_20150317_001515 
+SKILL_20150317_001516 
+SKILL_20150317_001517 Fora do corpo
+SKILL_20150317_001518 
+SKILL_20150317_001519 
+SKILL_20150317_001520 
+SKILL_20150317_001521 
+SKILL_20150317_001522 
+SKILL_20150317_001523 Possessão
 SKILL_20150317_001524
 SKILL_20150317_001525
 SKILL_20150317_001526
