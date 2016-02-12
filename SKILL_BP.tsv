@@ -198,7 +198,7 @@ SKILL_20150317_000197	[Bagworm] Mágico, Mágico, Propriedade Veneno, Ataque Ven
 SKILL_20150317_000198	[Bagworm] Longa Distância, Mágico, Propriedade Veneno, Tiro Venenoso a Distância
 SKILL_20150317_000199	[Saurman Guerreiro] Ataque Normal.
 SKILL_20150317_000200	[Saurman Guerreiro] Ataque Normal 2.
-SKILL_20150317_000201	$Curar
+SKILL_20150317_000201	Curar
 SKILL_20150317_000202	Cura de Monstro
 SKILL_20150317_000203	Ataque do Vubbe Miner
 SKILL_20150317_000204	[Pokubu Selvagem] Ataque Normal.
@@ -769,41 +769,41 @@ SKILL_20150317_000768	[Lutador Vubbe Vermelho] Invocar monstros de Propriedade F
 SKILL_20150317_000769	[Corrompidor] Perfuração Física Sombria
 SKILL_20150317_000770	[Carnivore] invocar Monstro
 SKILL_20150317_000771	[Baleia de Pedra] invocar Monstro
-SKILL_20150317_000772	$[Mestre Paladino] Ataque Normal
-SKILL_20150317_000773	$[Mestre Sacerdote] Ataque Normal
-SKILL_20150317_000774	$[Mestre Caçador] Ataque Normal
-SKILL_20150317_000775	$[Mestre Krivis] Ataque Normal
-SKILL_20150317_000776	$[Mestre Barbaro] Ataque Normal
-SKILL_20150317_000777	$[Mestre Linker] Ataque Normal
-SKILL_20150317_000778	$[Mestre Wugushi] Ataque Normal
-SKILL_20150317_000779	$[Mestre Sadhu] Ataque Normal
-SKILL_20150317_000780	$[Mestre Rodelero] Ataque Normal
-SKILL_20150317_000781	$[Mestre Escoteiro] Ataque Normal
-SKILL_20150317_000782	$[Mestre Rogue] Ataque Normal
-SKILL_20150317_000783	$[Mestre Monge] Ataque Normal
-SKILL_20150317_000784	$[Mestre Oraclo] Ataque Normal
-SKILL_20150317_000785	$[Mestre Druida] Ataque Normal
-SKILL_20150317_000786	$Ataque Básico
-SKILL_20150317_000787	$Ataca um inimigo à curta distância.
-SKILL_20150317_000788	$Arco de Mão Direita (Apenas Arcos de Duas Mãos)
-SKILL_20150317_000789	$Inflige dano ao manusear sua arma contra um inimigo à curta distância.
-SKILL_20150317_000790	$Ataca um inimigo com magia à longa distância.
-SKILL_20150317_000791	$Ataca um inimigo à curta distância(Apenas Espada de duas mãos de Guerreiros)
-SKILL_20150317_000792	$Ataca um inimigo com magia à longa distância(Cajado de duas mãos)
-SKILL_20150317_000793	$Adaga Perfurante
-SKILL_20150317_000794	$Ataca um inimigo a curta distância. O inimigo é empurrado para trás quando acertado um certo número de vezes.
+SKILL_20150317_000772	[Mestre Paladino] Ataque Normal
+SKILL_20150317_000773	[Mestre Sacerdote] Ataque Normal
+SKILL_20150317_000774	[Mestre Caçador] Ataque Normal
+SKILL_20150317_000775	[Mestre Krivis] Ataque Normal
+SKILL_20150317_000776	[Mestre Barbaro] Ataque Normal
+SKILL_20150317_000777	[Mestre Linker] Ataque Normal
+SKILL_20150317_000778	[Mestre Wugushi] Ataque Normal
+SKILL_20150317_000779	[Mestre Sadhu] Ataque Normal
+SKILL_20150317_000780	[Mestre Rodelero] Ataque Normal
+SKILL_20150317_000781	[Mestre Escoteiro] Ataque Normal
+SKILL_20150317_000782	[Mestre Rogue] Ataque Normal
+SKILL_20150317_000783	[Mestre Monge] Ataque Normal
+SKILL_20150317_000784	[Mestre Oraclo] Ataque Normal
+SKILL_20150317_000785	[Mestre Druida] Ataque Normal
+SKILL_20150317_000786	Ataque Básico
+SKILL_20150317_000787	Ataca um inimigo à curta distância.
+SKILL_20150317_000788	Arco de Mão Direita (Apenas Arcos de Duas Mãos)
+SKILL_20150317_000789	Inflige dano ao manusear sua arma contra um inimigo à curta distância.
+SKILL_20150317_000790	Ataca um inimigo com magia à longa distância.
+SKILL_20150317_000791	Ataca um inimigo à curta distância(Apenas Espada de duas mãos de Guerreiros)
+SKILL_20150317_000792	Ataca um inimigo com magia à longa distância(Cajado de duas mãos)
+SKILL_20150317_000793	Adaga Perfurante
+SKILL_20150317_000794	Ataca um inimigo a curta distância. O inimigo é empurrado para trás quando acertado um certo número de vezes.
 SKILL_20150317_000795	Som dos sonhos
 SKILL_20150317_000796	Guarda Chuva Sombrio
-SKILL_20150317_000797	$Em Desenvolvimento
-SKILL_20150317_000798	$Habilidade de Itens
-SKILL_20150317_000799	$Ataque Corrido
+SKILL_20150317_000797	Em Desenvolvimento
+SKILL_20150317_000798	Habilidade de Itens
+SKILL_20150317_000799	Ataque Corrido
 SKILL_20150317_000800	Está uma a versão básica do ataque corrido
 SKILL_20150317_000801	Zaibas
-SKILL_20150317_000802	{memo X}Lv.1 Ataque Médio #{SkillFactor}#, Espalhar #{SkillSR}#
-SKILL_20150317_000803	$Básico
-SKILL_20150317_000804	$Ataque Básico 2
-SKILL_20150317_000805	$Arco Mão Esquerda
-SKILL_20150317_000806	$Arco Mão Direita (Apenas Bestas)
+SKILL_20150317_000802	Lv.1 Ataque Médio #{SkillFactor}#, Espalhar #{SkillSR}#
+SKILL_20150317_000803	Básico
+SKILL_20150317_000804	Ataque Básico 2
+SKILL_20150317_000805	Arco Mão Esquerda
+SKILL_20150317_000806	Arco Mão Direita (Apenas Bestas)
 SKILL_20150317_000807	Teste_Público 1
 SKILL_20150317_000808	Malícia 1
 SKILL_20150317_000809	Teste_Público 2
@@ -814,15 +814,15 @@ SKILL_20150317_000813	Teste_Público 4
 SKILL_20150317_000814	Malícia 4
 SKILL_20150317_000815	Teste_Público 5
 SKILL_20150317_000816	Malícia 5
-SKILL_20150317_000817	{memo X}Gelo paster
-SKILL_20150317_000818	{memo X}{#993399}{ol}[Magia] - [Gelo] - [Impacto]{/}{/}{nl}Invoca uma bola de gelo enorme que inflige dano à inimigos próximos.
-SKILL_20150317_000819	{memo X}Ataque #{SkillAtkAdd}# {nl} Espalhar #{CaptionRatio}# {nl} Duração #{CaptionTime}# segundos
-SKILL_20150317_000820	$Hoplite
-SKILL_20150317_000821	$Em Desenvolvimento
-SKILL_20150317_000822	{memo X}Ataque + #{SkillFactor}# , Espalhar #{SkillSR}# {nl}Consumo #{SpendSP}# SP
-SKILL_20150317_000823	$Guarda
+SKILL_20150317_000817	Gelo paster
+SKILL_20150317_000818	{#993399}{ol}[Magia] - [Gelo] - [Impacto]{/}{/}{nl}Invoca uma bola de gelo enorme que inflige dano à inimigos próximos.
+SKILL_20150317_000819	Ataque #{SkillAtkAdd}# {nl} Espalhar #{CaptionRatio}# {nl} Duração #{CaptionTime}# segundos
+SKILL_20150317_000820	Hoplite
+SKILL_20150317_000821	Em Desenvolvimento
+SKILL_20150317_000822	Ataque + #{SkillFactor}# , Espalhar #{SkillSR}# {nl}Consumo #{SpendSP}# SP
+SKILL_20150317_000823	Guarda
 SKILL_20150317_000824	Bloqueia o ataque de um inimigo com o escudo [Pontos de bloqueio 150]
-SKILL_20150317_000825	$Média de Ataque Físico: +#{SkillFactor}# + #{SkillAtkAdd}#
+SKILL_20150317_000825	Média de Ataque Físico: +#{SkillFactor}# + #{SkillAtkAdd}#
 SKILL_20150317_000826	[Carta Golem] Impacto Físico Neutro
 SKILL_20150317_000827	[Carta Mushcaria] Impacto Físico de Propriedade Veneno
 SKILL_20150317_000828	[Carta Rocktortuga] Impacto Físico Neutro
@@ -853,7 +853,7 @@ SKILL_20150317_000852	[Carta Throneweaver] Impacto Mágico Venenoso
 SKILL_20150317_000853	[Carta Biteregina] Perfuração Física Neutra
 SKILL_20150317_000854	[Carta Chapparition] Magia Sombria
 SKILL_20150317_000855	[Carta Mummyghast] Magia Física Sombria
-SKILL_20150317_000856	$Sopro de Gelo
+SKILL_20150317_000856	Sopro de Gelo
 SKILL_20150317_000857	[Carta Ironbaum] Impacto Físico de Propriedade Fogo
 SKILL_20150317_000858	[Carta Gorgon] Perfuração Mágica Sombria
 SKILL_20150317_000859	[Carta Drapeliun] Perfuração Física Sombria
@@ -917,587 +917,587 @@ SKILL_20150317_000916	[Carta Helgasercle] Corte Físico Sombrio
 SKILL_20150317_000917	[Carta Yekub] Impacto Mágico Sombrio
 SKILL_20150317_000918	[Escudo Físico] Magia Neutra
 SKILL_20150317_000919	[Carta Sparnasman] Magia Fisica Neutra
-SKILL_20150317_000920	$Estocada
-SKILL_20150317_000921	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Perfura e empurra o inimigo.
-SKILL_20150317_000922	{memo X}Ataque #{SkillAtkAdd}#{nl}Cortante #{SkillSR}#
-SKILL_20150317_000923	$Golpe
-SKILL_20150317_000924	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Inflige dano no alvo ao manejar fortemente sua arma.
-SKILL_20150317_000925	$Gung Ho
-SKILL_20150317_000926	{memo X}Aumenta o seu ataque, mas díminui a sua defesa.
-SKILL_20150317_000927	$Dano Físico: +#{CaptionRatio}#{nl}Defesa Física: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_000928	$Concentração
-SKILL_20150317_000929	{memo X}$Aumenta o poder das suas habilidades de ataque.
-SKILL_20150317_000930	$Dano Adicional: +#{CaptionRatio2}#{nl}Número de Acertos: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_000931	$Coibir
-SKILL_20150317_000932	{memo X}Díminui o seu HP máximo, mas aumenta o seu ataque.
-SKILL_20150317_000933	{memo X}Ataque Físico + #{CaptionRatio}#{nl}HP Máximo - #{CaptionRatio2}# {nl} Duração #{CaptionTime}# segundos
-SKILL_20150317_000934	$Golpe Umbo
-SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca colidindo o seu escudo. {nl} Inflige mais dano após bloquear um ataque inimigo.
-SKILL_20150317_000936	$Golpe de Rebordo
-SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca usando a borda do seu escudo. {nl} Inflige mais dano em monstros congelados ou petrificados.
-SKILL_20150317_000938	$Provocar
-SKILL_20150317_000939	{memo X}$Bate no seu escudo para provocar inimigos próximos.
-SKILL_20150317_000940	$Alvos: #{SkillSR}#{nl}Provações Máximas: +#{CaptionRatio}# por #{CaptionTime}# segundos
-SKILL_20150317_000941	{memo X}Díminui o seu ataque, mas aumenta a sua defesa.
-SKILL_20150317_000942	$Defesa Física: +#{CaptionRatio}#{nl}Dano Físico: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_000943	$Arremessar Escudo
-SKILL_20150317_000944	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Arremessa o seu escudo no inimigo causando dano.
-SKILL_20150317_000945	$Aprimorar Defesa
-SKILL_20150317_000946	$Borboleta
-SKILL_20150317_000947	$Roda de Vagão
-SKILL_20150317_000948	{memo X}{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Executa um ataque que lança seus inimigos no ar.
-SKILL_20150317_000949	$Pulverizar
-SKILL_20150317_000950	{memo X}$ {#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Concentra o seu poder para esmagar seus inimigos contra o chão.
-SKILL_20150317_000951	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de conjuração 0.5 segundos{nl}Espalhado #{SkillSR}#
-SKILL_20150317_000952	$Trauma
-SKILL_20150317_000953	{memo X}{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Realiza um forte ataca esmagando a cabeça do inimigo. Díminui a INT e o SPR do inimigo temporariamente.
-SKILL_20150317_000954	{memo X}Ataque #{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl}{#339999}{ol}[Choque]{/}{/} Duração #{CaptionTime}# segundos
-SKILL_20150317_000955	$Guarda Cruzada
-SKILL_20150317_000956	{memo X}Use a sua arma para se defender.
-SKILL_20150317_000957	$Defesa: +#{CaptionRatio}#{nl}Bloqueio: +#{CaptionRatio2}#
-SKILL_20150317_000958	$Molinete
-SKILL_20150317_000959	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Executa 5 ataques consecutivos à frente.
-SKILL_20150317_000960	$Perfuração
-SKILL_20150317_000961	{memo X}${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Ataca o inimigo consecutivamente.
-SKILL_20150317_000962	$Perfurar
-SKILL_20150317_000963	{memo X}${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Perfura fortemente o inimigo inflingindo dano.{nl} Um bônus de ataque será aplicado dependendo do tamanho do inimigo.
-SKILL_20150317_000964	{memo X}Ataque #{SkillAtkAdd}#{nl}Dois ataques em alvos médios{nl}Três ataques em alvos grandes.
-SKILL_20150317_000965	$Finestra
-SKILL_20150317_000966	{memo X}$Troca a sua forma.{nl} Aumenta a chance de crítico, mas díminui a sua esquiva.
-SKILL_20150317_000967	{memo X}Crítico + #{CaptionRatio}#{nl}Esquiva - #{CaptionRatio2}#{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_000968	$Estocada Sincronizada
-SKILL_20150317_000969	{memo X}${#DD5500}{ol}[Físico] - [Perfurante] - [Impacto]{/}{/}{nl} Inflige dano no inimigo ao atacar com o escudo e lança.
-SKILL_20150317_000970	{memo X}Ataque da Lança #{SkillAtkAdd}#{nl}Ataque do Escudo #{CaptionRatio}#{nl}Espalhado #{SkillSR}#
-SKILL_20150317_000971	$Tranco
-SKILL_20150317_000972	${#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Inflige dano no inimigo ao pular em sua direção.
-SKILL_20150317_000973	$Arremessar Lança
-SKILL_20150317_000974	$Avançar
-SKILL_20150317_000975	{memo X}${#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Corre segurando seu escudo causando dano aos inimigos. O primeiro alvo atingido será derrubado.
-SKILL_20150317_000976	{memo X}Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Consome STA
-SKILL_20150317_000977	$Montano
-SKILL_20150317_000978	{memo X}${#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Usa um forte ataque na parte de baixo do alvo.
-SKILL_20150317_000979	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Confusão]{/}{/} Duração 7 segundos
-SKILL_20150317_000980	$Esmagar Alvo
-SKILL_20150317_000981	{memo X}${#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Inflige dano ao esmagar o alvo com seu escudo. Tem grande chance de causa cegueira no alvo.
-SKILL_20150317_000982	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Cegueira]{/}{/} Duração 3 segundos{nl}Espalhado #{SkillSR}#
-SKILL_20150317_000983	$Empurrar Escudo
-SKILL_20150317_000984	{memo X}${#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Usa o seu escudo contra o inimigo.{nl} Causa o Efeito Desiquilibrío no Inimigo
-SKILL_20150317_000985	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Desiquilibrío]{/}{/} Duração 5 segundos
-SKILL_20150317_000986	$Empalar
-SKILL_20150317_000987	{memo X}${#DD5500}{ol}[Perfurante]{/}{/}{nl} Empala um monstro pequeno com sua lança. O monstro preso na lança receberá dano toda vez que está habilidade for usada.
-SKILL_20150317_000988	$Tremor
-SKILL_20150317_000989	{memo X}${#DDD300}{ol}[Impacto]{/}{/}{nl} Concentra o seu poder e o usa na sua arma para esmagar o inimigo contra o chão.
-SKILL_20150317_000990	$Trote
-SKILL_20150317_000991	$Aumenta a sua Velocidade de Movimento.
-SKILL_20150317_000992	{memo X}Velocidade de Movimento +#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_000993	$Avanço Forçado
-SKILL_20150317_000994	{memo X}${#DDD300}{ol}[Impacto]{/}{/}{nl}Força um avanço à frente arremessando os inimigos no seu caminho.
-SKILL_20150317_000995	$Estocada Fatal
-SKILL_20150317_000996	{memo X}${#DDD300}{ol}[Perfurante]{/}{/}{nl} Concentra o seu poder para realizar uma forte estacada contra o inimigo.
-SKILL_20150317_000997	$Corrida
-SKILL_20150317_000998	{memo X}${#DD5500}{ol}[Cortante]{/}{/}{nl} Gira a sua lança sobre a sua cabeça continuamente causando dano ao inimigo.
-SKILL_20150317_000999	{memo X}Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Espalhado #{SkillSR}#
-SKILL_20150317_001000	$Trazendo a Morte
-SKILL_20150317_001001	{memo X}{#DDD300}{ol}[Perfurante]{/}{/}{nl}Ataca os inimigos à frente continuamente.
-SKILL_20150317_001002	$Estripar
-SKILL_20150317_001003	{memo X}${#DD5500}{ol}[Perfurante]{/}{/}{nl} Realiza uma forte estocada e depois chuta o inimigo.
-SKILL_20150317_001004	$Frenesi
-SKILL_20150317_001005	{memo X}$Aumenta o seu ataque após usar vários ataques consecutivos em um alvo.
-SKILL_20150317_001006	{memo X}$Ataque +#{CaptionRatio}# {nl} Acumulo #{CaptionRatio2}# vezes {nl} Duração #{CaptionTime}# segundos
-SKILL_20150317_001007	$Agressor
-SKILL_20150317_001008	{memo X}$Seus ataque não vão errar, mas a sua média crítica e sua esquiva crítica diminuem.
-SKILL_20150317_001009	{memo X}Chance Crítica -#{CaptionRatio}#%{nl}Esquiva Crítica -#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001010	$Selvageria
-SKILL_20150317_001011	{memo X}$Enquanto o Buff estiver ativo, um contínuo bônus de ataque ser aplicado a ataques que possuem o efeito {#DD5500}{ol}[Perfurante]{/}{/}.
-SKILL_20150317_001012	${#DD5500}{ol}[Perfurante]{/}{/} Bônus de Ataque Contínuo {nl} Duração: #{CaptionTime}# segundos
-SKILL_20150317_001013	$Grito de Guerra
-SKILL_20150317_001014	{memo X}Diminui o ataque dos inimigos próximos e adiciona ao seu ataque.
-SKILL_20150317_001015	$Alvos: #{CaptionRatio}#{nl} Defesa Física Máxima: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_001016	$Chute e Pisoteio
-SKILL_20150317_001017	{memo X}${#DD5500}{ol}[Impacto]{/}{/}{nl} Pisoteia o inimigo após um pulo.
-SKILL_20150317_001018	{memo X}manutenção de armas
-SKILL_20150317_001019	{memo X}Abrir Loja para Reparar Armas.
-SKILL_20150317_001020	{memo X}manutenção de Armaduras
-SKILL_20150317_001021	{memo X}Abrir Loja para Reparar Armaduras.
-SKILL_20150317_001022	$Reparar
-SKILL_20150317_001023	{memo X}Usa o seu escudo para empurrar o seu inimigo abaixo
-SKILL_20150317_001024	$Prender
-SKILL_20150317_001025	$Jolly Roger
-SKILL_20150317_001026	$Gancho de Ferro
-SKILL_20150317_001027	$Arrastar
-SKILL_20150317_001028	$Destrancar Baú
-SKILL_20150317_001029	{memo X}Cancelar Sub Arma
-SKILL_20150317_001030	{memo X}${#DDD300}{ol}[Buff]{/}{/}{nl} Enquanto estiver ativo, Um bônus de ataque contínuo é aplicado em ataques do tipo {#CC3300}{ol}[Perfurante]{/}{/}.
-SKILL_20150317_001031	{memo X}Duração #{CaptionTime}# segundos{nl} Consome #{SpendSP}# SP
-SKILL_20150317_001032	$Conscrição
-SKILL_20150317_001033	$Phalanx
-SKILL_20150317_001034	$Tercio
-SKILL_20150317_001035	$Formação Alada
-SKILL_20150317_001036	$Formação em Pinça
-SKILL_20150317_001037	$Formação de Defesa
-SKILL_20150317_001038	$Testuto
-SKILL_20150317_001039	$Guerrear
-SKILL_20150317_001040	$Alterar Direção
-SKILL_20150317_001041	$Ações de Bravura
-SKILL_20150317_001042	{memo X}$Aumenta o seu ataque e a sua velocidade de ataque, mas diminui a sua defesa.
-SKILL_20150317_001043	$Vigor
-SKILL_20150317_001044	{memo X}Velocidade de Movimento Aumentada +#{CaptionTime}# por #{CaptionRatio}#% segundos
-SKILL_20150317_001045	$Mordschlag
-SKILL_20150317_001046	{memo X}{#CC3300}{ol}[Perfurante]{/}{/} Atributo{nl}Dano #{SkillFactor}#%{nl}Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
-SKILL_20150317_001047	$Pagamento em Dobro
-SKILL_20150317_001048	{memo X}Três vezes o dano causado
-SKILL_20150317_001049	$Punição
-SKILL_20150317_001050	$Ciclone
-SKILL_20150317_001051	{memo X}$Inflige dano ao realizar um forte ataque giratório em inimigos próximos.
-SKILL_20150317_001052	{memo X}Lv.1 Ataque Médio #{SkillFactor}#, Espalhar 3Lv.2 Ataque Médio #{SkillFactor}#, Espalhar 6Lv.3 Ataque Médio #{SkillFactor}#, Espalhar 9Lv.4 Ataque Médio #{SkillFactor}#, Espalhar 12Lv.5 Ataque Médio #{SkillFactor}#, Espalhar 15
-SKILL_20150317_001053	{memo X}$Alto Destruição
-SKILL_20150317_001054	$Clone Sombrio
-SKILL_20150317_001055	$Preparar para Atacar
-SKILL_20150317_001056	$Murmillo 1
-SKILL_20150317_001057	$Murmillo 2
-SKILL_20150317_001058	$Se defense contra ataque de inimigos.
-SKILL_20150317_001059	{memo X}Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Aparar o Golpe {CaptionRatio}#%
-SKILL_20150317_001060	{memo X}Use o ombro para afastar o inimigo.
-SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Impacto]{/}{/} Atributo{nl} Ataque #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl} SP Consumido #{SpendSP}#
-SKILL_20150317_001062	{memo X}Aumenta o Poder de derrubada.
-SKILL_20150317_001063	{memo X}Usa uma corrente para capturar o inimigo.
-SKILL_20150317_001064	$Maldição
-SKILL_20150317_001065	$Relampago
-SKILL_20150317_001066	{memo X}${#993399}{ol}[Magia]{/}{/}{nl} Ataca o Alvo com uma poderosa energia.
-SKILL_20150317_001067	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração 1 segundo{nl}Espalhado #{SkillSR}#
-SKILL_20150317_001068	$Letargia
-SKILL_20150317_001069	{memo X}Inflige Letargia no inimigo.
-SKILL_20150317_001070	$Ataque Físico: -#{CaptionRatio}#{nl}Ataque Mágico: -#{CaptionRatio}#{nl}Esquiva: -#{CaptionRatio2}#{nl}{#339999}{ol}[Letargia]{/}{/} Duração: #{CaptionTime}# segundos
-SKILL_20150317_001071	$Adormecer
-SKILL_20150317_001072	{memo X}Inflige sono nos inimigos. Os inimigos irão acordar após um certo número de golpes ou quando o efeito acabar.
-SKILL_20150317_001073	${#339999}{ol}[Sono]{/}{/} Duração: #{SkillFactor}# segundos{nl}Ataque Limite: #{CaptionRatio}#
-SKILL_20150317_001074	$Escudo Refletor
-SKILL_20150317_001075	{memo X}$Cria um escudo protetor que reflete o dano amplificado nos alvos.
-SKILL_20150317_001076	$Reflecção de Dano: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos{nl}Reflete #{CaptionRatio2}# vezes
-SKILL_20150317_001077	$Terremoto
-SKILL_20150317_001078	${#993399}{ol}[Magia] - [Terra]{/}{/}{nl} Inflige dano no inimigo causando um forte terremoto na sua frente.
-SKILL_20150317_001079	$Conjuração Perfeita
-SKILL_20150317_001080	$A conjuração de uma habilidade não será cancelada quando você for atacado.
-SKILL_20150317_001081	$Duração #{CaptionTime}# segundos
-SKILL_20150317_001082	$Mísseis Mágigos
-SKILL_20150317_001083	{memo X}{#993399}{ol}[Magia]{/}{/}{nl} Atira mísseis mágicos no alvo.
-SKILL_20150317_001084	$Ataque #{SkillAtkAdd}#{nl}3 Mísseis Mágicos
-SKILL_20150317_001085	$Conjuração Rápida
-SKILL_20150317_001086	{memo X}Diminuí o tempo de conjuração.
-SKILL_20150317_001087	$Tempo de Conjuração -#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001088	$Bola de Fogo
-SKILL_20150317_001089	{memo X}${#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} invoca uma bola de fogo que pode ser arremessa na direção do ataque que receber.
-SKILL_20150317_001090	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataque #{SkillSR}# vezes{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001091	$Barreira de Fogo
-SKILL_20150317_001092	{memo X}${#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Cria uma barreira de fogo que inflige dano nos monstros perto.
-SKILL_20150317_001093	{memo X}Ataque #{SkillAtkAdd}#{nl}#{CaptionRatio}# Barreira de Fogo #{nl}Ataque #{CaptionRatio2}# vezes{nl}Duração 15 segundos
-SKILL_20150317_001094	$Encantar com Fogo
-SKILL_20150317_001095	{memo X}$Garante propriedade fogo aos alvos. Dano adicional é aplicado ao seu ataque.
-SKILL_20150317_001096	$Ataque de Propriedade Fogo: +#{CaptionRatio}#{nl}Dano Adicional: +#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_001097	$Flare
-SKILL_20150317_001098	{memo X}${#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} inflige dano ao explodir o inimigo afetado por algum status. Os efeitos Congelamento e Petrificação não são aplicados nesta formula.
-SKILL_20150317_001099	$Ataque #{SkillAtkAdd}#
-SKILL_20150317_001100	$Pilar de Fogo
-SKILL_20150317_001101	{memo X}${#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Invoca um pilar de fogo que causa dano ao alvo.
-SKILL_20150317_001102	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001103	$Sopro Infernal
-SKILL_20150317_001104	{memo X}${#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Queima os inimigos com um sopro de fogo contínuo.
-SKILL_20150317_001105	{memo X}Ataque #{SkillAtkAdd}#{nl}Consome #{CaptionRatio}#% SP a cada 0.5 segundos
-SKILL_20150317_001106	$Lanças de Gelo
-SKILL_20150317_001107	{memo X}${#993399}{ol}[Magia] - [Gelo] - [Perfurante]{/}{/}{nl} Inflige dano ao alvo ao atirar uma lança de gelo e possuí uma change de congelar o inimigo.
-SKILL_20150317_001108	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Congelamento]{/}{/} Duração 3 segundos
-SKILL_20150317_001109	$Rajada Congelante
-SKILL_20150317_001110	{memo X}${#993399}{ol}[Magia] - [Gelo] - [Perfurante] {/} {/}} {nl} Inflige dano no alvo ao lançar uma rajada congelante e possuí a change de congelar o alvo.e and has a chance to freeze the target.
-SKILL_20150317_001111	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Congelamento]{/}{/} Duração 4 segundos
-SKILL_20150317_001112	{memo X}$Cria uma barreira de gelo com a chance de congelar os inimigos.
-SKILL_20150317_001113	{memo X}Barreira de Gelo #{CaptionRatio}# {nl}{#339999}{ol}[Gelo]{/}{/}{nl} Duração 3 segundos {nl} Duração da Barreira de Gelo 10 segundos
-SKILL_20150317_001114	$Explosão Glacial
-SKILL_20150317_001115	{memo X}${#993399}{ol}[Magia] - [Gelo]{/}{/}{nl} Inflige dano ao quebrar um inimigo congelado.
-SKILL_20150317_001116	${#339999}{ol}[Gelo]{/}{/} Ataque à Alvos #{SkillAtkAdd}#
-SKILL_20150317_001117	{memo X}$Cria uma barreira de gelo que temporáriamente defende contra ataques de inimigos.
-SKILL_20150317_001118	{memo X}Inimigos atacados {#339999}{ol}[Gelo]{/}{/}Média 50% {nl} {#339999}{ol}[Gelo]{/}{/}Duração 3 segundos
-SKILL_20150317_001119	$Gust
-SKILL_20150317_001120	{memo X}$Cria uma rajada de vento que empurra o alvo para longe. Inflige dano nos alvos congelados ou que estão perto de uma barreira de gelo.
-SKILL_20150317_001121	$Pilar de Gelo
-SKILL_20150317_001122	$Invoca uma árvore de gelo no chão que puxa alvos próximos e os congela com uma chance.
-SKILL_20150317_001123	${#339999}{ol}[Gelo]{/}{/}Chance #{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001124	$Pressão Psíquica
-SKILL_20150317_001125	{memo X}{#993399}{ol}[Magia]{/}{/}{nl}Inflige dano contínuo nos alvos à sua frente.
-SKILL_20150317_001126	{memo X}Ataque #{SkillAtkAdd}#{nl}Espalhado #{CaptionRatio}#{nl}Consome #{CaptionRatio2}#% de SP por segundo.
-SKILL_20150317_001127	$Telecinese
-SKILL_20150317_001128	{memo X}${#993399}{ol}[Magia]{/}{/}{nl}Captura um monstro à sua frente com psicocinese.{nl}Inflige dano ao arremessar o mesmo usando as setas do teclado. 
-SKILL_20150317_001129	{memo X}Ataque #{SkillAtkAdd}#{nl}Contador de Ataques #{CaptionRatio}# vezes {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001130	$Trocar
-SKILL_20150317_001131	{memo X}$Troca a sua posição com a posição do inimigo.
-SKILL_20150317_001132	$Targets #{CaptionRatio}#{nl}Alcance Limite 20{nl}
-SKILL_20150317_001133	$Teleporte
-SKILL_20150317_001134	{memo X}$Teleporta para muma localização aleatória.
-SKILL_20150317_001135	$Distância Máxima do Teleporte #{CaptionRatio}#
-SKILL_20150317_001136	$Força Magnética
-SKILL_20150317_001137	{memo X}${#993399}{ol}[Magia]{/}{/}{nl}Inflige dano aos inimigos que forem poxudos até a área alvo.
-SKILL_20150317_001138	$Levantar
-SKILL_20150317_001139	{memo X}Levanta alvos no ar.
-SKILL_20150317_001140	$Alvos: #{CaptionRatio}#{nl}Duração: #{CaptionRatio2}# segundos
-SKILL_20150317_001141	$Polo Gravitacional
-SKILL_20150317_001142	{memo X}Cria um campo gravitacional que puxa todos os inimigos que estiverem perto.
-SKILL_20150317_001143	{memo X}Alvo #{CaptionRatio}#{nl}Max. Duração 5 segundos
-SKILL_20150317_001144	$Desvincular
-SKILL_20150317_001145	$Disconecta todos os Links.
-SKILL_20150317_001146	$Disconecta todos os Links de uma vez.{nl}Level Máximo: 1
-SKILL_20150317_001147	$Link Físico
+SKILL_20150317_000920	Estocada
+SKILL_20150317_000921	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Perfura e empurra o inimigo.
+SKILL_20150317_000922	Ataque #{SkillAtkAdd}#{nl}Cortante #{SkillSR}#
+SKILL_20150317_000923	Golpe
+SKILL_20150317_000924	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Inflige dano no alvo ao manejar fortemente sua arma.
+SKILL_20150317_000925	Gung Ho
+SKILL_20150317_000926	Aumenta o seu ataque, mas díminui a sua defesa.
+SKILL_20150317_000927	Dano Físico: +#{CaptionRatio}#{nl}Defesa Física: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000928	Concentração
+SKILL_20150317_000929	Aumenta o poder das suas habilidades de ataque.
+SKILL_20150317_000930	Dano Adicional: +#{CaptionRatio2}#{nl}Número de Acertos: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000931	Coibir
+SKILL_20150317_000932	Díminui o seu HP máximo, mas aumenta o seu ataque.
+SKILL_20150317_000933	Ataque Físico + #{CaptionRatio}#{nl}HP Máximo - #{CaptionRatio2}# {nl} Duração #{CaptionTime}# segundos
+SKILL_20150317_000934	Golpe Umbo
+SKILL_20150317_000935	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca colidindo o seu escudo. {nl} Inflige mais dano após bloquear um ataque inimigo.
+SKILL_20150317_000936	Golpe de Rebordo
+SKILL_20150317_000937	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataca usando a borda do seu escudo. {nl} Inflige mais dano em monstros congelados ou petrificados.
+SKILL_20150317_000938	Provocar
+SKILL_20150317_000939	Bate no seu escudo para provocar inimigos próximos.
+SKILL_20150317_000940	Alvos: #{SkillSR}#{nl}Provações Máximas: +#{CaptionRatio}# por #{CaptionTime}# segundos
+SKILL_20150317_000941	Díminui o seu ataque, mas aumenta a sua defesa.
+SKILL_20150317_000942	Defesa Física: +#{CaptionRatio}#{nl}Dano Físico: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_000943	Arremessar Escudo
+SKILL_20150317_000944	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Arremessa o seu escudo no inimigo causando dano.
+SKILL_20150317_000945	Aprimorar Defesa
+SKILL_20150317_000946	Borboleta
+SKILL_20150317_000947	Roda de Vagão
+SKILL_20150317_000948	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Executa um ataque que lança seus inimigos no ar.
+SKILL_20150317_000949	Pulverizar
+SKILL_20150317_000950	 {#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Concentra o seu poder para esmagar seus inimigos contra o chão.
+SKILL_20150317_000951	Ataque #{SkillAtkAdd}#{nl}Tempo de conjuração 0.5 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000952	Trauma
+SKILL_20150317_000953	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Realiza um forte ataca esmagando a cabeça do inimigo. Díminui a INT e o SPR do inimigo temporariamente.
+SKILL_20150317_000954	Ataque #{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl}{#339999}{ol}[Choque]{/}{/} Duração #{CaptionTime}# segundos
+SKILL_20150317_000955	Guarda Cruzada
+SKILL_20150317_000956	Use a sua arma para se defender.
+SKILL_20150317_000957	Defesa: +#{CaptionRatio}#{nl}Bloqueio: +#{CaptionRatio2}#
+SKILL_20150317_000958	Molinete
+SKILL_20150317_000959	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Executa 5 ataques consecutivos à frente.
+SKILL_20150317_000960	Perfuração
+SKILL_20150317_000961	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Ataca o inimigo consecutivamente.
+SKILL_20150317_000962	Perfurar
+SKILL_20150317_000963	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Perfura fortemente o inimigo inflingindo dano.{nl} Um bônus de ataque será aplicado dependendo do tamanho do inimigo.
+SKILL_20150317_000964	Ataque #{SkillAtkAdd}#{nl}Dois ataques em alvos médios{nl}Três ataques em alvos grandes.
+SKILL_20150317_000965	Finestra
+SKILL_20150317_000966	Troca a sua forma.{nl} Aumenta a chance de crítico, mas díminui a sua esquiva.
+SKILL_20150317_000967	Crítico + #{CaptionRatio}#{nl}Esquiva - #{CaptionRatio2}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_000968	Estocada Sincronizada
+SKILL_20150317_000969	{#DD5500}{ol}[Físico] - [Perfurante] - [Impacto]{/}{/}{nl} Inflige dano no inimigo ao atacar com o escudo e lança.
+SKILL_20150317_000970	Ataque da Lança #{SkillAtkAdd}#{nl}Ataque do Escudo #{CaptionRatio}#{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000971	Tranco
+SKILL_20150317_000972	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Inflige dano no inimigo ao pular em sua direção.
+SKILL_20150317_000973	Arremessar Lança
+SKILL_20150317_000974	Avançar
+SKILL_20150317_000975	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl} Corre segurando seu escudo causando dano aos inimigos. O primeiro alvo atingido será derrubado.
+SKILL_20150317_000976	Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Consome STA
+SKILL_20150317_000977	Montano
+SKILL_20150317_000978	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl} Usa um forte ataque na parte de baixo do alvo.
+SKILL_20150317_000979	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Confusão]{/}{/} Duração 7 segundos
+SKILL_20150317_000980	Esmagar Alvo
+SKILL_20150317_000981	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Inflige dano ao esmagar o alvo com seu escudo. Tem grande chance de causa cegueira no alvo.
+SKILL_20150317_000982	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Cegueira]{/}{/} Duração 3 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_000983	Empurrar Escudo
+SKILL_20150317_000984	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl} Usa o seu escudo contra o inimigo.{nl} Causa o Efeito Desiquilibrío no Inimigo
+SKILL_20150317_000985	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Desiquilibrío]{/}{/} Duração 5 segundos
+SKILL_20150317_000986	Empalar
+SKILL_20150317_000987	{#DD5500}{ol}[Perfurante]{/}{/}{nl} Empala um monstro pequeno com sua lança. O monstro preso na lança receberá dano toda vez que está habilidade for usada.
+SKILL_20150317_000988	Tremor
+SKILL_20150317_000989	{#DDD300}{ol}[Impacto]{/}{/}{nl} Concentra o seu poder e o usa na sua arma para esmagar o inimigo contra o chão.
+SKILL_20150317_000990	Trote
+SKILL_20150317_000991	Aumenta a sua Velocidade de Movimento.
+SKILL_20150317_000992	Velocidade de Movimento +#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_000993	Avanço Forçado
+SKILL_20150317_000994	{#DDD300}{ol}[Impacto]{/}{/}{nl}Força um avanço à frente arremessando os inimigos no seu caminho.
+SKILL_20150317_000995	Estocada Fatal
+SKILL_20150317_000996	{#DDD300}{ol}[Perfurante]{/}{/}{nl} Concentra o seu poder para realizar uma forte estacada contra o inimigo.
+SKILL_20150317_000997	Corrida
+SKILL_20150317_000998	{#DD5500}{ol}[Cortante]{/}{/}{nl} Gira a sua lança sobre a sua cabeça continuamente causando dano ao inimigo.
+SKILL_20150317_000999	Ataque #{SkillAtkAdd}#{nl}Max. Duração 10 segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_001000	Trazendo a Morte
+SKILL_20150317_001001	{#DDD300}{ol}[Perfurante]{/}{/}{nl}Ataca os inimigos à frente continuamente.
+SKILL_20150317_001002	Estripar
+SKILL_20150317_001003	{#DD5500}{ol}[Perfurante]{/}{/}{nl} Realiza uma forte estocada e depois chuta o inimigo.
+SKILL_20150317_001004	Frenesi
+SKILL_20150317_001005	Aumenta o seu ataque após usar vários ataques consecutivos em um alvo.
+SKILL_20150317_001006	Ataque +#{CaptionRatio}# {nl} Acumulo #{CaptionRatio2}# vezes {nl} Duração #{CaptionTime}# segundos
+SKILL_20150317_001007	Agressor
+SKILL_20150317_001008	Seus ataque não vão errar, mas a sua média crítica e sua esquiva crítica diminuem.
+SKILL_20150317_001009	Chance Crítica -#{CaptionRatio}#%{nl}Esquiva Crítica -#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001010	Selvageria
+SKILL_20150317_001011	Enquanto o Buff estiver ativo, um contínuo bônus de ataque ser aplicado a ataques que possuem o efeito {#DD5500}{ol}[Perfurante]{/}{/}.
+SKILL_20150317_001012	{#DD5500}{ol}[Perfurante]{/}{/} Bônus de Ataque Contínuo {nl} Duração: #{CaptionTime}# segundos
+SKILL_20150317_001013	Grito de Guerra
+SKILL_20150317_001014	Diminui o ataque dos inimigos próximos e adiciona ao seu ataque.
+SKILL_20150317_001015	Alvos: #{CaptionRatio}#{nl} Defesa Física Máxima: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_001016	Chute e Pisoteio
+SKILL_20150317_001017	{#DD5500}{ol}[Impacto]{/}{/}{nl} Pisoteia o inimigo após um pulo.
+SKILL_20150317_001018	manutenção de armas
+SKILL_20150317_001019	Abrir Loja para Reparar Armas.
+SKILL_20150317_001020	manutenção de Armaduras
+SKILL_20150317_001021	Abrir Loja para Reparar Armaduras.
+SKILL_20150317_001022	Reparar
+SKILL_20150317_001023	Usa o seu escudo para empurrar o seu inimigo abaixo
+SKILL_20150317_001024	Prender
+SKILL_20150317_001025	Jolly Roger
+SKILL_20150317_001026	Gancho de Ferro
+SKILL_20150317_001027	Arrastar
+SKILL_20150317_001028	Destrancar Baú
+SKILL_20150317_001029	Cancelar Sub Arma
+SKILL_20150317_001030	{#DDD300}{ol}[Buff]{/}{/}{nl} Enquanto estiver ativo, Um bônus de ataque contínuo é aplicado em ataques do tipo {#CC3300}{ol}[Perfurante]{/}{/}.
+SKILL_20150317_001031	Duração #{CaptionTime}# segundos{nl} Consome #{SpendSP}# SP
+SKILL_20150317_001032	Conscrição
+SKILL_20150317_001033	Phalanx
+SKILL_20150317_001034	Tercio
+SKILL_20150317_001035	Formação Alada
+SKILL_20150317_001036	Formação em Pinça
+SKILL_20150317_001037	Formação de Defesa
+SKILL_20150317_001038	Testuto
+SKILL_20150317_001039	Guerrear
+SKILL_20150317_001040	Alterar Direção
+SKILL_20150317_001041	Ações de Bravura
+SKILL_20150317_001042	Aumenta o seu ataque e a sua velocidade de ataque, mas diminui a sua defesa.
+SKILL_20150317_001043	Vigor
+SKILL_20150317_001044	Velocidade de Movimento Aumentada +#{CaptionTime}# por #{CaptionRatio}#% segundos
+SKILL_20150317_001045	Mordschlag
+SKILL_20150317_001046	{#CC3300}{ol}[Perfurante]{/}{/} Atributo{nl}Dano #{SkillFactor}#%{nl}Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
+SKILL_20150317_001047	Pagamento em Dobro
+SKILL_20150317_001048	Três vezes o dano causado
+SKILL_20150317_001049	Punição
+SKILL_20150317_001050	Ciclone
+SKILL_20150317_001051	Inflige dano ao realizar um forte ataque giratório em inimigos próximos.
+SKILL_20150317_001052	Lv.1 Ataque Médio #{SkillFactor}#, Espalhar 3Lv.2 Ataque Médio #{SkillFactor}#, Espalhar 6Lv.3 Ataque Médio #{SkillFactor}#, Espalhar 9Lv.4 Ataque Médio #{SkillFactor}#, Espalhar 12Lv.5 Ataque Médio #{SkillFactor}#, Espalhar 15
+SKILL_20150317_001053	Alto Destruição
+SKILL_20150317_001054	Clone Sombrio
+SKILL_20150317_001055	Preparar para Atacar
+SKILL_20150317_001056	Murmillo 1
+SKILL_20150317_001057	Murmillo 2
+SKILL_20150317_001058	Se defense contra ataque de inimigos.
+SKILL_20150317_001059	Duração do Buff #{CaptionTime}#seg{nl}#Probabilidade de Aparar o Golpe {CaptionRatio}#%
+SKILL_20150317_001060	Use o ombro para afastar o inimigo.
+SKILL_20150317_001061	{#CC3300}{ol}[Impacto]{/}{/} Atributo{nl} Ataque #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Espalhado #{SkillSR}#{nl} SP Consumido #{SpendSP}#
+SKILL_20150317_001062	Aumenta o Poder de derrubada.
+SKILL_20150317_001063	Usa uma corrente para capturar o inimigo.
+SKILL_20150317_001064	Maldição
+SKILL_20150317_001065	Relampago
+SKILL_20150317_001066	{#993399}{ol}[Magia]{/}{/}{nl} Ataca o Alvo com uma poderosa energia.
+SKILL_20150317_001067	Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração 1 segundo{nl}Espalhado #{SkillSR}#
+SKILL_20150317_001068	Letargia
+SKILL_20150317_001069	Inflige Letargia no inimigo.
+SKILL_20150317_001070	Ataque Físico: -#{CaptionRatio}#{nl}Ataque Mágico: -#{CaptionRatio}#{nl}Esquiva: -#{CaptionRatio2}#{nl}{#339999}{ol}[Letargia]{/}{/} Duração: #{CaptionTime}# segundos
+SKILL_20150317_001071	Adormecer
+SKILL_20150317_001072	Inflige sono nos inimigos. Os inimigos irão acordar após um certo número de golpes ou quando o efeito acabar.
+SKILL_20150317_001073	{#339999}{ol}[Sono]{/}{/} Duração: #{SkillFactor}# segundos{nl}Ataque Limite: #{CaptionRatio}#
+SKILL_20150317_001074	Escudo Refletor
+SKILL_20150317_001075	Cria um escudo protetor que reflete o dano amplificado nos alvos.
+SKILL_20150317_001076	Reflecção de Dano: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos{nl}Reflete #{CaptionRatio2}# vezes
+SKILL_20150317_001077	Terremoto
+SKILL_20150317_001078	{#993399}{ol}[Magia] - [Terra]{/}{/}{nl} Inflige dano no inimigo causando um forte terremoto na sua frente.
+SKILL_20150317_001079	Conjuração Perfeita
+SKILL_20150317_001080	A conjuração de uma habilidade não será cancelada quando você for atacado.
+SKILL_20150317_001081	Duração #{CaptionTime}# segundos
+SKILL_20150317_001082	Mísseis Mágigos
+SKILL_20150317_001083	{#993399}{ol}[Magia]{/}{/}{nl} Atira mísseis mágicos no alvo.
+SKILL_20150317_001084	Ataque #{SkillAtkAdd}#{nl}3 Mísseis Mágicos
+SKILL_20150317_001085	Conjuração Rápida
+SKILL_20150317_001086	Diminuí o tempo de conjuração.
+SKILL_20150317_001087	Tempo de Conjuração -#{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001088	Bola de Fogo
+SKILL_20150317_001089	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} invoca uma bola de fogo que pode ser arremessa na direção do ataque que receber.
+SKILL_20150317_001090	Ataque #{SkillAtkAdd}#{nl}Ataque #{SkillSR}# vezes{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001091	Barreira de Fogo
+SKILL_20150317_001092	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Cria uma barreira de fogo que inflige dano nos monstros perto.
+SKILL_20150317_001093	Ataque #{SkillAtkAdd}#{nl}#{CaptionRatio}# Barreira de Fogo #{nl}Ataque #{CaptionRatio2}# vezes{nl}Duração 15 segundos
+SKILL_20150317_001094	Encantar com Fogo
+SKILL_20150317_001095	Garante propriedade fogo aos alvos. Dano adicional é aplicado ao seu ataque.
+SKILL_20150317_001096	Ataque de Propriedade Fogo: +#{CaptionRatio}#{nl}Dano Adicional: +#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_001097	Flare
+SKILL_20150317_001098	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} inflige dano ao explodir o inimigo afetado por algum status. Os efeitos Congelamento e Petrificação não são aplicados nesta formula.
+SKILL_20150317_001099	Ataque #{SkillAtkAdd}#
+SKILL_20150317_001100	Pilar de Fogo
+SKILL_20150317_001101	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Invoca um pilar de fogo que causa dano ao alvo.
+SKILL_20150317_001102	Ataque #{SkillAtkAdd}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001103	Sopro Infernal
+SKILL_20150317_001104	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Queima os inimigos com um sopro de fogo contínuo.
+SKILL_20150317_001105	Ataque #{SkillAtkAdd}#{nl}Consome #{CaptionRatio}#% SP a cada 0.5 segundos
+SKILL_20150317_001106	Lanças de Gelo
+SKILL_20150317_001107	{#993399}{ol}[Magia] - [Gelo] - [Perfurante]{/}{/}{nl} Inflige dano ao alvo ao atirar uma lança de gelo e possuí uma change de congelar o inimigo.
+SKILL_20150317_001108	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Congelamento]{/}{/} Duração 3 segundos
+SKILL_20150317_001109	Rajada Congelante
+SKILL_20150317_001110	{#993399}{ol}[Magia] - [Gelo] - [Perfurante] {/} {/}} {nl} Inflige dano no alvo ao lançar uma rajada congelante e possuí a change de congelar o alvo.e and has a chance to freeze the target.
+SKILL_20150317_001111	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Congelamento]{/}{/} Duração 4 segundos
+SKILL_20150317_001112	Cria uma barreira de gelo com a chance de congelar os inimigos.
+SKILL_20150317_001113	Barreira de Gelo #{CaptionRatio}# {nl}{#339999}{ol}[Gelo]{/}{/}{nl} Duração 3 segundos {nl} Duração da Barreira de Gelo 10 segundos
+SKILL_20150317_001114	Explosão Glacial
+SKILL_20150317_001115	{#993399}{ol}[Magia] - [Gelo]{/}{/}{nl} Inflige dano ao quebrar um inimigo congelado.
+SKILL_20150317_001116	{#339999}{ol}[Gelo]{/}{/} Ataque à Alvos #{SkillAtkAdd}#
+SKILL_20150317_001117	Cria uma barreira de gelo que temporáriamente defende contra ataques de inimigos.
+SKILL_20150317_001118	Inimigos atacados {#339999}{ol}[Gelo]{/}{/}Média 50% {nl} {#339999}{ol}[Gelo]{/}{/}Duração 3 segundos
+SKILL_20150317_001119	Gust
+SKILL_20150317_001120	Cria uma rajada de vento que empurra o alvo para longe. Inflige dano nos alvos congelados ou que estão perto de uma barreira de gelo.
+SKILL_20150317_001121	Pilar de Gelo
+SKILL_20150317_001122	Invoca uma árvore de gelo no chão que puxa alvos próximos e os congela com uma chance.
+SKILL_20150317_001123	{#339999}{ol}[Gelo]{/}{/}Chance #{CaptionRatio}#%{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001124	Pressão Psíquica
+SKILL_20150317_001125	{#993399}{ol}[Magia]{/}{/}{nl}Inflige dano contínuo nos alvos à sua frente.
+SKILL_20150317_001126	Ataque #{SkillAtkAdd}#{nl}Espalhado #{CaptionRatio}#{nl}Consome #{CaptionRatio2}#% de SP por segundo.
+SKILL_20150317_001127	Telecinese
+SKILL_20150317_001128	{#993399}{ol}[Magia]{/}{/}{nl}Captura um monstro à sua frente com psicocinese.{nl}Inflige dano ao arremessar o mesmo usando as setas do teclado. 
+SKILL_20150317_001129	Ataque #{SkillAtkAdd}#{nl}Contador de Ataques #{CaptionRatio}# vezes {nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001130	Trocar
+SKILL_20150317_001131	Troca a sua posição com a posição do inimigo.
+SKILL_20150317_001132	Targets #{CaptionRatio}#{nl}Alcance Limite 20{nl}
+SKILL_20150317_001133	Teleporte
+SKILL_20150317_001134	Teleporta para muma localização aleatória.
+SKILL_20150317_001135	Distância Máxima do Teleporte #{CaptionRatio}#
+SKILL_20150317_001136	Força Magnética
+SKILL_20150317_001137	{#993399}{ol}[Magia]{/}{/}{nl}Inflige dano aos inimigos que forem poxudos até a área alvo.
+SKILL_20150317_001138	Levantar
+SKILL_20150317_001139	Levanta alvos no ar.
+SKILL_20150317_001140	Alvos: #{CaptionRatio}#{nl}Duração: #{CaptionRatio2}# segundos
+SKILL_20150317_001141	Polo Gravitacional
+SKILL_20150317_001142	Cria um campo gravitacional que puxa todos os inimigos que estiverem perto.
+SKILL_20150317_001143	Alvo #{CaptionRatio}#{nl}Max. Duração 5 segundos
+SKILL_20150317_001144	Desvincular
+SKILL_20150317_001145	Disconecta todos os Links.
+SKILL_20150317_001146	Disconecta todos os Links de uma vez.{nl}Level Máximo: 1
+SKILL_20150317_001147	Link Físico
 SKILL_20150317_001148	Linka membros do grupo para dividir o dano.
-SKILL_20150317_001149	{memo X}Mais links resultam em menos dano{nl} Max. Links #{CaptionRatio}#{nl}Duração #{CaptionTime}# segundos{nl}Consume 16% de estamina
-SKILL_20150317_001150	$Pena Conjunta
-SKILL_20150317_001151	{memo X}Linka todos os inimigos. O dano causado em um monstros é causado em todos os outros que estiverem linkados.
-SKILL_20150317_001152	$Links Máximo #{SkillFactor}#{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001153	$Entrelaçar
-SKILL_20150317_001154	{memo X}Junta todos os monstros que estiverem linkados.
-SKILL_20150317_001155	{memo X}Tempo para juntar: 0.3 segundos
-SKILL_20150317_001156	$Corrente Espiritual
-SKILL_20150317_001157	{memo X}Linka membros do grupo e compartilha os efeitos.
-SKILL_20150317_001158	{memo X}$Cordão Umbilical
-SKILL_20150317_001159	{memo X}Compartilha defesa e o HP dos membros linkados.
-SKILL_20150317_001160	{memo X}Defesa Física Passada #{CaptionRatio}#{nl} Recuperação de HP Passada #{CaptionRatio2}#{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001161	$Aumentar mão equerda
-SKILL_20150317_001162	{memo X}$Aumenta o seu ataque ao aumentar a sua mão esquerda.
-SKILL_20150317_001163	$Ataque Físico +#{CaptionRatio}#{nl}Ataque Mágico +#{CaptionRatio}#{nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001164	$Diminuir Tamanho
-SKILL_20150317_001165	$Diminuí o tamanho do corpo do alvo.
-SKILL_20150317_001166	$Grande → Médio → Pequeno {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001167	$Aumentar Corpo
-SKILL_20150317_001168	{memo X}$Aumenta o tamanho do corpo de alvo.
-SKILL_20150317_001169	{memo X}$Pequeno → Médio → Grande {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001170	$Transpor
-SKILL_20150317_001171	{memo X}$Troca INT pela CON temporariamente.
-SKILL_20150317_001172	$Reverso
-SKILL_20150317_001173	{memo X}$Tranforma um quadrado mágico inimigo e um aliado.
+SKILL_20150317_001149	Mais links resultam em menos dano{nl} Max. Links #{CaptionRatio}#{nl}Duração #{CaptionTime}# segundos{nl}Consume 16% de estamina
+SKILL_20150317_001150	Pena Conjunta
+SKILL_20150317_001151	Linka todos os inimigos. O dano causado em um monstros é causado em todos os outros que estiverem linkados.
+SKILL_20150317_001152	Links Máximo #{SkillFactor}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001153	Entrelaçar
+SKILL_20150317_001154	Junta todos os monstros que estiverem linkados.
+SKILL_20150317_001155	Tempo para juntar: 0.3 segundos
+SKILL_20150317_001156	Corrente Espiritual
+SKILL_20150317_001157	Linka membros do grupo e compartilha os efeitos.
+SKILL_20150317_001158	Cordão Umbilical
+SKILL_20150317_001159	Compartilha defesa e o HP dos membros linkados.
+SKILL_20150317_001160	Defesa Física Passada #{CaptionRatio}#{nl} Recuperação de HP Passada #{CaptionRatio2}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001161	Aumentar mão equerda
+SKILL_20150317_001162	Aumenta o seu ataque ao aumentar a sua mão esquerda.
+SKILL_20150317_001163	Ataque Físico +#{CaptionRatio}#{nl}Ataque Mágico +#{CaptionRatio}#{nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001164	Diminuir Tamanho
+SKILL_20150317_001165	Diminuí o tamanho do corpo do alvo.
+SKILL_20150317_001166	Grande → Médio → Pequeno {nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001167	Aumentar Corpo
+SKILL_20150317_001168	Aumenta o tamanho do corpo de alvo.
+SKILL_20150317_001169	Pequeno → Médio → Grande {nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001170	Transpor
+SKILL_20150317_001171	Troca INT pela CON temporariamente.
+SKILL_20150317_001172	Reverso
+SKILL_20150317_001173	Tranforma um quadrado mágico inimigo e um aliado.
 SKILL_20150317_001174	Tranforma um quadrado mágico inimigo e um aliado na área alvo.{nl}Level Máximo: 1
-SKILL_20150317_001175	$Aumentar mão direita
-SKILL_20150317_001176	{memo X}$Aumenta o seu ataque ao aumentar a sua mão direita.
-SKILL_20150317_001177	{memo X}$Aumentar Cérebro
-SKILL_20150317_001178	{memo X}$Aumenta a sua cabeça.
-SKILL_20150317_001179	$Eletrocutar
-SKILL_20150317_001180	{memo X}{#993399}{ol}[Magia] - [Elétrico]{/}{/}{nl}Atira um raio com efeito corrente que causa dano aos inimigos próximos.
-SKILL_20150317_001181	{memo X}Ataque #{SkillAtkAdd}#{nl}Alvo #{CaptionRatio}#
-SKILL_20150317_001182	$Petrificar
-SKILL_20150317_001183	{memo X}Petrifica um alvo.
-SKILL_20150317_001184	{memo X}Duração #{CaptionTime}# segundos{nl}Espalhado #{CaptionRatio}#
-SKILL_20150317_001185	$Granizo
-SKILL_20150317_001186	{memo X}{#993399}{ol}[Magia] - [Gelo]{/}{/}{n}Pedras de gelo caem sobre uma área alvo causando dano aos inimigos.
-SKILL_20150317_001187	$Proeminência
-SKILL_20150317_001188	{memo X}{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Salamandras de fogo aparecem ao seu redor. Essas salamandras se movem aleatoriamente causando dano nos inimigos.
-SKILL_20150317_001189	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 15 segundos
-SKILL_20150317_001190	$Meteoro
-SKILL_20150317_001191	{memo X}{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Um meteoro atinge a área alvo causando dano.
-SKILL_20150317_001192	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração #{CaptionTime}# segundos{nl}Espalhado #{SkillSR}#
-SKILL_20150317_001193	$Invocar
-SKILL_20150317_001194	{memo X}Invoca um espírito que lhe segue.
-SKILL_20150317_001195	$Atacar Terreno
-SKILL_20150317_001196	{memo X}A invocação ataca inimigos perto da área alvo demarcada.
-SKILL_20150317_001197	$Montar
-SKILL_20150317_001198	{memo X}Monta um espírito invocado.
-SKILL_20150317_001199	$Metamorfose
-SKILL_20150317_001200	$Acelerar
-SKILL_20150317_001201	{memo X}Aplica um buff que aumenta a velocidade de movimento de um aliado.
-SKILL_20150317_001202	$Reencarnar
-SKILL_20150317_001203	{memo X}Re-invoca o monstro que acabou de ser destruído.
-SKILL_20150317_001204	{memo X}{#6644FF}{ol}[Fogo]{/}{/}Atributo {nl} Ataque #{SkillFactor}#% + #{SkillAtkAdd} a cada 0.5 segundos# damage {nl} Duração 10 segundos {nl}Consome #{{nl} SpendSP}# SP
-SKILL_20150317_001205	$Parar
-SKILL_20150317_001206	{memo X}Monstros mantém o estado atual. Todos os montros na área irão parar suas ações.
-SKILL_20150317_001207	$Devagar
-SKILL_20150317_001208	{memo X}Velocidade de Movimento -#{CaptionRatio}#%{nl}Duração: 5 segundos {nl}Consome #{SpendSP}# SP
-SKILL_20150317_001209	$Agilizar
-SKILL_20150317_001210	$Voltar Tempo
-SKILL_20150317_001211	{memo X}Reverte o tempo na área ao estado anterior.
-SKILL_20150317_001212	$Recolher Corpos
-SKILL_20150317_001213	{memo X}Recolhe partes dos corpos dos inimigos que morreram na área alvo.
-SKILL_20150317_001214	$Criar Shoggoth
-SKILL_20150317_001215	{memo X}Usa os corpos para invocar um Shoggoth através do necronomicon.
-SKILL_20150317_001216	{memo X}Canhão de carne
-SKILL_20150317_001217	{memo X}Atira partes mortas na área alvo.
-SKILL_20150317_001218	{memo X}Barreira de Corpos
-SKILL_20150317_001219	{memo X}Cria uma barreira a sua volta com corpos, inflige dano nos inimigos que encostarem.
-SKILL_20150317_001220	$Parede de Sujeira
-SKILL_20150317_001221	$Desenterrar
-SKILL_20150317_001222	$Combustão
-SKILL_20150317_001223	{memo X}Pavise Mágico
-SKILL_20150317_001224	$Escavar
-SKILL_20150317_001225	{memo X}Polir
-SKILL_20150317_001226	$Briquetagem
-SKILL_20150317_001227	$Tingir
-SKILL_20150317_001228	$Magnum Opus
-SKILL_20150317_001229	{memo X}Cria uma barreira mágica na área alvo que bloqueia os ataques dos inimigos.
-SKILL_20150317_001230	{memo X}Lv.1 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.2 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.3 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}#
-SKILL_20150317_001231	{memo X}Cria uma área com névoa a frente. A precisão dos inimigos dentro da névoa diminuí.
-SKILL_20150317_001232	{memo X}Duração #{CaptionTime}# segundos, Precisão -#{CaptionRatio}#%{nl}Consome #{SpendSP}# SP
-SKILL_20150317_001233	{memo X}Atinge os inimigos sob o status [Congelamento] próximos e inflige dano.
-SKILL_20150317_001234	{memo X}Lv.1 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.2 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.3 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.4 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.5 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
-SKILL_20150317_001235	{memo X}Conjura [Maldição] no alvo e reduz a sua defesa.
-SKILL_20150317_001236	{memo X}Lv.1 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.2 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv. 3 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.4 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.5 Defense , Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo
-SKILL_20150317_001237	{memo X}Inflige dano em um alvo sob [Maldição]. Todos os terceiros ataques infligem mais dano.
-SKILL_20150317_001238	{memo X}Lv.1 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.2 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.4Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}#
-SKILL_20150317_001239	{memo X}Inflige dano aos inimigos próximos ao invocar uma aura de [Vício].
-SKILL_20150317_001240	{memo X}Lv.1 Ataque médio #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.2 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.3 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.4 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.5 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos
-SKILL_20150317_001241	{memo X}Pinta o Noir de Guerra no chão. Aumenta força e inteligência dos aliados.
-SKILL_20150317_001242	{memo X}Lv.1 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 STR, INT+ #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
-SKILL_20150317_001243	{memo X}Pinta o Noir da Morte no chão. Aumenta a CON e a AGI dos aliados.
-SKILL_20150317_001244	{memo X}Lv.1 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl}Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 CON, AGI + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
-SKILL_20150317_001245	{memo X}Atualmente em Desenvolvimento
-SKILL_20150317_001246	{memo X}Invoca um circulo mágico que cura os aliados.
-SKILL_20150317_001247	{memo X}Mármore
-SKILL_20150317_001248	{memo X}Buraco Negro
-SKILL_20150317_001249	{memo X}Altera HP e SP e cria um escudo protetor.
-SKILL_20150317_001250	{memo X}Altera HP e SP, Cria um escudo protetor de #{CaptionTime}% de MHP por # segundos
-SKILL_20150317_001251	{memo X}Temporariamente aumenta o ataque e consumo de SP de todas as habilidades.
-SKILL_20150317_001252	{memo X}Ataque + #{CaptionRatio}#%{nl}SP consumido +50% {nl}Duração 30 segundos{nl}Consome #{SpendSP}# SP
-SKILL_20150317_001253	{memo X}Todos os inimigos na área alvo são amontoados e sofrem dano.
-SKILL_20150317_001254	{memo X}Duração #{CaptionTime}# segundos, Defende 6 vezes, Alvo Max. #{CaptionRatio}#
-SKILL_20150317_001255	{memo X}Rodeia o alvo com uma energia poderosa. Inflige dano à todos os que estiverem perto.
-SKILL_20150317_001256	{memo X}Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
-SKILL_20150317_001257	{memo X}Joga um meteoro e inflige dano da propriedade [Fogo] nos inimigos.
-SKILL_20150317_001258	{memo X}[Fogo] [Impacto] Dano + #{SkillFactor}#{nl} contador de meteoros #{CaptionRatio}#{nl} Dano Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
-SKILL_20150317_001259	{memo X}Congela o Inimigo.
-SKILL_20150317_001260	$Contagem Regressiva
-SKILL_20150317_001261	{memo X}Volta os aliados no tempo. Volta HP, SP, STA e tempo de recarga das Habilidades
-SKILL_20150317_001262	{memo X}Invoca um espírito que ataca enquanto se move.
-SKILL_20150317_001263	{memo X}Usa o seu próprio demônio para infligir dano aos inimigos próximos.
-SKILL_20150317_001264	{memo X}O espírito recebe todo o dano do invocador.
-SKILL_20150317_001265	{memo X}Cria um clone de você mesmo e se move para fora da área após o uso.
-SKILL_20150317_001266	{memo X}Buff adicionando velocidade de ataque.
-SKILL_20150317_001267	{memo X}Torna habilidades de chão inimigas em aliadas.
-SKILL_20150317_001268	{memo X}Teste
-SKILL_20150317_001269	$Multi Tiro
-SKILL_20150317_001270	${#DD5500}{ol}[Físico] - [Missile]{/}{/}{nl}Atira rapidamente várias vezes na área alvo.
-SKILL_20150317_001271	$Ataque: #{SkillAtkAdd}#{nl}Número de Tiros: #{CaptionRatio}#
-SKILL_20150317_001272	$Disparo Preciso
-SKILL_20150317_001273	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira de forma que acerta e junta os inimigos a frente.
-SKILL_20150317_001274	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Distorção]{/}{/} Duração #{CaptionTime}# segundos
-SKILL_20150317_001275	$Tiro Ajoelhado
-SKILL_20150317_001276	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {nl}Se ajoelha para aumentar o alcance dos ataques.
-SKILL_20150317_001277	{memo X}Ataque Físico + #{CaptionRatio}#{nl} Alcance + #{CaptionRatio2}#
-SKILL_20150317_001278	$Passos Rápidos
-SKILL_20150317_001279	{memo X}Aumenta a velocidade de movimento enquanto estiver atacando.
-SKILL_20150317_001280	$Velocidade de Movimento atirando Flechas: +#{SkillFactor}#%{nl}Defesa: -#{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
-SKILL_20150317_001281	$Tiro Oblíquo
-SKILL_20150317_001282	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira de forma a acertar mais de um inimigo.
-SKILL_20150317_001283	{memo X}Ataque #{SkillAtkAdd}#{nl}Dano da flecha que pulou #{CaptionRatio}#%
-SKILL_20150317_001284	$Barragem
+SKILL_20150317_001175	Aumentar mão direita
+SKILL_20150317_001176	Aumenta o seu ataque ao aumentar a sua mão direita.
+SKILL_20150317_001177	Aumentar Cérebro
+SKILL_20150317_001178	Aumenta a sua cabeça.
+SKILL_20150317_001179	Eletrocutar
+SKILL_20150317_001180	{#993399}{ol}[Magia] - [Elétrico]{/}{/}{nl}Atira um raio com efeito corrente que causa dano aos inimigos próximos.
+SKILL_20150317_001181	Ataque #{SkillAtkAdd}#{nl}Alvo #{CaptionRatio}#
+SKILL_20150317_001182	Petrificar
+SKILL_20150317_001183	Petrifica um alvo.
+SKILL_20150317_001184	Duração #{CaptionTime}# segundos{nl}Espalhado #{CaptionRatio}#
+SKILL_20150317_001185	Granizo
+SKILL_20150317_001186	{#993399}{ol}[Magia] - [Gelo]{/}{/}{n}Pedras de gelo caem sobre uma área alvo causando dano aos inimigos.
+SKILL_20150317_001187	Proeminência
+SKILL_20150317_001188	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Salamandras de fogo aparecem ao seu redor. Essas salamandras se movem aleatoriamente causando dano nos inimigos.
+SKILL_20150317_001189	Ataque #{SkillAtkAdd}#{nl}Duração 15 segundos
+SKILL_20150317_001190	Meteoro
+SKILL_20150317_001191	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl}Um meteoro atinge a área alvo causando dano.
+SKILL_20150317_001192	Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração #{CaptionTime}# segundos{nl}Espalhado #{SkillSR}#
+SKILL_20150317_001193	Invocar
+SKILL_20150317_001194	Invoca um espírito que lhe segue.
+SKILL_20150317_001195	Atacar Terreno
+SKILL_20150317_001196	A invocação ataca inimigos perto da área alvo demarcada.
+SKILL_20150317_001197	Montar
+SKILL_20150317_001198	Monta um espírito invocado.
+SKILL_20150317_001199	Metamorfose
+SKILL_20150317_001200	Acelerar
+SKILL_20150317_001201	Aplica um buff que aumenta a velocidade de movimento de um aliado.
+SKILL_20150317_001202	Reencarnar
+SKILL_20150317_001203	Re-invoca o monstro que acabou de ser destruído.
+SKILL_20150317_001204	{#6644FF}{ol}[Fogo]{/}{/}Atributo {nl} Ataque #{SkillFactor}#% + #{SkillAtkAdd} a cada 0.5 segundos# damage {nl} Duração 10 segundos {nl}Consome #{{nl} SpendSP}# SP
+SKILL_20150317_001205	Parar
+SKILL_20150317_001206	Monstros mantém o estado atual. Todos os montros na área irão parar suas ações.
+SKILL_20150317_001207	Devagar
+SKILL_20150317_001208	Velocidade de Movimento -#{CaptionRatio}#%{nl}Duração: 5 segundos {nl}Consome #{SpendSP}# SP
+SKILL_20150317_001209	Agilizar
+SKILL_20150317_001210	Voltar Tempo
+SKILL_20150317_001211	Reverte o tempo na área ao estado anterior.
+SKILL_20150317_001212	Recolher Corpos
+SKILL_20150317_001213	Recolhe partes dos corpos dos inimigos que morreram na área alvo.
+SKILL_20150317_001214	Criar Shoggoth
+SKILL_20150317_001215	Usa os corpos para invocar um Shoggoth através do necronomicon.
+SKILL_20150317_001216	Canhão de carne
+SKILL_20150317_001217	Atira partes mortas na área alvo.
+SKILL_20150317_001218	Barreira de Corpos
+SKILL_20150317_001219	Cria uma barreira a sua volta com corpos, inflige dano nos inimigos que encostarem.
+SKILL_20150317_001220	Parede de Sujeira
+SKILL_20150317_001221	Desenterrar
+SKILL_20150317_001222	Combustão
+SKILL_20150317_001223	Pavise Mágico
+SKILL_20150317_001224	Escavar
+SKILL_20150317_001225	Polir
+SKILL_20150317_001226	Briquetagem
+SKILL_20150317_001227	Tingir
+SKILL_20150317_001228	Magnum Opus
+SKILL_20150317_001229	Cria uma barreira mágica na área alvo que bloqueia os ataques dos inimigos.
+SKILL_20150317_001230	Lv.1 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.2 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}# Lv.3 Duração #{CaptionTime}# segundos, bloqueia 6 vezes, Alvo max. #{CaptionRatio}#
+SKILL_20150317_001231	Cria uma área com névoa a frente. A precisão dos inimigos dentro da névoa diminuí.
+SKILL_20150317_001232	Duração #{CaptionTime}# segundos, Precisão -#{CaptionRatio}#%{nl}Consome #{SpendSP}# SP
+SKILL_20150317_001233	Atinge os inimigos sob o status [Congelamento] próximos e inflige dano.
+SKILL_20150317_001234	Lv.1 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.2 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.3 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.4 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}# Lv.5 Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
+SKILL_20150317_001235	Conjura [Maldição] no alvo e reduz a sua defesa.
+SKILL_20150317_001236	Lv.1 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.2 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv. 3 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.4 Defesa, Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo Lv.5 Defense , Resistência Mágica - #{CaptionRatio}#% {nl}Duração #{CaptionTime}# segundo
+SKILL_20150317_001237	Inflige dano em um alvo sob [Maldição]. Todos os terceiros ataques infligem mais dano.
+SKILL_20150317_001238	Lv.1 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.2 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.4Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Ataque médio #{SkillFactor}#, Ataque médio a cada terceiro ataque #{CaptionRatio}#{nl}Range #{Arg1}#
+SKILL_20150317_001239	Inflige dano aos inimigos próximos ao invocar uma aura de [Vício].
+SKILL_20150317_001240	Lv.1 Ataque médio #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.2 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.3 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.4 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos Lv.5 Ataque médio a cada #{SkillFactor}# de dano a cada 0.5 segundos {nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001241	Pinta o Noir de Guerra no chão. Aumenta força e inteligência dos aliados.
+SKILL_20150317_001242	Lv.1 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 STR, INT+ #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 STR, INT + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
+SKILL_20150317_001243	Pinta o Noir da Morte no chão. Aumenta a CON e a AGI dos aliados.
+SKILL_20150317_001244	Lv.1 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl}Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.3 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv.4 CON, AGI +#{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos Lv. 5 CON, AGI + #{CaptionRatio2}#, Alvo max. #{CaptionRatio}#{nl} Duração da Habilidade #{CaptionTime}# segundos, Duração 2 minutos
+SKILL_20150317_001245	Atualmente em Desenvolvimento
+SKILL_20150317_001246	Invoca um circulo mágico que cura os aliados.
+SKILL_20150317_001247	Mármore
+SKILL_20150317_001248	Buraco Negro
+SKILL_20150317_001249	Altera HP e SP e cria um escudo protetor.
+SKILL_20150317_001250	Altera HP e SP, Cria um escudo protetor de #{CaptionTime}% de MHP por # segundos
+SKILL_20150317_001251	Temporariamente aumenta o ataque e consumo de SP de todas as habilidades.
+SKILL_20150317_001252	Ataque + #{CaptionRatio}#%{nl}SP consumido +50% {nl}Duração 30 segundos{nl}Consome #{SpendSP}# SP
+SKILL_20150317_001253	Todos os inimigos na área alvo são amontoados e sofrem dano.
+SKILL_20150317_001254	Duração #{CaptionTime}# segundos, Defende 6 vezes, Alvo Max. #{CaptionRatio}#
+SKILL_20150317_001255	Rodeia o alvo com uma energia poderosa. Inflige dano à todos os que estiverem perto.
+SKILL_20150317_001256	Ataque médio #{SkillFactor}#, Espalhar #{SkillSR}#
+SKILL_20150317_001257	Joga um meteoro e inflige dano da propriedade [Fogo] nos inimigos.
+SKILL_20150317_001258	[Fogo] [Impacto] Dano + #{SkillFactor}#{nl} contador de meteoros #{CaptionRatio}#{nl} Dano Espalhado #{SkillSR}#{nl} Consumo de SP #{SpendSP}#
+SKILL_20150317_001259	Congela o Inimigo.
+SKILL_20150317_001260	Contagem Regressiva
+SKILL_20150317_001261	Volta os aliados no tempo. Volta HP, SP, STA e tempo de recarga das Habilidades
+SKILL_20150317_001262	Invoca um espírito que ataca enquanto se move.
+SKILL_20150317_001263	Usa o seu próprio demônio para infligir dano aos inimigos próximos.
+SKILL_20150317_001264	O espírito recebe todo o dano do invocador.
+SKILL_20150317_001265	Cria um clone de você mesmo e se move para fora da área após o uso.
+SKILL_20150317_001266	Buff adicionando velocidade de ataque.
+SKILL_20150317_001267	Torna habilidades de chão inimigas em aliadas.
+SKILL_20150317_001268	Teste
+SKILL_20150317_001269	Multi Tiro
+SKILL_20150317_001270	{#DD5500}{ol}[Físico] - [Missile]{/}{/}{nl}Atira rapidamente várias vezes na área alvo.
+SKILL_20150317_001271	Ataque: #{SkillAtkAdd}#{nl}Número de Tiros: #{CaptionRatio}#
+SKILL_20150317_001272	Disparo Preciso
+SKILL_20150317_001273	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira de forma que acerta e junta os inimigos a frente.
+SKILL_20150317_001274	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Distorção]{/}{/} Duração #{CaptionTime}# segundos
+SKILL_20150317_001275	Tiro Ajoelhado
+SKILL_20150317_001276	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {nl}Se ajoelha para aumentar o alcance dos ataques.
+SKILL_20150317_001277	Ataque Físico + #{CaptionRatio}#{nl} Alcance + #{CaptionRatio2}#
+SKILL_20150317_001278	Passos Rápidos
+SKILL_20150317_001279	Aumenta a velocidade de movimento enquanto estiver atacando.
+SKILL_20150317_001280	Velocidade de Movimento atirando Flechas: +#{SkillFactor}#%{nl}Defesa: -#{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20150317_001281	Tiro Oblíquo
+SKILL_20150317_001282	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira de forma a acertar mais de um inimigo.
+SKILL_20150317_001283	Ataque #{SkillAtkAdd}#{nl}Dano da flecha que pulou #{CaptionRatio}#%
+SKILL_20150317_001284	Barragem
 SKILL_20150317_001285	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira 5 flechas a frente em forma de arco em direção ao chão.
-SKILL_20150317_001286	$Tiro Preciso
-SKILL_20150317_001287	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Puxa o arco fortemente e faz com que a flecha penetre através dos inimigos a frente.
-SKILL_20150317_001288	$Tiro Crítico
+SKILL_20150317_001286	Tiro Preciso
+SKILL_20150317_001287	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Puxa o arco fortemente e faz com que a flecha penetre através dos inimigos a frente.
+SKILL_20150317_001288	Tiro Crítico
 SKILL_20150317_001289	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira uma flecha com grande chance de crítico.
-SKILL_20150317_001290	$Ataque #{SkillAtkAdd}#{nl}Chance crítica adicional 50%
-SKILL_20150317_001291	$Mira Firme
-SKILL_20150317_001292	{memo X}Aumenta o poder de ataque e diminui a velocidade de ataque.
-SKILL_20150317_001293	$Dano Adicional: +#{CaptionRatio}#{nl}Velocidade de ataque: -#{CaptionRatio2}#% {nl}Duração: 40 segundos
-SKILL_20150317_001294	$Flecha Bomba Relógio
-SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Coloca uma bomba na flecha e atira no inimigo.
-SKILL_20150317_001296	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração da bomba 5 segundos
-SKILL_20150317_001297	$Flecha Saltadora
-SKILL_20150317_001298	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira uma flecha que pula e também acerta outros inimigos.
-SKILL_20150317_001299	$Chuva de Flechas
-SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Pula para trás enquanto atira várias flechas a frente.
-SKILL_20150317_001301	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataca 5 vezes
-SKILL_20150317_001302	$Flecha Espiral
-SKILL_20150317_001303	{memo X}Incrementa o seu próximo ataque para causar um dano adicional.
-SKILL_20150317_001304	{memo X}Ataques Contínuos: #{CaptionRatio}# {nl}Duração: 10 segundos
-SKILL_20150317_001305	$Soltar Pavise
-SKILL_20150317_001306	{memo X}Instala um Pavise no chão que protege contra projéteis.
-SKILL_20150317_001307	{memo X}Alcance de defesa #{SkillFactor}# vezes{nl}Duração do Pavise #{CaptionTime}# segundos
-SKILL_20150317_001308	$Espalhar Estrepes
-SKILL_20150317_001309	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Joga Estrepes no chão que infligem dano e diminuem a velocidade dos inimigos que passarem por cima.
-SKILL_20150317_001310	{memo X}Ataque #{SkillAtkAdd}#{nl}Arremessar #{CaptionRatio2}#{nl}Duração 20 segundos{nl}{#339999}{ol}[Lerdeza]{/}{/} Duração 10 segundos
-SKILL_20150317_001311	$Juntar Pedras
-SKILL_20150317_001312	{memo X}Junta Pedras do chão. Não pode ser usado na cidade.
-SKILL_20150317_001313	$Pedras Obtidas: #{SkillFactor}#
-SKILL_20150317_001314	$Arremessar Pedra
-SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Atira uma pedra que empurra o inimigo. Possui uma chance de atordoar o alvo.
-SKILL_20150317_001316	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Atordoamento]{/}{/} Duração #{CaptionRatio2}# segundos{nl}Usa 1 Pedra
-SKILL_20150317_001317	$Fogo Rápido
-SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Carrega várias flechas no seu arco e atira rapidamente no inimigo.
-SKILL_20150317_001319	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo Max. de Carregamento#{CaptionTime}# segundos
-SKILL_20150317_001320	$Armadilha Laser
-SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Coloca uma armadilha giratória que inflige dano nos inimigos.
-SKILL_20150317_001322	$Ataque: #{SkillAtkAdd}#{nl}Duração: 15 segundos
-SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Coloca uma armadilha que atira chumbo nos inimigos.
-SKILL_20150317_001324	{memo X}Ataque #{SkillAtkAdd}#{nl}Espalhado #{CaptionRatio}#
-SKILL_20150317_001325	$Estaca Punji
-SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Coloca uma armadilha que joga os inimigos que pisarem para longe.
-SKILL_20150317_001327	{memo X}Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração 3 segundos
-SKILL_20150317_001328	$Detonar Armadilhas
-SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Detona armadilhar e circulos mágicos próximos que inflige dano nos inimigos.
-SKILL_20150317_001330	{memo X}Ataque #{SkillAtkAdd}#{nl}Explosão #{CaptionRatio}# vezes
-SKILL_20150317_001331	$Imobilizar
-SKILL_20150317_001332	{memo X}O Mascote morde e segura o alvo. Uma chance maior de crítico é aplicada no monstro que está preso.
-SKILL_20150317_001333	{memo X}Chance Crítica +30% {nl}Duração #{CaptionTime}# segundos
+SKILL_20150317_001290	Ataque #{SkillAtkAdd}#{nl}Chance crítica adicional 50%
+SKILL_20150317_001291	Mira Firme
+SKILL_20150317_001292	Aumenta o poder de ataque e diminui a velocidade de ataque.
+SKILL_20150317_001293	Dano Adicional: +#{CaptionRatio}#{nl}Velocidade de ataque: -#{CaptionRatio2}#% {nl}Duração: 40 segundos
+SKILL_20150317_001294	Flecha Bomba Relógio
+SKILL_20150317_001295	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Coloca uma bomba na flecha e atira no inimigo.
+SKILL_20150317_001296	Ataque #{SkillAtkAdd}#{nl}Duração da bomba 5 segundos
+SKILL_20150317_001297	Flecha Saltadora
+SKILL_20150317_001298	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Atira uma flecha que pula e também acerta outros inimigos.
+SKILL_20150317_001299	Chuva de Flechas
+SKILL_20150317_001300	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Pula para trás enquanto atira várias flechas a frente.
+SKILL_20150317_001301	Ataque #{SkillAtkAdd}#{nl}Ataca 5 vezes
+SKILL_20150317_001302	Flecha Espiral
+SKILL_20150317_001303	Incrementa o seu próximo ataque para causar um dano adicional.
+SKILL_20150317_001304	Ataques Contínuos: #{CaptionRatio}# {nl}Duração: 10 segundos
+SKILL_20150317_001305	Soltar Pavise
+SKILL_20150317_001306	Instala um Pavise no chão que protege contra projéteis.
+SKILL_20150317_001307	Alcance de defesa #{SkillFactor}# vezes{nl}Duração do Pavise #{CaptionTime}# segundos
+SKILL_20150317_001308	Espalhar Estrepes
+SKILL_20150317_001309	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Joga Estrepes no chão que infligem dano e diminuem a velocidade dos inimigos que passarem por cima.
+SKILL_20150317_001310	Ataque #{SkillAtkAdd}#{nl}Arremessar #{CaptionRatio2}#{nl}Duração 20 segundos{nl}{#339999}{ol}[Lerdeza]{/}{/} Duração 10 segundos
+SKILL_20150317_001311	Juntar Pedras
+SKILL_20150317_001312	Junta Pedras do chão. Não pode ser usado na cidade.
+SKILL_20150317_001313	Pedras Obtidas: #{SkillFactor}#
+SKILL_20150317_001314	Arremessar Pedra
+SKILL_20150317_001315	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Atira uma pedra que empurra o inimigo. Possui uma chance de atordoar o alvo.
+SKILL_20150317_001316	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Atordoamento]{/}{/} Duração #{CaptionRatio2}# segundos{nl}Usa 1 Pedra
+SKILL_20150317_001317	Fogo Rápido
+SKILL_20150317_001318	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Carrega várias flechas no seu arco e atira rapidamente no inimigo.
+SKILL_20150317_001319	Ataque #{SkillAtkAdd}#{nl}Tempo Max. de Carregamento#{CaptionTime}# segundos
+SKILL_20150317_001320	Armadilha Laser
+SKILL_20150317_001321	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Coloca uma armadilha giratória que inflige dano nos inimigos.
+SKILL_20150317_001322	Ataque: #{SkillAtkAdd}#{nl}Duração: 15 segundos
+SKILL_20150317_001323	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Coloca uma armadilha que atira chumbo nos inimigos.
+SKILL_20150317_001324	Ataque #{SkillAtkAdd}#{nl}Espalhado #{CaptionRatio}#
+SKILL_20150317_001325	Estaca Punji
+SKILL_20150317_001326	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Coloca uma armadilha que joga os inimigos que pisarem para longe.
+SKILL_20150317_001327	Ataque #{SkillAtkAdd}#{nl}Tempo de Conjuração 3 segundos
+SKILL_20150317_001328	Detonar Armadilhas
+SKILL_20150317_001329	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Detona armadilhar e circulos mágicos próximos que inflige dano nos inimigos.
+SKILL_20150317_001330	Ataque #{SkillAtkAdd}#{nl}Explosão #{CaptionRatio}# vezes
+SKILL_20150317_001331	Imobilizar
+SKILL_20150317_001332	O Mascote morde e segura o alvo. Uma chance maior de crítico é aplicada no monstro que está preso.
+SKILL_20150317_001333	Chance Crítica +30% {nl}Duração #{CaptionTime}# segundos
 SKILL_20150317_001334	Arrastar de Volta
 SKILL_20150317_001335	O Mascote morde o alvo e traz de volta para o jogador.
-SKILL_20150317_001336	{memo X}Arrasta inimigos com HP menor que #{CaptionRatio}#%{nl} Duração 4 segundos
-SKILL_20150317_001337	$Arrebatar
-SKILL_20150317_001338	$O Mascote morde monstros do tipo voador e trás eles ao chão.
-SKILL_20150317_001339	$Elogiar
-SKILL_20150317_001340	{memo X}Temporariamente aumenta a velocidade de movimento e o ataque do Mascote.
-SKILL_20150317_001341	{memo X}Velocidade de movimento do Mascote + #{CaptionRatio}#% {nl} Duração 60 segundos
-SKILL_20150317_001342	$Apontar
-SKILL_20150317_001343	{memo X}$O seu Mascote provoca e chama a atenção do inimigo. Diminui a evasão do inimigo.
-SKILL_20150317_001344	{memo X}Evasão-#{CaptionRatio}#{nl}Duração 10 segundos
-SKILL_20150317_001345	$Farejar
-SKILL_20150317_001346	$O seu Mascote encontra inimigos próximos.
-SKILL_20150317_001347	$Desintoxicar
-SKILL_20150317_001348	{memo X}Remove veneno dos alvos. Não pode curar habilidades venenos de maior level que o desintoxicar, mas diminui o tempo de duração.
-SKILL_20150317_001349	$Duração: -#{CaptionRatio}# segundos{nl}Consome #{SpendPoison}# Pote(s) de Veneno
-SKILL_20150317_001350	$Soprar Agulha
-SKILL_20150317_001351	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma agulha venenosa que inflige dano por tempo.
-SKILL_20150317_001352	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 30 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
-SKILL_20150317_001353	$Enfeitiçar
-SKILL_20150317_001354	$Inflige confusão em um inimigo envenenado.
-SKILL_20150317_001355	${#339999}{ol}[Confusão]{/}{/}{nl} Duração: 10 segundos {nl}Consome  #{SpendPoison}# Pote de Veneno
-SKILL_20150317_001356	$Wugong Gu
-SKILL_20150317_001357	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contagiosa. O alvo espalha veneno em volta dele mesmo e envenena qualquer inimigo próximo.
-SKILL_20150317_001358	{memo X}Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
-SKILL_20150317_001359	$Atirar Pote Gu
-SKILL_20150317_001360	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira um jarro que cria uma poça de veneno.
-SKILL_20150317_001361	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
-SKILL_20150317_001362	$Jincan Gu
-SKILL_20150317_001363	{memo X}{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contendo parasitas no inimigo.
-SKILL_20150317_001364	{memo X}Ataque #{SkillAtkAdd}#{nl}Usa #{SpendPoison}# Pote de Veneno
-SKILL_20150317_001365	$Camuflagem
-SKILL_20150317_001366	{memo X}Se esconde dentro de um barril para desviar a atenção dos inimigos. O barril fornece defesa contra vários ataques.
-SKILL_20150317_001367	$Número de Bloqueios: #{CaptionRatio}#{nl}Velocidade de Movimento: -#{CaptionRatio}#
-SKILL_20150317_001368	$Flu Flu
-SKILL_20150317_001369	{memo X}Atira uma flecha barulhenta no inimigo. Também afeta inimigos próximos.
-SKILL_20150317_001370	{memo X}Ataque #{SkillAtkAdd}#{nl}acerto do alvo {#339999}{ol}[Medo]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}inflige [Medo] em no máximo #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duração #{CaptionTime}#
-SKILL_20150317_001371	$Tiro Flamejante
-SKILL_20150317_001372	{memo X}Um tiro flamejante que acerta uma área alvo. Faíscas de fogo saem da área em chamas infligindo dano aos inimigos próximos.
-SKILL_20150317_001373	{memo X}Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos
-SKILL_20150317_001374	$Disfarce
-SKILL_20150317_001375	{memo X}Se esconde dos inimigos.
-SKILL_20150317_001376	$Duração: #{CaptionTime}# segundos
-SKILL_20150317_001377	$Distorcer Perspectiva
-SKILL_20150317_001378	{memo X}Distorce o espaço atual fazendo com que ataques corpo a corpo acertem alvos a longa distância.
-SKILL_20150317_001379	{memo X}Duração Max. 10 segundos {nl} #{CaptionRatio}# de SP consumido a cada segundo.
-SKILL_20150317_001380	$Escanear
-SKILL_20150317_001381	{memo X}Mostra monstros e itens escondidos na área alvo.
-SKILL_20150317_001382	{memo X}$Duração: 10 segundos
+SKILL_20150317_001336	Arrasta inimigos com HP menor que #{CaptionRatio}#%{nl} Duração 4 segundos
+SKILL_20150317_001337	Arrebatar
+SKILL_20150317_001338	O Mascote morde monstros do tipo voador e trás eles ao chão.
+SKILL_20150317_001339	Elogiar
+SKILL_20150317_001340	Temporariamente aumenta a velocidade de movimento e o ataque do Mascote.
+SKILL_20150317_001341	Velocidade de movimento do Mascote + #{CaptionRatio}#% {nl} Duração 60 segundos
+SKILL_20150317_001342	Apontar
+SKILL_20150317_001343	O seu Mascote provoca e chama a atenção do inimigo. Diminui a evasão do inimigo.
+SKILL_20150317_001344	Evasão-#{CaptionRatio}#{nl}Duração 10 segundos
+SKILL_20150317_001345	Farejar
+SKILL_20150317_001346	O seu Mascote encontra inimigos próximos.
+SKILL_20150317_001347	Desintoxicar
+SKILL_20150317_001348	Remove veneno dos alvos. Não pode curar habilidades venenos de maior level que o desintoxicar, mas diminui o tempo de duração.
+SKILL_20150317_001349	Duração: -#{CaptionRatio}# segundos{nl}Consome #{SpendPoison}# Pote(s) de Veneno
+SKILL_20150317_001350	Soprar Agulha
+SKILL_20150317_001351	{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma agulha venenosa que inflige dano por tempo.
+SKILL_20150317_001352	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 30 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001353	Enfeitiçar
+SKILL_20150317_001354	Inflige confusão em um inimigo envenenado.
+SKILL_20150317_001355	{#339999}{ol}[Confusão]{/}{/}{nl} Duração: 10 segundos {nl}Consome  #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001356	Wugong Gu
+SKILL_20150317_001357	{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contagiosa. O alvo espalha veneno em volta dele mesmo e envenena qualquer inimigo próximo.
+SKILL_20150317_001358	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Veneno]{/}{/} Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001359	Atirar Pote Gu
+SKILL_20150317_001360	{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira um jarro que cria uma poça de veneno.
+SKILL_20150317_001361	Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos{nl}Usa #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001362	Jincan Gu
+SKILL_20150317_001363	{#DD5500}{ol}[Físico] - [Veneno] - [Perfurante]{/}{/}{nl}Atira uma flecha contendo parasitas no inimigo.
+SKILL_20150317_001364	Ataque #{SkillAtkAdd}#{nl}Usa #{SpendPoison}# Pote de Veneno
+SKILL_20150317_001365	Camuflagem
+SKILL_20150317_001366	Se esconde dentro de um barril para desviar a atenção dos inimigos. O barril fornece defesa contra vários ataques.
+SKILL_20150317_001367	Número de Bloqueios: #{CaptionRatio}#{nl}Velocidade de Movimento: -#{CaptionRatio}#
+SKILL_20150317_001368	Flu Flu
+SKILL_20150317_001369	Atira uma flecha barulhenta no inimigo. Também afeta inimigos próximos.
+SKILL_20150317_001370	Ataque #{SkillAtkAdd}#{nl}acerto do alvo {#339999}{ol}[Medo]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}inflige [Medo] em no máximo #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duração #{CaptionTime}#
+SKILL_20150317_001371	Tiro Flamejante
+SKILL_20150317_001372	Um tiro flamejante que acerta uma área alvo. Faíscas de fogo saem da área em chamas infligindo dano aos inimigos próximos.
+SKILL_20150317_001373	Ataque #{SkillAtkAdd}#{nl}Duração 10 segundos
+SKILL_20150317_001374	Disfarce
+SKILL_20150317_001375	Se esconde dos inimigos.
+SKILL_20150317_001376	Duração: #{CaptionTime}# segundos
+SKILL_20150317_001377	Distorcer Perspectiva
+SKILL_20150317_001378	Distorce o espaço atual fazendo com que ataques corpo a corpo acertem alvos a longa distância.
+SKILL_20150317_001379	Duração Max. 10 segundos {nl} #{CaptionRatio}# de SP consumido a cada segundo.
+SKILL_20150317_001380	Escanear
+SKILL_20150317_001381	Mostra monstros e itens escondidos na área alvo.
+SKILL_20150317_001382	Duração: 10 segundos
 SKILL_20150317_001383	Esteja Preparado
-SKILL_20150317_001384	$Diminui o tempo de recarga de todas as habilidades atuais.
-SKILL_20150317_001385	$Tempo de Recarga: -#{CaptionRatio} segundos#{nl}Consome #{SpendSP}# de SP
-SKILL_20150317_001386	$Picada de Cobra
-SKILL_20150317_001387	$Estratagema
-SKILL_20150317_001388	$Brandir Arco
-SKILL_20150317_001389	{memo X}Flecha de Batalha...
-SKILL_20150317_001390	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
-SKILL_20150317_001391	$Entocar
-SKILL_20150317_001392	$Ponteira Larga
-SKILL_20150317_001393	{memo X}Atira uma flecha que causa sangramento.
-SKILL_20150317_001394	$Ponto Crítico
-SKILL_20150317_001395	{memo X}Atira uma flecha que diminui a defesa e remove magias de proteção.
-SKILL_20150317_001396	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Reduz a armadura com uma chance de 30% à 70% {nl} Consome SP #{SpendSP}#
-SKILL_20150317_001397	$Flecha Farpada
-SKILL_20150317_001398	{memo X}Atira uma flecha farpada. Atinge um inimigo diversas vezes, dependendo da tipo de armadura do inimigo.
-SKILL_20150317_001399	{memo X}Ataque Médio #{SkillFactor}#
-SKILL_20150317_001400	$Fogo Cruzado
-SKILL_20150317_001401	{memo X}Atira uma flecha que explode em formato de cruz caso mate o monstro alvo.
-SKILL_20150317_001402	{memo X}{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl} Consome #{SpendSP }# de SP
+SKILL_20150317_001384	Diminui o tempo de recarga de todas as habilidades atuais.
+SKILL_20150317_001385	Tempo de Recarga: -#{CaptionRatio} segundos#{nl}Consome #{SpendSP}# de SP
+SKILL_20150317_001386	Picada de Cobra
+SKILL_20150317_001387	Estratagema
+SKILL_20150317_001388	Brandir Arco
+SKILL_20150317_001389	Flecha de Batalha...
+SKILL_20150317_001390	{#CC3300}{ol}[Perfurante]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
+SKILL_20150317_001391	Entocar
+SKILL_20150317_001392	Ponteira Larga
+SKILL_20150317_001393	Atira uma flecha que causa sangramento.
+SKILL_20150317_001394	Ponto Crítico
+SKILL_20150317_001395	Atira uma flecha que diminui a defesa e remove magias de proteção.
+SKILL_20150317_001396	{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Reduz a armadura com uma chance de 30% à 70% {nl} Consome SP #{SpendSP}#
+SKILL_20150317_001397	Flecha Farpada
+SKILL_20150317_001398	Atira uma flecha farpada. Atinge um inimigo diversas vezes, dependendo da tipo de armadura do inimigo.
+SKILL_20150317_001399	Ataque Médio #{SkillFactor}#
+SKILL_20150317_001400	Fogo Cruzado
+SKILL_20150317_001401	Atira uma flecha que explode em formato de cruz caso mate o monstro alvo.
+SKILL_20150317_001402	{#CC3300}{ol}[Perfurante]{/}{/}Atributo {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Espalhar #{SkillSR}#{nl} Consome #{SpendSP }# de SP
 SKILL_20150317_001403	Tocar Flauta
 SKILL_20150317_001404	Sentimentos
-SKILL_20150317_001405	{memo X}Se move para longe da área atual ao pular e girar para trás. Ao esquivar um ataque inimigo com sucesso, aumenta drasticamente a chance crítica no próximo ataque.
+SKILL_20150317_001405	Se move para longe da área atual ao pular e girar para trás. Ao esquivar um ataque inimigo com sucesso, aumenta drasticamente a chance crítica no próximo ataque.
 SKILL_20150317_001406	Tiro na Perna
-SKILL_20150317_001407	{memo X}Atira na perna do inimigo para diminuir sua velocidade.
-SKILL_20150317_001408	{memo X}Lv.1 Ataque Médio #{SkillFactor}# Lv.2 Ataque Médio #{SkillFactor}# Lv.3 Ataque Médio #{SkillFactor}#
-SKILL_20150317_001409	{memo X}Impossibilita o inimigo de se mover. O inimigo terá sua velocidade de movimento diminuída após o efeito passar.
-SKILL_20150317_001410	{memo X}Instala um turrete que inflige dano nos inimigos dentro do campo de visão.
-SKILL_20150317_001411	{memo X}Instala um espantalho que provoca os inimigos para se tornar o alvo dos ataques deles.
-SKILL_20150317_001412	{memo X}Temporariamente cega o inimigo. O inimigo não pode usar habilidades enquanto estiver cego.
-SKILL_20150317_001413	{memo X}Chance de Cegueira #{CaptionRatio}#% {nl} Consome #{SpendSP}# de SP
-SKILL_20150317_001414	$Estocada com Sabre
-SKILL_20150317_001415	$Golpe com Sabre
-SKILL_20150317_001416	$Avanço de Cavalaria
+SKILL_20150317_001407	Atira na perna do inimigo para diminuir sua velocidade.
+SKILL_20150317_001408	Lv.1 Ataque Médio #{SkillFactor}# Lv.2 Ataque Médio #{SkillFactor}# Lv.3 Ataque Médio #{SkillFactor}#
+SKILL_20150317_001409	Impossibilita o inimigo de se mover. O inimigo terá sua velocidade de movimento diminuída após o efeito passar.
+SKILL_20150317_001410	Instala um turrete que inflige dano nos inimigos dentro do campo de visão.
+SKILL_20150317_001411	Instala um espantalho que provoca os inimigos para se tornar o alvo dos ataques deles.
+SKILL_20150317_001412	Temporariamente cega o inimigo. O inimigo não pode usar habilidades enquanto estiver cego.
+SKILL_20150317_001413	Chance de Cegueira #{CaptionRatio}#% {nl} Consome #{SpendSP}# de SP
+SKILL_20150317_001414	Estocada com Sabre
+SKILL_20150317_001415	Golpe com Sabre
+SKILL_20150317_001416	Avanço de Cavalaria
 SKILL_20150317_001417	Investida do Cavalo
 SKILL_20150317_001418	Munição de Festim
-SKILL_20150317_001419	$Fogo Concentrado
+SKILL_20150317_001419	Fogo Concentrado
 SKILL_20150317_001420	Ataque de Cabo
-SKILL_20150317_001421	$Enfraquecimento
-SKILL_20150317_001422	$Caracol
-SKILL_20150317_001423	$Limacon
-SKILL_20150317_001424	{memo X}{#DD5500}{ol}[Perfurante]{/}{/}{nl} Instala uma grande besta.
-SKILL_20150317_001425	{memo X}Ataque {#DD4400}{ol}[Dano Físico]{/}{/}+#{SkillAtkAdd}#{nl}Duração de 60 Segundos{nl}Consome #{SpendSP}# de SP
-SKILL_20150317_001426	{memo X}{#993399}{ol}[Magia] - [Divino]{/}{/}{nl} Cria até 5 quadrados mágicos que curam aliados e causam dano em inimigos que passam por cima.
-SKILL_20150317_001427	{memo X}Ataque #{SkillAtkAdd}#{nl}Recuperação de HP #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Duração do círculo mágico 40 segundos
-SKILL_20150317_001428	$Cura
-SKILL_20150317_001429	{memo X}{#993399}{ol}[Magia] - [Divino]{/}{/}{nl} Cria um quadrado mágico que remove efeitos negativos dos aliados e causa dano nos inimigos que passam por cima.
-SKILL_20150317_001430	{memo X}Ataque #{SkillAtkAdd}#{nl}Contador de Ataque #{CaptionRatio}# vezes {nl}Duração do círculo mágico #{CaptionTime}# segundos
-SKILL_20150317_001431	$Zona Segura
-SKILL_20150317_001432	$Cria um círculo mágico que bloqueia ataques.
-SKILL_20150317_001433	$Número de bloqueios: #{SkillFactor}#{nl} Duração do círculo mágico: 20 segundos
-SKILL_20150317_001434	$Zona Desprotegida
-SKILL_20150317_001435	{memo X}Cria um círculo mágico que diminui a defesa do alvo continuamente.
-SKILL_20150317_001436	$Defesa: -#{CaptionRatio}#{nl}Por Pilha: -#{CaptionRatio2}#{nl}Duração do Círculo Mágico: #{CaptionTime}# segundos
-SKILL_20150317_001437	$Poder Divino
-SKILL_20150317_001438	{memo X}Cria um círculo mágico que aumenta o level da habilidade do alvo. O efeito do círculo desaparece do chão assim que usado e não pode ser sobreposto.
-SKILL_20150317_001439	{memo X}Level da Habilidade: +#{SkillFactor}#{nl}Duração: 10 segundos {nl}Duração do Círculo Mágico: 20 segundos
-SKILL_20150317_001440	{memo X}Invoca uma tocha que aumenta a recuperação de HP nas imediações.
-SKILL_20150317_001441	{memo X}Aumenta a habilidade de recuperação de HP{nl}Duração da Tocha #{CaptionTime}# segundos
-SKILL_20150317_001442	$Zalciai
-SKILL_20150317_001443	{memo X}Gera um círculo mágico que altera a capacidade crítica do sujeito.
-SKILL_20150317_001444	$Ataque Crítico dos Aliados: +#{CaptionRatio}#{nl}Resistência crítica dos inimigos: -#{CaptionRatio2}#
-SKILL_20150317_001445	$Daino
-SKILL_20150317_001446	{memo X}Aumenta o número que buffs que um usuário pode ter ao mesmo tempo.
-SKILL_20150317_001447	{memo X}Contador Max. +#{SkillFactor}#{nl}Duração 200 segundos
-SKILL_20150317_001448	{memo X}{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Cria um círculo mágico que invoca relâmpagos em qualquer um que passar por cima da área.
-SKILL_20150317_001449	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataque #{CaptionRatio}# vezes {nl}Duração do círculo mágico 30 segundos
-SKILL_20150317_001450	$Estigma Divino
-SKILL_20150317_001451	{memo X}Marca um monstro. O jogador que matar o monstro irá ter a sua FOR e INT aumentada.
-SKILL_20150317_001452	$FOR, INT: +#{CaptionRatio}#{nl}Duração do Efeito: 30 segundos{nl}Duração do Estigima: #{CaptionRatio2}# segundos
-SKILL_20150317_001453	$Melstis
-SKILL_20150317_001454	{memo X}Cria um círculo mágico que retém buffs para os membros do grupo.
-SKILL_20150317_001455	{memo X}Duração Max. 20 segundos {nl} #{CaptionRatio}#% de SP consumido por segundo
-SKILL_20150317_001456	$Aspersio
-SKILL_20150317_001457	{memo X}{#993399}{ol}[Magia] - [Divino]{/}{/}{nl}Borrifa água sagrada que aumenta a defesa do alvo e causa dano nos inimigos.
-SKILL_20150317_001458	{memo X}Ataque #{SkillAtkAdd}#{nl}Defesa +#{CaptionRatio}# {nl}Alvo 10{nl}Duração #{CaptionRatio2}# segundos{nl}Usa 1 Água Sagrada
-SKILL_20150317_001459	$Monstrance
-SKILL_20150317_001460	{memo X}A destreza dos aliados é aumentada e cria aleatoriamente um circulo mágico que reduz evasão e dano físico dos inimigos.
-SKILL_20150317_001461	{memo X}$Número máximo de círculos mágicos: #{SkillFactor}#{nl}Aumenta DEX dos aliados{nl}Defesa e Evasão dos inimigos: -#{CaptionRatio}#{nl}Duração do Círculo Mágico: 20 segundos
-SKILL_20150317_001462	$Benção
-SKILL_20150317_001463	{memo X}Aumenta o dano das habilidades dos membros do grupo.
-SKILL_20150317_001464	{memo X}Dano adicional + #{CaptionRatio}# {nl} Ataque# {CaptionRatio2} # vezes{nl} {nl} Duração 30 segundos{nl}Usa 1 Pó Sagrado
-SKILL_20150317_001465	$Ressureição
-SKILL_20150317_001466	{memo X}Revive jogadores caídos.
-SKILL_20150317_001467	$Ataque: #{SkillAtkAdd}#{nl}Tempo de Conjuração: #{CaptionTime}# segundos{nl}Recuperação de HP após se recuperar do estado de incapacidade de combate: #{CaptionRatio}#%
-SKILL_20150317_001468	$Sacramento
-SKILL_20150317_001469	{memo X}Concede o atributo sagrado aos ataques dos membros do grupo. Dano adicional é aplicado a ataques básicos.
-SKILL_20150317_001470	{memo X}Atributo de ataque divino + #{CaptionRatio}#{nl} Dano adicional + #{CaptionRatio2}#{nl} Duração #{CaptionTime} segundos#{nl}Usa 1 Gislotis
-SKILL_20150317_001471	$Proteção
-SKILL_20150317_001472	$Dodola
-SKILL_20150317_001473	$Bruxaria
-SKILL_20150317_001474	{memo X}Amaldiçoa um inimigo e diminui a defesa mágica.
-SKILL_20150317_001475	$Defesa Mágica: -#{CaptionRatio}#{nl}Duração da Bruxaria: #{CaptionTime}# segundos
-SKILL_20150317_001476	$Efígie
-SKILL_20150317_001477	{memo X}{#993399}{ol}[Magia] - [Sombrio]{/}{/}{nl}Causa dano em inimigos afetados por Bruxaria. O terceiro ataque inflige mais dano.
-SKILL_20150317_001478	{memo X}Ataque #{SkillAtkAdd}#{nl}Bônus de ataque no terceiro ataque #{CaptionRatio}# vezes ~ #{CaptionRatio2}#vezes
-SKILL_20150317_001479	$Tet Mamak La
-SKILL_20150317_001480	{memo X}Atrai os Zumbis até a área alvo.
+SKILL_20150317_001421	Enfraquecimento
+SKILL_20150317_001422	Caracol
+SKILL_20150317_001423	Limacon
+SKILL_20150317_001424	{#DD5500}{ol}[Perfurante]{/}{/}{nl} Instala uma grande besta.
+SKILL_20150317_001425	Ataque {#DD4400}{ol}[Dano Físico]{/}{/}+#{SkillAtkAdd}#{nl}Duração de 60 Segundos{nl}Consome #{SpendSP}# de SP
+SKILL_20150317_001426	{#993399}{ol}[Magia] - [Divino]{/}{/}{nl} Cria até 5 quadrados mágicos que curam aliados e causam dano em inimigos que passam por cima.
+SKILL_20150317_001427	Ataque #{SkillAtkAdd}#{nl}Recuperação de HP #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Duração do círculo mágico 40 segundos
+SKILL_20150317_001428	Cura
+SKILL_20150317_001429	{#993399}{ol}[Magia] - [Divino]{/}{/}{nl} Cria um quadrado mágico que remove efeitos negativos dos aliados e causa dano nos inimigos que passam por cima.
+SKILL_20150317_001430	Ataque #{SkillAtkAdd}#{nl}Contador de Ataque #{CaptionRatio}# vezes {nl}Duração do círculo mágico #{CaptionTime}# segundos
+SKILL_20150317_001431	Zona Segura
+SKILL_20150317_001432	Cria um círculo mágico que bloqueia ataques.
+SKILL_20150317_001433	Número de bloqueios: #{SkillFactor}#{nl} Duração do círculo mágico: 20 segundos
+SKILL_20150317_001434	Zona Desprotegida
+SKILL_20150317_001435	Cria um círculo mágico que diminui a defesa do alvo continuamente.
+SKILL_20150317_001436	Defesa: -#{CaptionRatio}#{nl}Por Pilha: -#{CaptionRatio2}#{nl}Duração do Círculo Mágico: #{CaptionTime}# segundos
+SKILL_20150317_001437	Poder Divino
+SKILL_20150317_001438	Cria um círculo mágico que aumenta o level da habilidade do alvo. O efeito do círculo desaparece do chão assim que usado e não pode ser sobreposto.
+SKILL_20150317_001439	Level da Habilidade: +#{SkillFactor}#{nl}Duração: 10 segundos {nl}Duração do Círculo Mágico: 20 segundos
+SKILL_20150317_001440	Invoca uma tocha que aumenta a recuperação de HP nas imediações.
+SKILL_20150317_001441	Aumenta a habilidade de recuperação de HP{nl}Duração da Tocha #{CaptionTime}# segundos
+SKILL_20150317_001442	Zalciai
+SKILL_20150317_001443	Gera um círculo mágico que altera a capacidade crítica do sujeito.
+SKILL_20150317_001444	Ataque Crítico dos Aliados: +#{CaptionRatio}#{nl}Resistência crítica dos inimigos: -#{CaptionRatio2}#
+SKILL_20150317_001445	Daino
+SKILL_20150317_001446	Aumenta o número que buffs que um usuário pode ter ao mesmo tempo.
+SKILL_20150317_001447	Contador Max. +#{SkillFactor}#{nl}Duração 200 segundos
+SKILL_20150317_001448	{#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Cria um círculo mágico que invoca relâmpagos em qualquer um que passar por cima da área.
+SKILL_20150317_001449	Ataque #{SkillAtkAdd}#{nl}Ataque #{CaptionRatio}# vezes {nl}Duração do círculo mágico 30 segundos
+SKILL_20150317_001450	Estigma Divino
+SKILL_20150317_001451	Marca um monstro. O jogador que matar o monstro irá ter a sua FOR e INT aumentada.
+SKILL_20150317_001452	FOR, INT: +#{CaptionRatio}#{nl}Duração do Efeito: 30 segundos{nl}Duração do Estigima: #{CaptionRatio2}# segundos
+SKILL_20150317_001453	Melstis
+SKILL_20150317_001454	Cria um círculo mágico que retém buffs para os membros do grupo.
+SKILL_20150317_001455	Duração Max. 20 segundos {nl} #{CaptionRatio}#% de SP consumido por segundo
+SKILL_20150317_001456	Aspersio
+SKILL_20150317_001457	{#993399}{ol}[Magia] - [Divino]{/}{/}{nl}Borrifa água sagrada que aumenta a defesa do alvo e causa dano nos inimigos.
+SKILL_20150317_001458	Ataque #{SkillAtkAdd}#{nl}Defesa +#{CaptionRatio}# {nl}Alvo 10{nl}Duração #{CaptionRatio2}# segundos{nl}Usa 1 Água Sagrada
+SKILL_20150317_001459	Monstrance
+SKILL_20150317_001460	A destreza dos aliados é aumentada e cria aleatoriamente um circulo mágico que reduz evasão e dano físico dos inimigos.
+SKILL_20150317_001461	Número máximo de círculos mágicos: #{SkillFactor}#{nl}Aumenta DEX dos aliados{nl}Defesa e Evasão dos inimigos: -#{CaptionRatio}#{nl}Duração do Círculo Mágico: 20 segundos
+SKILL_20150317_001462	Benção
+SKILL_20150317_001463	Aumenta o dano das habilidades dos membros do grupo.
+SKILL_20150317_001464	Dano adicional + #{CaptionRatio}# {nl} Ataque# {CaptionRatio2} # vezes{nl} {nl} Duração 30 segundos{nl}Usa 1 Pó Sagrado
+SKILL_20150317_001465	Ressureição
+SKILL_20150317_001466	Revive jogadores caídos.
+SKILL_20150317_001467	Ataque: #{SkillAtkAdd}#{nl}Tempo de Conjuração: #{CaptionTime}# segundos{nl}Recuperação de HP após se recuperar do estado de incapacidade de combate: #{CaptionRatio}#%
+SKILL_20150317_001468	Sacramento
+SKILL_20150317_001469	Concede o atributo sagrado aos ataques dos membros do grupo. Dano adicional é aplicado a ataques básicos.
+SKILL_20150317_001470	Atributo de ataque divino + #{CaptionRatio}#{nl} Dano adicional + #{CaptionRatio2}#{nl} Duração #{CaptionTime} segundos#{nl}Usa 1 Gislotis
+SKILL_20150317_001471	Proteção
+SKILL_20150317_001472	Dodola
+SKILL_20150317_001473	Bruxaria
+SKILL_20150317_001474	Amaldiçoa um inimigo e diminui a defesa mágica.
+SKILL_20150317_001475	Defesa Mágica: -#{CaptionRatio}#{nl}Duração da Bruxaria: #{CaptionTime}# segundos
+SKILL_20150317_001476	Efígie
+SKILL_20150317_001477	{#993399}{ol}[Magia] - [Sombrio]{/}{/}{nl}Causa dano em inimigos afetados por Bruxaria. O terceiro ataque inflige mais dano.
+SKILL_20150317_001478	Ataque #{SkillAtkAdd}#{nl}Bônus de ataque no terceiro ataque #{CaptionRatio}# vezes ~ #{CaptionRatio2}#vezes
+SKILL_20150317_001479	Tet Mamak La
+SKILL_20150317_001480	Atrai os Zumbis até a área alvo.
 SKILL_20150317_001481	Requer um zumbi invocado{nl}Level Máximo: 1
-SKILL_20150317_001482	$Zumbificar
-SKILL_20150317_001483	{memo X}Cria um círculo mágico no chão. Inimigos mortos nessa área voltam como zumbis.
-SKILL_20150317_001484	$Tempo de Duração do Círculo Mágico: #{CaptionTime}# {nl}Número máximo de zumbis invocados: #{CaptionRatio}#
-SKILL_20150317_001485	$Mackangdal
-SKILL_20150317_001486	{memo X}Joga um amuleto no alvo. O alvo se torna invencível enquanto o efeito do amuleto durar, mas receberá todo o dano causado quando o efeito acabar.
-SKILL_20150317_001487	$Tempo de Invencibilidade: #{CaptionTime}# segundos
-SKILL_20150317_001488	$Bwa Kayiman
-SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Zumbis andam em volta da área alvo. Os inimigos são empurrados para longe e sofrem dano quando encostam nos zumbis.
-SKILL_20150317_001490	{memo X}Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados
-SKILL_20150317_001491	$Samediveve
-SKILL_20150317_001492	{memo X}Coloca uma bandeira no chão que aumenta a velocidade de movimento e o HP máximo dos alvos próximos.
-SKILL_20150317_001493	{memo X}HP Max. +#{CaptionRatio}#{nl}Velocidade de Movimento +#{CaptionRatio2}#% Duração 30 segundos {nl}
-SKILL_20150317_001494	$Ogouveve
-SKILL_20150317_001495	{memo X}Coloca uma bandeira no chão que aumenta a FOR dos aliados próximos.
-SKILL_20150317_001496	{memo X}Força + #{CaptionRatio}#{nl}Duração 30 segundos
-SKILL_20150317_001497	$Damballa
-SKILL_20150317_001498	{memo X}{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na área alvo causando dano nos inimigos próximos.
-SKILL_20150317_001499	{memo X}Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
-SKILL_20150317_001500	{memo X}Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
+SKILL_20150317_001482	Zumbificar
+SKILL_20150317_001483	Cria um círculo mágico no chão. Inimigos mortos nessa área voltam como zumbis.
+SKILL_20150317_001484	Tempo de Duração do Círculo Mágico: #{CaptionTime}# {nl}Número máximo de zumbis invocados: #{CaptionRatio}#
+SKILL_20150317_001485	Mackangdal
+SKILL_20150317_001486	Joga um amuleto no alvo. O alvo se torna invencível enquanto o efeito do amuleto durar, mas receberá todo o dano causado quando o efeito acabar.
+SKILL_20150317_001487	Tempo de Invencibilidade: #{CaptionTime}# segundos
+SKILL_20150317_001488	Bwa Kayiman
+SKILL_20150317_001489	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Zumbis andam em volta da área alvo. Os inimigos são empurrados para longe e sofrem dano quando encostam nos zumbis.
+SKILL_20150317_001490	Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados
+SKILL_20150317_001491	Samediveve
+SKILL_20150317_001492	Coloca uma bandeira no chão que aumenta a velocidade de movimento e o HP máximo dos alvos próximos.
+SKILL_20150317_001493	HP Max. +#{CaptionRatio}#{nl}Velocidade de Movimento +#{CaptionRatio2}#% Duração 30 segundos {nl}
+SKILL_20150317_001494	Ogouveve
+SKILL_20150317_001495	Coloca uma bandeira no chão que aumenta a FOR dos aliados próximos.
+SKILL_20150317_001496	Força + #{CaptionRatio}#{nl}Duração 30 segundos
+SKILL_20150317_001497	Damballa
+SKILL_20150317_001498	{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na área alvo causando dano nos inimigos próximos.
+SKILL_20150317_001499	Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
+SKILL_20150317_001500	Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
 SKILL_20150317_001501	
 SKILL_20150317_001502 Estátua da Deusa Zemyna
 SKILL_20150317_001503 Esculpe a estátua da Deusa Zemyna. O consumo de SP dos membros do grupo diminuí quando próximo a estátua.
@@ -5597,140 +5597,599 @@ SKILL_20151102_005596	Aumenta o dano causado a um inimigo com [Mijin no Jutsu] e
 SKILL_20151102_005597	Mijin no Jutsu: Furtividade
 SKILL_20151102_005598	Seu personagem vai se esconder por 5 segundos apos usar [Mijin no Jutsu]. Aumenta a partir do nível 2 a duração em 1,5 segundos por nível de atributo.
 SKILL_20151102_005599	Katon no Jutsu: Furtividade
-SKILL_20151102_005600	$Seu personagem vai se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
-SKILL_20151102_005601	$Bunshin no Jutsu: Resistência
-SKILL_20151102_005602	$Aumenta o tempo do ciclo para o custo da STA em 0,5 segundos por nível de atributo.
-SKILL_20151102_005603	$Mokuton no Jutsu: Vincular
-SKILL_20151102_005604	$Restringe o movimento de um inimigo por 4 segundos quando tomar dano com [Mokuton no Jutsu]. Aumenta a duração do Nível 2 em 1 segundo por nível de atributo.
-SKILL_20151102_005605	$Bunshin no Jutsu: Diminuir Dano
-SKILL_20151102_005606	$Diminui o dano dos clones sombrios do [Bunshin no Jutsu].
-SKILL_20151102_005607	$Dente do Dragão: Aprimorar
-SKILL_20151102_005608	$Aumenta o dano causado a um inimigo com [Dente do Dragão] em 1% por nível de atributo.
-SKILL_20151102_005609	$Dente do Dragão: Evasão
-SKILL_20151102_005610	$Aumenta a evasão em 10% por nível de atributo por 7 segundos depois de usar [Dente do Dragão].
-SKILL_20151102_005611	$Serpentina: Aprimorar
-SKILL_20151102_005612	$Aumenta o dano causado a um inimigo com [Serpentina] em 1% por nível de atributo.
-SKILL_20151102_005613	$Serpentina: Sangrar
-SKILL_20151102_005614	$Inimigos atingidos por [Serpentina] tem 2% de chance por nível de atributo de serem infligidos com [Sangramento] por 8 segundos. Dano de Sangramento é proporcional ao ataque físico do atacante.
-SKILL_20151102_005615	$Gae Bulg: Aprimorar
-SKILL_20151102_005616	$Aumenta o dano causado a um inimigo com [Gae Bulg] em 1% por nível de atributo.
+SKILL_20151102_005600	Seu personagem vai se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
+SKILL_20151102_005601	Bunshin no Jutsu: Resistência
+SKILL_20151102_005602	Aumenta o tempo do ciclo para o custo da STA em 0,5 segundos por nível de atributo.
+SKILL_20151102_005603	Mokuton no Jutsu: Vincular
+SKILL_20151102_005604	Restringe o movimento de um inimigo por 4 segundos quando tomar dano com [Mokuton no Jutsu]. Aumenta a duração do Nível 2 em 1 segundo por nível de atributo.
+SKILL_20151102_005605	Bunshin no Jutsu: Diminuir Dano
+SKILL_20151102_005606	Diminui o dano dos clones sombrios do [Bunshin no Jutsu].
+SKILL_20151102_005607	Dente do Dragão: Aprimorar
+SKILL_20151102_005608	Aumenta o dano causado a um inimigo com [Dente do Dragão] em 1% por nível de atributo.
+SKILL_20151102_005609	Dente do Dragão: Evasão
+SKILL_20151102_005610	Aumenta a evasão em 10% por nível de atributo por 7 segundos depois de usar [Dente do Dragão].
+SKILL_20151102_005611	Serpentina: Aprimorar
+SKILL_20151102_005612	Aumenta o dano causado a um inimigo com [Serpentina] em 1% por nível de atributo.
+SKILL_20151102_005613	Serpentina: Sangrar
+SKILL_20151102_005614	Inimigos atingidos por [Serpentina] tem 2% de chance por nível de atributo de serem infligidos com [Sangramento] por 8 segundos. Dano de Sangramento é proporcional ao ataque físico do atacante.
+SKILL_20151102_005615	Gae Bulg: Aprimorar
+SKILL_20151102_005616	Aumenta o dano causado a um inimigo com [Gae Bulg] em 1% por nível de atributo.
 SKILL_20151102_005617	
 SKILL_20151102_005618	
-SKILL_20151102_005619	$Voo do Dragão: Aprimorar
-SKILL_20151102_005620	$Aumenta o dano causado a um inimigo com [Voo do Dragão] em 1% por nível de atributo.
-SKILL_20151102_005621	$Voo do Dragão: Choque
+SKILL_20151102_005619	Voo do Dragão: Aprimorar
+SKILL_20151102_005620	Aumenta o dano causado a um inimigo com [Voo do Dragão] em 1% por nível de atributo.
+SKILL_20151102_005621	Voo do Dragão: Choque
 SKILL_20151102_005622	
-SKILL_20151102_005623	$Cordão Umbilical: Aumentar Anulação
-SKILL_20151102_005624	$Aumenta a chance de anular ataques inimigos enquanto usar [Cordão Umbilical] em 2% por nível de atributo.
-SKILL_20151102_005625	$Sanção Conjunta: Eletricidade
-SKILL_20151102_005626	$Causa 10%, por nível de atributo, de dano adicional da propriedade Elétrico a inimigos afetados por [Sanção Conjunta].
-SKILL_20151102_005627	$Sanção Conjunta: Veneno
-SKILL_20151102_005628	$Causa 10%, por nível de atributo, de dano adicional da propriedade Veneno a inimigos afetados por [Sanção Conjunta].
-SKILL_20151102_005629	$Sanção Conjunta: Terra
-SKILL_20151102_005630	$Causa 10%, por nível de atributo, de dano adicional da propriedade Terra a inimigos afetados por [Sanção Conjunta].
-SKILL_20151102_005631	$Sanção Conjunta: Aumentar Anulação
-SKILL_20151102_005632	$Diminui a chance de anulação de ataques de inimigos afetados por [Sanção Conjunta] em 5% por nível de atributo.
-SKILL_20151102_005633	$Bruxo: Ataque da Escuridão
-SKILL_20151102_005634	$Aumenta o dano da propriedade Escuridão em inimigos em 1% por nível de atributo.
-SKILL_20151102_005635	$Haste da Agonia: Aprimorar
-SKILL_20151102_005636	$Aumenta o dano causado a um inimigo com [Haste da Agonia] em 1% por nível de atributo.
-SKILL_20151102_005637	$Haste da Agonia: Duração
-SKILL_20151102_005638	$Aumenta o tempo de duração da [Haste da Agonia] em um inimigo em 0,8 segundos por nível de atributo.
-SKILL_20151102_005639	$Invocação: Aprimorar
-SKILL_20151102_005640	$Aumenta o dano causado a um inimigo com [Invocação] em 1% por nível de atributo.
+SKILL_20151102_005623	Cordão Umbilical: Aumentar Anulação
+SKILL_20151102_005624	Aumenta a chance de anular ataques inimigos enquanto usar [Cordão Umbilical] em 2% por nível de atributo.
+SKILL_20151102_005625	Sanção Conjunta: Eletricidade
+SKILL_20151102_005626	Causa 10%, por nível de atributo, de dano adicional da propriedade Elétrico a inimigos afetados por [Sanção Conjunta].
+SKILL_20151102_005627	Sanção Conjunta: Veneno
+SKILL_20151102_005628	Causa 10%, por nível de atributo, de dano adicional da propriedade Veneno a inimigos afetados por [Sanção Conjunta].
+SKILL_20151102_005629	Sanção Conjunta: Terra
+SKILL_20151102_005630	Causa 10%, por nível de atributo, de dano adicional da propriedade Terra a inimigos afetados por [Sanção Conjunta].
+SKILL_20151102_005631	Sanção Conjunta: Aumentar Anulação
+SKILL_20151102_005632	Diminui a chance de anulação de ataques de inimigos afetados por [Sanção Conjunta] em 5% por nível de atributo.
+SKILL_20151102_005633	Bruxo: Ataque da Escuridão
+SKILL_20151102_005634	Aumenta o dano da propriedade Escuridão em inimigos em 1% por nível de atributo.
+SKILL_20151102_005635	Haste da Agonia: Aprimorar
+SKILL_20151102_005636	Aumenta o dano causado a um inimigo com [Haste da Agonia] em 1% por nível de atributo.
+SKILL_20151102_005637	Haste da Agonia: Duração
+SKILL_20151102_005638	Aumenta o tempo de duração da [Haste da Agonia] em um inimigo em 0,8 segundos por nível de atributo.
+SKILL_20151102_005639	Invocação: Aprimorar
+SKILL_20151102_005640	Aumenta o dano causado a um inimigo com [Invocação] em 1% por nível de atributo.
 SKILL_20151102_005641	Aumenta dano de ataques da propriedade Escuridão dos aliados próximos do espírito maligno da [Invocação] em 5% por nível de atributo. O invocador do espírito maligno recebe o efeito dobrado.
-SKILL_20151102_005642	$Pulso Tenebroso: Criar Espírito Maligno
-SKILL_20151102_005643	$[Pulso Tenebroso] possui 0,4% de chance por nível de atributo de criar um espírito maligno na posição do inimigo.
-SKILL_20151102_005644	$Pulso Tenebroso: Aprimorar
-SKILL_20151102_005645	$Aumenta o dano causado a um inimigo com [Pulso Tenebroso] em 1% por nível de atributo.
-SKILL_20151102_005646	$Pulso Tenebroso: Cegueira
-SKILL_20151102_005647	$Inimigos atingidos por [Pulso Tenebroso] tem 1% de chance de ser infligido com [Cegueira] por 10 segundos por nível de atributo.
-SKILL_20151102_005648	$Mastema: Aprimorar
-SKILL_20151102_005649	$Aumenta o dano causado a um inimigo com [Mastema] em 1% por nível de atributo.
-SKILL_20151102_005650	$Mastema: Reduzir Ameaça
+SKILL_20151102_005642	Pulso Tenebroso: Criar Espírito Maligno
+SKILL_20151102_005643	[Pulso Tenebroso] possui 0,4% de chance por nível de atributo de criar um espírito maligno na posição do inimigo.
+SKILL_20151102_005644	Pulso Tenebroso: Aprimorar
+SKILL_20151102_005645	Aumenta o dano causado a um inimigo com [Pulso Tenebroso] em 1% por nível de atributo.
+SKILL_20151102_005646	Pulso Tenebroso: Cegueira
+SKILL_20151102_005647	Inimigos atingidos por [Pulso Tenebroso] tem 1% de chance de ser infligido com [Cegueira] por 10 segundos por nível de atributo.
+SKILL_20151102_005648	Mastema: Aprimorar
+SKILL_20151102_005649	Aumenta o dano causado a um inimigo com [Mastema] em 1% por nível de atributo.
+SKILL_20151102_005650	Mastema: Reduzir Ameaça
 SKILL_20151102_005651
-SKILL_20151102_005652	$Haste da Agonia: Manter
+SKILL_20151102_005652	Haste da Agonia: Manter
 SKILL_20151102_005653
-SKILL_20151102_005654	$Sugar Sangue: Aprimorar Suprimento de #pending HP
-SKILL_20151102_005655	$Aumenta a quantidade de #pending HP absorvido em 1% por nível de atributo.  
-SKILL_20151102_005656	$Banho de Sangue: Aprimorar Suprimento de #pending SP
-SKILL_20151102_005657	$Aumenta a quantidade de #pending SP absorvido em 1% por nível de atributo.
-SKILL_20151102_005658	$Banho de Sangue: Aprimorar
-SKILL_20151102_005659	$Aumenta o dano causado a um inimigo com [Banho de Sangue] em 1% por nível de atributo.
-SKILL_20151102_005660	$Sugar Sangue: Aprimorar
-SKILL_20151102_005661	$Aumenta o dano causado a um inimigo com [Sugar Sangue] em 1% por nível de atributo.
-SKILL_20151102_005662	$Punhal Ósseo: Aprimorar
-SKILL_20151102_005663	$Aumenta o dano causado a um inimigo com [Punhal Ósseo] em 1% por nível de atributo.
-SKILL_20151102_005664	$Punhal Ósseo: Tempo de Invocação
-SKILL_20151102_005665	$Aumenta o tempo de invocação do [Punhal Ósseo] em 1 segundo por nível de atributo.
-SKILL_20151102_005666	$Ngadhundi: Aprimorar
-SKILL_20151102_005667	$Aumenta o dano causado a um inimigo com [Ngadhundi] em 1% por nível de atributo.
-SKILL_20151102_005668	$Kurdaitcha: Aprimorar
+SKILL_20151102_005654	Sugar Sangue: Aprimorar Suprimento de #pending HP
+SKILL_20151102_005655	Aumenta a quantidade de #pending HP absorvido em 1% por nível de atributo.  
+SKILL_20151102_005656	Banho de Sangue: Aprimorar Suprimento de #pending SP
+SKILL_20151102_005657	Aumenta a quantidade de #pending SP absorvido em 1% por nível de atributo.
+SKILL_20151102_005658	Banho de Sangue: Aprimorar
+SKILL_20151102_005659	Aumenta o dano causado a um inimigo com [Banho de Sangue] em 1% por nível de atributo.
+SKILL_20151102_005660	Sugar Sangue: Aprimorar
+SKILL_20151102_005661	Aumenta o dano causado a um inimigo com [Sugar Sangue] em 1% por nível de atributo.
+SKILL_20151102_005662	Punhal Ósseo: Aprimorar
+SKILL_20151102_005663	Aumenta o dano causado a um inimigo com [Punhal Ósseo] em 1% por nível de atributo.
+SKILL_20151102_005664	Punhal Ósseo: Tempo de Invocação
+SKILL_20151102_005665	Aumenta o tempo de invocação do [Punhal Ósseo] em 1 segundo por nível de atributo.
+SKILL_20151102_005666	Ngadhundi: Aprimorar
+SKILL_20151102_005667	Aumenta o dano causado a um inimigo com [Ngadhundi] em 1% por nível de atributo.
+SKILL_20151102_005668	Kurdaitcha: Aprimorar
 SKILL_20151102_005669
-SKILL_20151102_005670	$Levitação: Anula Dano Físico
-SKILL_20151102_005671	$Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1,5% por nível de atributo.
-SKILL_20151102_005672	$Pés Leves: Aumentar Recuperação
-SKILL_20151102_005673	$Aumenta a recuperação de #pending HP é #pending SP por meio de habilidades e poções em 0,5% por nível de atributo.
-SKILL_20151102_005674	$Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [Arco de Duas Mãos].
-SKILL_20151102_005675	$Ignora 5% da defesa do alvo por nível de atributo quando atacar com um [Arco de Uma Mão].
-SKILL_20151102_005676	$Maestria com Escudos: Defesa de Projéteis
-SKILL_20151102_005677	$Aumenta a chance de bloquear um [Projétil] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
-SKILL_20151102_005678	$Aumenta sua precisão por 5% por nível de atributo enquanto estiver equipado com Pistolas.
-SKILL_20151102_005679	$Abater: Cair
-SKILL_20151102_005680	$Monstros voadores atingidos por [Abater] irão cair no chão por 3 segundos por nível de atributo.
-SKILL_20151102_005681	$Cerco Explosivo: Alcance Aumentado
-SKILL_20151102_005682	$Determina um local mais distante quando usar [Cerco Explosivo]. Quanto maior o atributo maior seu alcance.
-SKILL_20151102_005683	$Disparo de Canhão: Romper Armadura
-SKILL_20151102_005684	$Inimigos atingidos por [Disparo de Canhão] tem 7% de chance por nível de atributo de ser infligido por [Romper Armadura] por 10 segundos.
-SKILL_20151102_005685	$0,5% de chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
-SKILL_20151102_005686	$Fogo de Cobertura: Aprimorar
-SKILL_20151102_005687	$Aumenta o dano causado a um inimigo com [Fogo de Cobertura] em 1% por nível de atributo.
-SKILL_20151102_005688	$Tiro na Cabeça: Aprimorar
-SKILL_20151102_005689	$Aumenta o dano causado a um inimigo com [Tiro na Cabeça] em 1% por nível de atributo.
-SKILL_20151102_005690	$Disparo: Aprimorar
-SKILL_20151102_005691	$Aumenta o dano causado a um inimigo com [Disparo] em 1% por nível de atributo.
-SKILL_20151102_005692	$Tiro Penetrante: Aprimorar
-SKILL_20151102_005693	$Aumenta o dano causado a um inimigo com [Tiro Penetrante] em 1% por nível de atributo.
-SKILL_20151102_005694	$Coronhada: Aprimorar
-SKILL_20151102_005695	$Aumenta o dano causado a um inimigo com [Coronhada] em 1% por nível de atributo.
-SKILL_20151102_005696	$Investida de Baioneta: Aprimorar
-SKILL_20151102_005697	$Aumenta o dano causado a um inimigo com [Investida de Baioneta] em 1% por nível de atributo.
-SKILL_20151102_005698	$Coronhada: Atordoar
-SKILL_20151102_005699	$Inflige atordoar numa chance de 1,5% por nível de atributo por 3 segundos em inimigos atingidos por [Coronhada].
-SKILL_20151102_005700	$Inflige atordoar numa chance de 2% por nível de atributo quando realizar um ataque básico em um inimigo com [Instrumento Contundente].
-SKILL_20151102_005701	$Inimigos recebem dano Sagrado igual ao [Nível de Atributo] quando utilizar [Energia Arcana].
-SKILL_20151102_005702	$Fator de Cura: Ataque
+SKILL_20151102_005670	Levitação: Anula Dano Físico
+SKILL_20151102_005671	Aumenta a chance de anular um ataque físico enquanto usar [Levitação] em 1,5% por nível de atributo.
+SKILL_20151102_005672	Pés Leves: Aumentar Recuperação
+SKILL_20151102_005673	Aumenta a recuperação de #pending HP é #pending SP por meio de habilidades e poções em 0,5% por nível de atributo.
+SKILL_20151102_005674	Causa 20% de dano adicional por nível de atributo quando atacar monstros voadores com um [Arco de Duas Mãos].
+SKILL_20151102_005675	Ignora 5% da defesa do alvo por nível de atributo quando atacar com um [Arco de Uma Mão].
+SKILL_20151102_005676	Maestria com Escudos: Defesa de Projéteis
+SKILL_20151102_005677	Aumenta a chance de bloquear um [Projétil] enquanto usar um [Escudo], aumenta seu ataque físico em 50% do valor de defesa do escudo por nível de atributo por 10 segundos após um bloqueio.
+SKILL_20151102_005678	Aumenta sua precisão por 5% por nível de atributo enquanto estiver equipado com Pistolas.
+SKILL_20151102_005679	Abater: Cair
+SKILL_20151102_005680	Monstros voadores atingidos por [Abater] irão cair no chão por 3 segundos por nível de atributo.
+SKILL_20151102_005681	Cerco Explosivo: Alcance Aumentado
+SKILL_20151102_005682	Determina um local mais distante quando usar [Cerco Explosivo]. Quanto maior o atributo maior seu alcance.
+SKILL_20151102_005683	Disparo de Canhão: Romper Armadura
+SKILL_20151102_005684	Inimigos atingidos por [Disparo de Canhão] tem 7% de chance por nível de atributo de ser infligido por [Romper Armadura] por 10 segundos.
+SKILL_20151102_005685	0,5% de chance por nível de atributo de matar monstros pequenos instantaneamente quando atacar com [Rifle].
+SKILL_20151102_005686	Fogo de Cobertura: Aprimorar
+SKILL_20151102_005687	Aumenta o dano causado a um inimigo com [Fogo de Cobertura] em 1% por nível de atributo.
+SKILL_20151102_005688	Tiro na Cabeça: Aprimorar
+SKILL_20151102_005689	Aumenta o dano causado a um inimigo com [Tiro na Cabeça] em 1% por nível de atributo.
+SKILL_20151102_005690	Disparo: Aprimorar
+SKILL_20151102_005691	Aumenta o dano causado a um inimigo com [Disparo] em 1% por nível de atributo.
+SKILL_20151102_005692	Tiro Penetrante: Aprimorar
+SKILL_20151102_005693	Aumenta o dano causado a um inimigo com [Tiro Penetrante] em 1% por nível de atributo.
+SKILL_20151102_005694	Coronhada: Aprimorar
+SKILL_20151102_005695	Aumenta o dano causado a um inimigo com [Coronhada] em 1% por nível de atributo.
+SKILL_20151102_005696	Investida de Baioneta: Aprimorar
+SKILL_20151102_005697	Aumenta o dano causado a um inimigo com [Investida de Baioneta] em 1% por nível de atributo.
+SKILL_20151102_005698	Coronhada: Atordoar
+SKILL_20151102_005699	Inflige atordoar numa chance de 1,5% por nível de atributo por 3 segundos em inimigos atingidos por [Coronhada].
+SKILL_20151102_005700	Inflige atordoar numa chance de 2% por nível de atributo quando realizar um ataque básico em um inimigo com [Instrumento Contundente].
+SKILL_20151102_005701	Inimigos recebem dano Sagrado igual ao [Nível de Atributo] quando utilizar [Energia Arcana].
+SKILL_20151102_005702	Fator de Cura: Ataque
 SKILL_20151102_005703
-SKILL_20151102_005704	$Incineração: Aprimorar
-SKILL_20151102_005705	$Aumenta o dano causado a um inimigo com [Incineração] em 1% por nível de atributo.
-SKILL_20151102_005706	$Sangria: Hemostasia
-SKILL_20151102_005707	$Aumenta o tempo de ciclo do custo de #pending HP em 0,2 segundos por nível de atributo enquanto [Sangria] estiver ativo.
-SKILL_20151102_005708	$Sangria: Substituto #pending SP
-SKILL_20151102_005709	$Enquanto [Sangria] estiver ativo, cada ciclo tem 10% de chance por nível de atributo de reduzir #pending SP invés de #pending HP.
-SKILL_20151102_005710	$Aumenta a chance de [Fumegar] bloquear estados anormais de nível 3 ou menor por 10 segundos em 5% por nível de atributo.
-SKILL_20151102_005711	$A área em que [Fumegar] é aplicada ganha efeito de purificação por 10 segundos. Aliados dentro dessa área ganham 10% de resistência contra propriedades Venenosas.
-SKILL_20151102_005712	$Máscara Bico de Pássaro: Imunidade
-SKILL_20151102_005713	$Aumenta a chance de bloquear estados anormais de nível 3 em 5% por nível de atributo, porém aumenta o custo #pending SP enquanto usar a [Máscara Bico de Pássaro].
-SKILL_20151102_005714	$Máscara Bico de Pássaro: Resistência a Veneno
-SKILL_20151102_005715	$Aumenta a resistência a Veneno em 5 por nível de atributo enquanto usar a [Máscara Bico de Pássaro].
-SKILL_20151102_005716	$Vingança Séptupla: Duração
-SKILL_20151102_005717	$Aumenta a duração dos efeitos de [Vingança Séptupla] por 1 segundo por nível de atributo.
-SKILL_20151102_005718	$Vingança Séptupla: Maldição
-SKILL_20151102_005719	$Inflige [Maldição] numa chance de 10% por 4 segundos em um inimigo quando causar dano com [Vingança Séptupla].
-SKILL_20151102_005720	$Nachash: Aprimorar
-SKILL_20151102_005721	$Aumenta o dano causado a um inimigo com [Nachash] em 1% por nível de atributo.
-SKILL_20151102_005722	$Nachash: Resistência
+SKILL_20151102_005704	Incineração: Aprimorar
+SKILL_20151102_005705	Aumenta o dano causado a um inimigo com [Incineração] em 1% por nível de atributo.
+SKILL_20151102_005706	Sangria: Hemostasia
+SKILL_20151102_005707	Aumenta o tempo de ciclo do custo de #pending HP em 0,2 segundos por nível de atributo enquanto [Sangria] estiver ativo.
+SKILL_20151102_005708	Sangria: Substituto #pending SP
+SKILL_20151102_005709	Enquanto [Sangria] estiver ativo, cada ciclo tem 10% de chance por nível de atributo de reduzir #pending SP invés de #pending HP.
+SKILL_20151102_005710	Aumenta a chance de [Fumegar] bloquear estados anormais de nível 3 ou menor por 10 segundos em 5% por nível de atributo.
+SKILL_20151102_005711	A área em que [Fumegar] é aplicada ganha efeito de purificação por 10 segundos. Aliados dentro dessa área ganham 10% de resistência contra propriedades Venenosas.
+SKILL_20151102_005712	Máscara Bico de Pássaro: Imunidade
+SKILL_20151102_005713	Aumenta a chance de bloquear estados anormais de nível 3 em 5% por nível de atributo, porém aumenta o custo #pending SP enquanto usar a [Máscara Bico de Pássaro].
+SKILL_20151102_005714	Máscara Bico de Pássaro: Resistência a Veneno
+SKILL_20151102_005715	Aumenta a resistência a Veneno em 5 por nível de atributo enquanto usar a [Máscara Bico de Pássaro].
+SKILL_20151102_005716	Vingança Séptupla: Duração
+SKILL_20151102_005717	Aumenta a duração dos efeitos de [Vingança Séptupla] por 1 segundo por nível de atributo.
+SKILL_20151102_005718	Vingança Séptupla: Maldição
+SKILL_20151102_005719	Inflige [Maldição] numa chance de 10% por 4 segundos em um inimigo quando causar dano com [Vingança Séptupla].
+SKILL_20151102_005720	Nachash: Aprimorar
+SKILL_20151102_005721	Aumenta o dano causado a um inimigo com [Nachash] em 1% por nível de atributo.
+SKILL_20151102_005722	Nachash: Resistência
 SKILL_20151102_005723
-SKILL_20151102_005724	$Nachash: Estado Anormal
-SKILL_20151102_005725	$Aumenta a chance de infligir petrificação ou maldição em um inimigo quando causar dano com [Nachash] em 1%.
-SKILL_20151102_005726	$Ein Sof: Conservar Tempo
+SKILL_20151102_005724	Nachash: Estado Anormal
+SKILL_20151102_005725	Aumenta a chance de infligir petrificação ou maldição em um inimigo quando causar dano com [Nachash] em 1%.
+SKILL_20151102_005726	Ein Sof: Conservar Tempo
 SKILL_20151102_005727
-SKILL_20151102_005728	$Ein Sof: Geração Adicional
+SKILL_20151102_005728	Ein Sof: Geração Adicional
 SKILL_20151102_005729
-SKILL_20151102_005730	$Merkaba: Aprimorar
-SKILL_20151102_005731	$Aumenta o dano causado a um inimigo com [Merkaba] em 1% por nível de atributo.
-SKILL_20151102_005732	$Merkaba: Petrificação
+SKILL_20151102_005730	Merkaba: Aprimorar
+SKILL_20151102_005731	Aumenta o dano causado a um inimigo com [Merkaba] em 1% por nível de atributo.
+SKILL_20151102_005732	Merkaba: Petrificação
 SKILL_20151102_005733
-SKILL_20151102_005734	$Ein Sof: Recupera SP
+SKILL_20151102_005734	Ein Sof: Recupera SP
 SKILL_20151102_005735	
-SKILL_20151102_005736	$$Ein Sof nível 3 requerido.
+SKILL_20151102_005736	Ein Sof nível 3 requerido.
+SKILL_20151224_005737
+SKILL_20151224_005738
+SKILL_20151224_005739
+SKILL_20151224_005740
+SKILL_20151224_005741
+SKILL_20151224_005742
+SKILL_20151224_005743
+SKILL_20151224_005744
+SKILL_20151224_005745
+SKILL_20151224_005746
+SKILL_20151224_005747
+SKILL_20151224_005748
+SKILL_20151224_005749
+SKILL_20151224_005750
+SKILL_20151224_005751
+SKILL_20151224_005752
+SKILL_20151224_005753
+SKILL_20151224_005754
+SKILL_20151224_005755
+SKILL_20151224_005756
+SKILL_20151224_005757
+SKILL_20151224_005758
+SKILL_20151224_005759
+SKILL_20151224_005760
+SKILL_20151224_005761
+SKILL_20151224_005762
+SKILL_20151224_005763
+SKILL_20151224_005764
+SKILL_20151224_005765
+SKILL_20151224_005766
+SKILL_20151224_005767
+SKILL_20151224_005768
+SKILL_20151224_005769
+SKILL_20151224_005770
+SKILL_20151224_005771
+SKILL_20151224_005772
+SKILL_20151224_005773
+SKILL_20151224_005774
+SKILL_20151224_005775
+SKILL_20151224_005776
+SKILL_20151224_005777
+SKILL_20151224_005778
+SKILL_20151224_005779
+SKILL_20151224_005780
+SKILL_20151224_005781
+SKILL_20151224_005782
+SKILL_20151224_005783
+SKILL_20151224_005784
+SKILL_20151224_005785
+SKILL_20151224_005786
+SKILL_20151224_005787
+SKILL_20151224_005788
+SKILL_20151224_005789
+SKILL_20151224_005790
+SKILL_20151224_005791
+SKILL_20151224_005792
+SKILL_20151224_005793
+SKILL_20151224_005794
+SKILL_20151224_005795
+SKILL_20151224_005796
+SKILL_20151224_005797
+SKILL_20151224_005798
+SKILL_20151224_005799
+SKILL_20151224_005800
+SKILL_20151224_005801
+SKILL_20151224_005802
+SKILL_20151224_005803
+SKILL_20151224_005804
+SKILL_20151224_005805
+SKILL_20151224_005806
+SKILL_20151224_005807
+SKILL_20151224_005808
+SKILL_20151224_005809
+SKILL_20151224_005810
+SKILL_20151224_005811
+SKILL_20151224_005812
+SKILL_20151224_005813
+SKILL_20151224_005814
+SKILL_20151224_005815
+SKILL_20151224_005816
+SKILL_20151224_005817
+SKILL_20151224_005818
+SKILL_20151224_005819
+SKILL_20151224_005820
+SKILL_20151224_005821
+SKILL_20151224_005822
+SKILL_20151224_005823
+SKILL_20151224_005824
+SKILL_20151224_005825
+SKILL_20151224_005826
+SKILL_20151224_005827
+SKILL_20151224_005828
+SKILL_20151224_005829
+SKILL_20151224_005830
+SKILL_20151224_005831
+SKILL_20151224_005832
+SKILL_20151224_005833
+SKILL_20151224_005834
+SKILL_20151224_005835
+SKILL_20151224_005836
+SKILL_20151224_005837
+SKILL_20151224_005838
+SKILL_20151224_005839
+SKILL_20151224_005840
+SKILL_20151224_005841
+SKILL_20151224_005842
+SKILL_20151224_005843
+SKILL_20151224_005844
+SKILL_20151224_005845
+SKILL_20151224_005846
+SKILL_20151224_005847
+SKILL_20151224_005848
+SKILL_20151224_005849
+SKILL_20151224_005850
+SKILL_20151224_005851
+SKILL_20151224_005852
+SKILL_20151224_005853
+SKILL_20151224_005854
+SKILL_20151224_005855
+SKILL_20151224_005856
+SKILL_20151224_005857
+SKILL_20151224_005858
+SKILL_20151224_005859
+SKILL_20151224_005860
+SKILL_20151224_005861
+SKILL_20151224_005862
+SKILL_20151224_005863
+SKILL_20151224_005864
+SKILL_20151224_005865
+SKILL_20151224_005866
+SKILL_20151224_005867
+SKILL_20151224_005868
+SKILL_20151224_005869
+SKILL_20151224_005870
+SKILL_20151224_005871
+SKILL_20151224_005872
+SKILL_20151224_005873
+SKILL_20151224_005874
+SKILL_20151224_005875
+SKILL_20151224_005876
+SKILL_20151224_005877
+SKILL_20151224_005878
+SKILL_20151224_005879
+SKILL_20151224_005880
+SKILL_20151224_005881
+SKILL_20151224_005882
+SKILL_20151224_005883
+SKILL_20151224_005884
+SKILL_20151224_005885
+SKILL_20151224_005886
+SKILL_20151224_005887
+SKILL_20151224_005888
+SKILL_20151224_005889
+SKILL_20151224_005890
+SKILL_20151224_005891
+SKILL_20151224_005892
+SKILL_20151224_005893
+SKILL_20151224_005894
+SKILL_20151224_005895
+SKILL_20151224_005896
+SKILL_20151224_005897
+SKILL_20151224_005898
+SKILL_20151224_005899
+SKILL_20151224_005900
+SKILL_20151224_005901
+SKILL_20151224_005902
+SKILL_20151224_005903
+SKILL_20151224_005904
+SKILL_20151224_005905
+SKILL_20151224_005906
+SKILL_20151224_005907
+SKILL_20151224_005908
+SKILL_20151224_005909
+SKILL_20151224_005910
+SKILL_20151224_005911
+SKILL_20151224_005912
+SKILL_20151224_005913
+SKILL_20151224_005914
+SKILL_20151224_005915
+SKILL_20151224_005916
+SKILL_20151224_005917
+SKILL_20151224_005918
+SKILL_20151224_005919
+SKILL_20151224_005920
+SKILL_20151224_005921
+SKILL_20151224_005922
+SKILL_20151224_005923
+SKILL_20151224_005924
+SKILL_20151224_005925
+SKILL_20151224_005926
+SKILL_20151224_005927
+SKILL_20151224_005928
+SKILL_20151224_005929
+SKILL_20151224_005930
+SKILL_20151224_005931
+SKILL_20151224_005932
+SKILL_20151224_005933
+SKILL_20151224_005934
+SKILL_20151224_005935
+SKILL_20151224_005936
+SKILL_20151224_005937
+SKILL_20151224_005938
+SKILL_20151224_005939
+SKILL_20151224_005940
+SKILL_20151224_005941
+SKILL_20151224_005942
+SKILL_20151224_005943
+SKILL_20151224_005944
+SKILL_20151224_005945
+SKILL_20151224_005946
+SKILL_20151224_005947
+SKILL_20151224_005948
+SKILL_20151224_005949
+SKILL_20151224_005950
+SKILL_20151224_005951
+SKILL_20151224_005952
+SKILL_20151224_005953
+SKILL_20151224_005954
+SKILL_20151224_005955
+SKILL_20151224_005956
+SKILL_20151224_005957
+SKILL_20151224_005958
+SKILL_20151224_005959
+SKILL_20151224_005960
+SKILL_20151224_005961
+SKILL_20151224_005962
+SKILL_20151224_005963
+SKILL_20151224_005964
+SKILL_20151224_005965
+SKILL_20151224_005966
+SKILL_20151224_005967
+SKILL_20151224_005968
+SKILL_20151224_005969
+SKILL_20151224_005970
+SKILL_20151224_005971
+SKILL_20151224_005972
+SKILL_20151224_005973
+SKILL_20151224_005974
+SKILL_20151224_005975
+SKILL_20151224_005976
+SKILL_20151224_005977
+SKILL_20151224_005978
+SKILL_20151224_005979
+SKILL_20151224_005980
+SKILL_20151224_005981
+SKILL_20151224_005982
+SKILL_20151224_005983
+SKILL_20151224_005984
+SKILL_20151224_005985
+SKILL_20151224_005986
+SKILL_20151224_005987
+SKILL_20151224_005988
+SKILL_20151224_005989
+SKILL_20151224_005990
+SKILL_20151224_005991
+SKILL_20151224_005992
+SKILL_20151224_005993
+SKILL_20151224_005994
+SKILL_20151224_005995
+SKILL_20151224_005996
+SKILL_20151224_005997
+SKILL_20151224_005998
+SKILL_20151224_005999
+SKILL_20151224_006000
+SKILL_20151224_006001
+SKILL_20151224_006002
+SKILL_20151224_006003
+SKILL_20151224_006004
+SKILL_20151224_006005
+SKILL_20151224_006006
+SKILL_20151224_006007
+SKILL_20151224_006008
+SKILL_20151224_006009
+SKILL_20151224_006010
+SKILL_20151224_006011
+SKILL_20151224_006012
+SKILL_20151224_006013
+SKILL_20151224_006014
+SKILL_20151224_006015
+SKILL_20151224_006016
+SKILL_20151224_006017
+SKILL_20151224_006018
+SKILL_20151224_006019
+SKILL_20151224_006020
+SKILL_20151224_006021
+SKILL_20151224_006022
+SKILL_20151224_006023
+SKILL_20151224_006024
+SKILL_20151224_006025
+SKILL_20151224_006026
+SKILL_20151224_006027
+SKILL_20151224_006028
+SKILL_20151224_006029
+SKILL_20151224_006030
+SKILL_20151224_006031
+SKILL_20151224_006032
+SKILL_20151224_006033
+SKILL_20151224_006034
+SKILL_20151224_006035
+SKILL_20151224_006036
+SKILL_20151224_006037
+SKILL_20151224_006038
+SKILL_20151224_006039
+SKILL_20151224_006040
+SKILL_20151224_006041
+SKILL_20151224_006042
+SKILL_20151224_006043
+SKILL_20151224_006044
+SKILL_20151224_006045
+SKILL_20151224_006046
+SKILL_20151224_006047
+SKILL_20151224_006048
+SKILL_20151224_006049
+SKILL_20151224_006050
+SKILL_20151224_006051
+SKILL_20151224_006052
+SKILL_20151224_006053
+SKILL_20151224_006054
+SKILL_20151224_006055
+SKILL_20151224_006056
+SKILL_20151224_006057
+SKILL_20151224_006058
+SKILL_20151224_006059
+SKILL_20151224_006060
+SKILL_20151224_006061
+SKILL_20151224_006062
+SKILL_20151224_006063
+SKILL_20151224_006064
+SKILL_20151224_006065
+SKILL_20151224_006066
+SKILL_20151224_006067
+SKILL_20151224_006068
+SKILL_20151224_006069
+SKILL_20151224_006070
+SKILL_20151224_006071
+SKILL_20151224_006072
+SKILL_20151224_006073
+SKILL_20151224_006074
+SKILL_20151224_006075
+SKILL_20151224_006076
+SKILL_20151224_006077
+SKILL_20151224_006078
+SKILL_20151224_006079
+SKILL_20151224_006080
+SKILL_20151224_006081
+SKILL_20151224_006082
+SKILL_20151224_006083
+SKILL_20151224_006084
+SKILL_20151224_006085
+SKILL_20151224_006086
+SKILL_20151224_006087
+SKILL_20151224_006088
+SKILL_20151224_006089
+SKILL_20151224_006090
+SKILL_20151224_006091
+SKILL_20151224_006092
+SKILL_20151224_006093
+SKILL_20151224_006094
+SKILL_20151224_006095
+SKILL_20151224_006096
+SKILL_20151224_006097
+SKILL_20151224_006098
+SKILL_20151224_006099
+SKILL_20151224_006100
+SKILL_20151224_006101
+SKILL_20151224_006102
+SKILL_20151224_006103
+SKILL_20151224_006104
+SKILL_20151224_006105
+SKILL_20151224_006106
+SKILL_20151224_006107
+SKILL_20151224_006108
+SKILL_20151224_006109
+SKILL_20151224_006110
+SKILL_20151224_006111
+SKILL_20151224_006112
+SKILL_20151224_006113
+SKILL_20151224_006114
+SKILL_20151224_006115
+SKILL_20151224_006116
+SKILL_20151224_006117
+SKILL_20151224_006118
+SKILL_20151224_006119
+SKILL_20151224_006120
+SKILL_20151224_006121
+SKILL_20151224_006122
+SKILL_20151224_006123
+SKILL_20151224_006124
+SKILL_20151224_006125
+SKILL_20151224_006126
+SKILL_20151224_006127
+SKILL_20151224_006128
+SKILL_20151224_006129
+SKILL_20151224_006130
+SKILL_20151224_006131
+SKILL_20151224_006132
+SKILL_20151224_006133
+SKILL_20151224_006134
+SKILL_20151224_006135
+SKILL_20151224_006136
+SKILL_20151224_006137
+SKILL_20151224_006138
+SKILL_20151224_006139
+SKILL_20151224_006140
+SKILL_20151224_006141
+SKILL_20151224_006142
+SKILL_20151224_006143
+SKILL_20151224_006144
+SKILL_20151224_006145
+SKILL_20151224_006146
+SKILL_20151224_006147
+SKILL_20151224_006148
+SKILL_20151224_006149
+SKILL_20151224_006150
+SKILL_20151224_006151
+SKILL_20151224_006152
+SKILL_20151224_006153
+SKILL_20151224_006154
+SKILL_20151224_006155
+SKILL_20151224_006156
+SKILL_20151224_006157
+SKILL_20151224_006158
+SKILL_20151224_006159
+SKILL_20151224_006160
+SKILL_20151224_006161
+SKILL_20151224_006162
+SKILL_20151224_006163
+SKILL_20151224_006164
+SKILL_20151224_006165
+SKILL_20151224_006166
+SKILL_20151224_006167
+SKILL_20151224_006168
+SKILL_20151224_006169
+SKILL_20151224_006170
+SKILL_20151224_006171
+SKILL_20151224_006172
+SKILL_20151224_006173
+SKILL_20151224_006174
+SKILL_20151224_006175
+SKILL_20151224_006176
+SKILL_20151224_006177
+SKILL_20151224_006178
+SKILL_20151224_006179
+SKILL_20151224_006180
+SKILL_20151224_006181
+SKILL_20151224_006182
+SKILL_20151224_006183
+SKILL_20151224_006184
+SKILL_20151224_006185
+SKILL_20151224_006186
+SKILL_20151224_006187
+SKILL_20151224_006188
+SKILL_20151224_006189
+SKILL_20151224_006190
+SKILL_20151224_006191
+SKILL_20151224_006192
+SKILL_20151224_006193
+SKILL_20151224_006194
+

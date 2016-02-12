@@ -1,490 +1,490 @@
-﻿ITEM_20150317_000001	$Elmo_Vazio
-ITEM_20150317_000002	$Elmo de Murmillo
-ITEM_20150317_000003	$Braçadeira_Vazia
-ITEM_20150317_000004	$Braçadeira Vermelha
-ITEM_20150317_000005	$Braçadeira
-ITEM_20150317_000006	$Braçadeira Laçada
-ITEM_20150317_000007	$Braçadeira Longa
-ITEM_20150317_000008	$Braçadeira de Penas
-ITEM_20150317_000009	$Braçadeira Franjada
-ITEM_20150317_000010	$Arma_Vazia
-ITEM_20150317_000011	$Gladius Bruta
-ITEM_20150317_000012	$Espada de Uma Mão [Corte]
-ITEM_20150317_000013	$A arma padrão dos soldados do reino. Também comumente usada pelos cidadãos.
-ITEM_20150317_000014	$Gladius
-ITEM_20150317_000015	$Esta arma é uma versão melhorada da sua contra parte militar.
-ITEM_20150317_000016	$Falchion Inferior
-ITEM_20150317_000017	$Esta espada é excepcional para cortes.
-ITEM_20150317_000018	$Kaskara Inferior
-ITEM_20150317_000019	$Graças a sua facilidade na forja, esta espada é frequentemente escolhida por aventureiros como sua primeira troca de arma de treinamento.
-ITEM_20150317_000020	$Cinquedea
-ITEM_20150317_000021	$Recomendado para aqueles que desejam uma espada mais forte e pesada.
-ITEM_20150317_000022	$Sabre
-ITEM_20150317_000023	$Arma primaria de Cavalaria, otimizada para cortes. A guarda no cabo protege a mão do usuario.
-ITEM_20150317_000024	$Shamshir
-ITEM_20150317_000025	$A grande lâmina de formato crescente desta espada é capaz de desferir cortes com imenso poder.
-ITEM_20150317_000026	$Cimitarra
-ITEM_20150317_000027	$Seu peso elevado é compensado pelo seu grande poder de corte.
-ITEM_20150317_000028	$Kris
-ITEM_20150317_000029	$Sua lâmina retorcida é capaz de ampliar o dano infligido ao inimigo. Uma arma tão prática quanto é bela.
+﻿ITEM_20150317_000001	Elmo_Vazio
+ITEM_20150317_000002	Elmo de Murmillo
+ITEM_20150317_000003	Braçadeira_Vazia
+ITEM_20150317_000004	Braçadeira Vermelha
+ITEM_20150317_000005	Braçadeira
+ITEM_20150317_000006	Braçadeira Laçada
+ITEM_20150317_000007	Braçadeira Longa
+ITEM_20150317_000008	Braçadeira de Penas
+ITEM_20150317_000009	Braçadeira Franjada
+ITEM_20150317_000010	Arma_Vazia
+ITEM_20150317_000011	Gladius Bruta
+ITEM_20150317_000012	Espada de Uma Mão [Corte]
+ITEM_20150317_000013	A arma padrão dos soldados do reino. Também comumente usada pelos cidadãos.
+ITEM_20150317_000014	Gladius
+ITEM_20150317_000015	Esta arma é uma versão melhorada da sua contra parte militar.
+ITEM_20150317_000016	Falchion Inferior
+ITEM_20150317_000017	Esta espada é excepcional para cortes.
+ITEM_20150317_000018	Kaskara Inferior
+ITEM_20150317_000019	Graças a sua facilidade na forja, esta espada é frequentemente escolhida por aventureiros como sua primeira troca de arma de treinamento.
+ITEM_20150317_000020	Cinquedea
+ITEM_20150317_000021	Recomendado para aqueles que desejam uma espada mais forte e pesada.
+ITEM_20150317_000022	Sabre
+ITEM_20150317_000023	Arma primaria de Cavalaria, otimizada para cortes. A guarda no cabo protege a mão do usuario.
+ITEM_20150317_000024	Shamshir
+ITEM_20150317_000025	A grande lâmina de formato crescente desta espada é capaz de desferir cortes com imenso poder.
+ITEM_20150317_000026	Cimitarra
+ITEM_20150317_000027	Seu peso elevado é compensado pelo seu grande poder de corte.
+ITEM_20150317_000028	Kris
+ITEM_20150317_000029	Sua lâmina retorcida é capaz de ampliar o dano infligido ao inimigo. Uma arma tão prática quanto é bela.
 ITEM_20150317_000030	{pending}$Faca Comprida
-ITEM_20150317_000031	$Sua lâmina extremamente afiada a torna uma favorita até mesmo entre os mais experientes dos espadachins.
-ITEM_20150317_000032	$Shamshir Bruta
-ITEM_20150317_000033	$Cimitarra Bruta
-ITEM_20150317_000034	$Gládio do Soldado
-ITEM_20150317_000035	$Um armamento básico fornecido a soldados de tempo integral. Sua qualidade é melhor que a de espadas comuns vendidas na cidade.
-ITEM_20150317_000036	$Alfanje do {#pending}Prefeito
-ITEM_20150317_000037	$O visual dessa espada gera suspeitas sobre o passado de seu antigo dono.
-ITEM_20150317_000038	$Kaskara Bruta
-ITEM_20150317_000039	$Moplah
-ITEM_20150317_000040	$Esta espada combina praticidade com estética.
-ITEM_20150317_000041	$Gládio Pesada
-ITEM_20150317_000042	$Alfanje
-ITEM_20150317_000043	$Alfanje Pesada
-ITEM_20150317_000044	$Kaskara
-ITEM_20150317_000045	$Cinquedea Pesada
-ITEM_20150317_000046	$Sabre Pesado
-ITEM_20150317_000047	$Shamshir Pesada
-ITEM_20150317_000048	$Sabre do Dunkel
+ITEM_20150317_000031	Sua lâmina extremamente afiada a torna uma favorita até mesmo entre os mais experientes dos espadachins.
+ITEM_20150317_000032	Shamshir Bruta
+ITEM_20150317_000033	Cimitarra Bruta
+ITEM_20150317_000034	Gládio do Soldado
+ITEM_20150317_000035	Um armamento básico fornecido a soldados de tempo integral. Sua qualidade é melhor que a de espadas comuns vendidas na cidade.
+ITEM_20150317_000036	Alfanje do {#pending}Prefeito
+ITEM_20150317_000037	O visual dessa espada gera suspeitas sobre o passado de seu antigo dono.
+ITEM_20150317_000038	Kaskara Bruta
+ITEM_20150317_000039	Moplah
+ITEM_20150317_000040	Esta espada combina praticidade com estética.
+ITEM_20150317_000041	Gládio Pesada
+ITEM_20150317_000042	Alfanje
+ITEM_20150317_000043	Alfanje Pesada
+ITEM_20150317_000044	Kaskara
+ITEM_20150317_000045	Cinquedea Pesada
+ITEM_20150317_000046	Sabre Pesado
+ITEM_20150317_000047	Shamshir Pesada
+ITEM_20150317_000048	Sabre do Dunkel
 ITEM_20150317_000049	{pending}$Faca Comprida do Dunkel
-ITEM_20150317_000050	$Alfanje do Dunkel
-ITEM_20150317_000051	$Kaskara do Dunkel
-ITEM_20150317_000052	$Cinquedea do Dunkel
-ITEM_20150317_000053	$Shamshir do Dunkel
-ITEM_20150317_000054	$Kozuka
+ITEM_20150317_000050	Alfanje do Dunkel
+ITEM_20150317_000051	Kaskara do Dunkel
+ITEM_20150317_000052	Cinquedea do Dunkel
+ITEM_20150317_000053	Shamshir do Dunkel
+ITEM_20150317_000054	Kozuka
 ITEM_20150317_000055	{pending}$Sem informações.
-ITEM_20150317_000056	$Badelaire
-ITEM_20150317_000057	$Saif
-ITEM_20150317_000058	$Colichemarde
-ITEM_20150317_000059	$Firangi
-ITEM_20150317_000060	$Cortador de Espinhos 
-ITEM_20150317_000061	$Espada Demion
-ITEM_20150317_000062	$Espada Mestra
-ITEM_20150317_000063	$Espada Panto
-ITEM_20150317_000064	$Uma espada rústica utilizada pelos Pantos. Você mesmo poderia forjar uma melhor se tentasse.
-ITEM_20150317_000065	$Sabre Flonas 
-ITEM_20150317_000066	$Dizem alguns que esta arma descarrega o rancor que as plantas possuem para com as criaturas. 
-ITEM_20150317_000067	$Alfanje Dourada
-ITEM_20150317_000068	$Talvez por causa da correlação do ouro com a boa sorte, a Alfanje Dourada atribui ao seu dono muita sorte em batalha. Evidentemente, ela causa estragos severos aos seus inimigos. 
-ITEM_20150317_000069	$Alfanje de Aço 
-ITEM_20150317_000070	$A Alfanje de Aço é uma boa opção para aqueles que buscam maior precisão em combate. 
-ITEM_20150317_000071	$Alfanje Prateada 
-ITEM_20150317_000072	$Seu leve peso e grande resistência permitem ao espadachim libertar todo o seu potencial durante o ataque. 
-ITEM_20150317_000073	$Mandrapick 
-ITEM_20150317_000074	$É dito que esta espada é capaz de clarear a mente de seu manejador com a sua essência de Mandrágora. 
-ITEM_20150317_000075	$Lâmina do Bruxo 
-ITEM_20150317_000076	$Você jamais deve menosprezar um bruxo por manejar uma espada, principalmente se tal espada for a Lâmina do Bruxo. 
-ITEM_20150317_000077	$Espada de Cheminis
-ITEM_20150317_000078	$Esta espada é feita através de uma receita desenvolvida por um alquimista da família Winterspoon, que alegou ser mais capaz de criar uma espada do que um ferreiro.
-ITEM_20150317_000079	$Austas 
-ITEM_20150317_000080	$Esta espada vale seu preço elevado. Mas os mercadores realmente prefeririam que você voltasse para comprar outras armas do que ficar apegado apenas a ela. 
-ITEM_20150317_000081	$Sabre Miskas 
-ITEM_20150317_000082	$Essa arma tornará sua habilidade com a espada mais veloz. 
-ITEM_20150317_000083	$Espada Imperni 
-ITEM_20150317_000084	$Veteranos frequentemente relembram da forte emoção que sentiram ao serem promovidos de meros aprendizes e receberem esta espada pela primeira vez. 
-ITEM_20150317_000085	$Gritas 
-ITEM_20150317_000086	$Uma espada utilizada por valentes aventureiros. Ironicamente, ela é frequentemente encontrada com poderosas criaturas. Aquele que obtém essa espada, mesmo sem saber, acaba vingando seu antigo dono. 
-ITEM_20150317_000087	$Spatha 
-ITEM_20150317_000088	$Uma versão aprimorada do Gládio, com uma lâmina mais comprida em comparação. 
-ITEM_20150317_000089	$Alfanje do Aras 
-ITEM_20150317_000090	$Essa arma lhe dá a oportunidade de testar a capacidade de uma Alfanje. 
-ITEM_20150317_000091	$Espada de Ferreiro
-ITEM_20150317_000092	{memo X}$ - 2% de chance de causar +600% de dano. 
-ITEM_20150317_000093	{memo X}$Esta espada frequentemente brilha com o talento e habilidade de seu criador.
-ITEM_20150317_000094	$Espada Klavis
-ITEM_20150317_000095	$Apesar de sua qualidade, ela pode ser vendida por um bom preço. 
-ITEM_20150317_000096	$Espada Dio
-ITEM_20150317_000097	$Espada Thresh
-ITEM_20150317_000098	$Espada Sestas 
-ITEM_20150317_000099	$Espada Dratt 
-ITEM_20150317_000100	$Espada Aston 
-ITEM_20150317_000101	{memo X}$Espada Devi 
-ITEM_20150317_000102	{memo X}$Espada Prima 
-ITEM_20150317_000103	$Espada Trindade 
-ITEM_20150317_000104	$Se você está insatisfeito com um tipo de Alfanje, essa é uma alternativa. Porém você irá arcar com o custo extra para sua criação.
-ITEM_20150317_000105	$Durandal 
-ITEM_20150317_000106	$Muitos aventureiros nomearam sua melhor espada baseados nessa arma. Esse era o nome da espada manejada por um guerreiro antigo escolhido por uma Deusa.
-ITEM_20150317_000107	$Velniup 
-ITEM_20150317_000108	$Pessoas chegam ao ponto de dizer que essa arma é excessivamente cruel. 
-ITEM_20150317_000109	$Fortis 
-ITEM_20150317_000110	{memo X}$Apesar de ser impopular durante o Grande Cataclisma das Plantas, o reaparecimento de monstros com armaduras fortes está provando seu valor.
-ITEM_20150317_000111	{memo X}$Talhadeira da Chaparição 
-ITEM_20150317_000112	$De acordo com uma teoria, essa espada também é usada em conflitos entre os Demônios.
-ITEM_20150317_000113	$Talhadeira da Tecelã da Morte. 
-ITEM_20150317_000114	{memo X}$Quem empunha esta lâmina se torna aquele traz a morte. 
-ITEM_20150317_000115	$Espada da Chaparição 
-ITEM_20150317_000116	{memo X}$Isso serve como uma evidência indireta das disputas entre Demônios. 
-ITEM_20150317_000117	$Espada Bendras 
-ITEM_20150317_000118	$Uma espada carregando o poder da Deusa que destruiu muitos males no passado. 
-ITEM_20150317_000119	$Illizia 
-ITEM_20150317_000120	$Essa lâmina ameaça severamente tanto a vida de seu adversário quanto as finanças de seu dono. É claro, a maioria dos espadachins ignora esse último efeito.
-ITEM_20150317_000121	$Programado para deleção. 
-ITEM_20150317_000122	$Espada de Duas Mãos [Corte] 
-ITEM_20150317_000123	$Espada Bastarda Dunkel 
-ITEM_20150317_000124	$Alguns mestres artesãos e soldados chamam esta espada de 'Espada de duas mãos de estilo misto.' Eles dizem isso para se justificarem.
-ITEM_20150317_000125	$Flamberge 
-ITEM_20150317_000126	$Se você é um expert em armas de duas mãos, esta lâmina com forma de onda pode causar um dano massivo. 
-ITEM_20150317_000127	$Nodachi 
-ITEM_20150317_000128	$Uma Nodachi com o comprimento 'na medida' pode amplificar seu poder de corte e dominar o espaço entre aquele que a empunha e seu inimigo.
-ITEM_20150317_000129	$Claymore 
-ITEM_20150317_000130	$Todas as Claymores do reino são feitas com ênfase em peso e poder. 
-ITEM_20150317_000131	$Colossus 
-ITEM_20150317_000132	$A lâmina incomum em forma de leque oferece o potencial de amplificar seu poder e versatilidade para ser adaptada em várias técnicas.
-ITEM_20150317_000133	$Caliburn 
-ITEM_20150317_000134	$Frequentemente carregada por soldados de patente alta. 
-ITEM_20150317_000135	$Quaddara 
-ITEM_20150317_000136	$Ao contrário do que aparenta, esta é uma espada de dois gumes e é frequentemente usada por espadachins procurando praticidade.
-ITEM_20150317_000137	$Claymore Leve 
-ITEM_20150317_000138	$A estrutura dessa espada permite à seu usuário realizar uma estocada.
-ITEM_20150317_000139	{memo X}$Colossus Bruta
-ITEM_20150317_000140	$Ilwoon 
-ITEM_20150317_000141	$O Grande Ruklys carregou esta espada em sua juventude. 
-ITEM_20150317_000142	$Espada Bastarda de Treino 
-ITEM_20150317_000143	$Espada Bastarda
-ITEM_20150317_000144	{memo X}$Flamberge Pesada 
-ITEM_20150317_000145	{memo X}$Nodachi Pesada 
-ITEM_20150317_000146	{memo X}$Claymore Pesada
-ITEM_20150317_000147	$Nodachi Dunkel
-ITEM_20150317_000148	$Quaddara Dunkel 
-ITEM_20150317_000149	$Flamberge Dunkel 
-ITEM_20150317_000150	$Claymore Dunkel 
-ITEM_20150317_000151	$Greatsword 
-ITEM_20150317_000152	$Katzbalger 
-ITEM_20150317_000153	$Dress Sword 
-ITEM_20150317_000154	$Zweihander 
-ITEM_20150317_000155	$Executioner's Sword 
-ITEM_20150317_000156	$Lumai Two-Handed Sword 
-ITEM_20150317_000157	$Overknife 
-ITEM_20150317_000158	$Potentia
-ITEM_20150317_000159	$Uma ótima alternativa para aqueles insatisfeitos com a Flamberge regular.
-ITEM_20150317_000160	$Temsus Flamberge 
-ITEM_20150317_000161	$Uma espada com grande capacidade para aprimoramento que complementa o poder inato de quem empunhala. Tente seu potencial por si mesmo.ITEM_20150317_000162	$Didel Colossus 
-ITEM_20150317_000162	$Didel Colossus 
-ITEM_20150317_000163	$Essa é a espada para aqueles que buscam maior peso, maior poder, e maior poder de alcance nos cortes.
-ITEM_20150317_000164	$Collecture 
-ITEM_20150317_000165	{memo X}$Embora popular em batalhas hoje em dia, essa arma foi considerada um item decorativo ou colecionável nos primódios do Great Plant Cataclysm.
-ITEM_20150317_000166	$Hogma Great Sword 
-ITEM_20150317_000167	$Como o Hogmas obteve ou forjou essa arma não importa. Estamos mais preocupados em forjar e usar por nós mesmos.
-ITEM_20150317_000168	$Cheminis Bastard Sword 
-ITEM_20150317_000169	{memo X}$No despertar do Great Plant Cataclysm, a família Winterspoon divulgou a receita de forja dessa arma para todos os alquimistas.
-ITEM_20150317_000170	$Primaluce 
-ITEM_20150317_000171	$Espadachins procurando poder bruto em uma arma frequentemente escolhem essa espada como sua primeira espada mágica.
-ITEM_20150317_000172	$Kindzal 
-ITEM_20150317_000173	$Aqueles que gostam de um tempero extra em suas armas forjaram esta espada para seu uso próprio.
-ITEM_20150317_000174	$Imperni Two-Handed Sword 
-ITEM_20150317_000175	$Se você conseguiu essa espada pelo mercado negro, é a evidência que obteve um certo nível de confiabilidade.
-ITEM_20150317_000176	$Prieblanda 
-ITEM_20150317_000177	$Essa espada compartilha o mesmo inventor da espada de 'Primaluce'.
-ITEM_20150317_000178	$Lapis Katzbalger 
-ITEM_20150317_000179	$O encantamento de Katzbalger tem sido desenvolvido a menos de 100 anos. Além disso, a composição para forja desta arma não tem relações com os Ruklys.
-ITEM_20150317_000180	$Smith Two-Handed Sword 
-ITEM_20150317_000181	{memo X}$Desde Medis Diena, poucas pessoas tem se preocupado com a instabilidade de armas mágicas.
-ITEM_20150317_000182	$Klavis Two-Handed Sword 
-ITEM_20150317_000183	$Essa espada pode ser uma extensão confiável de suas mãos.
-ITEM_20150317_000184	$Thresh Two-Handed Sword 
-ITEM_20150317_000185	$Sestas Two-Handed Sword 
-ITEM_20150317_000186	$Dratt Two-Handed Sword 
-ITEM_20150317_000187	$Aston Two-Handed Sword 
-ITEM_20150317_000188	{memo X}$Devi Two-Handed Sword 
-ITEM_20150317_000189	{memo X}$Prima Two-Handed Sword 
-ITEM_20150317_000190	$Flamini 
-ITEM_20150317_000191	$Uma espada que tem sido considerado como necessária na luta contra demônios.
-ITEM_20150317_000192	$Wizard Slayer 
-ITEM_20150317_000193	$É frequente novos magos pagarem inimaginaveis por essa arma em particular. Mesmo assim, perioticamente alguém procura evitar seu poder não reconhecido.
-ITEM_20150317_000194	$Two-Handed Sword [Strike] 
-ITEM_20150317_000195	$Como facas arremeçadas na hora mais silenciosa da noite, Naktis cometeu um golpe imprevisto por seu alvo.
-ITEM_20150317_000196	$Luciduce
-ITEM_20150317_000197	{memo X}$Apesar de algumas pessoas dispensar essa arma para lenhar árvores, seus usuários atuais vão lhe dizer que o Grand Plant Cataclysm teria muito mais perdas sem ela.
-ITEM_20150317_000198	$Hell and Heaven 
-ITEM_20150317_000199	$Tem um dito popular que clama que 'atacar é a melhor defesa'. Prove isso com esta arma.
-ITEM_20150317_000200	$Deathweaver Tooth 
-ITEM_20150317_000201	{memo X}$Dente de Deathweaver não é atualmente usado para forjar essa arma.
-ITEM_20150317_000202	$Chapparition Two-Handed Sword 
-ITEM_20150317_000203	{memo X}$Grandes poderes podem ser encontrados no intangível. Ás vezes a menor volumosidade pode superar a pesado.  
-ITEM_20150317_000204	$Nulis 
-ITEM_20150317_000205	$Concede grande poder contra existências que não pertencem aos reinos da noite e do dia.
-ITEM_20150317_000206	$Gravity 
-ITEM_20150317_000207	$Gravidade não pode ser evitada por ninguém ou por nada. Mas se algum se adaptar á ela, ninguém poderá subestimar seu poder.
-ITEM_20150317_000208	{memo X}$Crude Short Rod 
-ITEM_20150317_000209	$Rod [Strike] 
-ITEM_20150317_000210	$Um cajado que todos os estudantes de mágica usaram.
-ITEM_20150317_000211	$Short Rod 
-ITEM_20150317_000212	$Mágicos que graduarem de seu aprendizado frequentemente mudam para essa arma.
-ITEM_20150317_000213	{memo X}$Low Long Rod 
-ITEM_20150317_000214	$Os decorativos vistos nos equipamentos dos magos são adicionados por função, não apenas por aparência.
-ITEM_20150317_000215	{memo X}$Low Cane Rover 
-ITEM_20150317_000216	$Quando um cajado é cravada por um feiticeiro famoso, essa é vinculada em conter poderes místicos.
-ITEM_20150317_000217	$Cane 
-ITEM_20150317_000218	$Você pode customizar esse cajado logo se puder suprir os materiais.
-ITEM_20150317_000219	$Crook 
-ITEM_20150317_000220	$Lendas dizem que feiticeiros malígnos foram os primeiros a começarem a usar esta arma.
-ITEM_20150317_000221	$Pewter Rod 
-ITEM_20150317_000222	$Esta arma foi uma vez popular entre os jovens feiticeiros.
-ITEM_20150317_000223	$Owl Rod 
-ITEM_20150317_000224	$A decoração é popular entre feiticeiros experientes.
-ITEM_20150317_000225	$Rune Rod 
-ITEM_20150317_000226	$Uma runa mágica é usada para amplificar o poder do cajado.
-ITEM_20150317_000227	$Crystal Rod 
-ITEM_20150317_000228	$O preciso encaixe da jóia no cabo é requirido para montar esse cajado.
-ITEM_20150317_000229	{memo X}$Crude Pewter Rod 
-ITEM_20150317_000230	{memo X}$Crude Owl Rod 
-ITEM_20150317_000231	$Soldier's Short Rod 
-ITEM_20150317_000232	{memo X}$Esse cajado foi entregue aos magos que se juntaram o Army. Todavia o procedimento tem sido abolido desde o Great Plant Cataclysm, ainda resta um estoque abundante.
-ITEM_20150317_000233	$Chieftain's Long Rod 
-ITEM_20150317_000234	$O formato desse cajado foi popular no passado. Apesar de antiquado, o cajado tem uma perfomance preferencialmente decente.
-ITEM_20150317_000235	{memo X}$Crude Cane Rover 
-ITEM_20150317_000236	$Battle Rod 
-ITEM_20150317_000237	$Apesar da assistência em invocar mágica, esse cajado foi também designado para combates físicos.
-ITEM_20150317_000238	{memo X}$Heavy Short Rod 
-ITEM_20150317_000239	$Long Rod 
-ITEM_20150317_000240	{memo X}$Heavy Long Rod 
-ITEM_20150317_000241	$Cane Rover 
-ITEM_20150317_000242	{memo X}$Heavy Cane 
-ITEM_20150317_000243	{memo X}$Heavy Crook 
-ITEM_20150317_000244	{memo X}$Heavy Pewter Rod 
-ITEM_20150317_000245	$Dunkel Crook 
-ITEM_20150317_000246	$Dunkel Crystal Rod 
-ITEM_20150317_000247	$Dunkel Long Rod 
-ITEM_20150317_000248	$Dunkel Cane Rover 
-ITEM_20150317_000249	$Dunkel Cane 
-ITEM_20150317_000250	$Dunkel Pewter Rod 
-ITEM_20150317_000251	$Snake Rod 
-ITEM_20150317_000252	$Alter Rod 
-ITEM_20150317_000253	$Nald Rod 
-ITEM_20150317_000254	$Elder Rod 
-ITEM_20150317_000255	$Meteor Rod 
-ITEM_20150317_000256	$Ring Rod 
-ITEM_20150317_000257	$Servant Rod 
-ITEM_20150317_000258	$Panto Rod 
-ITEM_20150317_000259	{memo X}$Feiticeiros tem descoberto novos fatos de monstros emergidos do Great Plant Cataclysm e aplicando-os em várias situações.
-ITEM_20150317_000260	$Ice Rod 
-ITEM_20150317_000261	$Boatos dizem que toda vez que a receita desse cajado é vendido, parte dos ganhos vão para o Cryomancer Master.
-ITEM_20150317_000262	$Fire Rod 
-ITEM_20150317_000263	$Apenas um Pyromancer Master sabe o método de infusão do poder da Goddess Gabija para dentro dos cajados.
-ITEM_20150317_000264	$Vasia Rod 
-ITEM_20150317_000265	$Embora padres se preocupem sobre a manipulação de espíritos durante sua manufaturação, feiticeiros ignoram essa objeção.
-ITEM_20150317_000266	$Magic Rod 
-ITEM_20150317_000267	$Um simples cajado para reforço mágico, facilmente produzível por magos iniciantes.
-ITEM_20150317_000268	$Grinas Rod 
-ITEM_20150317_000269	{memo X}$O acrésimo de Demons depois do Great Plant Cataclysm aumentou o preço desse antes-caro cajado.
-ITEM_20150317_000270	$Cheminis Rod 
-ITEM_20150317_000271	$Apesar do nome semelhante com outra arma, esta arma não tem relação direta com a família Winterspoon.
-ITEM_20150317_000272	$Arch Rod 
-ITEM_20150317_000273	$Uma arma que preenche o papel de um trampolim para feiticeiros avançados para feiticeiros aspirantes. Uma vez um feiticeiro conquistou seus objetivos para maior aprendizado, essa arma é substituida por outra.
-ITEM_20150317_000274	$Imperni Rod 
-ITEM_20150317_000275	$Esse é popular entre feiticeiros que gostam de se destacar. 
-ITEM_20150317_000276	$Aras' Long Rod 
-ITEM_20150317_000277	$É frequentemente dado como um pequeno presente entre os feiticeiros graças ao seu preço acessível.
-ITEM_20150317_000278	$Smith Rod 
-ITEM_20150317_000279	{memo X}$As inesperadas caracteristicas dessa arma são independentes de quem a usa.
-ITEM_20150317_000280	$Klavis Rod 
-ITEM_20150317_000281	$Você pode ser o primeiro feiticeiro na história a usar esta arma.
-ITEM_20150317_000282	$Dio Rod 
-ITEM_20150317_000283	$Thresh Rod 
-ITEM_20150317_000284	$Sestas Rod 
-ITEM_20150317_000285	$Dratt Rod 
-ITEM_20150317_000286	$Aston Rod 
-ITEM_20150317_000287	{memo X}$Devi Rod 
-ITEM_20150317_000288	{memo X}$Prima Rod 
-ITEM_20150317_000289	$Temere 
-ITEM_20150317_000290	$O apelido desse cajado é 'The Staff of Patience'. Rez a lenda que Agailla Flurry, o maior feiticeiro da história, idelizou esse cajado para treinar seu aprendizes.
-ITEM_20150317_000291	$Ignition 
-ITEM_20150317_000292	$Embora o Pyromancer Master estivesse pesquisando um meio de suavizar os inconvenientes instáveis deste bastão, não tem havido desenvolvimento até agora.
-ITEM_20150317_000293	$Secretum 
-ITEM_20150317_000294	$Uma arma feita para e somente para feiticeiros. Assim, feiticeiros geralmente ignoram as falhas desse bastão.
-ITEM_20150317_000295	$Deathweaver Rod 
-ITEM_20150317_000296	{memo X}$Um cajado contendo o poder do Deathweaver.
-ITEM_20150317_000297	$Chapparition Rod 
-ITEM_20150317_000298	$Zaima 
-ITEM_20150317_000299	$Rumores dizem que o alto preço da receita desse cajado é devida a insistência do Cryomancer Master.
-ITEM_20150317_000300	$Epos 
-ITEM_20150317_000301	$Um cajado que foi produzido a muito tempo atrás usando a melhor conhecimento mágico disponível da época. Já que o resultado é impossível de se adicionar ao cajado, mesmo com os avanços atuais em mágica.
-ITEM_20150317_000302	$Twinkle Rod 
-ITEM_20150317_000303	$Uma estrela cintilante é sempre visível.
-ITEM_20150317_000304	$Empty_weapon_THBow 
-ITEM_20150317_000305	{memo X}$Crude Light Bow 
-ITEM_20150317_000306	$Bow [Pierce] 
-ITEM_20150317_000307	$Uma simples arma que pode ser produzida até mesmo em casa.
-ITEM_20150317_000308	$Light Bow 
-ITEM_20150317_000309	$Um arco largamente produzido e usado por pessoas acerca do reino e seus territórios.
-ITEM_20150317_000310	{memo X}$Low Short Bow 
-ITEM_20150317_000311	$Um arco para novatos, apesar de alguns arqueiros competentes preferirem continuar usandô-o.
-ITEM_20150317_000312	{memo X}$Crude Longbow 
-ITEM_20150317_000313	$Uma distância mais curta pode as vezes ser o fator decisivo entra a vida e a morte. Esse arco é uma boa escolha se você quer um longo alcance.
-ITEM_20150317_000314	$Composite Bow 
-ITEM_20150317_000315	$Um arco com flexibilidade aprimorada devida a aplicação de vários materiais.
-ITEM_20150317_000316	$Self Bow 
-ITEM_20150317_000317	$Simboliza a resolução leal de um arqueiro inflexível.
-ITEM_20150317_000318	$Rokas Bow 
-ITEM_20150317_000319	$É presumívelmente nomeada com o local de onde seu inventor veio.
-ITEM_20150317_000320	$Gorithos 
-ITEM_20150317_000321	$Um arco preferido pela Cavalry.
-ITEM_20150317_000322	$Gulail
-ITEM_20150317_000323	$O primeiro caso já registrado de mágica aplicada na produção de arcos. Desde então, ele se encontra no mercado.
-ITEM_20150317_000324	$Kaman 
-ITEM_20150317_000325	$Um arco modificado para maior poder pelos arqueiros confiantes na força de seus braços.
-ITEM_20150317_000326	{memo X}$Crude Rokas Bow 
-ITEM_20150317_000327	{memo X}$Crude Gorithos 
-ITEM_20150317_000328	$Soldier's Light Bow 
-ITEM_20150317_000329	$Esse arco tem sido produzido para atingir os requisitos mínimos do Army.
-ITEM_20150317_000330	$Mayor's Short Bow 
-ITEM_20150317_000331	$Ele apresenta marcas do esforço colocado de amarrar e desamarrar o arco a cada dia. Apesar de sua idade, o arco está em boas condições.
-ITEM_20150317_000332	{memo X}$Crude Long Bow 
-ITEM_20150317_000333	$Gendawa 
-ITEM_20150317_000334	$Este arco é o melhor entre aqueles produzidos sem magia no processo.
-ITEM_20150317_000335	{memo X}$Heavy Light Bow 
-ITEM_20150317_000336	$Short Bow 
-ITEM_20150317_000337	{memo X}$Heavy Short Bow 
-ITEM_20150317_000338	$Long Bow 
-ITEM_20150317_000339	{memo X}$Heavy Composite Bow 
-ITEM_20150317_000340	{memo X}$Heavy Self Bow 
-ITEM_20150317_000341	{memo X}$Heavy Rokas Bow 
-ITEM_20150317_000342	$Dunkel Self Bow 
-ITEM_20150317_000343	$Dunkel Kaman 
-ITEM_20150317_000344	$Dunkel Short Bow 
-ITEM_20150317_000345	$Dunkel Long Bow 
-ITEM_20150317_000346	$Dunkel Composite Bow 
-ITEM_20150317_000347	$Dunkel Rokas Bow 
-ITEM_20150317_000348	$Recurve Bow 
-ITEM_20150317_000349	$Seige Bow 
-ITEM_20150317_000350	$Sniper Bow 
-ITEM_20150317_000351	$Skull Bow 
-ITEM_20150317_000352	$Wooden Compound Bow 
-ITEM_20150317_000353	{memo X}$Tag Bow 
-ITEM_20150317_000354	$Rogue Bow 
-ITEM_20150317_000355	$Seeker 
-ITEM_20150317_000356	{memo X}$Este arco, popular entre os caçadores, tornou-se ainda mais difundido depois da Great Plant Cataclysm.
-ITEM_20150317_000357	$Iron Bow 
-ITEM_20150317_000358	$Este arco tem grande precisão e freqüêntemente causa danos inesperados ao inimigo.
-ITEM_20150317_000359	$Hawk Bow 
-ITEM_20150317_000360	{memo X}$Um Self Bow feito de diferentes ossos as vezes não terá sinergia com ouro.
-ITEM_20150317_000361	$Cheminis Bow 
-ITEM_20150317_000362	$Foi nomeado por seu efeito de aumentar a agilidade de seu usuário.
-ITEM_20150317_000363	$Hunting Bow 
-ITEM_20150317_000364	$A aplicação da Alchemy na manufaturação de um arco manteve-se teórica até que circuntâncias tornaram-a tendência na recente produção.
-ITEM_20150317_000365	$Maker Bow 
-ITEM_20150317_000366	$No passado, apenas caçadores mais ricos compraram esse arco.  Com os terríveis acontecimentos recentes na história, de um jeito ou de outro, qualquer pode pode obter-lo seja comprando ou produzindo.
-ITEM_20150317_000367	$Savage Bow 
-ITEM_20150317_000368	{memo X}$Devido o acréscimo na demanda por arcos de alta qualidade desdo Great Plant Cataclysm, esse arco tem sido produzido com certa freqüência.
-ITEM_20150317_000369	$Snake Bow 
-ITEM_20150317_000370	$Este arco é uma boa escolha independentemente da força muscular. Isso porque, se o usuário tem braços fortes, ele pode disparar com mais poder e se não o fizer, o arco compensa isso.
-ITEM_20150317_000371	$Imperni Bow 
-ITEM_20150317_000372	$Como o nome sugere, esse arco inflinge disparos com veneno.
-ITEM_20150317_000373	$Lethena Bow 
-ITEM_20150317_000374	$Pode-se sentir a sensação de caçar um grande monstro com esse arco graças ao seu sólido peso.
-ITEM_20150317_000375	$Strong Bow 
-ITEM_20150317_000376	$Nada prático de ser produzido, mas compensa o trabalho.
-ITEM_20150317_000377	$Aras' Short Bow 
-ITEM_20150317_000378	$Normalmente comprado por novos usuários de arcos mágicos.
-ITEM_20150317_000379	$Pulley Bow 
-ITEM_20150317_000380	$Smith Bow 
-ITEM_20150317_000381	{memo X}$Se não houver outros arcos disponíveis para adquirir, compre este e espere pelo melhor.
-ITEM_20150317_000382	$Klavis Bow 
-ITEM_20150317_000383	$Apesar de ser um arco mágico, é geralmente considerado em ser medíocre, mas o usuário poderá fazer um uso excepcional dele.
-ITEM_20150317_000384	$Dio Bow 
-ITEM_20150317_000385	$Thresh Bow 
-ITEM_20150317_000386	$Sestas Bow 
-ITEM_20150317_000387	$Dratt Bow 
-ITEM_20150317_000388	$Aston Bow 
-ITEM_20150317_000389	{memo X}$Devi Bow 
-ITEM_20150317_000390	{memo X}$Prima Bow 
-ITEM_20150317_000391	$Wildling Bane 
-ITEM_20150317_000392	{memo X}$Prévio ao Great Plant Cataclysm, caçadores raramente usaram este arco. Pode soar estranho, mas o arco causaria excessivo dano á presa.
-ITEM_20150317_000393	$Equalizer 
-ITEM_20150317_000394	$Tiveram arqueiros orgulhos que não queriam nenhuma variável afetando sua perícia com o arco, fora suas habilidaes. Esse arco é o par perfeito para eles.
-ITEM_20150317_000395	$Heart Seeker 
-ITEM_20150317_000396	$Por uma razão desconhecida, o feitiço vinculado a este arco se tornou uma maldição para o inimigo e o usuário. Independentemente disso, o arco ainda é usado por arqueiros para os seus méritos.
-ITEM_20150317_000397	$Viper 
-ITEM_20150317_000398	$Esse arco com veneno atribuido é tão tóxico que afeta seu manusiador também.
-ITEM_20150317_000399	$Deathweaver Bow 
-ITEM_20150317_000400	{memo X}$Esse arco vai mandar seus adversários ás suas mortes.
-ITEM_20150317_000401	$Chapparition Bow 
-ITEM_20150317_000402	{memo X}$A gravura diz: "Endireite suas costas e alinhe seus ombros; puxe a corda e empurre o arco quando atirar."
-ITEM_20150317_000403	$Blood Gain 
-ITEM_20150317_000404	$Esse arco foi criado por Lydia Schaffen. Ela usava esse arco ao longe de sua vida, mas intencionalmente reteve o método de produção do 'The Tower of the Stars' e do 'Schaffenstar', duas entidades fundadas pela própria Lydia.
-ITEM_20150317_000405	$Tempest Shooter 
-ITEM_20150317_000406	{memo X}$Um novo arco projetado e desenvolvido em parceria com o mestre produtor de arcos. Foi concebido com esperança para sobrepor o Great Plant Cataclysm.
-ITEM_20150317_000407	$Empty_weapon_Bow 
-ITEM_20150317_000408	{memo X}$Low Light Crossbow 
-ITEM_20150317_000409	$Crossbow [Pierce] 
-ITEM_20150317_000410	$Útil quando ter uma mão livre é mais importante que ter mais poder de ataque.
-ITEM_20150317_000411	{memo X}$Low Crossbow 
-ITEM_20150317_000412	$Bestas modernas usam diferentes materiais, a maioria são partes de monstros.
-ITEM_20150317_000413	$Dokyu 
-ITEM_20150317_000414	$Uma arma que é fácil de recarregar.
-ITEM_20150317_000415	$Quarrel Bow 
-ITEM_20150317_000416	$O Quarrel Shooter Master usa isso para ensinar os novatos.
-ITEM_20150317_000417	$Oak Crossbow 
-ITEM_20150317_000418	{memo X}$Apesar da madeira ser difícil de encontrar devido o Great Plant Cataclysm, essa arma não é difícil de se fazer.
-ITEM_20150317_000419	$Seal Crossbow 
-ITEM_20150317_000420	$Por causa de osso de monstros serem algumas vezes amaldiçoados, um selo é acoplado nesta arma.
-ITEM_20150317_000421	$Catapult 
-ITEM_20150317_000422	$Tem uma história longa de uma pesquisa em adaptar armamento de cerco para uso singular. Essa arma é a culminação dessa pesquisa.
-ITEM_20150317_000423	$Cranequin 
-ITEM_20150317_000424	$O mecanismo ajuda novatos em usar-la, mas usuários experientes vão beneficiar do poder adicional.
-ITEM_20150317_000425	{memo X}$Crude Oak Crossbow 
-ITEM_20150317_000426	{memo X}$Crude Seal Crossbow 
-ITEM_20150317_000427	$Sniper Crossbow 
-ITEM_20150317_000428	$Uma poderosa besta, infame por ter sido usada pelo Assassin Evoniphon.
-ITEM_20150317_000429	$Light Crossbow 
-ITEM_20150317_000430	{memo X}$Heavy Light Crossbow 
-ITEM_20150317_000431	$Crossbow 
-ITEM_20150317_000432	{memo X}$Heavy Dokyu 
-ITEM_20150317_000433	{memo X}$Heavy Quarrel Bow 
-ITEM_20150317_000434	{memo X}$Heavy Oak Crossbow 
-ITEM_20150317_000435	$Dunkel Quarrel Bow 
-ITEM_20150317_000436	$Dunkel Cranequine 
-ITEM_20150317_000437	$Dunkel Crossbow 
-ITEM_20150317_000438	$Dunkel Dokyu 
-ITEM_20150317_000439	$Dunkel Oak Crossbow 
-ITEM_20150317_000440	$Arbalest 
-ITEM_20150317_000441	$Fedimian Turret 
-ITEM_20150317_000442	$Bullet Shooter 
-ITEM_20150317_000443	$Black Tip Bow 
-ITEM_20150317_000444	$Spiked Crossbow 
-ITEM_20150317_000445	$Windlass
-ITEM_20150317_000446	{memo X}$Heavy Crossbow 
-ITEM_20150317_000447	$Apesar de levemente pesada, a mágica imbutida nesse arco por si compensa essa desvantagem.
-ITEM_20150317_000448	$Wide Crossbow 
-ITEM_20150317_000449	$Para aqueles com boa mira, esse é um bom arco para causar golpes letais em alvos.
-ITEM_20150317_000450	$Grand Cross 
-ITEM_20150317_000451	$Uma besta muito popular entre os Archers por causa de sua alta qualidade e falta de inconvenientes.
-ITEM_20150317_000452	$Cheminis Crossbow 
-ITEM_20150317_000453	{memo X}$Armas baseada na Alquímia estão em ótima demanda desdo Great Plant Cataclysm.
-ITEM_20150317_000454	$Medina Crossbow 
-ITEM_20150317_000455	{memo X}$Essa arma é especializada em derrubar adversário bem equipados.
-ITEM_20150317_000456	$Regina Crossbow 
-ITEM_20150317_000457	$Não tão boa para ser considerada a 'Lord of Crossbows', mas o título de "Queen" parece justo.
-ITEM_20150317_000458	$Chaser 
-ITEM_20150317_000459	$Frequentemente usado por arqueiros operando em áreas de baixa visibilidade e/ou ventos fortes.
-ITEM_20150317_000460	$Imperni Crossbow 
-ITEM_20150317_000461	$Rumores dizem que o mercado negro de armas são intencionalmente feitos para serem caros de manter.
-ITEM_20150317_000462	$Grave Crossbow 
-ITEM_20150317_000463	$Essa arma é recomendada se pretende botar permanentemente o alvo para durmir.
-ITEM_20150317_000464	$Smith Crossbow 
-ITEM_20150317_000465	{memo X}$Essa arma vai lidar com tanto dano quanto você espera, toda vez que puxar o gatilho.
-ITEM_20150317_000466	$Klavis Crossbow 
-ITEM_20150317_000467	$Você pode ser a primeira pessoa a expor o verdadeiro potencial desta arma.
-ITEM_20150317_000468	$Thresh Crossbow 
-ITEM_20150317_000469	$Sestas Crossbow 
-ITEM_20150317_000470	$Dratt Crossbow 
-ITEM_20150317_000471	$Aston Crossbow 
-ITEM_20150317_000472	{memo X}$Devi Crossbow 
-ITEM_20150317_000473	{memo X}$Prima Crossbow 
-ITEM_20150317_000474	$Shooting Star 
-ITEM_20150317_000475	$Anteriormente apenas arqueiros que completaram o treinamento na 'The Tower of the Stars' pôde usar esta arma.
-ITEM_20150317_000476	$Kateen Blaster
-ITEM_20150317_000477	{memo X}$O Ranger Master desenvolveu essa arma baseada em dados de monstros de Kateen Forest depois do Great Plant Cataclysm. Contudo, ele recomenda que ninguém a use.
-ITEM_20150317_000478	$Grajus 
-ITEM_20150317_000479	$Podem grandes monstros serem caçados usando uma besta de uma mão? Essa é a resposta.
-ITEM_20150317_000480	$Deathweaver Crossbow 
-ITEM_20150317_000481	{memo X}$Essa não é a arma de Deathweaver. O proprietário original foi provavelmente uma lamentável vítima.
-ITEM_20150317_000482	$Chapparition Shooter 
-ITEM_20150317_000483	{memo X}$Essa arma é preparação o bastante para dar a bestas selvagens o gosto da dor.
-ITEM_20150317_000484	$Isbality 
-ITEM_20150317_000485	$A maior arqueira da história, Lydia Schaffen, não hesitou em caçar demônios. É difícil de obter essa arma por causa de Schaffen não liberou o projeto para o público. 
-ITEM_20150317_000486	$Morto 
-ITEM_20150317_000487	$Esse projeto foi divulgado ao público depois que Evoniphon livrou-se de sua arma enquanto era perseguido por Fiona Ieva. Contudo, muitos cairam tolamente desafiando monstros enquanto seguravam nessa arma.
+ITEM_20150317_000056	Badelaire
+ITEM_20150317_000057	Saif
+ITEM_20150317_000058	Colichemarde
+ITEM_20150317_000059	Firangi
+ITEM_20150317_000060	Cortador de Espinhos 
+ITEM_20150317_000061	Espada Demion
+ITEM_20150317_000062	Espada Mestra
+ITEM_20150317_000063	Espada Panto
+ITEM_20150317_000064	Uma espada rústica utilizada pelos Pantos. Você mesmo poderia forjar uma melhor se tentasse.
+ITEM_20150317_000065	Sabre Flonas 
+ITEM_20150317_000066	Dizem alguns que esta arma descarrega o rancor que as plantas possuem para com as criaturas. 
+ITEM_20150317_000067	Alfanje Dourada
+ITEM_20150317_000068	Talvez por causa da correlação do ouro com a boa sorte, a Alfanje Dourada atribui ao seu dono muita sorte em batalha. Evidentemente, ela causa estragos severos aos seus inimigos. 
+ITEM_20150317_000069	Alfanje de Aço 
+ITEM_20150317_000070	A Alfanje de Aço é uma boa opção para aqueles que buscam maior precisão em combate. 
+ITEM_20150317_000071	Alfanje Prateada 
+ITEM_20150317_000072	Seu leve peso e grande resistência permitem ao espadachim libertar todo o seu potencial durante o ataque. 
+ITEM_20150317_000073	Mandrapick 
+ITEM_20150317_000074	É dito que esta espada é capaz de clarear a mente de seu manejador com a sua essência de Mandrágora. 
+ITEM_20150317_000075	Lâmina do Bruxo 
+ITEM_20150317_000076	Você jamais deve menosprezar um bruxo por manejar uma espada, principalmente se tal espada for a Lâmina do Bruxo. 
+ITEM_20150317_000077	Espada de Cheminis
+ITEM_20150317_000078	Esta espada é feita através de uma receita desenvolvida por um alquimista da família Winterspoon, que alegou ser mais capaz de criar uma espada do que um ferreiro.
+ITEM_20150317_000079	Austas 
+ITEM_20150317_000080	Esta espada vale seu preço elevado. Mas os mercadores realmente prefeririam que você voltasse para comprar outras armas do que ficar apegado apenas a ela. 
+ITEM_20150317_000081	Sabre Miskas 
+ITEM_20150317_000082	Essa arma tornará sua habilidade com a espada mais veloz. 
+ITEM_20150317_000083	Espada Imperni 
+ITEM_20150317_000084	Veteranos frequentemente relembram da forte emoção que sentiram ao serem promovidos de meros aprendizes e receberem esta espada pela primeira vez. 
+ITEM_20150317_000085	Gritas 
+ITEM_20150317_000086	Uma espada utilizada por valentes aventureiros. Ironicamente, ela é frequentemente encontrada com poderosas criaturas. Aquele que obtém essa espada, mesmo sem saber, acaba vingando seu antigo dono. 
+ITEM_20150317_000087	Spatha 
+ITEM_20150317_000088	Uma versão aprimorada do Gládio, com uma lâmina mais comprida em comparação. 
+ITEM_20150317_000089	Alfanje do Aras 
+ITEM_20150317_000090	Essa arma lhe dá a oportunidade de testar a capacidade de uma Alfanje. 
+ITEM_20150317_000091	Espada de Ferreiro
+ITEM_20150317_000092	 - 2% de chance de causar +600% de dano. 
+ITEM_20150317_000093	Esta espada frequentemente brilha com o talento e habilidade de seu criador.
+ITEM_20150317_000094	Espada Klavis
+ITEM_20150317_000095	Apesar de sua qualidade, ela pode ser vendida por um bom preço. 
+ITEM_20150317_000096	Espada Dio
+ITEM_20150317_000097	Espada Thresh
+ITEM_20150317_000098	Espada Sestas 
+ITEM_20150317_000099	Espada Dratt 
+ITEM_20150317_000100	Espada Aston 
+ITEM_20150317_000101	Espada Devi 
+ITEM_20150317_000102	Espada Prima 
+ITEM_20150317_000103	Espada Trindade 
+ITEM_20150317_000104	Se você está insatisfeito com um tipo de Alfanje, essa é uma alternativa. Porém você irá arcar com o custo extra para sua criação.
+ITEM_20150317_000105	Durandal 
+ITEM_20150317_000106	Muitos aventureiros nomearam sua melhor espada baseados nessa arma. Esse era o nome da espada manejada por um guerreiro antigo escolhido por uma Deusa.
+ITEM_20150317_000107	Velniup 
+ITEM_20150317_000108	Pessoas chegam ao ponto de dizer que essa arma é excessivamente cruel. 
+ITEM_20150317_000109	Fortis 
+ITEM_20150317_000110	Apesar de ser impopular durante o Grande Cataclisma das Plantas, o reaparecimento de monstros com armaduras fortes está provando seu valor.
+ITEM_20150317_000111	Talhadeira da Chaparição 
+ITEM_20150317_000112	De acordo com uma teoria, essa espada também é usada em conflitos entre os Demônios.
+ITEM_20150317_000113	Talhadeira da Tecelã da Morte. 
+ITEM_20150317_000114	Quem empunha esta lâmina se torna aquele traz a morte. 
+ITEM_20150317_000115	Espada da Chaparição 
+ITEM_20150317_000116	Isso serve como uma evidência indireta das disputas entre Demônios. 
+ITEM_20150317_000117	Espada Bendras 
+ITEM_20150317_000118	Uma espada carregando o poder da Deusa que destruiu muitos males no passado. 
+ITEM_20150317_000119	Illizia 
+ITEM_20150317_000120	Essa lâmina ameaça severamente tanto a vida de seu adversário quanto as finanças de seu dono. É claro, a maioria dos espadachins ignora esse último efeito.
+ITEM_20150317_000121	Programado para deleção. 
+ITEM_20150317_000122	Espada de Duas Mãos [Corte] 
+ITEM_20150317_000123	Espada Bastarda Dunkel 
+ITEM_20150317_000124	Alguns mestres artesãos e soldados chamam esta espada de 'Espada de duas mãos de estilo misto.' Eles dizem isso para se justificarem.
+ITEM_20150317_000125	Flamberge 
+ITEM_20150317_000126	Se você é um expert em armas de duas mãos, esta lâmina com forma de onda pode causar um dano massivo. 
+ITEM_20150317_000127	Nodachi 
+ITEM_20150317_000128	Uma Nodachi com o comprimento 'na medida' pode amplificar seu poder de corte e dominar o espaço entre aquele que a empunha e seu inimigo.
+ITEM_20150317_000129	Claymore 
+ITEM_20150317_000130	Todas as Claymores do reino são feitas com ênfase em peso e poder. 
+ITEM_20150317_000131	Colossus 
+ITEM_20150317_000132	A lâmina incomum em forma de leque oferece o potencial de amplificar seu poder e versatilidade para ser adaptada em várias técnicas.
+ITEM_20150317_000133	Caliburn 
+ITEM_20150317_000134	Frequentemente carregada por soldados de patente alta. 
+ITEM_20150317_000135	Quaddara 
+ITEM_20150317_000136	Ao contrário do que aparenta, esta é uma espada de dois gumes e é frequentemente usada por espadachins procurando praticidade.
+ITEM_20150317_000137	Claymore Leve 
+ITEM_20150317_000138	A estrutura dessa espada permite à seu usuário realizar uma estocada.
+ITEM_20150317_000139	Colossus Bruta
+ITEM_20150317_000140	Ilwoon 
+ITEM_20150317_000141	O Grande Ruklys carregou esta espada em sua juventude. 
+ITEM_20150317_000142	Espada Bastarda de Treino 
+ITEM_20150317_000143	Espada Bastarda
+ITEM_20150317_000144	Flamberge Pesada 
+ITEM_20150317_000145	Nodachi Pesada 
+ITEM_20150317_000146	Claymore Pesada
+ITEM_20150317_000147	Nodachi Dunkel
+ITEM_20150317_000148	Quaddara Dunkel 
+ITEM_20150317_000149	Flamberge Dunkel 
+ITEM_20150317_000150	Claymore Dunkel 
+ITEM_20150317_000151	Greatsword 
+ITEM_20150317_000152	Katzbalger 
+ITEM_20150317_000153	Dress Sword 
+ITEM_20150317_000154	Zweihander 
+ITEM_20150317_000155	Executioner's Sword 
+ITEM_20150317_000156	Lumai Two-Handed Sword 
+ITEM_20150317_000157	Overknife 
+ITEM_20150317_000158	Potentia
+ITEM_20150317_000159	Uma ótima alternativa para aqueles insatisfeitos com a Flamberge regular.
+ITEM_20150317_000160	Temsus Flamberge 
+ITEM_20150317_000161	Uma espada com grande capacidade para aprimoramento que complementa o poder inato de quem empunhala. Tente seu potencial por si mesmo.ITEM_20150317_000162	Didel Colossus 
+ITEM_20150317_000162	Didel Colossus 
+ITEM_20150317_000163	Essa é a espada para aqueles que buscam maior peso, maior poder, e maior poder de alcance nos cortes.
+ITEM_20150317_000164	Collecture 
+ITEM_20150317_000165	Embora popular em batalhas hoje em dia, essa arma foi considerada um item decorativo ou colecionável nos primódios do Great Plant Cataclysm.
+ITEM_20150317_000166	Hogma Great Sword 
+ITEM_20150317_000167	Como o Hogmas obteve ou forjou essa arma não importa. Estamos mais preocupados em forjar e usar por nós mesmos.
+ITEM_20150317_000168	Cheminis Bastard Sword 
+ITEM_20150317_000169	No despertar do Great Plant Cataclysm, a família Winterspoon divulgou a receita de forja dessa arma para todos os alquimistas.
+ITEM_20150317_000170	Primaluce 
+ITEM_20150317_000171	Espadachins procurando poder bruto em uma arma frequentemente escolhem essa espada como sua primeira espada mágica.
+ITEM_20150317_000172	Kindzal 
+ITEM_20150317_000173	Aqueles que gostam de um tempero extra em suas armas forjaram esta espada para seu uso próprio.
+ITEM_20150317_000174	Imperni Two-Handed Sword 
+ITEM_20150317_000175	Se você conseguiu essa espada pelo mercado negro, é a evidência que obteve um certo nível de confiabilidade.
+ITEM_20150317_000176	Prieblanda 
+ITEM_20150317_000177	Essa espada compartilha o mesmo inventor da espada de 'Primaluce'.
+ITEM_20150317_000178	Lapis Katzbalger 
+ITEM_20150317_000179	O encantamento de Katzbalger tem sido desenvolvido a menos de 100 anos. Além disso, a composição para forja desta arma não tem relações com os Ruklys.
+ITEM_20150317_000180	Smith Two-Handed Sword 
+ITEM_20150317_000181	Desde Medis Diena, poucas pessoas tem se preocupado com a instabilidade de armas mágicas.
+ITEM_20150317_000182	Klavis Two-Handed Sword 
+ITEM_20150317_000183	Essa espada pode ser uma extensão confiável de suas mãos.
+ITEM_20150317_000184	Thresh Two-Handed Sword 
+ITEM_20150317_000185	Sestas Two-Handed Sword 
+ITEM_20150317_000186	Dratt Two-Handed Sword 
+ITEM_20150317_000187	Aston Two-Handed Sword 
+ITEM_20150317_000188	Devi Two-Handed Sword 
+ITEM_20150317_000189	Prima Two-Handed Sword 
+ITEM_20150317_000190	Flamini 
+ITEM_20150317_000191	Uma espada que tem sido considerado como necessária na luta contra demônios.
+ITEM_20150317_000192	Wizard Slayer 
+ITEM_20150317_000193	É frequente novos magos pagarem inimaginaveis por essa arma em particular. Mesmo assim, perioticamente alguém procura evitar seu poder não reconhecido.
+ITEM_20150317_000194	Two-Handed Sword [Strike] 
+ITEM_20150317_000195	Como facas arremeçadas na hora mais silenciosa da noite, Naktis cometeu um golpe imprevisto por seu alvo.
+ITEM_20150317_000196	Luciduce
+ITEM_20150317_000197	Apesar de algumas pessoas dispensar essa arma para lenhar árvores, seus usuários atuais vão lhe dizer que o Grand Plant Cataclysm teria muito mais perdas sem ela.
+ITEM_20150317_000198	Hell and Heaven 
+ITEM_20150317_000199	Tem um dito popular que clama que 'atacar é a melhor defesa'. Prove isso com esta arma.
+ITEM_20150317_000200	Deathweaver Tooth 
+ITEM_20150317_000201	Dente de Deathweaver não é atualmente usado para forjar essa arma.
+ITEM_20150317_000202	Chapparition Two-Handed Sword 
+ITEM_20150317_000203	Grandes poderes podem ser encontrados no intangível. Ás vezes a menor volumosidade pode superar a pesado.  
+ITEM_20150317_000204	Nulis 
+ITEM_20150317_000205	Concede grande poder contra existências que não pertencem aos reinos da noite e do dia.
+ITEM_20150317_000206	Gravity 
+ITEM_20150317_000207	Gravidade não pode ser evitada por ninguém ou por nada. Mas se algum se adaptar á ela, ninguém poderá subestimar seu poder.
+ITEM_20150317_000208	Crude Short Rod 
+ITEM_20150317_000209	Rod [Strike] 
+ITEM_20150317_000210	Um cajado que todos os estudantes de mágica usaram.
+ITEM_20150317_000211	Short Rod 
+ITEM_20150317_000212	Mágicos que graduarem de seu aprendizado frequentemente mudam para essa arma.
+ITEM_20150317_000213	Low Long Rod 
+ITEM_20150317_000214	Os decorativos vistos nos equipamentos dos magos são adicionados por função, não apenas por aparência.
+ITEM_20150317_000215	Low Cane Rover 
+ITEM_20150317_000216	Quando um cajado é cravada por um feiticeiro famoso, essa é vinculada em conter poderes místicos.
+ITEM_20150317_000217	Cane 
+ITEM_20150317_000218	Você pode customizar esse cajado logo se puder suprir os materiais.
+ITEM_20150317_000219	Crook 
+ITEM_20150317_000220	Lendas dizem que feiticeiros malígnos foram os primeiros a começarem a usar esta arma.
+ITEM_20150317_000221	Pewter Rod 
+ITEM_20150317_000222	Esta arma foi uma vez popular entre os jovens feiticeiros.
+ITEM_20150317_000223	Owl Rod 
+ITEM_20150317_000224	A decoração é popular entre feiticeiros experientes.
+ITEM_20150317_000225	Rune Rod 
+ITEM_20150317_000226	Uma runa mágica é usada para amplificar o poder do cajado.
+ITEM_20150317_000227	Crystal Rod 
+ITEM_20150317_000228	O preciso encaixe da jóia no cabo é requirido para montar esse cajado.
+ITEM_20150317_000229	Crude Pewter Rod 
+ITEM_20150317_000230	Crude Owl Rod 
+ITEM_20150317_000231	Soldier's Short Rod 
+ITEM_20150317_000232	Esse cajado foi entregue aos magos que se juntaram o Army. Todavia o procedimento tem sido abolido desde o Great Plant Cataclysm, ainda resta um estoque abundante.
+ITEM_20150317_000233	Chieftain's Long Rod 
+ITEM_20150317_000234	O formato desse cajado foi popular no passado. Apesar de antiquado, o cajado tem uma perfomance preferencialmente decente.
+ITEM_20150317_000235	Crude Cane Rover 
+ITEM_20150317_000236	Battle Rod 
+ITEM_20150317_000237	Apesar da assistência em invocar mágica, esse cajado foi também designado para combates físicos.
+ITEM_20150317_000238	Heavy Short Rod 
+ITEM_20150317_000239	Long Rod 
+ITEM_20150317_000240	Heavy Long Rod 
+ITEM_20150317_000241	Cane Rover 
+ITEM_20150317_000242	Heavy Cane 
+ITEM_20150317_000243	Heavy Crook 
+ITEM_20150317_000244	Heavy Pewter Rod 
+ITEM_20150317_000245	Dunkel Crook 
+ITEM_20150317_000246	Dunkel Crystal Rod 
+ITEM_20150317_000247	Dunkel Long Rod 
+ITEM_20150317_000248	Dunkel Cane Rover 
+ITEM_20150317_000249	Dunkel Cane 
+ITEM_20150317_000250	Dunkel Pewter Rod 
+ITEM_20150317_000251	Snake Rod 
+ITEM_20150317_000252	Alter Rod 
+ITEM_20150317_000253	Nald Rod 
+ITEM_20150317_000254	Elder Rod 
+ITEM_20150317_000255	Meteor Rod 
+ITEM_20150317_000256	Ring Rod 
+ITEM_20150317_000257	Servant Rod 
+ITEM_20150317_000258	Panto Rod 
+ITEM_20150317_000259	Feiticeiros tem descoberto novos fatos de monstros emergidos do Great Plant Cataclysm e aplicando-os em várias situações.
+ITEM_20150317_000260	Ice Rod 
+ITEM_20150317_000261	Boatos dizem que toda vez que a receita desse cajado é vendido, parte dos ganhos vão para o Cryomancer Master.
+ITEM_20150317_000262	Fire Rod 
+ITEM_20150317_000263	Apenas um Pyromancer Master sabe o método de infusão do poder da Goddess Gabija para dentro dos cajados.
+ITEM_20150317_000264	Vasia Rod 
+ITEM_20150317_000265	Embora padres se preocupem sobre a manipulação de espíritos durante sua manufaturação, feiticeiros ignoram essa objeção.
+ITEM_20150317_000266	Magic Rod 
+ITEM_20150317_000267	Um simples cajado para reforço mágico, facilmente produzível por magos iniciantes.
+ITEM_20150317_000268	Grinas Rod 
+ITEM_20150317_000269	O acrésimo de Demons depois do Great Plant Cataclysm aumentou o preço desse antes-caro cajado.
+ITEM_20150317_000270	Cheminis Rod 
+ITEM_20150317_000271	Apesar do nome semelhante com outra arma, esta arma não tem relação direta com a família Winterspoon.
+ITEM_20150317_000272	Arch Rod 
+ITEM_20150317_000273	Uma arma que preenche o papel de um trampolim para feiticeiros avançados para feiticeiros aspirantes. Uma vez um feiticeiro conquistou seus objetivos para maior aprendizado, essa arma é substituida por outra.
+ITEM_20150317_000274	Imperni Rod 
+ITEM_20150317_000275	Esse é popular entre feiticeiros que gostam de se destacar. 
+ITEM_20150317_000276	Aras' Long Rod 
+ITEM_20150317_000277	É frequentemente dado como um pequeno presente entre os feiticeiros graças ao seu preço acessível.
+ITEM_20150317_000278	Smith Rod 
+ITEM_20150317_000279	As inesperadas caracteristicas dessa arma são independentes de quem a usa.
+ITEM_20150317_000280	Klavis Rod 
+ITEM_20150317_000281	Você pode ser o primeiro feiticeiro na história a usar esta arma.
+ITEM_20150317_000282	Dio Rod 
+ITEM_20150317_000283	Thresh Rod 
+ITEM_20150317_000284	Sestas Rod 
+ITEM_20150317_000285	Dratt Rod 
+ITEM_20150317_000286	Aston Rod 
+ITEM_20150317_000287	Devi Rod 
+ITEM_20150317_000288	Prima Rod 
+ITEM_20150317_000289	Temere 
+ITEM_20150317_000290	O apelido desse cajado é 'The Staff of Patience'. Rez a lenda que Agailla Flurry, o maior feiticeiro da história, idelizou esse cajado para treinar seu aprendizes.
+ITEM_20150317_000291	Ignition 
+ITEM_20150317_000292	Embora o Pyromancer Master estivesse pesquisando um meio de suavizar os inconvenientes instáveis deste bastão, não tem havido desenvolvimento até agora.
+ITEM_20150317_000293	Secretum 
+ITEM_20150317_000294	Uma arma feita para e somente para feiticeiros. Assim, feiticeiros geralmente ignoram as falhas desse bastão.
+ITEM_20150317_000295	Deathweaver Rod 
+ITEM_20150317_000296	Um cajado contendo o poder do Deathweaver.
+ITEM_20150317_000297	Chapparition Rod 
+ITEM_20150317_000298	Zaima 
+ITEM_20150317_000299	Rumores dizem que o alto preço da receita desse cajado é devida a insistência do Cryomancer Master.
+ITEM_20150317_000300	Epos 
+ITEM_20150317_000301	Um cajado que foi produzido a muito tempo atrás usando a melhor conhecimento mágico disponível da época. Já que o resultado é impossível de se adicionar ao cajado, mesmo com os avanços atuais em mágica.
+ITEM_20150317_000302	Twinkle Rod 
+ITEM_20150317_000303	Uma estrela cintilante é sempre visível.
+ITEM_20150317_000304	Empty_weapon_THBow 
+ITEM_20150317_000305	Crude Light Bow 
+ITEM_20150317_000306	Bow [Pierce] 
+ITEM_20150317_000307	Uma simples arma que pode ser produzida até mesmo em casa.
+ITEM_20150317_000308	Light Bow 
+ITEM_20150317_000309	Um arco largamente produzido e usado por pessoas acerca do reino e seus territórios.
+ITEM_20150317_000310	Low Short Bow 
+ITEM_20150317_000311	Um arco para novatos, apesar de alguns arqueiros competentes preferirem continuar usandô-o.
+ITEM_20150317_000312	Crude Longbow 
+ITEM_20150317_000313	Uma distância mais curta pode as vezes ser o fator decisivo entra a vida e a morte. Esse arco é uma boa escolha se você quer um longo alcance.
+ITEM_20150317_000314	Composite Bow 
+ITEM_20150317_000315	Um arco com flexibilidade aprimorada devida a aplicação de vários materiais.
+ITEM_20150317_000316	Self Bow 
+ITEM_20150317_000317	Simboliza a resolução leal de um arqueiro inflexível.
+ITEM_20150317_000318	Rokas Bow 
+ITEM_20150317_000319	É presumívelmente nomeada com o local de onde seu inventor veio.
+ITEM_20150317_000320	Gorithos 
+ITEM_20150317_000321	Um arco preferido pela Cavalry.
+ITEM_20150317_000322	Gulail
+ITEM_20150317_000323	O primeiro caso já registrado de mágica aplicada na produção de arcos. Desde então, ele se encontra no mercado.
+ITEM_20150317_000324	Kaman 
+ITEM_20150317_000325	Um arco modificado para maior poder pelos arqueiros confiantes na força de seus braços.
+ITEM_20150317_000326	Crude Rokas Bow 
+ITEM_20150317_000327	Crude Gorithos 
+ITEM_20150317_000328	Soldier's Light Bow 
+ITEM_20150317_000329	Esse arco tem sido produzido para atingir os requisitos mínimos do Army.
+ITEM_20150317_000330	Mayor's Short Bow 
+ITEM_20150317_000331	Ele apresenta marcas do esforço colocado de amarrar e desamarrar o arco a cada dia. Apesar de sua idade, o arco está em boas condições.
+ITEM_20150317_000332	Crude Long Bow 
+ITEM_20150317_000333	Gendawa 
+ITEM_20150317_000334	Este arco é o melhor entre aqueles produzidos sem magia no processo.
+ITEM_20150317_000335	Heavy Light Bow 
+ITEM_20150317_000336	Short Bow 
+ITEM_20150317_000337	Heavy Short Bow 
+ITEM_20150317_000338	Long Bow 
+ITEM_20150317_000339	Heavy Composite Bow 
+ITEM_20150317_000340	Heavy Self Bow 
+ITEM_20150317_000341	Heavy Rokas Bow 
+ITEM_20150317_000342	Dunkel Self Bow 
+ITEM_20150317_000343	Dunkel Kaman 
+ITEM_20150317_000344	Dunkel Short Bow 
+ITEM_20150317_000345	Dunkel Long Bow 
+ITEM_20150317_000346	Dunkel Composite Bow 
+ITEM_20150317_000347	Dunkel Rokas Bow 
+ITEM_20150317_000348	Recurve Bow 
+ITEM_20150317_000349	Seige Bow 
+ITEM_20150317_000350	Sniper Bow 
+ITEM_20150317_000351	Skull Bow 
+ITEM_20150317_000352	Wooden Compound Bow 
+ITEM_20150317_000353	Tag Bow 
+ITEM_20150317_000354	Rogue Bow 
+ITEM_20150317_000355	Seeker 
+ITEM_20150317_000356	Este arco, popular entre os caçadores, tornou-se ainda mais difundido depois da Great Plant Cataclysm.
+ITEM_20150317_000357	Iron Bow 
+ITEM_20150317_000358	Este arco tem grande precisão e freqüêntemente causa danos inesperados ao inimigo.
+ITEM_20150317_000359	Hawk Bow 
+ITEM_20150317_000360	Um Self Bow feito de diferentes ossos as vezes não terá sinergia com ouro.
+ITEM_20150317_000361	Cheminis Bow 
+ITEM_20150317_000362	Foi nomeado por seu efeito de aumentar a agilidade de seu usuário.
+ITEM_20150317_000363	Hunting Bow 
+ITEM_20150317_000364	A aplicação da Alchemy na manufaturação de um arco manteve-se teórica até que circuntâncias tornaram-a tendência na recente produção.
+ITEM_20150317_000365	Maker Bow 
+ITEM_20150317_000366	No passado, apenas caçadores mais ricos compraram esse arco.  Com os terríveis acontecimentos recentes na história, de um jeito ou de outro, qualquer pode pode obter-lo seja comprando ou produzindo.
+ITEM_20150317_000367	Savage Bow 
+ITEM_20150317_000368	Devido o acréscimo na demanda por arcos de alta qualidade desdo Great Plant Cataclysm, esse arco tem sido produzido com certa freqüência.
+ITEM_20150317_000369	Snake Bow 
+ITEM_20150317_000370	Este arco é uma boa escolha independentemente da força muscular. Isso porque, se o usuário tem braços fortes, ele pode disparar com mais poder e se não o fizer, o arco compensa isso.
+ITEM_20150317_000371	Imperni Bow 
+ITEM_20150317_000372	Como o nome sugere, esse arco inflinge disparos com veneno.
+ITEM_20150317_000373	Lethena Bow 
+ITEM_20150317_000374	Pode-se sentir a sensação de caçar um grande monstro com esse arco graças ao seu sólido peso.
+ITEM_20150317_000375	Strong Bow 
+ITEM_20150317_000376	Nada prático de ser produzido, mas compensa o trabalho.
+ITEM_20150317_000377	Aras' Short Bow 
+ITEM_20150317_000378	Normalmente comprado por novos usuários de arcos mágicos.
+ITEM_20150317_000379	Pulley Bow 
+ITEM_20150317_000380	Smith Bow 
+ITEM_20150317_000381	Se não houver outros arcos disponíveis para adquirir, compre este e espere pelo melhor.
+ITEM_20150317_000382	Klavis Bow 
+ITEM_20150317_000383	Apesar de ser um arco mágico, é geralmente considerado em ser medíocre, mas o usuário poderá fazer um uso excepcional dele.
+ITEM_20150317_000384	Dio Bow 
+ITEM_20150317_000385	Thresh Bow 
+ITEM_20150317_000386	Sestas Bow 
+ITEM_20150317_000387	Dratt Bow 
+ITEM_20150317_000388	Aston Bow 
+ITEM_20150317_000389	Devi Bow 
+ITEM_20150317_000390	Prima Bow 
+ITEM_20150317_000391	Wildling Bane 
+ITEM_20150317_000392	Prévio ao Great Plant Cataclysm, caçadores raramente usaram este arco. Pode soar estranho, mas o arco causaria excessivo dano á presa.
+ITEM_20150317_000393	Equalizer 
+ITEM_20150317_000394	Tiveram arqueiros orgulhos que não queriam nenhuma variável afetando sua perícia com o arco, fora suas habilidaes. Esse arco é o par perfeito para eles.
+ITEM_20150317_000395	Heart Seeker 
+ITEM_20150317_000396	Por uma razão desconhecida, o feitiço vinculado a este arco se tornou uma maldição para o inimigo e o usuário. Independentemente disso, o arco ainda é usado por arqueiros para os seus méritos.
+ITEM_20150317_000397	Viper 
+ITEM_20150317_000398	Esse arco com veneno atribuido é tão tóxico que afeta seu manusiador também.
+ITEM_20150317_000399	Deathweaver Bow 
+ITEM_20150317_000400	Esse arco vai mandar seus adversários ás suas mortes.
+ITEM_20150317_000401	Chapparition Bow 
+ITEM_20150317_000402	A gravura diz: "Endireite suas costas e alinhe seus ombros; puxe a corda e empurre o arco quando atirar."
+ITEM_20150317_000403	Blood Gain 
+ITEM_20150317_000404	Esse arco foi criado por Lydia Schaffen. Ela usava esse arco ao longe de sua vida, mas intencionalmente reteve o método de produção do 'The Tower of the Stars' e do 'Schaffenstar', duas entidades fundadas pela própria Lydia.
+ITEM_20150317_000405	Tempest Shooter 
+ITEM_20150317_000406	Um novo arco projetado e desenvolvido em parceria com o mestre produtor de arcos. Foi concebido com esperança para sobrepor o Great Plant Cataclysm.
+ITEM_20150317_000407	Empty_weapon_Bow 
+ITEM_20150317_000408	Low Light Crossbow 
+ITEM_20150317_000409	Crossbow [Pierce] 
+ITEM_20150317_000410	Útil quando ter uma mão livre é mais importante que ter mais poder de ataque.
+ITEM_20150317_000411	Low Crossbow 
+ITEM_20150317_000412	Bestas modernas usam diferentes materiais, a maioria são partes de monstros.
+ITEM_20150317_000413	Dokyu 
+ITEM_20150317_000414	Uma arma que é fácil de recarregar.
+ITEM_20150317_000415	Quarrel Bow 
+ITEM_20150317_000416	O Quarrel Shooter Master usa isso para ensinar os novatos.
+ITEM_20150317_000417	Oak Crossbow 
+ITEM_20150317_000418	Apesar da madeira ser difícil de encontrar devido o Great Plant Cataclysm, essa arma não é difícil de se fazer.
+ITEM_20150317_000419	Seal Crossbow 
+ITEM_20150317_000420	Por causa de osso de monstros serem algumas vezes amaldiçoados, um selo é acoplado nesta arma.
+ITEM_20150317_000421	Catapult 
+ITEM_20150317_000422	Tem uma história longa de uma pesquisa em adaptar armamento de cerco para uso singular. Essa arma é a culminação dessa pesquisa.
+ITEM_20150317_000423	Cranequin 
+ITEM_20150317_000424	O mecanismo ajuda novatos em usar-la, mas usuários experientes vão beneficiar do poder adicional.
+ITEM_20150317_000425	Crude Oak Crossbow 
+ITEM_20150317_000426	Crude Seal Crossbow 
+ITEM_20150317_000427	Sniper Crossbow 
+ITEM_20150317_000428	Uma poderosa besta, infame por ter sido usada pelo Assassin Evoniphon.
+ITEM_20150317_000429	Light Crossbow 
+ITEM_20150317_000430	Heavy Light Crossbow 
+ITEM_20150317_000431	Crossbow 
+ITEM_20150317_000432	Heavy Dokyu 
+ITEM_20150317_000433	Heavy Quarrel Bow 
+ITEM_20150317_000434	Heavy Oak Crossbow 
+ITEM_20150317_000435	Dunkel Quarrel Bow 
+ITEM_20150317_000436	Dunkel Cranequine 
+ITEM_20150317_000437	Dunkel Crossbow 
+ITEM_20150317_000438	Dunkel Dokyu 
+ITEM_20150317_000439	Dunkel Oak Crossbow 
+ITEM_20150317_000440	Arbalest 
+ITEM_20150317_000441	Fedimian Turret 
+ITEM_20150317_000442	Bullet Shooter 
+ITEM_20150317_000443	Black Tip Bow 
+ITEM_20150317_000444	Spiked Crossbow 
+ITEM_20150317_000445	Windlass
+ITEM_20150317_000446	Heavy Crossbow 
+ITEM_20150317_000447	Apesar de levemente pesada, a mágica imbutida nesse arco por si compensa essa desvantagem.
+ITEM_20150317_000448	Wide Crossbow 
+ITEM_20150317_000449	Para aqueles com boa mira, esse é um bom arco para causar golpes letais em alvos.
+ITEM_20150317_000450	Grand Cross 
+ITEM_20150317_000451	Uma besta muito popular entre os Archers por causa de sua alta qualidade e falta de inconvenientes.
+ITEM_20150317_000452	Cheminis Crossbow 
+ITEM_20150317_000453	Armas baseada na Alquímia estão em ótima demanda desdo Great Plant Cataclysm.
+ITEM_20150317_000454	Medina Crossbow 
+ITEM_20150317_000455	Essa arma é especializada em derrubar adversário bem equipados.
+ITEM_20150317_000456	Regina Crossbow 
+ITEM_20150317_000457	Não tão boa para ser considerada a 'Lord of Crossbows', mas o título de "Queen" parece justo.
+ITEM_20150317_000458	Chaser 
+ITEM_20150317_000459	Frequentemente usado por arqueiros operando em áreas de baixa visibilidade e/ou ventos fortes.
+ITEM_20150317_000460	Imperni Crossbow 
+ITEM_20150317_000461	Rumores dizem que o mercado negro de armas são intencionalmente feitos para serem caros de manter.
+ITEM_20150317_000462	Grave Crossbow 
+ITEM_20150317_000463	Essa arma é recomendada se pretende botar permanentemente o alvo para durmir.
+ITEM_20150317_000464	Smith Crossbow 
+ITEM_20150317_000465	Essa arma vai lidar com tanto dano quanto você espera, toda vez que puxar o gatilho.
+ITEM_20150317_000466	Klavis Crossbow 
+ITEM_20150317_000467	Você pode ser a primeira pessoa a expor o verdadeiro potencial desta arma.
+ITEM_20150317_000468	Thresh Crossbow 
+ITEM_20150317_000469	Sestas Crossbow 
+ITEM_20150317_000470	Dratt Crossbow 
+ITEM_20150317_000471	Aston Crossbow 
+ITEM_20150317_000472	Devi Crossbow 
+ITEM_20150317_000473	Prima Crossbow 
+ITEM_20150317_000474	Shooting Star 
+ITEM_20150317_000475	Anteriormente apenas arqueiros que completaram o treinamento na 'The Tower of the Stars' pôde usar esta arma.
+ITEM_20150317_000476	Kateen Blaster
+ITEM_20150317_000477	O Ranger Master desenvolveu essa arma baseada em dados de monstros de Kateen Forest depois do Great Plant Cataclysm. Contudo, ele recomenda que ninguém a use.
+ITEM_20150317_000478	Grajus 
+ITEM_20150317_000479	Podem grandes monstros serem caçados usando uma besta de uma mão? Essa é a resposta.
+ITEM_20150317_000480	Deathweaver Crossbow 
+ITEM_20150317_000481	Essa não é a arma de Deathweaver. O proprietário original foi provavelmente uma lamentável vítima.
+ITEM_20150317_000482	Chapparition Shooter 
+ITEM_20150317_000483	Essa arma é preparação o bastante para dar a bestas selvagens o gosto da dor.
+ITEM_20150317_000484	Isbality 
+ITEM_20150317_000485	A maior arqueira da história, Lydia Schaffen, não hesitou em caçar demônios. É difícil de obter essa arma por causa de Schaffen não liberou o projeto para o público. 
+ITEM_20150317_000486	Morto 
+ITEM_20150317_000487	Esse projeto foi divulgado ao público depois que Evoniphon livrou-se de sua arma enquanto era perseguido por Fiona Ieva. Contudo, muitos cairam tolamente desafiando monstros enquanto seguravam nessa arma.
 ITEM_20150317_000488
 ITEM_20150317_000489
 ITEM_20150317_000490
@@ -8523,3 +8523,1298 @@ ITEM_20151102_008522	Cartas Não Enviadas
 ITEM_20151102_008523	Cartas que ainda não foram enviadas pelos moradores de Castlefield, antes deles desaparecerem.
 ITEM_20151102_008524	Flecha Usável
 ITEM_20151102_008525	Já foi usada uma vez mas ainda parece estar em boas condições.
+ITEM_20151224_008526
+ITEM_20151224_008527
+ITEM_20151224_008528
+ITEM_20151224_008529
+ITEM_20151224_008530
+ITEM_20151224_008531
+ITEM_20151224_008532
+ITEM_20151224_008533
+ITEM_20151224_008534
+ITEM_20151224_008535
+ITEM_20151224_008536
+ITEM_20151224_008537
+ITEM_20151224_008538
+ITEM_20151224_008539
+ITEM_20151224_008540
+ITEM_20151224_008541
+ITEM_20151224_008542
+ITEM_20151224_008543
+ITEM_20151224_008544
+ITEM_20151224_008545
+ITEM_20151224_008546
+ITEM_20151224_008547
+ITEM_20151224_008548
+ITEM_20151224_008549
+ITEM_20151224_008550
+ITEM_20151224_008551
+ITEM_20151224_008552
+ITEM_20151224_008553
+ITEM_20151224_008554
+ITEM_20151224_008555
+ITEM_20151224_008556
+ITEM_20151224_008557
+ITEM_20151224_008558
+ITEM_20151224_008559
+ITEM_20151224_008560
+ITEM_20151224_008561
+ITEM_20151224_008562
+ITEM_20151224_008563
+ITEM_20151224_008564
+ITEM_20151224_008565
+ITEM_20151224_008566
+ITEM_20151224_008567
+ITEM_20151224_008568
+ITEM_20151224_008569
+ITEM_20151224_008570
+ITEM_20151224_008571
+ITEM_20151224_008572
+ITEM_20151224_008573
+ITEM_20151224_008574
+ITEM_20151224_008575
+ITEM_20151224_008576
+ITEM_20151224_008577
+ITEM_20151224_008578
+ITEM_20151224_008579
+ITEM_20151224_008580
+ITEM_20151224_008581
+ITEM_20151224_008582
+ITEM_20151224_008583
+ITEM_20151224_008584
+ITEM_20151224_008585
+ITEM_20151224_008586
+ITEM_20151224_008587
+ITEM_20151224_008588
+ITEM_20151224_008589
+ITEM_20151224_008590
+ITEM_20151224_008591
+ITEM_20151224_008592
+ITEM_20151224_008593
+ITEM_20151224_008594
+ITEM_20151224_008595
+ITEM_20151224_008596
+ITEM_20151224_008597
+ITEM_20151224_008598
+ITEM_20151224_008599
+ITEM_20151224_008600
+ITEM_20151224_008601
+ITEM_20151224_008602
+ITEM_20151224_008603
+ITEM_20151224_008604
+ITEM_20151224_008605
+ITEM_20151224_008606
+ITEM_20151224_008607
+ITEM_20151224_008608
+ITEM_20151224_008609
+ITEM_20151224_008610
+ITEM_20151224_008611
+ITEM_20151224_008612
+ITEM_20151224_008613
+ITEM_20151224_008614
+ITEM_20151224_008615
+ITEM_20151224_008616
+ITEM_20151224_008617
+ITEM_20151224_008618
+ITEM_20151224_008619
+ITEM_20151224_008620
+ITEM_20151224_008621
+ITEM_20151224_008622
+ITEM_20151224_008623
+ITEM_20151224_008624
+ITEM_20151224_008625
+ITEM_20151224_008626
+ITEM_20151224_008627
+ITEM_20151224_008628
+ITEM_20151224_008629
+ITEM_20151224_008630
+ITEM_20151224_008631
+ITEM_20151224_008632
+ITEM_20151224_008633
+ITEM_20151224_008634
+ITEM_20151224_008635
+ITEM_20151224_008636
+ITEM_20151224_008637
+ITEM_20151224_008638
+ITEM_20151224_008639
+ITEM_20151224_008640
+ITEM_20151224_008641
+ITEM_20151224_008642
+ITEM_20151224_008643
+ITEM_20151224_008644
+ITEM_20151224_008645
+ITEM_20151224_008646
+ITEM_20151224_008647
+ITEM_20151224_008648
+ITEM_20151224_008649
+ITEM_20151224_008650
+ITEM_20151224_008651
+ITEM_20151224_008652
+ITEM_20151224_008653
+ITEM_20151224_008654
+ITEM_20151224_008655
+ITEM_20151224_008656
+ITEM_20151224_008657
+ITEM_20151224_008658
+ITEM_20151224_008659
+ITEM_20151224_008660
+ITEM_20151224_008661
+ITEM_20151224_008662
+ITEM_20151224_008663
+ITEM_20151224_008664
+ITEM_20151224_008665
+ITEM_20151224_008666
+ITEM_20151224_008667
+ITEM_20151224_008668
+ITEM_20151224_008669
+ITEM_20151224_008670
+ITEM_20151224_008671
+ITEM_20151224_008672
+ITEM_20151224_008673
+ITEM_20151224_008674
+ITEM_20151224_008675
+ITEM_20151224_008676
+ITEM_20151224_008677
+ITEM_20151224_008678
+ITEM_20151224_008679
+ITEM_20151224_008680
+ITEM_20151224_008681
+ITEM_20151224_008682
+ITEM_20151224_008683
+ITEM_20151224_008684
+ITEM_20151224_008685
+ITEM_20151224_008686
+ITEM_20151224_008687
+ITEM_20151224_008688
+ITEM_20151224_008689
+ITEM_20151224_008690
+ITEM_20151224_008691
+ITEM_20151224_008692
+ITEM_20151224_008693
+ITEM_20151224_008694
+ITEM_20151224_008695
+ITEM_20151224_008696
+ITEM_20151224_008697
+ITEM_20151224_008698
+ITEM_20151224_008699
+ITEM_20151224_008700
+ITEM_20151224_008701
+ITEM_20151224_008702
+ITEM_20151224_008703
+ITEM_20151224_008704
+ITEM_20151224_008705
+ITEM_20151224_008706
+ITEM_20151224_008707
+ITEM_20151224_008708
+ITEM_20151224_008709
+ITEM_20151224_008710
+ITEM_20151224_008711
+ITEM_20151224_008712
+ITEM_20151224_008713
+ITEM_20151224_008714
+ITEM_20151224_008715
+ITEM_20151224_008716
+ITEM_20151224_008717
+ITEM_20151224_008718
+ITEM_20151224_008719
+ITEM_20151224_008720
+ITEM_20151224_008721
+ITEM_20151224_008722
+ITEM_20151224_008723
+ITEM_20151224_008724
+ITEM_20151224_008725
+ITEM_20151224_008726
+ITEM_20151224_008727
+ITEM_20151224_008728
+ITEM_20151224_008729
+ITEM_20151224_008730
+ITEM_20151224_008731
+ITEM_20151224_008732
+ITEM_20151224_008733
+ITEM_20151224_008734
+ITEM_20151224_008735
+ITEM_20151224_008736
+ITEM_20151224_008737
+ITEM_20151224_008738
+ITEM_20151224_008739
+ITEM_20151224_008740
+ITEM_20151224_008741
+ITEM_20151224_008742
+ITEM_20151224_008743
+ITEM_20151224_008744
+ITEM_20151224_008745
+ITEM_20151224_008746
+ITEM_20151224_008747
+ITEM_20151224_008748
+ITEM_20151224_008749
+ITEM_20151224_008750
+ITEM_20151224_008751
+ITEM_20151224_008752
+ITEM_20151224_008753
+ITEM_20151224_008754
+ITEM_20151224_008755
+ITEM_20151224_008756
+ITEM_20151224_008757
+ITEM_20151224_008758
+ITEM_20151224_008759
+ITEM_20151224_008760
+ITEM_20151224_008761
+ITEM_20151224_008762
+ITEM_20151224_008763
+ITEM_20151224_008764
+ITEM_20151224_008765
+ITEM_20151224_008766
+ITEM_20151224_008767
+ITEM_20151224_008768
+ITEM_20151224_008769
+ITEM_20151224_008770
+ITEM_20151224_008771
+ITEM_20151224_008772
+ITEM_20151224_008773
+ITEM_20151224_008774
+ITEM_20151224_008775
+ITEM_20151224_008776
+ITEM_20151224_008777
+ITEM_20151224_008778
+ITEM_20151224_008779
+ITEM_20151224_008780
+ITEM_20151224_008781
+ITEM_20151224_008782
+ITEM_20151224_008783
+ITEM_20151224_008784
+ITEM_20151224_008785
+ITEM_20151224_008786
+ITEM_20151224_008787
+ITEM_20151224_008788
+ITEM_20151224_008789
+ITEM_20151224_008790
+ITEM_20151224_008791
+ITEM_20151224_008792
+ITEM_20151224_008793
+ITEM_20151224_008794
+ITEM_20151224_008795
+ITEM_20151224_008796
+ITEM_20151224_008797
+ITEM_20151224_008798
+ITEM_20151224_008799
+ITEM_20151224_008800
+ITEM_20151224_008801
+ITEM_20151224_008802
+ITEM_20151224_008803
+ITEM_20151224_008804
+ITEM_20151224_008805
+ITEM_20151224_008806
+ITEM_20151224_008807
+ITEM_20151224_008808
+ITEM_20151224_008809
+ITEM_20151224_008810
+ITEM_20151224_008811
+ITEM_20151224_008812
+ITEM_20151224_008813
+ITEM_20151224_008814
+ITEM_20151224_008815
+ITEM_20151224_008816
+ITEM_20151224_008817
+ITEM_20151224_008818
+ITEM_20151224_008819
+ITEM_20151224_008820
+ITEM_20151224_008821
+ITEM_20151224_008822
+ITEM_20151224_008823
+ITEM_20151224_008824
+ITEM_20151224_008825
+ITEM_20151224_008826
+ITEM_20151224_008827
+ITEM_20151224_008828
+ITEM_20151224_008829
+ITEM_20151224_008830
+ITEM_20151224_008831
+ITEM_20151224_008832
+ITEM_20151224_008833
+ITEM_20151224_008834
+ITEM_20151224_008835
+ITEM_20151224_008836
+ITEM_20151224_008837
+ITEM_20151224_008838
+ITEM_20151224_008839
+ITEM_20151224_008840
+ITEM_20151224_008841
+ITEM_20151224_008842
+ITEM_20151224_008843
+ITEM_20151224_008844
+ITEM_20151224_008845
+ITEM_20151224_008846
+ITEM_20151224_008847
+ITEM_20151224_008848
+ITEM_20151224_008849
+ITEM_20151224_008850
+ITEM_20151224_008851
+ITEM_20151224_008852
+ITEM_20151224_008853
+ITEM_20151224_008854
+ITEM_20151224_008855
+ITEM_20151224_008856
+ITEM_20151224_008857
+ITEM_20151224_008858
+ITEM_20151224_008859
+ITEM_20151224_008860
+ITEM_20151224_008861
+ITEM_20151224_008862
+ITEM_20151224_008863
+ITEM_20151224_008864
+ITEM_20151224_008865
+ITEM_20151224_008866
+ITEM_20151224_008867
+ITEM_20151224_008868
+ITEM_20151224_008869
+ITEM_20151224_008870
+ITEM_20151224_008871
+ITEM_20151224_008872
+ITEM_20151224_008873
+ITEM_20151224_008874
+ITEM_20151224_008875
+ITEM_20151224_008876
+ITEM_20151224_008877
+ITEM_20151224_008878
+ITEM_20151224_008879
+ITEM_20151224_008880
+ITEM_20151224_008881
+ITEM_20151224_008882
+ITEM_20151224_008883
+ITEM_20151224_008884
+ITEM_20151224_008885
+ITEM_20151224_008886
+ITEM_20151224_008887
+ITEM_20151224_008888
+ITEM_20151224_008889
+ITEM_20151224_008890
+ITEM_20151224_008891
+ITEM_20151224_008892
+ITEM_20151224_008893
+ITEM_20151224_008894
+ITEM_20151224_008895
+ITEM_20151224_008896
+ITEM_20151224_008897
+ITEM_20151224_008898
+ITEM_20151224_008899
+ITEM_20151224_008900
+ITEM_20151224_008901
+ITEM_20151224_008902
+ITEM_20151224_008903
+ITEM_20151224_008904
+ITEM_20151224_008905
+ITEM_20151224_008906
+ITEM_20151224_008907
+ITEM_20151224_008908
+ITEM_20151224_008909
+ITEM_20151224_008910
+ITEM_20151224_008911
+ITEM_20151224_008912
+ITEM_20151224_008913
+ITEM_20151224_008914
+ITEM_20151224_008915
+ITEM_20151224_008916
+ITEM_20151224_008917
+ITEM_20151224_008918
+ITEM_20151224_008919
+ITEM_20151224_008920
+ITEM_20151224_008921
+ITEM_20151224_008922
+ITEM_20151224_008923
+ITEM_20151224_008924
+ITEM_20151224_008925
+ITEM_20151224_008926
+ITEM_20151224_008927
+ITEM_20151224_008928
+ITEM_20151224_008929
+ITEM_20151224_008930
+ITEM_20151224_008931
+ITEM_20151224_008932
+ITEM_20151224_008933
+ITEM_20151224_008934
+ITEM_20151224_008935
+ITEM_20151224_008936
+ITEM_20151224_008937
+ITEM_20151224_008938
+ITEM_20151224_008939
+ITEM_20151224_008940
+ITEM_20151224_008941
+ITEM_20151224_008942
+ITEM_20151224_008943
+ITEM_20151224_008944
+ITEM_20151224_008945
+ITEM_20151224_008946
+ITEM_20151224_008947
+ITEM_20151224_008948
+ITEM_20151224_008949
+ITEM_20151224_008950
+ITEM_20151224_008951
+ITEM_20151224_008952
+ITEM_20151224_008953
+ITEM_20151224_008954
+ITEM_20151224_008955
+ITEM_20151224_008956
+ITEM_20151224_008957
+ITEM_20151224_008958
+ITEM_20151224_008959
+ITEM_20151224_008960
+ITEM_20151224_008961
+ITEM_20151224_008962
+ITEM_20151224_008963
+ITEM_20151224_008964
+ITEM_20151224_008965
+ITEM_20151224_008966
+ITEM_20151224_008967
+ITEM_20151224_008968
+ITEM_20151224_008969
+ITEM_20151224_008970
+ITEM_20151224_008971
+ITEM_20151224_008972
+ITEM_20151224_008973
+ITEM_20151224_008974
+ITEM_20151224_008975
+ITEM_20151224_008976
+ITEM_20151224_008977
+ITEM_20151224_008978
+ITEM_20151224_008979
+ITEM_20151224_008980
+ITEM_20151224_008981
+ITEM_20151224_008982
+ITEM_20151224_008983
+ITEM_20151224_008984
+ITEM_20151224_008985
+ITEM_20151224_008986
+ITEM_20151224_008987
+ITEM_20151224_008988
+ITEM_20151224_008989
+ITEM_20151224_008990
+ITEM_20151224_008991
+ITEM_20151224_008992
+ITEM_20151224_008993
+ITEM_20151224_008994
+ITEM_20151224_008995
+ITEM_20151224_008996
+ITEM_20151224_008997
+ITEM_20151224_008998
+ITEM_20151224_008999
+ITEM_20151224_009000
+ITEM_20151224_009001
+ITEM_20151224_009002
+ITEM_20151224_009003
+ITEM_20151224_009004
+ITEM_20151224_009005
+ITEM_20151224_009006
+ITEM_20151224_009007
+ITEM_20151224_009008
+ITEM_20151224_009009
+ITEM_20151224_009010
+ITEM_20151224_009011
+ITEM_20151224_009012
+ITEM_20151224_009013
+ITEM_20151224_009014
+ITEM_20151224_009015
+ITEM_20151224_009016
+ITEM_20151224_009017
+ITEM_20151224_009018
+ITEM_20151224_009019
+ITEM_20151224_009020
+ITEM_20151224_009021
+ITEM_20151224_009022
+ITEM_20151224_009023
+ITEM_20151224_009024
+ITEM_20151224_009025
+ITEM_20151224_009026
+ITEM_20151224_009027
+ITEM_20151224_009028
+ITEM_20151224_009029
+ITEM_20151224_009030
+ITEM_20151224_009031
+ITEM_20151224_009032
+ITEM_20151224_009033
+ITEM_20151224_009034
+ITEM_20151224_009035
+ITEM_20151224_009036
+ITEM_20151224_009037
+ITEM_20151224_009038
+ITEM_20151224_009039
+ITEM_20151224_009040
+ITEM_20151224_009041
+ITEM_20151224_009042
+ITEM_20151224_009043
+ITEM_20151224_009044
+ITEM_20151224_009045
+ITEM_20151224_009046
+ITEM_20151224_009047
+ITEM_20151224_009048
+ITEM_20151224_009049
+ITEM_20151224_009050
+ITEM_20151224_009051
+ITEM_20151224_009052
+ITEM_20151224_009053
+ITEM_20151224_009054
+ITEM_20151224_009055
+ITEM_20151224_009056
+ITEM_20151224_009057
+ITEM_20151224_009058
+ITEM_20151224_009059
+ITEM_20151224_009060
+ITEM_20151224_009061
+ITEM_20151224_009062
+ITEM_20151224_009063
+ITEM_20151224_009064
+ITEM_20151224_009065
+ITEM_20151224_009066
+ITEM_20151224_009067
+ITEM_20151224_009068
+ITEM_20151224_009069
+ITEM_20151224_009070
+ITEM_20151224_009071
+ITEM_20151224_009072
+ITEM_20151224_009073
+ITEM_20151224_009074
+ITEM_20151224_009075
+ITEM_20151224_009076
+ITEM_20151224_009077
+ITEM_20151224_009078
+ITEM_20151224_009079
+ITEM_20151224_009080
+ITEM_20151224_009081
+ITEM_20151224_009082
+ITEM_20151224_009083
+ITEM_20151224_009084
+ITEM_20151224_009085
+ITEM_20151224_009086
+ITEM_20151224_009087
+ITEM_20151224_009088
+ITEM_20151224_009089
+ITEM_20151224_009090
+ITEM_20151224_009091
+ITEM_20151224_009092
+ITEM_20151224_009093
+ITEM_20151224_009094
+ITEM_20151224_009095
+ITEM_20151224_009096
+ITEM_20151224_009097
+ITEM_20151224_009098
+ITEM_20151224_009099
+ITEM_20151224_009100
+ITEM_20151224_009101
+ITEM_20151224_009102
+ITEM_20151224_009103
+ITEM_20151224_009104
+ITEM_20151224_009105
+ITEM_20151224_009106
+ITEM_20151224_009107
+ITEM_20151224_009108
+ITEM_20151224_009109
+ITEM_20151224_009110
+ITEM_20151224_009111
+ITEM_20151224_009112
+ITEM_20151224_009113
+ITEM_20151224_009114
+ITEM_20151224_009115
+ITEM_20151224_009116
+ITEM_20151224_009117
+ITEM_20151224_009118
+ITEM_20151224_009119
+ITEM_20151224_009120
+ITEM_20151224_009121
+ITEM_20151224_009122
+ITEM_20151224_009123
+ITEM_20151224_009124
+ITEM_20151224_009125
+ITEM_20151224_009126
+ITEM_20151224_009127
+ITEM_20151224_009128
+ITEM_20151224_009129
+ITEM_20151224_009130
+ITEM_20151224_009131
+ITEM_20151224_009132
+ITEM_20151224_009133
+ITEM_20151224_009134
+ITEM_20151224_009135
+ITEM_20151224_009136
+ITEM_20151224_009137
+ITEM_20151224_009138
+ITEM_20151224_009139
+ITEM_20151224_009140
+ITEM_20151224_009141
+ITEM_20151224_009142
+ITEM_20151224_009143
+ITEM_20151224_009144
+ITEM_20151224_009145
+ITEM_20151224_009146
+ITEM_20151224_009147
+ITEM_20151224_009148
+ITEM_20151224_009149
+ITEM_20151224_009150
+ITEM_20151224_009151
+ITEM_20151224_009152
+ITEM_20151224_009153
+ITEM_20151224_009154
+ITEM_20151224_009155
+ITEM_20151224_009156
+ITEM_20151224_009157
+ITEM_20151224_009158
+ITEM_20151224_009159
+ITEM_20151224_009160
+ITEM_20151224_009161
+ITEM_20151224_009162
+ITEM_20151224_009163
+ITEM_20151224_009164
+ITEM_20151224_009165
+ITEM_20151224_009166
+ITEM_20151224_009167
+ITEM_20151224_009168
+ITEM_20151224_009169
+ITEM_20151224_009170
+ITEM_20151224_009171
+ITEM_20151224_009172
+ITEM_20151224_009173
+ITEM_20151224_009174
+ITEM_20151224_009175
+ITEM_20151224_009176
+ITEM_20151224_009177
+ITEM_20151224_009178
+ITEM_20151224_009179
+ITEM_20151224_009180
+ITEM_20151224_009181
+ITEM_20151224_009182
+ITEM_20151224_009183
+ITEM_20151224_009184
+ITEM_20151224_009185
+ITEM_20151224_009186
+ITEM_20151224_009187
+ITEM_20151224_009188
+ITEM_20151224_009189
+ITEM_20151224_009190
+ITEM_20151224_009191
+ITEM_20151224_009192
+ITEM_20151224_009193
+ITEM_20151224_009194
+ITEM_20151224_009195
+ITEM_20151224_009196
+ITEM_20151224_009197
+ITEM_20151224_009198
+ITEM_20151224_009199
+ITEM_20151224_009200
+ITEM_20151224_009201
+ITEM_20151224_009202
+ITEM_20151224_009203
+ITEM_20151224_009204
+ITEM_20151224_009205
+ITEM_20151224_009206
+ITEM_20151224_009207
+ITEM_20151224_009208
+ITEM_20151224_009209
+ITEM_20151224_009210
+ITEM_20151224_009211
+ITEM_20151224_009212
+ITEM_20151224_009213
+ITEM_20151224_009214
+ITEM_20151224_009215
+ITEM_20151224_009216
+ITEM_20151224_009217
+ITEM_20151224_009218
+ITEM_20151224_009219
+ITEM_20151224_009220
+ITEM_20151224_009221
+ITEM_20151224_009222
+ITEM_20151224_009223
+ITEM_20151224_009224
+ITEM_20151224_009225
+ITEM_20151224_009226
+ITEM_20151224_009227
+ITEM_20151224_009228
+ITEM_20151224_009229
+ITEM_20151224_009230
+ITEM_20151224_009231
+ITEM_20151224_009232
+ITEM_20151224_009233
+ITEM_20151224_009234
+ITEM_20151224_009235
+ITEM_20151224_009236
+ITEM_20151224_009237
+ITEM_20151224_009238
+ITEM_20151224_009239
+ITEM_20151224_009240
+ITEM_20151224_009241
+ITEM_20151224_009242
+ITEM_20151224_009243
+ITEM_20151224_009244
+ITEM_20151224_009245
+ITEM_20151224_009246
+ITEM_20151224_009247
+ITEM_20151224_009248
+ITEM_20151224_009249
+ITEM_20151224_009250
+ITEM_20151224_009251
+ITEM_20151224_009252
+ITEM_20151224_009253
+ITEM_20151224_009254
+ITEM_20151224_009255
+ITEM_20151224_009256
+ITEM_20151224_009257
+ITEM_20151224_009258
+ITEM_20151224_009259
+ITEM_20151224_009260
+ITEM_20151224_009261
+ITEM_20151224_009262
+ITEM_20151224_009263
+ITEM_20151224_009264
+ITEM_20151224_009265
+ITEM_20151224_009266
+ITEM_20151224_009267
+ITEM_20151224_009268
+ITEM_20151224_009269
+ITEM_20151224_009270
+ITEM_20151224_009271
+ITEM_20151224_009272
+ITEM_20151224_009273
+ITEM_20151224_009274
+ITEM_20151224_009275
+ITEM_20151224_009276
+ITEM_20151224_009277
+ITEM_20151224_009278
+ITEM_20151224_009279
+ITEM_20151224_009280
+ITEM_20151224_009281
+ITEM_20151224_009282
+ITEM_20151224_009283
+ITEM_20151224_009284
+ITEM_20151224_009285
+ITEM_20151224_009286
+ITEM_20151224_009287
+ITEM_20151224_009288
+ITEM_20151224_009289
+ITEM_20151224_009290
+ITEM_20151224_009291
+ITEM_20151224_009292
+ITEM_20151224_009293
+ITEM_20151224_009294
+ITEM_20151224_009295
+ITEM_20151224_009296
+ITEM_20151224_009297
+ITEM_20151224_009298
+ITEM_20151224_009299
+ITEM_20151224_009300
+ITEM_20151224_009301
+ITEM_20151224_009302
+ITEM_20151224_009303
+ITEM_20151224_009304
+ITEM_20151224_009305
+ITEM_20151224_009306
+ITEM_20151224_009307
+ITEM_20151224_009308
+ITEM_20151224_009309
+ITEM_20151224_009310
+ITEM_20151224_009311
+ITEM_20151224_009312
+ITEM_20151224_009313
+ITEM_20151224_009314
+ITEM_20151224_009315
+ITEM_20151224_009316
+ITEM_20151224_009317
+ITEM_20151224_009318
+ITEM_20151224_009319
+ITEM_20151224_009320
+ITEM_20151224_009321
+ITEM_20151224_009322
+ITEM_20151224_009323
+ITEM_20151224_009324
+ITEM_20151224_009325
+ITEM_20151224_009326
+ITEM_20151224_009327
+ITEM_20151224_009328
+ITEM_20151224_009329
+ITEM_20151224_009330
+ITEM_20151224_009331
+ITEM_20151224_009332
+ITEM_20151224_009333
+ITEM_20151224_009334
+ITEM_20151224_009335
+ITEM_20151224_009336
+ITEM_20151224_009337
+ITEM_20151224_009338
+ITEM_20151224_009339
+ITEM_20151224_009340
+ITEM_20151224_009341
+ITEM_20151224_009342
+ITEM_20151224_009343
+ITEM_20151224_009344
+ITEM_20151224_009345
+ITEM_20151224_009346
+ITEM_20151224_009347
+ITEM_20151224_009348
+ITEM_20151224_009349
+ITEM_20151224_009350
+ITEM_20151224_009351
+ITEM_20151224_009352
+ITEM_20151224_009353
+ITEM_20151224_009354
+ITEM_20151224_009355
+ITEM_20151224_009356
+ITEM_20151224_009357
+ITEM_20151224_009358
+ITEM_20151224_009359
+ITEM_20151224_009360
+ITEM_20151224_009361
+ITEM_20151224_009362
+ITEM_20151224_009363
+ITEM_20151224_009364
+ITEM_20151224_009365
+ITEM_20151224_009366
+ITEM_20151224_009367
+ITEM_20151224_009368
+ITEM_20151224_009369
+ITEM_20151224_009370
+ITEM_20151224_009371
+ITEM_20151224_009372
+ITEM_20151224_009373
+ITEM_20151224_009374
+ITEM_20151224_009375
+ITEM_20151224_009376
+ITEM_20151224_009377
+ITEM_20151224_009378
+ITEM_20151224_009379
+ITEM_20151224_009380
+ITEM_20151224_009381
+ITEM_20151224_009382
+ITEM_20151224_009383
+ITEM_20151224_009384
+ITEM_20151224_009385
+ITEM_20151224_009386
+ITEM_20151224_009387
+ITEM_20151224_009388
+ITEM_20151224_009389
+ITEM_20151224_009390
+ITEM_20151224_009391
+ITEM_20151224_009392
+ITEM_20151224_009393
+ITEM_20151224_009394
+ITEM_20151224_009395
+ITEM_20151224_009396
+ITEM_20151224_009397
+ITEM_20151224_009398
+ITEM_20151224_009399
+ITEM_20151224_009400
+ITEM_20151224_009401
+ITEM_20151224_009402
+ITEM_20151224_009403
+ITEM_20151224_009404
+ITEM_20151224_009405
+ITEM_20151224_009406
+ITEM_20151224_009407
+ITEM_20151224_009408
+ITEM_20151224_009409
+ITEM_20151224_009410
+ITEM_20151224_009411
+ITEM_20151224_009412
+ITEM_20151224_009413
+ITEM_20151224_009414
+ITEM_20151224_009415
+ITEM_20151224_009416
+ITEM_20151224_009417
+ITEM_20151224_009418
+ITEM_20151224_009419
+ITEM_20151224_009420
+ITEM_20151224_009421
+ITEM_20151224_009422
+ITEM_20151224_009423
+ITEM_20151224_009424
+ITEM_20151224_009425
+ITEM_20151224_009426
+ITEM_20151224_009427
+ITEM_20151224_009428
+ITEM_20151224_009429
+ITEM_20151224_009430
+ITEM_20151224_009431
+ITEM_20151224_009432
+ITEM_20151224_009433
+ITEM_20151224_009434
+ITEM_20151224_009435
+ITEM_20151224_009436
+ITEM_20151224_009437
+ITEM_20151224_009438
+ITEM_20151224_009439
+ITEM_20151224_009440
+ITEM_20151224_009441
+ITEM_20151224_009442
+ITEM_20151224_009443
+ITEM_20151224_009444
+ITEM_20151224_009445
+ITEM_20151224_009446
+ITEM_20151224_009447
+ITEM_20151224_009448
+ITEM_20151224_009449
+ITEM_20151224_009450
+ITEM_20151224_009451
+ITEM_20151224_009452
+ITEM_20151224_009453
+ITEM_20151224_009454
+ITEM_20151224_009455
+ITEM_20151224_009456
+ITEM_20151224_009457
+ITEM_20151224_009458
+ITEM_20151224_009459
+ITEM_20151224_009460
+ITEM_20151224_009461
+ITEM_20151224_009462
+ITEM_20151224_009463
+ITEM_20151224_009464
+ITEM_20151224_009465
+ITEM_20151224_009466
+ITEM_20151224_009467
+ITEM_20151224_009468
+ITEM_20151224_009469
+ITEM_20151224_009470
+ITEM_20151224_009471
+ITEM_20151224_009472
+ITEM_20151224_009473
+ITEM_20151224_009474
+ITEM_20151224_009475
+ITEM_20151224_009476
+ITEM_20151224_009477
+ITEM_20151224_009478
+ITEM_20151224_009479
+ITEM_20151224_009480
+ITEM_20151224_009481
+ITEM_20151224_009482
+ITEM_20151224_009483
+ITEM_20151224_009484
+ITEM_20151224_009485
+ITEM_20151224_009486
+ITEM_20151224_009487
+ITEM_20151224_009488
+ITEM_20151224_009489
+ITEM_20151224_009490
+ITEM_20151224_009491
+ITEM_20151224_009492
+ITEM_20151224_009493
+ITEM_20151224_009494
+ITEM_20151224_009495
+ITEM_20151224_009496
+ITEM_20151224_009497
+ITEM_20151224_009498
+ITEM_20151224_009499
+ITEM_20151224_009500
+ITEM_20151224_009501
+ITEM_20151224_009502
+ITEM_20151224_009503
+ITEM_20151224_009504
+ITEM_20151224_009505
+ITEM_20151224_009506
+ITEM_20151224_009507
+ITEM_20151224_009508
+ITEM_20151224_009509
+ITEM_20151224_009510
+ITEM_20151224_009511
+ITEM_20151224_009512
+ITEM_20151224_009513
+ITEM_20151224_009514
+ITEM_20151224_009515
+ITEM_20151224_009516
+ITEM_20151224_009517
+ITEM_20151224_009518
+ITEM_20151224_009519
+ITEM_20151224_009520
+ITEM_20151224_009521
+ITEM_20151224_009522
+ITEM_20151224_009523
+ITEM_20151224_009524
+ITEM_20151224_009525
+ITEM_20151224_009526
+ITEM_20151224_009527
+ITEM_20151224_009528
+ITEM_20151224_009529
+ITEM_20151224_009530
+ITEM_20151224_009531
+ITEM_20151224_009532
+ITEM_20151224_009533
+ITEM_20151224_009534
+ITEM_20151224_009535
+ITEM_20151224_009536
+ITEM_20151224_009537
+ITEM_20151224_009538
+ITEM_20151224_009539
+ITEM_20151224_009540
+ITEM_20151224_009541
+ITEM_20151224_009542
+ITEM_20151224_009543
+ITEM_20151224_009544
+ITEM_20151224_009545
+ITEM_20151224_009546
+ITEM_20151224_009547
+ITEM_20151224_009548
+ITEM_20151224_009549
+ITEM_20151224_009550
+ITEM_20151224_009551
+ITEM_20151224_009552
+ITEM_20151224_009553
+ITEM_20151224_009554
+ITEM_20151224_009555
+ITEM_20151224_009556
+ITEM_20151224_009557
+ITEM_20151224_009558
+ITEM_20151224_009559
+ITEM_20151224_009560
+ITEM_20151224_009561
+ITEM_20151224_009562
+ITEM_20151224_009563
+ITEM_20151224_009564
+ITEM_20151224_009565
+ITEM_20151224_009566
+ITEM_20151224_009567
+ITEM_20151224_009568
+ITEM_20151224_009569
+ITEM_20151224_009570
+ITEM_20151224_009571
+ITEM_20151224_009572
+ITEM_20151224_009573
+ITEM_20151224_009574
+ITEM_20151224_009575
+ITEM_20151224_009576
+ITEM_20151224_009577
+ITEM_20151224_009578
+ITEM_20151224_009579
+ITEM_20151224_009580
+ITEM_20151224_009581
+ITEM_20151224_009582
+ITEM_20151224_009583
+ITEM_20151224_009584
+ITEM_20151224_009585
+ITEM_20151224_009586
+ITEM_20151224_009587
+ITEM_20151224_009588
+ITEM_20151224_009589
+ITEM_20151224_009590
+ITEM_20151224_009591
+ITEM_20151224_009592
+ITEM_20151224_009593
+ITEM_20151224_009594
+ITEM_20151224_009595
+ITEM_20151224_009596
+ITEM_20151224_009597
+ITEM_20151224_009598
+ITEM_20151224_009599
+ITEM_20151224_009600
+ITEM_20151224_009601
+ITEM_20151224_009602
+ITEM_20151224_009603
+ITEM_20151224_009604
+ITEM_20151224_009605
+ITEM_20151224_009606
+ITEM_20151224_009607
+ITEM_20151224_009608
+ITEM_20151224_009609
+ITEM_20151224_009610
+ITEM_20151224_009611
+ITEM_20151224_009612
+ITEM_20151224_009613
+ITEM_20151224_009614
+ITEM_20151224_009615
+ITEM_20151224_009616
+ITEM_20151224_009617
+ITEM_20151224_009618
+ITEM_20151224_009619
+ITEM_20151224_009620
+ITEM_20151224_009621
+ITEM_20151224_009622
+ITEM_20151224_009623
+ITEM_20151224_009624
+ITEM_20151224_009625
+ITEM_20151224_009626
+ITEM_20151224_009627
+ITEM_20151224_009628
+ITEM_20151224_009629
+ITEM_20151224_009630
+ITEM_20151224_009631
+ITEM_20151224_009632
+ITEM_20151224_009633
+ITEM_20151224_009634
+ITEM_20151224_009635
+ITEM_20151224_009636
+ITEM_20151224_009637
+ITEM_20151224_009638
+ITEM_20151224_009639
+ITEM_20151224_009640
+ITEM_20151224_009641
+ITEM_20151224_009642
+ITEM_20151224_009643
+ITEM_20151224_009644
+ITEM_20151224_009645
+ITEM_20151224_009646
+ITEM_20151224_009647
+ITEM_20151224_009648
+ITEM_20151224_009649
+ITEM_20151224_009650
+ITEM_20151224_009651
+ITEM_20151224_009652
+ITEM_20151224_009653
+ITEM_20151224_009654
+ITEM_20151224_009655
+ITEM_20151224_009656
+ITEM_20151224_009657
+ITEM_20151224_009658
+ITEM_20151224_009659
+ITEM_20151224_009660
+ITEM_20151224_009661
+ITEM_20151224_009662
+ITEM_20151224_009663
+ITEM_20151224_009664
+ITEM_20151224_009665
+ITEM_20151224_009666
+ITEM_20151224_009667
+ITEM_20151224_009668
+ITEM_20151224_009669
+ITEM_20151224_009670
+ITEM_20151224_009671
+ITEM_20151224_009672
+ITEM_20151224_009673
+ITEM_20151224_009674
+ITEM_20151224_009675
+ITEM_20151224_009676
+ITEM_20151224_009677
+ITEM_20151224_009678
+ITEM_20151224_009679
+ITEM_20151224_009680
+ITEM_20151224_009681
+ITEM_20151224_009682
+ITEM_20151224_009683
+ITEM_20151224_009684
+ITEM_20151224_009685
+ITEM_20151224_009686
+ITEM_20151224_009687
+ITEM_20151224_009688
+ITEM_20151224_009689
+ITEM_20151224_009690
+ITEM_20151224_009691
+ITEM_20151224_009692
+ITEM_20151224_009693
+ITEM_20151224_009694
+ITEM_20151224_009695
+ITEM_20151224_009696
+ITEM_20151224_009697
+ITEM_20151224_009698
+ITEM_20151224_009699
+ITEM_20151224_009700
+ITEM_20151224_009701
+ITEM_20151224_009702
+ITEM_20151224_009703
+ITEM_20151224_009704
+ITEM_20151224_009705
+ITEM_20151224_009706
+ITEM_20151224_009707
+ITEM_20151224_009708
+ITEM_20151224_009709
+ITEM_20151224_009710
+ITEM_20151224_009711
+ITEM_20151224_009712
+ITEM_20151224_009713
+ITEM_20151224_009714
+ITEM_20151224_009715
+ITEM_20151224_009716
+ITEM_20151224_009717
+ITEM_20151224_009718
+ITEM_20151224_009719
+ITEM_20151224_009720
+ITEM_20151224_009721
+ITEM_20151224_009722
+ITEM_20151224_009723
+ITEM_20151224_009724
+ITEM_20151224_009725
+ITEM_20151224_009726
+ITEM_20151224_009727
+ITEM_20151224_009728
+ITEM_20151224_009729
+ITEM_20151224_009730
+ITEM_20151224_009731
+ITEM_20151224_009732
+ITEM_20151224_009733
+ITEM_20151224_009734
+ITEM_20151224_009735
+ITEM_20151224_009736
+ITEM_20151224_009737
+ITEM_20151224_009738
+ITEM_20151224_009739
+ITEM_20151224_009740
+ITEM_20151224_009741
+ITEM_20151224_009742
+ITEM_20151224_009743
+ITEM_20151224_009744
+ITEM_20151224_009745
+ITEM_20151224_009746
+ITEM_20151224_009747
+ITEM_20151224_009748
+ITEM_20151224_009749
+ITEM_20151224_009750
+ITEM_20151224_009751
+ITEM_20151224_009752
+ITEM_20151224_009753
+ITEM_20151224_009754
+ITEM_20151224_009755
+ITEM_20151224_009756
+ITEM_20151224_009757
+ITEM_20151224_009758
+ITEM_20151224_009759
+ITEM_20151224_009760
+ITEM_20151224_009761
+ITEM_20151224_009762
+ITEM_20151224_009763
+ITEM_20151224_009764
+ITEM_20151224_009765
+ITEM_20151224_009766
+ITEM_20151224_009767
+ITEM_20151224_009768
+ITEM_20151224_009769
+ITEM_20151224_009770
+ITEM_20151224_009771
+ITEM_20151224_009772
+ITEM_20151224_009773
+ITEM_20151224_009774
+ITEM_20151224_009775
+ITEM_20151224_009776
+ITEM_20151224_009777
+ITEM_20151224_009778
+ITEM_20151224_009779
+ITEM_20151224_009780
+ITEM_20151224_009781
+ITEM_20151224_009782
+ITEM_20151224_009783
+ITEM_20151224_009784
+ITEM_20151224_009785
+ITEM_20151224_009786
+ITEM_20151224_009787
+ITEM_20151224_009788
+ITEM_20151224_009789
+ITEM_20151224_009790
+ITEM_20151224_009791
+ITEM_20151224_009792
+ITEM_20151224_009793
+ITEM_20151224_009794
+ITEM_20151224_009795
+ITEM_20151224_009796
+ITEM_20151224_009797
+ITEM_20151224_009798
+ITEM_20151224_009799
+ITEM_20151224_009800
+ITEM_20151224_009801
+ITEM_20151224_009802
+ITEM_20151224_009803
+ITEM_20151224_009804
+ITEM_20151224_009805
+ITEM_20151224_009806
+ITEM_20151224_009807
+ITEM_20151224_009808
+ITEM_20151224_009809
+ITEM_20151224_009810
+ITEM_20151224_009811
+ITEM_20151224_009812
+ITEM_20151224_009813
+ITEM_20151224_009814
+ITEM_20151224_009815
+ITEM_20151224_009816
+ITEM_20151224_009817
+ITEM_20151224_009818
+ITEM_20151224_009819
+ITEM_20151224_009820
