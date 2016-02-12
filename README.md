@@ -5,9 +5,9 @@
 
 1. Please leave a sign to us like **Good to merge**. Then the PR will be merged.
 
-2. Latest translations have been updated for Steam Test Server.
+2. Latest translations have been updated for Steam Test Server. (**NEW**)
 
-3. {memo X} have been removed from English files.
+3. {memo X} have been removed from English files. (**NEW**)
 
 4. Please send a separate Pull Request for EACH FILE. 
 
