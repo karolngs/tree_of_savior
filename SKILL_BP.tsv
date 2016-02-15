@@ -1499,8 +1499,8 @@ SKILL_20150317_001498	{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na área a
 SKILL_20150317_001499	Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
 SKILL_20150317_001500	Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
 SKILL_20150317_001501	
-SKILL_20150317_001502 Estátua da Deusa Zemyna
-SKILL_20150317_001503 Esculpe a estátua da Deusa Zemyna. O consumo de SP dos membros do grupo diminuí quando próximo a estátua.
+SKILL_20150317_001502	Estátua da Deusa Zemyna
+SKILL_20150317_001503	Esculpe a estátua da Deusa Zemyna. O consumo de SP dos membros do grupo diminuí quando próximo a estátua.
 SKILL_20150317_001504
 SKILL_20150317_001505 Estátua da Deusa Laima
 SKILL_20150317_001506 Esculpe a estátua da Deusa Laima. O Splash dos membros do grupo ao redor da estátua é aumentado.
@@ -1512,49 +1512,50 @@ SKILL_20150317_001511 Esculpe a Coruja
 SKILL_20150317_001512 {#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Invoca a estátua da coruja para atacar alvos localizados à frente.
 SKILL_20150317_001513 Ataque #{SkillAtkAdd}#{nl}Defesa #{CaptionRatio}# vezes{nl}Duração #{CaptionTime}# segundos{nl} Usa 2 carvalhos
 SKILL_20150317_001514 Esculpe a Árvore do Mundo
-SKILL_20150317_001515 
-SKILL_20150317_001516 
-SKILL_20150317_001517 Fora do corpo
-SKILL_20150317_001518 
-SKILL_20150317_001519 
-SKILL_20150317_001520 
-SKILL_20150317_001521 
-SKILL_20150317_001522 
-SKILL_20150317_001523 Possessão
-SKILL_20150317_001524
-SKILL_20150317_001525
-SKILL_20150317_001526
-SKILL_20150317_001527
-SKILL_20150317_001528
-SKILL_20150317_001529
-SKILL_20150317_001530
-SKILL_20150317_001531
-SKILL_20150317_001532
-SKILL_20150317_001533
-SKILL_20150317_001534
-SKILL_20150317_001535
-SKILL_20150317_001536
-SKILL_20150317_001537
-SKILL_20150317_001538
-SKILL_20150317_001539
-SKILL_20150317_001540
-SKILL_20150317_001541
-SKILL_20150317_001542
-SKILL_20150317_001543
-SKILL_20150317_001544
-SKILL_20150317_001545
-SKILL_20150317_001546
-SKILL_20150317_001547
-SKILL_20150317_001548
-SKILL_20150317_001549
-SKILL_20150317_001550
-SKILL_20150317_001551
-SKILL_20150317_001552
-SKILL_20150317_001553
+SKILL_20150317_001515 Esculpe a estátua da árvore sagrada para silenciar inimigos próximos.
+SKILL_20150317_001516 Duração da estátua #{CaptionRatio} segundos#{nl}Uso #{CaptionRatio2}# Madeira de Freixo
+SKILL_20150317_001517	Fora do corpo
+SKILL_20150317_001518 Remove o espírito do corpo. O espírito pode mover-se somente próximo ao corpo.
+SKILL_20150317_001519 Alcance do movimento do corpo 150
+SKILL_20150317_001520 Prakriti
+SKILL_20150317_001521 Move para onde o corpo está localizado.
+SKILL_20150317_001522 Tempo de movimento 0.5 ~ 1 segundo
+SKILL_20150317_001523	Possessão
+SKILL_20150317_001524 {#993399}{ol}[Magia] - [Divina]{/}{/}{nl}Seleciona os alvos e ataca.
+SKILL_20150317_001525 Ataque #{SkillAtkAdd}#{nl}Máx. Duração 5 segundos
+SKILL_20150317_001526 Vashita Siddhi
+SKILL_20150317_001527 Reduz STR, CON, INT, SPR, DEX do alvo.
+SKILL_20150317_001528 STR, CON, INT, SPR, DEX +#{CaptionRatio}#{nl}Máx. duração 20 segundos
+SKILL_20150317_001529 Explosão do corpo astral.
+SKILL_20150317_001530 {#993399}{ol}[Magia]{/}{/}{nl}Fluido explosivo para ferir o alvo.
+SKILL_20150317_001531 Transmitir Prana
+SKILL_20150317_001532 Atribuí INT ao alvo à frente.
+SKILL_20150317_001533 Inteligência atribuida #{CaptionRatio}#
+SKILL_20150317_001534 
+SKILL_20150317_001535 {#DD5500}{ol}[Físico] [Strike]{/}{/}{nl}Derruba o inimigo com um golpe eficaz.
+SKILL_20150317_001536 Restauração
+SKILL_20150317_001537 Invoca aura e aumenta a recuperação de HP dos alvos próximos.
+SKILL_20150317_001538 Recuperação de HP: +#{CaptionRatio}#{nl} Duração da Aura: 60 segundos.
+SKILL_20150317_001539 Conversão
+SKILL_20150317_001540 Cria um circulo mágico que tem a chance de converter inimigos em aliados quando eles estão dentro do circulo.
+SKILL_20150317_001541 Duração da magia do circulo 10 segundos
+SKILL_20150317_001542 Resistir a Elementos
+SKILL_20150317_001543 Aumenta a resistência do alvo ao Fogo, Gelo e Sagrado.
+SKILL_20150317_001544 Resistência a Fogo +#{CaptionRatio}#{nl}Resistência a Gelo +#{CaptionRatio}#{nl}Resistência a Sagrado +#{CaptionRatio}#{nl}Duração do Buff #{CaptionTime}# segundos
+SKILL_20150317_001545 Transformar em Morto-Vivo
+SKILL_20150317_001546 Chance de atingir morte instantânea em demônios e inimigos do tipo mutante.
+SKILL_20150317_001547 Extinção Máxima: #{CaptionRatio}#
+SKILL_20150317_001548 Barreira
+SKILL_20150317_001549 Cria uma barreira que afasta todos os inimigos e previne eles de entrar.
+SKILL_20150317_001550 Pele de Ferro
+SKILL_20150317_001551 {#6644FF}{ol}[Divino]{/}{/}Atributo {nl} Recuperação #{CaptionRatio}#% {nl} Ataque #{SkillFactor}#% + #{SkillAtkAdd}#{nl} Circulo Mágico 10 segundos {nl} Consumo #{SpendSP}# SP
+SKILL_20150317_001552	Ataque Duplo
+SKILL_20150317_001552 {#CC3300}{ol}[Perfurar]{/}{/} Atributo{nl}Ataque #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Alcance #{CaptionRatio}#{nl}Distância do Afastamento #{CaptionRatio}#{nl}Consumo #{SpendSP}# SP
+SKILL_20150317_001553 Palma Certeira
 SKILL_20150317_001554
 SKILL_20150317_001555
-SKILL_20150317_001556
-SKILL_20150317_001557
+SKILL_20150317_001556 Explosão de Energia
+SKILL_20150317_001557 {#6644FF}{ol}[Divino]{/}{/}Atributo{nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consumo #{SpendSP }# SP
 SKILL_20150317_001558
 SKILL_20150317_001559 Dissipador de Habilidade
 SKILL_20150317_001560 Simonia
